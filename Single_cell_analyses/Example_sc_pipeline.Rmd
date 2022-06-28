@@ -1,0 +1,427 @@
+---
+title: "Mouse adult kidney - Ransick et al."
+author: "Leticia"
+date: "02/02/2022"
+output:
+  html_document: 
+    toc: true
+    toc_depth: 4
+---
+## Aim
+
+Looking at expression of male and female-biased genes on single cell dataset (with male and female samples) to understand if sex-biased gene expression comes from specific cell types.
+
+## Libraries and functions
+
+```{r}
+library(Seurat)
+library(dplyr)
+library(ggplot2)
+library(SingleCellExperiment)
+library(rstatix)
+library(RColorBrewer)
+library(ggpubr)
+library(sctransform)
+library(readr)
+
+#Function for min-max scaling. x= a vector of numbers.
+min_max_scale <- function(x){
+  x <- x - min(x)
+  x / max(x)
+}
+
+#Function for calculating the gene set score for a specific group of genes. x= a vector of numbers.sce= single-cell-experiment object; use_genes= vector of genes for which we wanna calculate the score.
+sce.calc.score <- function(sce, use_genes){
+  stopifnot(all(use_genes %in% rownames(sce)))
+  
+  x <- assay(sce, "counts")
+  # total UMI per cell
+  sf <- colSums(x)
+  
+  # dividing UMIs of each gene by total UMIs per cell and scaling/normalizing
+  score <- t(x[use_genes, ,drop=F]) / sf * 1e6
+  score <- scale(score)
+  
+  score <- score[, rowSums(apply(score, 1, is.nan)) == 0] 
+  
+  # taking the mean in each cell
+  score <- rowMeans(score)
+  
+  # taking 1 and 99 quantiles and all scores above or below take the value of those quantiles, then scale from 0 to 1
+  q01 <- quantile(score, .01)
+  q99 <- quantile(score, .99)
+  score[score < q01] <- q01
+  score[score > q99] <- q99
+  score <- min_max_scale(score)
+  
+  return(score)
+}
+
+#Function for calculating the tau score for each cell type. x= vector of numbers for which we wanna calculate the tau score.
+tau <- function(x) {
+  if(max(x) > 0) {
+    a <- (1-(x/max(x)))
+    b <- sum(a, na.rm=TRUE)
+    tauValue <- b/(length(x)-1)
+ }
+  else {tauValue <- NA}
+  return(tauValue)
+}
+
+'%!in%' <- function(x,y)!('%in%'(x,y))
+
+dir_ransick <- "Ransick/"
+```
+
+
+### Loading dataset and metadata
+
+```{r, error=FALSE, warning=FALSE, message=FALSE}
+s1 <- Read10X(paste0(dir_ransick, "Split_objects/F1"))
+s1 <- CreateSeuratObject(counts = s1, project="Female_1")
+s2 <- Read10X(paste0(dir_ransick, "Split_objects/M1"))
+s2 <- CreateSeuratObject(counts = s2, project="M1")
+
+s3 <- Read10X(paste0(dir_ransick, "Split_objects/F2"))
+s3 <- CreateSeuratObject(counts = s3, project="Female_2")
+s4 <- Read10X(paste0(dir_ransick, "Split_objects/M2"))
+s4 <- CreateSeuratObject(counts = s4, project="Male_2")
+
+SB_data.list <-list(s1,s2,s3,s4)
+sample_names<- c("F1", "M1", "F2", "M2")
+names(SB_data.list) <- sample_names
+```
+
+### Doublet scores
+
+Adding doublet scores.
+
+```{r}
+doublet_scores <- list()
+for (s in names(SB_data.list)){
+  doublet_s_01_sample <- read.delim(paste0(dir_ransick, "Split_objects/", s, "/doublet_scores_0.1.tsv.gz"), header = F, stringsAsFactors = F)
+  doublet_scores[[s]]<-doublet_s_01_sample
+}
+
+SB_data.list <- lapply(names(SB_data.list), function(x){
+  sample <- SB_data.list[[x]]
+  sample[["doublet_scores"]] <- doublet_scores[[x]]$V1
+  sample[["percent.mt"]] <- PercentageFeatureSet(sample, pattern = "^mt-", assay="RNA")
+  return(sample)
+})
+names(SB_data.list) <- sample_names
+```
+
+### SCT transform
+
+Using SCT transform for normalization.
+
+```{r}
+SB_data.list <- lapply(X = SB_data.list, FUN = SCTransform, return.only.var.genes=FALSE)
+# saveRDS(SB_data.list, paste0(dir_ransick,"SCT_trans/Ransick_SCT.RDS"))
+```
+
+### Calcultaing doublet threshold 
+
+Calculating doublet thresholds by sample (theoretical doublets, ~ 1% doublet rate per 1000 cells captured).
+
+```{r}
+#SB_data.list <-readRDS(paste0(dir_ransick,"SCT_trans/Ransick_SCT.RDS"))
+sample_names<- c("F1", "F2", "M1", "M2")
+
+doublet_thresholds <- lapply(names(SB_data.list), function(x) {
+  x <- SB_data.list[[x]]
+  ds <- x$doublet_scores
+  ds <- ds[order(ds, decreasing = T)]
+  ds_num <- length(x$orig.ident)*length(x$orig.ident)/100000 ### theoretical doublets, ~ 1% doublet rate per 1000 cells captured
+  ds_num_1 <- length(x$orig.ident)*length(x$orig.ident)/100000-50 ### slightly more lenient than the theoretical rate
+  ds_thre1 <- ds[round(ds_num)]
+  ds_thre2 <- ds[round(ds_num_1)]
+  
+  return(list("thre1"=ds_thre1,
+              "thre2"=ds_thre2))
+})
+names(doublet_thresholds)<- names(SB_data.list)
+```
+
+### Principal component analysis 
+
+Running PCA and deciding on number of PCs based on Elbow Plot (in this case 30).
+
+```{r normalization, message=FALSE}
+SB_data.list <- lapply(names(SB_data.list), function(x) {
+  sample <- SB_data.list[[x]]
+  sample <- RunPCA(object = sample, verbose = F, npcs = 60)
+  print(ElbowPlot(sample, ndims = 60))
+  return(sample)
+})
+names(SB_data.list)<- sample_names
+```
+
+### Clustering and UMAPs
+
+```{r}
+SB_data.list <- lapply(names(SB_data.list), function(x) {
+  sample <- SB_data.list[[x]]
+  sample <- FindNeighbors(sample, dims = 1:30)
+  sample <- FindClusters(sample, resolution = 0.5)
+  sample <- RunUMAP(sample, dims = 1:30)
+  return(sample)
+})
+
+names(SB_data.list)<- sample_names
+
+```
+
+### Visualizing doublets in samples
+
+```{r}
+SB_data.list <- lapply(names(SB_data.list), function(x) {
+  sample <- SB_data.list[[x]]
+  thr <-doublet_thresholds[[x]]$thre1
+  sample <- AddMetaData(sample, ifelse(sample$doublet_scores>thr, "doublet", "singlet"), "doublet_thr")
+  print(DimPlot(sample, reduction = "umap", group.by = "doublet_thr"))
+  print(DimPlot(sample, reduction = "umap", label = T))
+  return(sample)
+})
+names(SB_data.list)<- sample_names
+```
+
+
+### Doublet filtering
+
+Removing doublets.
+
+```{r}
+SB_data.list <- lapply(names(SB_data.list), function(x) {
+  sample <- SB_data.list[[x]]
+  sample <- subset(x=sample, subset = doublet_thr == "singlet")
+  print(DimPlot(sample, reduction = "umap"))
+  return(sample)
+})
+names(SB_data.list)<- sample_names
+# saveRDS(SB_data.list, paste0(dir_ransick, "Filtered_object/filtered_ind_samples.RDS"))
+```
+
+### CCA integration
+
+Integration of all samples and PCA and UMAP on integrated object. 
+
+```{r}
+#SB_data.list <- readRDS(paste0(dir_ransick, "Filtered_object/filtered_ind_samples.RDS"))
+
+cca.features <- SelectIntegrationFeatures(object.list = SB_data.list, nfeatures = 3000)
+SB_data.list <- PrepSCTIntegration(object.list = SB_data.list, anchor.features = cca.features)
+
+
+cca.anchors <- FindIntegrationAnchors(object.list = SB_data.list, normalization.method = "SCT", anchor.features = cca.features)
+SB_data.combined.sct <- IntegrateData(anchorset = cca.anchors, normalization.method = "SCT")
+
+SB_data.combined.sct <- RunPCA(SB_data.combined.sct, verbose = FALSE, npcs=60)
+ElbowPlot(SB_data.combined.sct, ndims=60)
+SB_data.combined.sct <- RunUMAP(SB_data.combined.sct, reduction = "pca", dims = 1:40)
+
+saveRDS(SB_data.combined.sct, paste0(dir_ransick, "Integrated_object/integrated_samples.RDS"))
+```
+
+### Clustering of integrated object
+
+```{r}
+#SB_data.combined.sct <- readRDS(paste0(dir_ransick, "Integrated_object/integrated_samples.RDS"))
+
+DimPlot(SB_data.combined.sct, reduction = "umap", group.by = "sex")
+DimPlot(SB_data.combined.sct, reduction = "umap", group.by = "replicate")
+
+SB_data.combined.sct <- FindNeighbors(object = SB_data.combined.sct, dims = 1:40)
+                                
+SB_data.combined.sct <- FindClusters(object = SB_data.combined.sct,
+                               resolution = c(0.5))
+
+DimPlot(SB_data.combined.sct,
+        reduction = "umap",
+        label = TRUE)
+
+DimPlot(SB_data.combined.sct, reduction = "umap", group.by = "lineages")
+
+DimPlot(SB_data.combined.sct, reduction = "umap", group.by = "integrated_snn_res.0.5", label = T)
+```
+
+### Cell type annotation
+
+Based on the markers from Ransick et al.
+
+```{r, width=12}
+SB_data.combined.sct@active.assay <- "SCT"
+c.genes <- c("Kdr", "Cdh5", ## vascular cells markers 
+             "C1qc", "Thy1","Cd79a","Tyrobp", ## immune cells markers
+             "Cnn1", "Dcn", ## intersticial cells markers
+             "Calb1", "Pgam2", "Slc12a3", "Pvalb", "Mecom", "Umod", "Egf",
+             "Slc12a1", ## distal tubule markers
+             "Clcnka", "Prox1", "Crlf1", "Psca",
+             "Sptssb", "S100a5", "Cldn4", "Apela", "Aqp1", "Bcl6", "Pax2", "Pitx2",
+             "Slc39a8", "Fst", "Jag1", "Slc14a2", "Gdf15", ## loop of Henle markers
+             "Cyp7b1", "Slc7a13", "Cyp2e1", "Nat8", "Slc22a28", "Slc22a7", "Cyp51",
+             "Slc7a12", "Abcc3", "Cyp4e14", "Slc22a8", "Cyp2d26", "Spp2", "Elv1", "Hnf4a",
+             "Lrp2", "Slc34a1",## proximal tubule markers 
+             "Cp", "Msmp", "Nphs2", "Cldn5",## renal corpuscule markers 
+             "Slc26a4", "Hmx2", "Slc4a9", "Adgrf5", "Aqp6",
+             "Slc4a1",## intercalated cells markers 
+             "Fxyd3", "Krt5", "Upk1b", ## d med ep markers 
+             "Klk1", "S100g", "Kcne1", "Scnn1b", "Hsd11b2", "Mcoln3", "Grem2",
+             "Aqp2", "Aqp4", "Defb29", "Phactr1", "Ces1d", "Bcat1", "Plat", "Tacsfd2",
+             "Nupr1" ## principal cells markers
+
+)
+
+# Plotting markers 
+# pdf("~/R_analyses/040122_new_git/homework_1/Single_cell_analyses/Ransick/Marker_plots/marker_plots.pdf",10,
+# 13) 
+# DotPlot.m(object = SB_data.combined.sct, features=c.genes) 
+# dev.off()
+
+# Annotating cell type
+SB_data.combined.sct <- RenameIdents(SB_data.combined.sct, c( 
+  "0"="Immune",
+  "1"="Vasculature", 
+  "2"="Vasculature", 
+  "3"="Proximal tubule", 
+  "4"="Vasculature",
+  "5"="Proximal tubule", 
+  "6"="Distal tubule", 
+  "7"="Prinicpal cells", 
+  "8"="Prinicpal cells",
+  "9"="Immune", 
+  "10"="Vasculature", 
+  "11"="Loop of Henle", 
+  "12"="Loop of Henle",
+  "13"="Distal tubule", 
+  "14"="Intersticial", 
+  "15"="Prinicpal cells", 
+  "16"="Immune",
+  "17"="Vasculature", 
+  "18"="Intercalated cells", 
+  "19"="Immune", 
+  "20"="Renal corpuscule",
+  "21"="Vasculature", 
+  "22"="Deep medullary epithelium", 
+  "23"="Immune",
+  "24"="Intercalated cells", 
+  "25"="Vasculature", 
+  "26"="Loop of Henle",
+  "27"="Vasculature"))
+
+
+SB_data.combined.sct[["cellTypes"]] <- Idents(object = SB_data.combined.sct)
+
+Idents(SB_data.combined.sct) <- "seurat.clusters"
+
+
+
+DimPlot(SB_data.combined.sct, group.by = c("cellTypes"), pt.size=0.3, ncol=1)+ ggtitle ("Cell types")
+DimPlot(SB_data.combined.sct,reduction = "umap",label = TRUE)
+DimPlot(SB_data.combined.sct, group.by ="lineages")
+FeaturePlot(SB_data.combined.sct, feature="percent.mt")
+FeaturePlot(SB_data.combined.sct, feature="doublet_scores")
+#saveRDS(SB_data.combined.sct, paste0(dir_ransick, "Annotated_object/annotated_dataset.RDS"))
+
+```
+
+## Sex bias analysis
+
+### Loading SB genes in the mouse kidney
+
+```{r, warning=FALSE, message=FALSE}
+#SB_data.combined.sct<-readRDS(paste0(dir_ransick, "Annotated_object/annotated_dataset.RDS"))
+
+SB_genes <-read_delim("../SB_genes_tables/040522_Mouse_summary_table_gpclust.csv", 
+    "\t", escape_double = FALSE, trim_ws = TRUE)
+
+kidney_SB <- subset(SB_genes, Kidney==TRUE)
+
+kidney_MB <- subset(kidney_SB, Kidney_SB_score>0 & chr!= "Y")
+kidney_FB <- subset(kidney_SB, Kidney_SB_score<0)
+```
+
+
+### Gene-set scores
+
+#### Sex-bias scores
+
+Calculated using all sex-biased genes.
+
+```{r}
+celltype_abundances <- as.data.frame(table(SB_data.combined.sct$cellTypes, SB_data.combined.sct$sex))
+celltype_to_rm <- unique(celltype_abundances$Var1[celltype_abundances$Freq<50])
+
+SB_data.combined.sct_sce <- as.SingleCellExperiment(SB_data.combined.sct, assay="RNA")
+SB_scores <- sce.calc.score(SB_data.combined.sct_sce, kidney_SB$external_gene_name[kidney_SB$external_gene_name %in% rownames(SB_data.combined.sct)])
+
+SB_data.combined.sct <-AddMetaData(SB_data.combined.sct, SB_scores, "SB_scores")
+
+FeaturePlot(SB_data.combined.sct,  features = "SB_scores", ncol = 1, 
+    order = T)+
+            scale_colour_gradientn(colours = rev(brewer.pal(n = 11, name = "RdBu")))
+```
+
+
+#### Male-bias scores
+
+```{r}
+MB_scores <- sce.calc.score(SB_data.combined.sct_sce, kidney_MB$external_gene_name[kidney_MB$external_gene_name %in% rownames(SB_data.combined.sct)])
+
+print("The following FB genes are not in the single-cell dataset: ")
+table(kidney_MB$external_gene_name %in% rownames(SB_data.combined.sct))
+
+SB_data.combined.sct <-AddMetaData(SB_data.combined.sct, MB_scores, "MB_scores")
+
+FeaturePlot(SB_data.combined.sct,  features = "MB_scores", ncol = 1, 
+    order = T)+
+            scale_colour_gradientn(colours = rev(brewer.pal(n = 11, name = "RdBu"))) + ggtitle ("Male-biased genes") 
+```
+
+```{r}
+SB_data.combined.sct_vln <- subset(SB_data.combined.sct, cellTypes %!in% celltype_to_rm)
+SB_data.combined.sct_vln$cellTypes <- droplevels(SB_data.combined.sct_vln$cellTypes)
+
+stat.test <- SB_data.combined.sct_vln@meta.data %>%
+  group_by(cellTypes) %>%
+  wilcox_test(MB_scores ~ sex) %>%
+  adjust_pvalue(method = "bonferroni") %>%
+  add_significance()
+stat.test <- stat.test %>% add_xy_position(x = "cellTypes", dodge = 0.8)
+
+ggplot(SB_data.combined.sct_vln@meta.data, aes(x=cellTypes, y=MB_scores)) + 
+  geom_violin(aes(fill = sex))  + stat_pvalue_manual(stat.test, label = "p.adj.signif", size = 3) + theme(text = element_text(size = 15))  + theme(axis.text.x = element_text(angle = 45, hjust=1)) + ggtitle("Male-biased genes") + ylab("MB scores") + theme_classic2()+ scale_fill_manual(values=c("#895AA5","#F26622"))
+```
+
+#### Female-bias scores
+
+```{r}
+FB_scores <- sce.calc.score(SB_data.combined.sct_sce, kidney_FB$external_gene_name[kidney_FB$external_gene_name %in% rownames(SB_data.combined.sct)])
+
+print("The following FB genes are not in the single-cell dataset: ")
+table(kidney_FB$external_gene_name %in% rownames(SB_data.combined.sct))
+
+SB_data.combined.sct <-AddMetaData(SB_data.combined.sct, FB_scores, "FB_scores")
+
+FeaturePlot(SB_data.combined.sct,  features = "FB_scores", ncol = 1, 
+    order = T)+
+            scale_colour_gradientn(colours = rev(brewer.pal(n = 11, name = "RdBu"))) + ggtitle ("Female-biased genes")
+```
+
+
+```{r}
+SB_data.combined.sct_vln <- subset(SB_data.combined.sct, cellTypes %!in% celltype_to_rm)
+SB_data.combined.sct_vln$cellTypes <- droplevels(SB_data.combined.sct_vln$cellTypes)
+
+stat.test <- SB_data.combined.sct_vln@meta.data %>%
+  group_by(cellTypes) %>%
+  wilcox_test(FB_scores ~ sex) %>%
+  adjust_pvalue(method = "bonferroni") %>%
+  add_significance()
+stat.test <- stat.test %>% add_xy_position(x = "cellTypes", dodge = 0.8)
+
+ggplot(SB_data.combined.sct_vln@meta.data, aes(x=cellTypes, y=FB_scores))+ geom_violin(aes(fill = sex))   + stat_pvalue_manual(stat.test, label = "p.adj.signif", size = 3) + theme(text = element_text(size = 15))  + theme(axis.text.x = element_text(angle = 45, hjust=1)) + ggtitle("Female-biased genes") + ylab("FB scores") 
+```
+
+
