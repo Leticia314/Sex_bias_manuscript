@@ -19,9 +19,7 @@ library(gplots)
 library(readr)
 library(dplyr)
 
-#' Description of function
-#' @param sp species
-#' @param ts tissue
+#Function for preparing data for DESEq2. sp= species; ts= tissue.
 prepro_data_DESeq2 <- function(species, tissues){
   # Loading counts and metadata from the species
   metadata_sp<- read_csv(paste0("../metadata/", species, ".sampleTable.csv"))
@@ -51,9 +49,7 @@ prepro_data_DESeq2 <- function(species, tissues){
   return(list(sp_meta, sp_counts))
 }
 
-#' Description of function
-#' @param counts_ts count matrix 
-#' @param meta_ts metadata
+#Function for performing differential expression analysis and likelihod ratio test. counts_ts= preprocessed counts for 1 species and 1 tissue; meta_ts= preprocessed metadata for 1 species and 1 tissue.
 DESeq_calls <- function(counts_ts, meta_ts){
   # Making sure that the columns in the count matrix are in the right order
   rownames(meta_ts) <- as.character(meta_ts$id)
@@ -68,10 +64,6 @@ DESeq_calls <- function(counts_ts, meta_ts){
   
   # Constructing the DESeqDataSet
   dds <- DESeqDataSetFromMatrix(countData = counts_ts, colData = designMatrix, design = ~sex + time + sex:time)
-  
-  # # Minimal pre-filtering to keep only rows that have at least 10 reads total
-  # keep <- rowSums(counts(dds)) >= 10
-  # dds <- dds[keep,]
   
   # Performing the main computation
   dds <- DESeq(dds)
@@ -100,7 +92,7 @@ for (sp in species){
     results[[paste0(sp, "_", ts)]] <- DESeq_res
 
     # Exporting results
-    write.table(DESeq_res, sep="\t", file=paste0("DESeq_res/280222_", sp, "_", ts, ".txt"), quote=FALSE)
+    write.table(DESeq_res, sep="\t", file=paste0("DESeq_res/", sp, "_", ts, ".txt"), quote=FALSE)
   }
 }
 ```

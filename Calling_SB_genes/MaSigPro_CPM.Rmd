@@ -15,9 +15,7 @@ Using the maSigPro package to detect developmental sex-biased genes.
 library(maSigPro)
 library(readr)
 
-#' Description of function
-#' @param sp species
-#' @param ts tissue
+#Function for preparing data for maSigPro. sp= species; ts= tissue.
 prepro_data_maSigPro <- function(species, tissues){
   # Loading counts and metadata from the species
   metadata_sp<- read_csv(paste0("../metadata/", species, ".sampleTable.csv"))
@@ -76,7 +74,7 @@ maSigPro_DE <- function(counts_ts, meta_ts){
   DE_genes <- res$sig.genes$FemalevsMale$sig.pvalues
   DE_genes_0.05 <-subset(DE_genes, DE_genes$`p-value` <0.05)
   
-  # Removing suspicious genes
+  # Removing potential outliers
   influ_genes<-colnames(NBt$influ.info)
   DE_genes_filt <-subset(DE_genes_0.05, !rownames(DE_genes_0.05) %in% influ_genes)
   
@@ -100,7 +98,7 @@ for (sp in species){
     maSigPro_res <- maSigPro_DE(sp_counts_ts[[paste0(sp, "_", ts)]], sp_meta_ts[[paste0(sp, "_", ts)]])
     results[[paste0(sp, "_", ts)]] <- maSigPro_res
     # Exporting results
-    write.table(maSigPro_res, sep="\t", file=paste0("MaSigPro_res_cpm/280222_", sp, "_", ts, ".txt"), quote=FALSE)
+    write.table(maSigPro_res, sep="\t", file=paste0("MaSigPro_res_cpm/", sp, "_", ts, ".txt"), quote=FALSE)
   }
 }
 ```

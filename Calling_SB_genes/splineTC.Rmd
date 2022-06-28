@@ -19,10 +19,7 @@ library(Biobase)
 library(readr)
 library(tidyverse)
 
-#' Description of function
-#' @param sp species
-#' @param ts tissue
-
+#Function for preparing data for splineTC. sp= species; ts= tissue.
 prepro_data_splineTC <- function (sp, ts){
 #Getting counts
 exprs <- read.csv(paste0("../counts/", sp, "CountsMajorTissuesCor90.Norm.txt"), row.names=1, sep="")
@@ -74,7 +71,7 @@ for (sp in species){
     # splinePlot(eSetObject = data, df=3, reference = "Male", toPlot = rownames(diffExprs[diffExprs$adj.P.Val<0.05,]))
     
     # Exporting results
-    write.table(diffExprs, sep="\t", file=paste0("splineTC_res/280222_", sp, "_", ts, ".txt"), quote=FALSE)
+    write.table(diffExprs, sep="\t", file=paste0("splineTC_res/", sp, "_", ts, ".txt"), quote=FALSE)
   }
 }
 ```
