@@ -1,0 +1,144 @@
+---
+title: "Example ChIPseq analysis - Cux2 in mouse liver"
+author: "Leticia"
+date: "13/01/2022"
+output:
+  html_document: 
+    toc: true
+    toc_depth: 3
+---
+## Aim
+
+We want to assess whether sex-biased genes are regulated by hormone-responsive or sex-biased transcription factors by looking at ChIPseq data from these transcription factors and checking whether there is an enrichment for sex-biased genes within their targets.
+
+We used the database Unibind (https://unibind.uio.no/) to get ChIPseq data for TFs in mouse. In this specific example we are analysis data for:
+
+- Cux2: sex-biased transcription factor in the mouse liver (and involved in the growth hormone cascade).
+
+## Libraries and functions
+
+```{r, warning=F, message=F}
+library(GeneOverlap)
+library(readxl)
+library(ChIPseeker)
+library(TxDb.Mmusculus.UCSC.mm10.knownGene)
+library(org.Mm.eg.db)
+library(biomaRt)
+library(ggplot2)
+library(readr)
+
+#Function for getting the targets of a transcription factor. peak_data= data frame with peak data (coordinates) from the ChIPseq experiment; dist= maximal distance from a peak to a gene to consider that the TF is targeting that gene.
+getting_targets <- function(peak_data, dist=10000){
+  # Creating GRanges object
+  peaks_tf <-  GRanges(seqnames = peak_data$chr,
+            ranges = IRanges(start = peak_data$start,
+                             end = peak_data$end))
+
+  # Annotating peaks
+  peaksAnno_TF <- annotatePeak(peaks_tf, tssRegion=c(-3000, 3000),
+                         TxDb=txdb, annoDb="org.Mm.eg.db")
+  # Results
+  TF_targets <- as.data.frame(peaksAnno_TF)
+  # Keeping only targets that are a smaller distance than "dist" to the peak
+  TF_targets$near <- ifelse(TF_targets$distanceToTSS<dist, T, F)
+  TF_targets$target[TF_targets$near==T]<- TF_targets$ENSEMBL[TF_targets$near]
+  TF_targets_names<- as.data.frame(unique(TF_targets$target))
+  TF_targets_names<- TF_targets_names[complete.cases(TF_targets_names),]
+  return(TF_targets_names)
+}
+
+```
+
+## Mouse liver data
+
+```{r, warning=F, message=F}
+txdb <- TxDb.Mmusculus.UCSC.mm10.knownGene
+
+# Loading mouse metadata and RPKM table
+Mouse_sampleTable <- read_csv("../metadata/Mouse.sampleTable.csv")
+Mouse_rpkm <- read.csv("../RPKMs/110122_Mouse_rpkm_all_genes.txt", sep="")
+Mouse_rpkm <- subset(Mouse_rpkm, startsWith(as.character(Mouse_rpkm$Names), "ENS")|Mouse_rpkm$Names=="XLOC_045664"|Mouse_rpkm$Names=="XLOC_044866")
+
+# Keeping only liver data
+M_liver_samples <-  subset(Mouse_sampleTable, tissue=="Liver")
+M_liver_rpkm <- Mouse_rpkm[, M_liver_samples$id]
+rownames(M_liver_rpkm) <- Mouse_rpkm$Names
+
+# Mouse liver SB genes
+Mouse_summary_table_pcg <- read_delim("../SB_genes_tables/040522_Mouse_summary_table_gpclust.csv", 
+    delim = "\t", escape_double = FALSE, 
+    trim_ws = TRUE)
+mouse_liver <-subset(Mouse_summary_table_pcg, Liver==T)
+mouse_mb_liver<-subset(mouse_liver, Liver_SB_score>0)
+mouse_fb_liver<-subset(mouse_liver, Liver_SB_score<0)
+```
+
+## TF Targets
+
+```{r, warning=F, message=F}
+# Cux targets
+Cux2_peaks1 <- read_delim("~/R_analyses/160621_ChIPseq_newcalls/Mouse_Liver/EXP031263.liver.CUX2.MA0755.1.damo.bed", 
+    "\t", escape_double = FALSE, col_names = FALSE, 
+    trim_ws = TRUE)
+Cux2_peaks2 <- read_delim("~/R_analyses/160621_ChIPseq_newcalls/Mouse_Liver/EXP031264.liver.CUX2.MA0755.1.damo.bed", 
+    "\t", escape_double = FALSE, col_names = FALSE, 
+    trim_ws = TRUE)
+Cux2_peaks <- rbind(Cux2_peaks1, Cux2_peaks2)
+colnames(Cux2_peaks) <- c("chr", "start", "end", "sam", "sc", "strand")
+
+query_cux2<- getting_targets(Cux2_peaks)
+```
+
+## Enrichments
+
+### Enrichment for Cux2 target genes in sex-biased (SB) genes
+
+Paper: (DOI: 10.1128/MCB.00886-12).  
+
+The ChIP seq experiment was performed with 7-week-old males and females.
+
+```{r}
+# Filtering background genes (stage=P63, max(rpkm) > 1)
+M_liver_samples_cux2 <- subset(M_liver_samples, group=="P63")
+M_liver_rpkm_cux2 <- M_liver_rpkm[,M_liver_samples_cux2$id]
+M_liver_rpkm_cux2$max <- apply(M_liver_rpkm_cux2, FUN=max, MARGIN=1)
+M_liver_rpkm_cux2_filt <- subset(M_liver_rpkm_cux2, max>1)
+
+# Filtering SB calls that are expressed in that stage in liver
+mouse_liver_filt <- subset(mouse_liver, mouse_liver$ensembl_id %in% rownames(M_liver_rpkm_cux2_filt))
+# Filtering Cux2 targets that are expressed in that stage in liver
+query_cux2_filt <- query_cux2[query_cux2 %in% rownames(M_liver_rpkm_cux2_filt)]
+# Genome size (number of expressed genes in that stage in liver)
+g_size <- nrow(M_liver_rpkm_cux2_filt)
+
+# Enrichment
+go.obj_cux2 <- newGeneOverlap( query_cux2_filt, mouse_liver_filt$ensembl_id, genome.size=g_size)
+go.obj_cux2_res <- testGeneOverlap(go.obj_cux2)
+print(go.obj_cux2_res)
+
+```
+
+#### Enrichment for Cux2 target genes in male-biased (MB) genes
+
+```{r}
+# Filtering MB calls that are expressed in that stage in liver
+mouse_liver_mb_filt <- subset(mouse_mb_liver, mouse_mb_liver$ensembl_id %in% rownames(M_liver_rpkm_cux2_filt))
+
+# Enrichment
+go.obj_cux2_mb <- newGeneOverlap( query_cux2_filt, mouse_liver_mb_filt$ensembl_id, genome.size=g_size)
+go.obj_cux2_mb_res <- testGeneOverlap(go.obj_cux2_mb)
+print(go.obj_cux2_mb_res)
+```
+
+#### Enrichment for Cux2 target genes in female-biased (FB) genes
+
+```{r}
+# Filtering FB calls that are expressed in that stage in liver
+mouse_liver_fb_filt <- subset(mouse_fb_liver, mouse_fb_liver$ensembl_id %in% rownames(M_liver_rpkm_cux2_filt))
+
+# Enrichment
+go.obj_cux2_fb <- newGeneOverlap( query_cux2_filt, mouse_liver_fb_filt$ensembl_id, genome.size=g_size)
+go.obj_cux2_fb_res <- testGeneOverlap(go.obj_cux2_fb)
+print(go.obj_cux2_fb_res)
+```
+

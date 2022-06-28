@@ -1,5 +1,5 @@
 ---
-title: "Mouse adult kidney - Ransick et al."
+title: "Example sc-RNAseq pipeline - Mouse adult kidney - Ransick et al."
 author: "Leticia"
 date: "02/02/2022"
 output:
@@ -9,7 +9,7 @@ output:
 ---
 ## Aim
 
-Looking at expression of male and female-biased genes on single cell dataset (with male and female samples) to understand if sex-biased gene expression comes from specific cell types.
+Looking at expression of male and female-biased genes on single cell dataset (with male and female samples) to understand if sex-biased gene expression comes from specific cell types. In this specific example we are re-analysing the data from Ransick et al. (https://pubmed.ncbi.nlm.nih.gov/31689386/).
 
 ## Libraries and functions
 
