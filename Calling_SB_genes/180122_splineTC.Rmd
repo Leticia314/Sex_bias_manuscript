@@ -1,0 +1,80 @@
+---
+title: "SplineTC"
+author: "Leticia"
+date: "18/01/2022"
+output:
+  html_document: 
+    toc: true
+    toc_depth: 4
+---
+## Aim
+
+Using the SplineTC package to detect developmental sex-biased genes.
+
+## Libraries and functions 
+
+```{r}
+library(splineTimeR)
+library(Biobase)
+library(readr)
+library(tidyverse)
+
+#' Description of function
+#' @param sp species
+#' @param ts tissue
+
+prepro_data_splineTC <- function (sp, ts){
+#Getting counts
+exprs <- read.csv(paste0("../counts/", sp, "CountsMajorTissuesCor90.Norm.txt"), row.names=1, sep="")
+
+#Getting log2 cpm
+exprs_log <- as.matrix(log2(exprs+1))
+
+#Getting sample table
+s_table <-read_csv(paste0("../metadata/", sp, ".sampleTable.csv"))
+s_table_ts <- subset(s_table, tissue==ts)
+tp_table <- as.data.frame(table(s_table_ts$timePoint))
+s_table_ts$new_timePoint <- rep(0:(nrow(tp_table)-1), tp_table$Freq)
+pheData<- data.frame(SampleName=c(s_table_ts$id), Time=c(s_table_ts$new_timePoint), Treatment=c(s_table_ts$sex))
+
+#Filtering time points where we don't have males or females and adding numbers to the replicates
+pheData %>% group_by(Time) %>% summarise(femCount = sum(Treatment == "Female"), maleCount = sum(Treatment == "Male"))%>% filter(femCount != 0 & maleCount != 0)%>% dplyr::select(Time)->tps
+pheData_filt <- subset(pheData, Time %in% tps$Time)
+pheData_filt%>% group_by(Time, Treatment) %>% mutate(Rep=1:length(Treatment))%>% as.data.frame() -> pheData_filt_rep
+rownames(pheData_filt_rep)<- pheData_filt_rep[,1]
+explan <- data.frame(labelDescription=c("Name of the sample","Time point","Sex", "Number of replicate"),row.names=c("SampleName", "Time", "Treatment", "Replicate"))
+phenoData <- new("AnnotatedDataFrame",data=pheData_filt_rep, varMetadata=explan)
+
+# Filtering out genes that are expressed in less than 3 samples
+exprs_log_ts <- exprs_log[,c(as.character(pheData_filt_rep$SampleName))]
+exprs_log_ts_filt <- exprs_log_ts[rowSums(exprs_log_ts != 0) > 2, ]
+
+# write.table(rownames(exprs_log_ts_filt), paste0("filtered_genes/280222_", sp, "_", ts, ".txt"), col.names = F, quote = F)
+
+data <- ExpressionSet(assayData = exprs_log_ts_filt, phenoData = phenoData)
+
+return(data)
+}
+```
+
+## Running pipeline
+
+```{r}
+species <- c( "Human", "Mouse", "Rat", "Rabbit", "Opossum", "Chicken")
+tissues <- c("Brain", "Cerebellum", "Heart", "Kidney", "Liver")
+results <- list()
+
+for (sp in species){
+  for (ts in tissues){
+    sp_ts_prepro_data <- prepro_data_splineTC(sp, ts)
+    diffExprs <- splineDiffExprs(eSetObject = sp_ts_prepro_data, df=3, cutoff.adj.pVal = 0.05, reference="Female", intercept = TRUE)
+    results[[paste0(sp, "_", ts)]] <- diffExprs
+    
+    # Plotting
+    # splinePlot(eSetObject = data, df=3, reference = "Male", toPlot = rownames(diffExprs[diffExprs$adj.P.Val<0.05,]))
+    
+    # Exporting results
+    write.table(diffExprs, sep="\t", file=paste0("splineTC_res/280222_", sp, "_", ts, ".txt"), quote=FALSE)
+  }
+}
+```

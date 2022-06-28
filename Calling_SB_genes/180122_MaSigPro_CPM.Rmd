@@ -1,0 +1,106 @@
+---
+title: "maSigPro"
+author: "Leticia"
+date: "18/01/2022"
+output:
+  html_document: 
+    toc: true
+    toc_depth: 4
+---
+## Aim
+
+Using the maSigPro package to detect developmental sex-biased genes.
+
+```{r}
+library(maSigPro)
+library(readr)
+
+#' Description of function
+#' @param sp species
+#' @param ts tissue
+prepro_data_maSigPro <- function(species, tissues){
+  # Loading counts and metadata from the species
+  metadata_sp<- read_csv(paste0("../metadata/", species, ".sampleTable.csv"))
+  counts_sp <- read.csv(paste0("../counts/", sp, "CountsMajorTissuesCor90.Norm.txt"), row.names=1, sep="")
+
+  # #Getting log2 cpm
+  # counts_sp <- as.matrix(log2(counts_sp+1))
+  
+  # Splitting metadata and counts by organ and storing in lists
+  sp_meta<-list()
+  sp_counts <-list()
+  for (ts in 1:length(tissues)){
+    meta_ts <- subset(metadata_sp, tissue==tissues[ts])
+    
+    #Filtering time points where we don't have males or females and adding numbers to the replicates
+    meta_ts %>% group_by(timePoint) %>% summarise(femCount = sum(sex == "Female"), maleCount = sum(sex == "Male"))%>% filter(femCount != 0 & maleCount != 0)%>% dplyr::select(timePoint)->tps
+    meta_ts_filt <- subset(meta_ts, timePoint %in% tps$timePoint)
+    
+    counts_ts <-counts_sp[,as.character(meta_ts_filt$id)]
+  
+    # Filtering out genes that are expressed in less than 3 samples
+    filt_genes <- read.table(paste0("filtered_genes/280222_", species, "_", tissues[ts], ".txt"))
+    counts_ts_filt <- counts_ts[(rownames(counts_ts) %in% filt_genes$V2), ]
+    
+    sp_meta[[ts]]<-meta_ts_filt
+    sp_counts[[ts]] <-counts_ts_filt
+  }
+  names(sp_meta)<- paste0(species,"_", tissues)
+  names(sp_counts)<- paste0(species,"_", tissues)
+  return(list(sp_meta, sp_counts))
+}
+
+#' Description of function
+#' @param counts_ts count matrix 
+#' @param meta_ts metadata
+maSigPro_DE <- function(counts_ts, meta_ts){
+  # Making sure that the columns in the count matrix are in the right order
+  rownames(meta_ts) <- as.character(meta_ts$id)
+  counts_ts <- counts_ts[, rownames(meta_ts)]
+  
+  # Setting time points to start in 0
+  tp_table <- as.data.frame(table(meta_ts$timePoint))
+  meta_ts$new_timePoint <- rep(0:(nrow(tp_table)-1), tp_table$Freq)
+  
+  # Getting the numbers for the replicates
+  reps <- as.data.frame(table(paste0(letters[meta_ts$new_timePoint+1], meta_ts$sex)))
+  
+  # Creating the design table
+  df_design <- data.frame(Time=meta_ts$new_timePoint,Replicate = rep(1:length(reps$Var1), times=reps$Freq), Male=ifelse(meta_ts$sex=="Male", 1, 0) , Female=ifelse(meta_ts$sex=="Female", 1, 0), row.names=meta_ts$id)
+  design <- make.design.matrix(df_design, degree=2) 
+  
+  # Getting differentially expressed genes
+  NBp <- p.vector (counts_ts, design, counts=TRUE)
+  NBt <- T.fit(NBp, alfa = 0.05)
+  res<-get.siggenes(NBt, vars="groups")
+  DE_genes <- res$sig.genes$FemalevsMale$sig.pvalues
+  DE_genes_0.05 <-subset(DE_genes, DE_genes$`p-value` <0.05)
+  
+  # Removing suspicious genes
+  influ_genes<-colnames(NBt$influ.info)
+  DE_genes_filt <-subset(DE_genes_0.05, !rownames(DE_genes_0.05) %in% influ_genes)
+  
+  
+  return(DE_genes_filt)
+}
+```
+
+## Running pipeline
+
+```{r, message=FALSE, warning=FALSE}
+species <- c("Human", "Mouse", "Rat", "Rabbit","Opossum", "Chicken")
+tissues <-  c("Brain", "Cerebellum", "Heart", "Kidney", "Liver")
+
+results <- list()
+
+for (sp in species){
+  sp_meta_ts <-prepro_data_maSigPro(sp, tissues)[[1]]
+  sp_counts_ts<-prepro_data_maSigPro(sp, tissues)[[2]]
+  for (ts in tissues){
+    maSigPro_res <- maSigPro_DE(sp_counts_ts[[paste0(sp, "_", ts)]], sp_meta_ts[[paste0(sp, "_", ts)]])
+    results[[paste0(sp, "_", ts)]] <- maSigPro_res
+    # Exporting results
+    write.table(maSigPro_res, sep="\t", file=paste0("MaSigPro_res_cpm/280222_", sp, "_", ts, ".txt"), quote=FALSE)
+  }
+}
+```
