@@ -19,34 +19,37 @@ library(gplots)
 library(readr)
 library(dplyr)
 
+metadata_dir <- "../metadata/"
+counts_dir <- "~/R_analyses/040122_new_git/homework_1/counts/"
+raw_counts_dir <- "~/R_analyses/260421_DESeq2/counts/"
+
 #Function for preparing data for DESEq2. sp= species; ts= tissue.
-prepro_data_DESeq2 <- function(species, tissues){
+prepro_data_DESeq2 <- function(sp, ts){
   # Loading counts and metadata from the species
-  metadata_sp<- read_csv(paste0("../metadata/", species, ".sampleTable.csv"))
-  counts_sp <- as.matrix(read.table(gzfile(paste0("~/R_analyses/260421_DESeq2/counts/", species, "_counts_alltp.txt.gz")),header = TRUE))
+  meta_sp<- read_csv(paste0("../metadata/", sp, ".sampleTable.csv"))
+  counts_sp <- as.matrix(read.table(gzfile(paste0(raw_counts_dir, sp, "_counts_alltp.txt.gz")),header = TRUE))
   
-  # Splitting metadata and counts by organ and storing in lists
-  sp_meta<-list()
-  sp_counts <-list()
-  for (ts in 1:length(tissues)){
-    meta_ts <- subset(metadata_sp, tissue==tissues[ts])
+  norm_counts_sp <- read.csv(paste0(counts_dir, sp, "CountsMajorTissuesCor90.Norm.txt"), row.names=1, sep="")
+  
+  # Getting log2 cpm
+  norm_counts_sp_log <- as.matrix(log2(norm_counts_sp+1))
+  
+  # Subsetting metadata by organ 
+  meta_sp_ts <- subset(meta_sp, tissue==ts)
     
-    #Filtering time points where we don't have males or females and adding numbers to the replicates
-    meta_ts %>% group_by(timePoint) %>% summarise(femCount = sum(sex == "Female"), maleCount = sum(sex == "Male"))%>% filter(femCount != 0 & maleCount != 0)%>% dplyr::select(timePoint)->tps
-    meta_ts_filt <- subset(meta_ts, timePoint %in% tps$timePoint)
+  #Filtering time points where we don't have males or females and adding numbers to the replicates
+  meta_sp_ts %>% group_by(timePoint) %>% summarise(femCount = sum(sex == "Female"), maleCount = sum(sex == "Male"))%>% filter(femCount != 0 & maleCount != 0)%>% dplyr::select(timePoint)->use_tp
+  meta_sp_ts_filt <- subset(meta_sp_ts, timePoint %in% use_tp$timePoint)
     
-    counts_ts <-counts_sp[,as.character(meta_ts_filt$id)]
-    
-    # Filtering out genes that are expressed in less than 3 samples
-    filt_genes <- read.table(paste0("filtered_genes/280222_", species, "_", tissues[ts], ".txt"))
-    counts_ts_filt <- counts_ts[(rownames(counts_ts) %in% filt_genes$V2), ]
-    
-    sp_meta[[ts]]<-meta_ts_filt
-    sp_counts[[ts]] <-counts_ts_filt
-  }
-  names(sp_meta)<- paste0(species,"_", tissues)
-  names(sp_counts)<- paste0(species,"_", tissues)
-  return(list(sp_meta, sp_counts))
+  # Subsetting counts organ  
+  counts_sp_ts <-counts_sp[,as.character(meta_sp_ts_filt$id)]
+  
+  # Filtering out genes that are expressed in less than 3 samples
+  norm_counts_sp_log_ts <- norm_counts_sp_log[,c(as.character(meta_sp_ts_filt$id))]
+  norm_counts_sp_log_ts_filt <- norm_counts_sp_log_ts[rowSums(norm_counts_sp_log_ts != 0) > 2, ]
+  counts_sp_ts_filt <- counts_sp_ts[(rownames(counts_sp_ts) %in% rownames(norm_counts_sp_log_ts_filt)), ]
+
+  return(list(meta_sp_ts_filt, counts_sp_ts_filt))
 }
 
 #Function for performing differential expression analysis and likelihod ratio test. counts_ts= preprocessed counts for 1 species and 1 tissue; meta_ts= preprocessed metadata for 1 species and 1 tissue.
@@ -79,20 +82,22 @@ DESeq_calls <- function(counts_ts, meta_ts){
 ## Running pipeline
 
 ```{r, message=FALSE, warning=FALSE}
-species <- c( "Human", "Mouse", "Rat", "Rabbit", "Opossum", "Chicken")
+res_dir <- "DESeq_res/"
+
+species <- c("Human", "Mouse", "Rat", "Rabbit", "Opossum", "Chicken")
 tissues <- c("Brain", "Cerebellum", "Heart", "Kidney", "Liver")
 
 results <- list()
 
 for (sp in species){
-  sp_meta_ts <-prepro_data_DESeq2(sp, tissues)[[1]]
-  sp_counts_ts<-prepro_data_DESeq2(sp, tissues)[[2]]
   for (ts in tissues){
-    DESeq_res <- DESeq_calls(sp_counts_ts[[paste0(sp, "_", ts)]], sp_meta_ts[[paste0(sp, "_", ts)]])
+    sp_meta_ts <-prepro_data_DESeq2(sp, ts)[[1]]
+    sp_counts_ts<-prepro_data_DESeq2(sp, ts)[[2]]
+    DESeq_res <- DESeq_calls(sp_counts_ts, sp_meta_ts)
     results[[paste0(sp, "_", ts)]] <- DESeq_res
 
     # Exporting results
-    write.table(DESeq_res, sep="\t", file=paste0("DESeq_res/", sp, "_", ts, ".txt"), quote=FALSE)
+    # write.table(DESeq_res, sep="\t", file=paste0("res_dir/", sp, "_", ts, ".txt"), quote=FALSE)
   }
 }
 ```

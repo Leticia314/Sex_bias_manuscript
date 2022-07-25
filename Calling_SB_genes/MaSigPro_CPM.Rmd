@@ -46,7 +46,7 @@ prepro_data_maSigPro <- function(sp, ts){
   return(list(meta_sp_ts_filt, counts_sp_ts_filt))
 }
 
-#Function for getting differentially expressed genes with MaSigPro
+#Function for performing differential expression analysis with MaSigPro. counts_ts= preprocessed counts for 1 species and 1 tissue; meta_ts= preprocessed metadata for 1 species and 1 tissue.
 maSigPro_DE <- function(counts_ts, meta_ts){
   # Making sure that the columns in the count matrix are in the right order
   rownames(meta_ts) <- as.character(meta_ts$id)
