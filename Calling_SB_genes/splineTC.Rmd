@@ -19,44 +19,128 @@ library(Biobase)
 library(readr)
 library(tidyverse)
 
+metadata_dir <- "../metadata/"
+counts_dir <- "../counts/"
+
 #Function for preparing data for splineTC. sp= species; ts= tissue.
 prepro_data_splineTC <- function (sp, ts){
 #Getting counts
-exprs <- read.csv(paste0("../counts/", sp, "CountsMajorTissuesCor90.Norm.txt"), row.names=1, sep="")
+counts_sp <- read.csv(paste0(counts_dir, sp, "CountsMajorTissuesCor90.Norm.txt"), row.names=1, sep="")
 
 #Getting log2 cpm
-exprs_log <- as.matrix(log2(exprs+1))
+counts_sp_log <- as.matrix(log2(counts_sp+1))
 
 #Getting sample table
-s_table <-read_csv(paste0("../metadata/", sp, ".sampleTable.csv"))
-s_table_ts <- subset(s_table, tissue==ts)
-tp_table <- as.data.frame(table(s_table_ts$timePoint))
-s_table_ts$new_timePoint <- rep(0:(nrow(tp_table)-1), tp_table$Freq)
-pheData<- data.frame(SampleName=c(s_table_ts$id), Time=c(s_table_ts$new_timePoint), Treatment=c(s_table_ts$sex))
+meta_sp <-read_csv(paste0(metadata_dir, sp, ".sampleTable.csv"))
+meta_sp_ts <- subset(meta_sp, tissue==ts)
+tp_table <- as.data.frame(table(meta_sp_ts$timePoint))
+meta_sp_ts$new_timePoint <- rep(0:(nrow(tp_table)-1), tp_table$Freq)
+meta_sp_ts_new<- data.frame(SampleName=c(meta_sp_ts$id), Time=c(meta_sp_ts$new_timePoint), Treatment=c(meta_sp_ts$sex))
 
 #Filtering time points where we don't have males or females and adding numbers to the replicates
-pheData %>% group_by(Time) %>% summarise(femCount = sum(Treatment == "Female"), maleCount = sum(Treatment == "Male"))%>% filter(femCount != 0 & maleCount != 0)%>% dplyr::select(Time)->tps
-pheData_filt <- subset(pheData, Time %in% tps$Time)
-pheData_filt%>% group_by(Time, Treatment) %>% mutate(Rep=1:length(Treatment))%>% as.data.frame() -> pheData_filt_rep
-rownames(pheData_filt_rep)<- pheData_filt_rep[,1]
-explan <- data.frame(labelDescription=c("Name of the sample","Time point","Sex", "Number of replicate"),row.names=c("SampleName", "Time", "Treatment", "Replicate"))
-phenoData <- new("AnnotatedDataFrame",data=pheData_filt_rep, varMetadata=explan)
+meta_sp_ts_new %>% group_by(Time) %>% summarise(femCount = sum(Treatment == "Female"), maleCount = sum(Treatment == "Male"))%>% filter(femCount != 0 & maleCount != 0)%>% dplyr::select(Time)->use_tp
+meta_sp_ts_new_filt <- subset(meta_sp_ts_new, Time %in% use_tp$Time)
+# meta_sp_ts_new_filt%>% group_by(Time, Treatment) %>% mutate(Rep=1:length(Treatment))%>% as.data.frame() -> meta_sp_ts_new_filt_rep
+meta_sp_ts_new_filt_rep <- meta_sp_ts_new_filt
+
+rownames(meta_sp_ts_new_filt_rep)<- meta_sp_ts_new_filt_rep[,1]
+explan <- data.frame(labelDescription=c("Name of the sample","Time point","Sex", "Rep"),row.names=c("SampleName", "Time", "Treatment"))
+pheno_data <- new("AnnotatedDataFrame",data=meta_sp_ts_new_filt_rep, varMetadata=explan)
 
 # Filtering out genes that are expressed in less than 3 samples
-exprs_log_ts <- exprs_log[,c(as.character(pheData_filt_rep$SampleName))]
-exprs_log_ts_filt <- exprs_log_ts[rowSums(exprs_log_ts != 0) > 2, ]
+counts_sp_log_ts <- counts_sp_log[,c(as.character(meta_sp_ts_new_filt_rep$SampleName))]
+counts_sp_log_ts_filt <- counts_sp_log_ts[rowSums(counts_sp_log_ts != 0) > 2, ]
 
-# write.table(rownames(exprs_log_ts_filt), paste0("filtered_genes/280222_", sp, "_", ts, ".txt"), col.names = F, quote = F)
-
-data <- ExpressionSet(assayData = exprs_log_ts_filt, phenoData = phenoData)
+data <- ExpressionSet(assayData = counts_sp_log_ts_filt, phenoData = pheno_data)
 
 return(data)
+}
+
+
+# Modifying plotting function to be able to add pdf file name
+splinePlot <- function(eSetObject, df, reference, toPlot="all", plotFileName) {
+
+	if(!is(eSetObject, "ExpressionSet")) stop("eSetObject must be of class ExpressionSet")
+	if(!(("SampleName" %in% names(pData(eSetObject))) & ("Time" %in% names(pData(eSetObject))) & ("Treatment" %in% names(pData(eSetObject))))) stop("eSetObject has to include SampleName, Time and Treatment columns in phenotypic data")
+	if(!(is(df, "numeric") & (df%%1 == 0) & (df > 0))) stop("df must be integer > 0")
+   if(!(reference %in% levels(factor(pData(eSetObject)$Treatment)))) stop("define valid reference group")
+   
+	if(all(toPlot == "all")) {
+		toPlot = rownames(exprs(eSetObject))
+	} else {
+		if(!is(toPlot, "character")) stop("define row names of exprs(eSetObject) to plot")
+	}
+	if(!all(toPlot %in% rownames(exprs(eSetObject)))) stop("some of provided names for plotting are not included in eSetObject")
+
+	b_ <- ns(pData(eSetObject)$Time, df=df)
+	d_ <- factor(pData(eSetObject)$Treatment, levels=c(reference, setdiff(levels(factor(pData(eSetObject)$Treatment)), reference)))
+	design <- model.matrix(~d_*b_)
+	fit <- lmFit(eSetObject, design)
+
+	exprs.data <- exprs(eSetObject)
+	factorTreatment <- levels(d_)
+	
+	timePoints_C <- unique(pData(eSetObject)$Time[pData(eSetObject)$Treatment == factorTreatment[1]])
+	timePoints_T <- unique(pData(eSetObject)$Time[pData(eSetObject)$Treatment == factorTreatment[2]])
+
+	regressionMatrix_C <- ns(timePoints_C, df=df)  
+	regressionMatrix_T <- ns(timePoints_T, df=df)  
+
+	newTime <- seq(min(c(timePoints_C,timePoints_T)), max(c(timePoints_C,timePoints_T)), length.out=101)
+
+	regressionMatrixEval_C <- predict(regressionMatrix_C, newTime) 
+	regressionMatrixEval_T <- predict(regressionMatrix_T, newTime)
+	timePoints_C = pData(eSetObject)$Time[pData(eSetObject)$Treatment == factorTreatment[1]]
+	timePoints_T = pData(eSetObject)$Time[pData(eSetObject)$Treatment == factorTreatment[2]]
+	
+	number = length(toPlot)
+	legendComp = c(factorTreatment[1],factorTreatment[2])
+	ylim = c(min(exprs.data[toPlot,])-0.25, max(exprs.data[toPlot,])+0.25)
+	
+	#HB 2020/07/13 log output added
+	cat("\nLog of function splinePlot\n")
+	cat("--------------------------\n")
+	cat("Header of design matrix used for model fit:\n")
+	print(colnames(design))
+	cat("\nModel coefficient names:\n")
+	print(colnames(fit$coefficient))
+	
+	
+	cat("\npdf-filename for plot:", plotFileName, "\n\n")
+	
+	pdf(plotFileName, width=6.5, height=6.5)
+	for(i in 1:number)
+	{
+		ix <- which(toPlot[i] == row.names(exprs.data))
+		data_C <- exprs.data[ix,pData(eSetObject)$Treatment == factorTreatment[1]]
+		data_T <- exprs.data[ix,pData(eSetObject)$Treatment == factorTreatment[2]]
+
+		plot(timePoints_C, data_C, ylim=ylim, col=4, pch=20, main=paste(toPlot[i], sep="\n"), xlab="time", ylab="expression")
+		points(timePoints_T, data_T, col=2, pch=20)
+		legend("topright", lty=c(1,1), lwd=c(1.5,1.5), legendComp, col=c(4,2))
+
+		coeffs <- fit$coefficient[ix,]
+		newY_C <- coeffs[1]
+		newY_T <- coeffs[1]+coeffs[2]
+
+		#HB 2020/07/13 loop corrected
+		for(j in c(3:(df+2)))
+		{
+			newY_C <- newY_C + coeffs[j]*regressionMatrixEval_C[,(j-2)]
+			newY_T <- newY_T + (coeffs[j]+coeffs[j+df])*regressionMatrixEval_T[,(j-2)]
+		}
+		lines(newTime, newY_C, col=4)
+		lines(newTime, newY_T, col=2)
+	}
+	invisible(dev.off())
 }
 ```
 
 ## Running pipeline
 
 ```{r}
+res_dir <- "splineTC_res/"
+
 species <- c( "Human", "Mouse", "Rat", "Rabbit", "Opossum", "Chicken")
 tissues <- c("Brain", "Cerebellum", "Heart", "Kidney", "Liver")
 results <- list()
@@ -68,10 +152,10 @@ for (sp in species){
     results[[paste0(sp, "_", ts)]] <- diffExprs
     
     # Plotting
-    # splinePlot(eSetObject = data, df=3, reference = "Male", toPlot = rownames(diffExprs[diffExprs$adj.P.Val<0.05,]))
+    # splinePlot(eSetObject = data, df=3, reference = "Male", toPlot = rownames(diffExprs[diffExprs$adj.P.Val<0.05,]), plotFileName= paste0(res_dir, sp, "_", ts))
     
     # Exporting results
-    write.table(diffExprs, sep="\t", file=paste0("splineTC_res/", sp, "_", ts, ".txt"), quote=FALSE)
+    write.table(diffExprs, sep="\t", file=paste0(res_dir, sp, "_", ts, ".txt"), quote=FALSE)
   }
 }
 ```
