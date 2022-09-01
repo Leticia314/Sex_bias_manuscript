@@ -20,7 +20,7 @@ library(readr)
 library(tidyverse)
 
 metadata_dir <- "../metadata/"
-counts_dir <- "../counts/"
+counts_dir <- "../norm_counts/"
 
 #Function for preparing data for splineTC. sp= species; ts= tissue.
 prepro_data_splineTC <- function (sp, ts){
@@ -44,7 +44,7 @@ meta_sp_ts_new_filt <- subset(meta_sp_ts_new, Time %in% use_tp$Time)
 meta_sp_ts_new_filt_rep <- meta_sp_ts_new_filt
 
 rownames(meta_sp_ts_new_filt_rep)<- meta_sp_ts_new_filt_rep[,1]
-explan <- data.frame(labelDescription=c("Name of the sample","Time point","Sex", "Rep"),row.names=c("SampleName", "Time", "Treatment"))
+explan <- data.frame(labelDescription=c("Name of the sample","Time point","Sex"),row.names=c("SampleName", "Time", "Treatment"))
 pheno_data <- new("AnnotatedDataFrame",data=meta_sp_ts_new_filt_rep, varMetadata=explan)
 
 # Filtering out genes that are expressed in less than 3 samples
@@ -108,7 +108,7 @@ splinePlot <- function(eSetObject, df, reference, toPlot="all", plotFileName) {
 	
 	cat("\npdf-filename for plot:", plotFileName, "\n\n")
 	
-	pdf(plotFileName, width=6.5, height=6.5)
+	pdf(paste0(plotFileName, ".pdf"), width=6.5, height=6.5)
 	for(i in 1:number)
 	{
 		ix <- which(toPlot[i] == row.names(exprs.data))
@@ -148,8 +148,8 @@ results <- list()
 for (sp in species){
   for (ts in tissues){
     sp_ts_prepro_data <- prepro_data_splineTC(sp, ts)
-    diffExprs <- splineDiffExprs(eSetObject = sp_ts_prepro_data, df=3, cutoff.adj.pVal = 0.05, reference="Female", intercept = TRUE)
-    results[[paste0(sp, "_", ts)]] <- diffExprs
+    diffExprs <- splineDiffExprs(eSetObject = sp_ts_prepro_data, df=3, cutoff.adj.pVal = 0.05, reference="Male", intercept = TRUE)
+     results[[paste0(sp, "_", ts)]] <- diffExprs
     
     # Plotting
     # splinePlot(eSetObject = data, df=3, reference = "Male", toPlot = rownames(diffExprs[diffExprs$adj.P.Val<0.05,]), plotFileName= paste0(res_dir, sp, "_", ts))

@@ -16,7 +16,7 @@ library(maSigPro)
 library(readr)
 
 metadata_dir <- "../metadata/"
-counts_dir <- "../counts/"
+counts_dir <- "../norm_counts/"
 
 #Function for preparing data for maSigPro. sp= species; ts= tissue.
 prepro_data_maSigPro <- function(sp, ts){
@@ -82,13 +82,10 @@ maSigPro_DE <- function(counts_ts, meta_ts){
 ## Running pipeline
 
 ```{r, message=FALSE, warning=FALSE}
-res_dir <- "MaSigPro_res_cpm/"
+res_dir <- "MaSigPro_res/"
 
 species <- c("Human", "Mouse", "Rat", "Rabbit","Opossum", "Chicken")
 tissues <-  c("Brain", "Cerebellum", "Heart", "Kidney", "Liver")
-
-species <- "Mouse"
-tissues <- "Brain"
 
 results <- list()
 
@@ -99,7 +96,7 @@ for (sp in species){
     maSigPro_res <- maSigPro_DE(sp_counts_ts, sp_meta_ts)
     results[[paste0(sp, "_", ts)]] <- maSigPro_res
     # Exporting results
-    # write.table(maSigPro_res, sep="\t", file=paste0(res_dir, sp, "_", ts, ".txt"), quote=FALSE)
+    write.table(maSigPro_res, sep="\t", file=paste0(res_dir, sp, "_", ts, ".txt"), quote=FALSE)
   }
 }
 ```
