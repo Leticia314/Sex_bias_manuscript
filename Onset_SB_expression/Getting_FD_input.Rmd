@@ -19,7 +19,7 @@ library(ggplot2)
 library(tidyverse)
 library(readr)
 
-#Function for getting sex bias data
+#Function for getting filtered logcpm or metadata. sp= species; tissues= tissues; data_type= type of data (can take values "metadata" or "logcpm").
 get_data <-  function(sp, tissues, data_type){
   # Loading counts and metadata from the species
   metadata_sp<- read_csv(paste0("../Metadata/", sp, ".sampleTable.csv"))
@@ -54,7 +54,7 @@ get_data <-  function(sp, tissues, data_type){
 
 '%!in%' <- function(x,y)!('%in%'(x,y))
 
-# Function that calculates the gene differences between male and female time points
+# Function that calculates the gene differences between male and female time points. all_meta= metadata for all organs and species; all_counts= log2CPM for all organs and species; SB_genes= sex-biased genes for a species and tissue; sp= species; ts= tissue.
 FD_input <- function(all_meta, all_counts, SB_genes, sp, ts){
   gene_diffs <- as.data.frame (matrix(nrow=0, ncol=6))
       sp_ts_meta <- all_meta[[paste0(sp, "_",ts)]]
