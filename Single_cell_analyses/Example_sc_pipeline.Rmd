@@ -9,7 +9,7 @@ output:
 ---
 ## Aim
 
-Looking at expression of male and female-biased genes on single cell dataset (with male and female samples) to understand if sex-biased gene expression comes from specific cell types. In this specific example we are re-analysing the data from Ransick et al. (https://pubmed.ncbi.nlm.nih.gov/31689386/).
+Looking at expression of male and female-biased genes on a scRNA-seq dataset (with male and female samples) to understand if sex-biased gene expression comes from specific cell types. In this example we are re-analysing the data from Ransick et al. (https://pubmed.ncbi.nlm.nih.gov/31689386/).
 
 ## Libraries and functions
 
@@ -70,6 +70,7 @@ tau <- function(x) {
 
 '%!in%' <- function(x,y)!('%in%'(x,y))
 
+#Directory where the data is
 dir_ransick <- "Ransick/"
 ```
 
@@ -77,6 +78,7 @@ dir_ransick <- "Ransick/"
 ### Loading dataset and metadata
 
 ```{r, error=FALSE, warning=FALSE, message=FALSE}
+#Split_objects directory would contain a separate folder for each of the samples containing the following files: barcodes.tsv, features.tsv and matrix.mtx
 s1 <- Read10X(paste0(dir_ransick, "Split_objects/F1"))
 s1 <- CreateSeuratObject(counts = s1, project="Female_1")
 s2 <- Read10X(paste0(dir_ransick, "Split_objects/M1"))
@@ -97,6 +99,7 @@ names(SB_data.list) <- sample_names
 Adding doublet scores.
 
 ```{r}
+#Loading the doublet scores calculated with Scrublet
 doublet_scores <- list()
 for (s in names(SB_data.list)){
   doublet_s_01_sample <- read.delim(paste0(dir_ransick, "Split_objects/", s, "/doublet_scores_0.1.tsv.gz"), header = F, stringsAsFactors = F)
@@ -221,7 +224,7 @@ SB_data.combined.sct <- RunPCA(SB_data.combined.sct, verbose = FALSE, npcs=60)
 ElbowPlot(SB_data.combined.sct, ndims=60)
 SB_data.combined.sct <- RunUMAP(SB_data.combined.sct, reduction = "pca", dims = 1:40)
 
-saveRDS(SB_data.combined.sct, paste0(dir_ransick, "Integrated_object/integrated_samples.RDS"))
+#saveRDS(SB_data.combined.sct, paste0(dir_ransick, "Integrated_object/integrated_samples.RDS"))
 ```
 
 ### Clustering of integrated object
@@ -315,8 +318,6 @@ SB_data.combined.sct[["cellTypes"]] <- Idents(object = SB_data.combined.sct)
 
 Idents(SB_data.combined.sct) <- "seurat.clusters"
 
-
-
 DimPlot(SB_data.combined.sct, group.by = c("cellTypes"), pt.size=0.3, ncol=1)+ ggtitle ("Cell types")
 DimPlot(SB_data.combined.sct,reduction = "umap",label = TRUE)
 DimPlot(SB_data.combined.sct, group.by ="lineages")
@@ -349,6 +350,8 @@ kidney_FB <- subset(kidney_SB, Kidney_SB_score<0)
 
 Calculated using all sex-biased genes.
 
+Plotting gene set scores for sex-biased genes.
+
 ```{r}
 celltype_abundances <- as.data.frame(table(SB_data.combined.sct$cellTypes, SB_data.combined.sct$sex))
 celltype_to_rm <- unique(celltype_abundances$Var1[celltype_abundances$Freq<50])
@@ -365,6 +368,8 @@ FeaturePlot(SB_data.combined.sct,  features = "SB_scores", ncol = 1,
 
 
 #### Male-bias scores
+
+Plotting gene set scores for male-biased genes.
 
 ```{r}
 MB_scores <- sce.calc.score(SB_data.combined.sct_sce, kidney_MB$external_gene_name[kidney_MB$external_gene_name %in% rownames(SB_data.combined.sct)])
@@ -395,6 +400,8 @@ ggplot(SB_data.combined.sct_vln@meta.data, aes(x=cellTypes, y=MB_scores)) +
 ```
 
 #### Female-bias scores
+
+Plotting gene set scores for female-biased genes.
 
 ```{r}
 FB_scores <- sce.calc.score(SB_data.combined.sct_sce, kidney_FB$external_gene_name[kidney_FB$external_gene_name %in% rownames(SB_data.combined.sct)])
