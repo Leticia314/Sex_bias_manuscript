@@ -1,0 +1,112 @@
+---
+title: "FD_GPclust_input"
+author: "Leticia"
+date: "04/04/2022"
+output:
+  html_document: 
+    toc: true
+    toc_depth: 4
+---
+## Aim
+
+Getting fold difference tables as input for GPclust.
+
+```{r}
+library(depmixS4)
+library(gridExtra)
+library(dplyr)
+library(ggplot2)
+library(tidyverse)
+library(readr)
+
+#Function for getting sex bias data
+get_data <-  function(sp, tissues, data_type){
+  # Loading counts and metadata from the species
+  metadata_sp<- read_csv(paste0("../metadata/", sp, ".sampleTable.csv"))
+  counts_sp <-read.csv(paste0("../norm_counts/", sp, "CountsMajorTissuesCor90.Norm.txt"), row.names=1, sep="", stringsAsFactors = F)
+  
+  # Splitting metadata and counts by organ and storing in lists
+  sp_meta<-list()
+  sp_counts <-list()
+  for (ts in 1:length(tissues)){
+    meta_ts <- subset(metadata_sp, tissue==tissues[ts])
+    
+    #Filtering time points where we don't have males or females
+    meta_ts %>% group_by(timePoint) %>% summarise(femCount = sum(sex == "Female"), maleCount = sum(sex == "Male"))%>% filter(femCount != 0 & maleCount != 0)%>% dplyr::select(timePoint)->tps
+    meta_ts_filt <- subset(meta_ts, timePoint %in% tps$timePoint)
+    
+    counts_ts <-counts_sp[,as.character(meta_ts_filt$id)]
+    counts_ts <- log2(counts_ts+1)
+    sp_meta[[ts]]<-meta_ts_filt
+    sp_counts[[ts]] <-counts_ts
+  }
+  names(sp_meta)<- paste0(sp,"_", tissues)
+  names(sp_counts)<- paste0(sp,"_", tissues)
+  
+  if (data_type == "logcpm"){
+    return(sp_counts)
+  }
+  
+  if (data_type == "metadata"){
+    return(sp_meta)
+  }
+}
+
+'%!in%' <- function(x,y)!('%in%'(x,y))
+
+# Function that calculates the gene differences between male and female time points
+FD_input <- function(all_meta, all_counts, SB_genes, sp, ts){
+  gene_diffs <- as.data.frame (matrix(nrow=0, ncol=6))
+      sp_ts_meta <- all_meta[[paste0(sp, "_",ts)]]
+      sp_ts_counts <- as.matrix(all_counts[[paste0(sp, "_",ts)]])
+      SB_genes <- SB_genes$ensembl_id
+      
+      #For each sex-biased gene we calculate the fold-difference
+      for (i in SB_genes){
+        gene_i_expr <- data.frame(timePoint = sp_ts_meta$timePoint, sex = sp_ts_meta$sex, sp_ts_counts = sp_ts_counts[i, ],stringsAsFactors = F)
+        gene_i_diff <- group_by(gene_i_expr, timePoint) %>% summarise(new_dE=(median(sp_ts_counts[sex=="Male"])-median(sp_ts_counts[sex=="Female"]))) %>% mutate(timepoint_discrete=1:length(timePoint))%>%
+        mutate(gene_id=rep(i, length(timePoint)))%>%
+        mutate(tissue=rep(ts, length(timePoint)))%>%
+        mutate(species=rep(sp, length(timePoint)))
+                
+        gene_diffs <- rbind(gene_diffs,  gene_i_diff)
+      }
+      
+      #Adapting the format to GPclust
+      gene_diffs <- gene_diffs[, c("gene_id", "timePoint", "new_dE")]
+      gene_diffs_spread <- spread(gene_diffs, key=timePoint, value = new_dE) %>%    column_to_rownames(var="gene_id")
+      
+      #Adding zeros at the end so that GPclust discriminates sign of the fold differences
+      zero_lines<- as.data.frame(matrix(rep(0, dim(gene_diffs_spread)[1]*dim(gene_diffs_spread)[2] ), nrow=dim(gene_diffs_spread)[1]))
+      final_fd_table <- add_column(gene_diffs_spread, zero_lines)
+
+  return(final_fd_table)
+}
+
+```
+
+## Getting fold difference tables
+
+```{r}
+calls_dir <- "../SB_genes_tables/"
+res_dir <- "FD_tables/"
+
+species<- c("Mouse", "Rat", "Rabbit", "Opossum", "Chicken")
+tissues <- c("Brain", "Cerebellum", "Heart", "Kidney", "Liver")
+
+all_meta <-list()
+all_counts <-list()
+all_calls <- list()
+
+for (sp in species){
+  all_meta <- append(all_meta, get_data(sp, tissues, data_type="metadata"))
+  all_counts <- append(all_counts, get_data(sp, tissues, data_type="logcpm"))
+  for (ts in tissues){
+    all_genes_table <-read_delim(paste0(calls_dir, "040522_", sp, "_summary_table_gpclust.csv"),delim = "\t", escape_double = FALSE, trim_ws = TRUE)
+    ts_SB_genes <- all_genes_table[all_genes_table[,paste0(ts)]==T,]
+    sp_ts_FD_input <- FD_input(all_meta, all_counts, ts_SB_genes, sp, ts)
+    write.table(sp_ts_FD_input, paste0(res_dir, sp, "_", ts, "_FDs.txt"), quote = F,sep = "\t")
+  }
+}
+```
+
