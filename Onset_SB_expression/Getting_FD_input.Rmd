@@ -22,8 +22,8 @@ library(readr)
 #Function for getting sex bias data
 get_data <-  function(sp, tissues, data_type){
   # Loading counts and metadata from the species
-  metadata_sp<- read_csv(paste0("../metadata/", sp, ".sampleTable.csv"))
-  counts_sp <-read.csv(paste0("../norm_counts/", sp, "CountsMajorTissuesCor90.Norm.txt"), row.names=1, sep="", stringsAsFactors = F)
+  metadata_sp<- read_csv(paste0("../Metadata/", sp, ".sampleTable.csv"))
+  counts_sp <-read.csv(paste0("../Norm_counts/", sp, "CountsMajorTissuesCor90.Norm.txt"), row.names=1, sep="", stringsAsFactors = F)
   
   # Splitting metadata and counts by organ and storing in lists
   sp_meta<-list()

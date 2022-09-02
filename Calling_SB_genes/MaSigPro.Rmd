@@ -15,8 +15,8 @@ Using the maSigPro package to detect developmental sex-biased genes.
 library(maSigPro)
 library(readr)
 
-metadata_dir <- "../metadata/"
-counts_dir <- "../norm_counts/"
+metadata_dir <- "../Metadata/"
+counts_dir <- "../Norm_counts/"
 
 #Function for preparing data for maSigPro. sp= species; ts= tissue.
 prepro_data_maSigPro <- function(sp, ts){
