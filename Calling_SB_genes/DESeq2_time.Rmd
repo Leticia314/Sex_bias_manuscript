@@ -19,9 +19,9 @@ library(gplots)
 library(readr)
 library(dplyr)
 
-metadata_dir <- "../metadata/"
-counts_dir <- "../norm_counts/"
-raw_counts_dir <- "../raw_counts/"
+metadata_dir <- "../Metadata/"
+counts_dir <- "../Norm_counts/"
+raw_counts_dir <- "../Raw_counts/"
 
 #Function for preparing data for DESEq2. sp= species; ts= tissue.
 prepro_data_DESeq2 <- function(sp, ts){
