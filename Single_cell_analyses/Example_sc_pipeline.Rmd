@@ -354,6 +354,7 @@ Plotting gene set scores for sex-biased genes.
 
 ```{r}
 celltype_abundances <- as.data.frame(table(SB_data.combined.sct$cellTypes, SB_data.combined.sct$sex))
+# Excluding cell types with less than 50 cells per sex
 celltype_to_rm <- unique(celltype_abundances$Var1[celltype_abundances$Freq<50])
 
 SB_data.combined.sct_sce <- as.SingleCellExperiment(SB_data.combined.sct, assay="RNA")
@@ -428,7 +429,8 @@ stat.test <- SB_data.combined.sct_vln@meta.data %>%
   add_significance()
 stat.test <- stat.test %>% add_xy_position(x = "cellTypes", dodge = 0.8)
 
-ggplot(SB_data.combined.sct_vln@meta.data, aes(x=cellTypes, y=FB_scores))+ geom_violin(aes(fill = sex))   + stat_pvalue_manual(stat.test, label = "p.adj.signif", size = 3) + theme(text = element_text(size = 15))  + theme(axis.text.x = element_text(angle = 45, hjust=1)) + ggtitle("Female-biased genes") + ylab("FB scores") 
+ggplot(SB_data.combined.sct_vln@meta.data, aes(x=cellTypes, y=FB_scores)) + 
+  geom_violin(aes(fill = sex))  + stat_pvalue_manual(stat.test, label = "p.adj.signif", size = 3) + theme(text = element_text(size = 15))  + theme(axis.text.x = element_text(angle = 45, hjust=1)) + ggtitle("Male-biased genes") + ylab("MB scores") + theme_classic2()+ scale_fill_manual(values=c("#895AA5","#F26622"))
 ```
 
 
