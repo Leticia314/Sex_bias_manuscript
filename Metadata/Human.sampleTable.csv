@@ -4,8 +4,6 @@ Brain.4wpc.2,4wpc,Brain,Male,-14
 Brain.4wpc.3,4wpc,Brain,Male,-14
 Brain.5wpc.4,5wpc,Brain,Female,-13
 Brain.5wpc.5,5wpc,Brain,Male,-13
-Cerebellum.6wpc.6,6wpc,Cerebellum,Female,-12
-Cerebellum.6wpc.7,6wpc,Cerebellum,Female,-12
 Brain.7wpc.6,7wpc,Brain,Female,-11
 Brain.7wpc.7,7wpc,Brain,Male,-11
 Brain.7wpc.8,7wpc,Brain,Male,-11
@@ -59,6 +57,8 @@ Cerebellum.4wpc.2,4wpc,Cerebellum,Male,-14
 Cerebellum.4wpc.3,4wpc,Cerebellum,Male,-14
 Cerebellum.5wpc.4,5wpc,Cerebellum,Female,-13
 Cerebellum.5wpc.5,5wpc,Cerebellum,Male,-13
+Cerebellum.6wpc.6,6wpc,Cerebellum,Female,-12
+Cerebellum.6wpc.7,6wpc,Cerebellum,Female,-12
 Cerebellum.6wpc.8,6wpc,Cerebellum,Male,-12
 Cerebellum.6wpc.9,6wpc,Cerebellum,Male,-12
 Cerebellum.7wpc.10,7wpc,Cerebellum,Female,-11
