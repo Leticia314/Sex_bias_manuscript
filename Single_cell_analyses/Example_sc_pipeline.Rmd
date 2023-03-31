@@ -392,7 +392,7 @@ SB_data.combined.sct_vln$cellTypes <- droplevels(SB_data.combined.sct_vln$cellTy
 stat.test <- SB_data.combined.sct_vln@meta.data %>%
   group_by(cellTypes) %>%
   wilcox_test(MB_scores ~ sex) %>%
-  adjust_pvalue(method = "bonferroni") %>%
+  adjust_pvalue(method = "BH") %>%
   add_significance()
 stat.test <- stat.test %>% add_xy_position(x = "cellTypes", dodge = 0.8)
 
@@ -425,7 +425,7 @@ SB_data.combined.sct_vln$cellTypes <- droplevels(SB_data.combined.sct_vln$cellTy
 stat.test <- SB_data.combined.sct_vln@meta.data %>%
   group_by(cellTypes) %>%
   wilcox_test(FB_scores ~ sex) %>%
-  adjust_pvalue(method = "bonferroni") %>%
+  adjust_pvalue(method = "BH") %>%
   add_significance()
 stat.test <- stat.test %>% add_xy_position(x = "cellTypes", dodge = 0.8)
 
