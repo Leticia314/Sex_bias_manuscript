@@ -1,0 +1,423 @@
+---
+title: "Simulating sex-biased dataset"
+author: "Leticia"
+date: "14/02/2023"
+output: 
+  html_document: 
+    toc: true
+    toc_float: true
+    code_folding: hide
+    toc_depth: 3
+---
+
+# Aim
+
+To generate a simulated dataset based on our own dataset to evaluate how the different tools for detecting sex-biased genes perform.
+
+# Loading data
+
+## Libraries
+
+```{r}
+library(seqgendiff)
+library(readr)
+library(SummarizedExperiment)
+library(sva)
+library(tidyverse)
+library(edgeR)
+library(fitdistrplus)
+
+name_trial <- "_sim_complete_emp_50_logFC"
+
+setwd("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/Simulations")
+
+dir.create("res/metadata_shuffled")
+dir.create("res/sp_simulated_raw")
+dir.create("res/sp_simulated_cpm")
+dir.create("res/sp_simulated_meta")
+```
+
+## Loading calls all pipelines
+
+```{r}
+dir <- "../Calls_all_methods"
+
+path_names <- list.files(path = dir , pattern = ".csv",
+                         full.names = T)
+file_names <- list.files(path = dir , pattern = ".csv",
+                         full.names = F)
+file_names <- gsub("290922_calls_", "", file_names)
+file_names <- gsub(".csv", "", file_names)
+
+all_calls <- lapply(path_names, function(x){
+  file <-read.csv(x, sep="\t")
+  return(file)
+})
+names(all_calls) <- file_names
+```
+
+## Loading normalized counts
+
+```{r}
+dir_cpm <- "../Norm_counts"
+
+path_names1 <- list.files(path = dir_cpm , pattern = ".txt",
+                          full.names = T)
+file_names1 <- list.files(path = dir_cpm , pattern = ".txt",
+                          full.names = F)
+file_names1 <- gsub("CountsMajorTissuesCor90.Norm.txt", "", file_names1)
+
+
+all_cpm <- lapply(path_names1, function(x){
+  file <-read.csv(x, row.names=1, sep="")
+  return(file)
+})
+
+names(all_cpm) <- file_names1
+```
+
+
+## Loading metadata
+
+```{r}
+dir_meta <- "../Metadata"
+
+path_names2 <- list.files(path = dir_meta , pattern = ".csv",
+                          full.names = T)
+file_names2 <- list.files(path = dir_meta , pattern = ".csv",
+                          full.names = F)
+file_names2 <- gsub(".sampleTable.csv", "", file_names2)
+
+all_meta <- lapply(path_names2, function(x){
+  file <-read_csv(x)
+  return(file)
+})
+
+names(all_meta)<- file_names2
+```
+
+## Loading raw counts
+
+```{r}
+dir_raw <- "../Raw_counts"
+
+path_names3 <- list.files(path = dir_raw , pattern = ".txt",
+                          full.names = T)
+file_names3 <- list.files(path = dir_raw , pattern = ".txt",
+                          full.names = F)
+file_names3 <- gsub("_counts_alltp.txt.gz", "", file_names3)
+
+
+all_raw <- lapply(path_names3, function(x){
+  file <-as.matrix(read.table(gzfile(x),header = TRUE))
+  return(file)
+})
+
+names(all_raw) <- file_names3
+```
+
+## Loading tables with sex-biased gene information
+
+```{r}
+dir_SB <- "../SB_genes_tables"
+
+path_names4 <- list.files(path = dir_SB , pattern = ".csv",
+                          full.names = T)
+file_names4 <- list.files(path = dir_SB , pattern = ".csv",
+                          full.names = F)
+file_names4 <- gsub("040522_", "", file_names4)
+file_names4 <- gsub("_summary_table_gpclust.csv", "", file_names4)
+
+all_SB <- lapply(path_names4, function(x){
+  file <-read_delim(x, 
+                    delim = "\t", escape_double = FALSE, 
+                    trim_ws = TRUE)
+  return(file)
+})
+names(all_SB) <- file_names4
+```
+
+## FC per species
+
+For each sex-biased genes in each species and organ, we store the max log2-fold-change.
+
+```{r}
+species<- c("Mouse", "Rat", "Rabbit", "Opossum", "Chicken")
+tissues <- c("Brain", "Cerebellum", "Heart", "Kidney", "Liver")
+
+all_FC_tables <- list()
+
+for (sp in species){
+  cpm_sp <- all_cpm[[sp]]
+  meta_sp <- all_meta[[sp]]
+  SB_sp <- all_SB[[sp]]
+  
+  for (ts in tissues){
+    SB_sp_ts <- SB_sp[SB_sp[ts] ==T,]
+    
+    # Filtering metadata
+    meta_sp_ts <- subset(meta_sp, tissue==ts)
+    #Filtering time points where we don't have males or females and adding numbers to the replicates
+    meta_sp_ts %>% group_by(timePoint) %>% summarise(femCount = sum(sex == "Female"), maleCount = sum(sex == "Male"))%>% filter(femCount != 0 & maleCount != 0)%>%  dplyr::select(timePoint)->use_tp
+    meta_sp_ts_filt <- subset(meta_sp_ts, timePoint %in% use_tp$timePoint)
+    
+    # Filtering counts
+    counts_sp_ts_filt <- cpm_sp [SB_sp_ts$ensembl_id,meta_sp_ts_filt$id]
+    
+    # Transforming to long format
+    counts_sp_ts_filt %>% rownames_to_column("gene_id") %>% pivot_longer(cols=colnames(counts_sp_ts_filt),
+                                                                         names_to='sample',
+                                                                         values_to='cpm') ->cpm_sp_ts_n_long
+    
+    cpm_sp_ts_n_long <- left_join(cpm_sp_ts_n_long, meta_sp_ts_filt[, c("id", "sex", "timePoint")], by=c("sample"="id"))
+    
+    # Creating fold change table
+    cpm_sp_ts_n_long %>% group_by(gene_id, timePoint) %>% summarize(logFC= mean(log2(cpm[sex=="Male"]+1)) - mean(log2(cpm[sex=="Female"]+1)))-> FC_table
+    
+    # Specifying whether gene is male or female biased
+    FC_table <- left_join(FC_table, SB_sp_ts[, c("ensembl_id", paste0(ts, "_SB_score"))], by=c("gene_id"="ensembl_id"))
+    colnames(FC_table)[ncol(FC_table)] <- "SB_score"
+    FC_table$SB_score <- ifelse(FC_table$SB_score>0, "MB", "FB")
+    
+    # Per gene taking the maximum fold change (or min if female-biased)
+    FC_table %>% group_by(gene_id) %>% summarize(maxFC=unique(ifelse(SB_score=="MB", max(logFC), min(logFC)))) -> max_FC_table
+    
+    max_FC_table$tissue <- ts
+    max_FC_table$species <- sp
+    
+    all_FC_tables[[paste0(sp, "_", ts)]] <- max_FC_table
+  }
+}
+```
+
+Then we take an equal representation from each species (200 log2-fold-changes from species) and pool them together.
+
+```{r}
+all_FC_dist <- as.data.frame(matrix(ncol=4, nrow=0))
+colnames(all_FC_dist) <- c("gene_id", "maxFC", "tissue","species")
+
+for (sp in species){
+  SB_sp <- all_SB[[sp]]
+  FC_sp <- all_FC_tables[startsWith(names(all_FC_tables), sp)]
+  FC_sp <-bind_rows(FC_sp)
+  sample_FC_sp <- FC_sp[sample(1:nrow(FC_sp), 200),]
+  all_FC_dist <-rbind(all_FC_dist, sample_FC_sp)
+}
+```
+
+# Simulating dataset
+
+```{r}
+set.seed(2)
+species<- c("Mouse", "Rat", "Rabbit", "Opossum", "Chicken")
+tissues <- c("Brain", "Cerebellum", "Heart", "Kidney", "Liver")
+
+sp_raw_sim_mats <- list()
+sp_cpm_sim_mats <- list()
+sp_meta_sim <- list()
+
+for (sp in species){
+  raw_sp <- all_raw[[sp]]
+  meta_sp <- all_meta[[sp]]
+  cpm_sp <- all_cpm[[sp]]
+  log_cpm_sp <-  as.matrix(log2(cpm_sp+1))
+  SB_sp <- all_SB[[sp]]
+  
+  calls_sp <- all_calls[startsWith(names(all_calls), sp)]
+  calls_sp <-bind_rows(calls_sp)
+  
+  sp_shuffled_meta <- as.data.frame(matrix(ncol=7, nrow=0))
+  colnames(sp_shuffled_meta) <- c("id","files","group","sex","tissue","timePoint","sex_shuffled")
+  
+  for (ts in tissues){
+    meta_sp_ts <- subset(meta_sp, tissue==ts)
+    
+    #Filtering time points where we don't have males or females
+    meta_sp_ts %>% group_by(timePoint) %>% summarise(femCount = sum(sex == "Female"), maleCount = sum(sex == "Male"))%>% filter(femCount != 0 & maleCount != 0)%>% dplyr::select(timePoint)->use_tp
+    meta_sp_ts_filt <- subset(meta_sp_ts, timePoint %in% use_tp$timePoint)
+    
+    # Shuffling sex labels
+    meta_sp_ts_filt %>% group_by(group) %>% mutate(sex_shuffled=sample(sex, size=length(sex), replace = F))-> meta_sp_ts_filt
+    
+    sp_shuffled_meta <- rbind(sp_shuffled_meta, meta_sp_ts_filt)
+    
+    # Subsetting nSB genes
+    SB_sp <- subset(SB_sp, n_SB_ts == 0 & !ensembl_id %in% calls_sp$gene_id)
+    raw_sp_ts_SB <- raw_sp[SB_sp$ensembl_id, meta_sp_ts_filt$id]
+    
+    # Filtering out genes that are expressed in less than 3 samples and have max expr < 3 rpkm
+    log_cpm_sp_ts <- log_cpm_sp [, meta_sp_ts_filt$id]
+    log_cpm_sp_ts_filt <- log_cpm_sp_ts[rowSums(log_cpm_sp_ts != 0) > 2, ]
+    SB_sp_ts <- SB_sp[SB_sp[paste0(ts, "_max_expr")]>3,]
+    SB_sp_ts <- subset(SB_sp_ts, ensembl_id %in% rownames(log_cpm_sp_ts_filt))
+    
+    raw_sp_ts <- raw_sp_ts_SB[SB_sp_ts$ensembl_id, ]
+    
+    # Selecting number of time points I want to add sex signal to
+    n_timep <- c(1:length(unique(meta_sp_ts_filt$timePoint)))
+    
+    # Joining sex and time in a factor
+    meta_sp_ts_filt$sex_tp <- paste0(meta_sp_ts_filt$sex_shuffled, "_", meta_sp_ts_filt$timePoint)
+    
+    # Generating all tp combinations with all n number of tp
+    sex_vec <- unique(meta_sp_ts_filt$sex_tp[meta_sp_ts_filt$sex_shuffled=="Male"])
+    all_tp_comb <-sapply(
+      seq_along(sex_vec),
+      function(k) {
+        comb<-rev(data.frame(embed(sex_vec, k)))
+        return(t(comb))
+      }
+    )
+    # Subsetting the tp combinations I'll keep and counting them
+    my_tp_comb <- all_tp_comb[n_timep]
+    mat_slots <- lapply(my_tp_comb, function(x){
+      n_comb <- dim(x)[2]
+      return(n_comb)
+    })
+    names(mat_slots) <- paste0("tp", n_timep)
+    n_mat_slots <- sum(unlist(mat_slots))
+    
+    #Split data frame into n equal-sized data frames, keeping row and colnames
+    n_rows <- floor(nrow(raw_sp_ts)/(n_mat_slots)) * (n_mat_slots)
+    raw_sp_ts <- raw_sp_ts[1:n_rows,]
+    split_cpm_vec <- split(raw_sp_ts, rep(c(1:(n_mat_slots)), each=as.integer(nrow(raw_sp_ts)/(n_mat_slots))), drop = F)
+    split_gene_names <- split(rownames(raw_sp_ts), rep(c(1:(n_mat_slots)), each=as.integer(nrow(raw_sp_ts)/(n_mat_slots))), drop = F)
+    
+    split_cpm_mat <- lapply(names(split_cpm_vec), function(x){
+      sub_mat <- split_cpm_vec[[x]]
+      sub_mat <-matrix(sub_mat, ncol = ncol(raw_sp_ts))
+      gene_names_submat <- split_gene_names[[x]]
+      rownames(sub_mat) <-gene_names_submat
+      colnames(sub_mat) <-colnames(raw_sp_ts)
+      return(sub_mat)
+    })
+    
+    all_raw_sp_ts_sim_mat <- list()
+    all_tables_sim_design <- list()
+    
+    # Matrix starting slot
+    mat_slot_start_i<-0
+    
+    # Generating design matrices for each type of gene
+    for (n in n_timep){
+      # Taking combinations for that number of time points
+      tp_comb <- all_tp_comb[[n]]
+      # Counting total number of combinations for that time point
+      tp_n_comb <- mat_slots[[paste0("tp",n)]]
+      
+      for (o in 1:tp_n_comb ){
+        # Getting index for matrix slot
+        mat_slot_i <- mat_slot_start_i+o
+        # Taking the matrix slot
+        n_split_cpm_mat <-split_cpm_mat[[mat_slot_i]]
+        
+        # Subseting one combination 
+        selected_comb <- tp_comb[, o]
+        
+        # Creating design matrix for the combination
+        meta_sp_ts_filt$fac <- 0
+        meta_sp_ts_filt$fac [meta_sp_ts_filt$sex_tp %in% selected_comb] <- 1
+        design_mat <- as.matrix(meta_sp_ts_filt$fac, ncol=1)
+        
+        # the noise we're adding from the distribution of logFCs in all species
+        coef_mat <- sample(all_FC_dist$maxFC, ncol(design_mat) * nrow(n_split_cpm_mat), replace=T)
+        dim(coef_mat) <- c(nrow(n_split_cpm_mat), ncol(design_mat))
+        
+        nullvec <- rep(TRUE, nrow(coef_mat))
+        not_null <- sample(x = 1:nrow(coef_mat),
+                           size = round(0.5*nrow(coef_mat)),
+                           replace = F)
+        nullvec[not_null] <- FALSE
+        coef_mat[nullvec, ] <- 0
+        
+        # Simulation
+        raw_sp_ts_sim <- thin_diff(mat = n_split_cpm_mat, design_fixed  = design_mat, coef_fixed = coef_mat)
+        
+        # Results
+        raw_sp_ts_sim_mat <- as.matrix(raw_sp_ts_sim$mat)
+        colnames(raw_sp_ts_sim_mat) <- colnames(n_split_cpm_mat)
+        rownames(raw_sp_ts_sim_mat) <- rownames(n_split_cpm_mat)
+        all_raw_sp_ts_sim_mat[[mat_slot_i]] <-raw_sp_ts_sim_mat
+        
+        # Store info of which genes/samples sex signal was added to
+        sim_coefmat <- raw_sp_ts_sim$coefmat
+        rownames(sim_coefmat) <- rownames(n_split_cpm_mat)
+        modified_genes <- rownames(sim_coefmat)[sim_coefmat != 0]
+        modified_FC <- sim_coefmat[sim_coefmat != 0]
+        
+        sim_designmat <- raw_sp_ts_sim$designmat
+        rownames(sim_designmat) <- colnames(n_split_cpm_mat)
+        modified_samples <- rownames(sim_designmat)[sim_designmat != 0]
+        
+        table_sim_design <- data.frame(gene_id=rep(modified_genes, each=length(modified_samples)), samples=rep(modified_samples, length(modified_genes)), species=rep(sp, length(modified_genes)*length(modified_samples)), tissue=rep(ts, length(modified_genes)*length(modified_samples)), n_tp=rep(n, length(modified_genes)*length(modified_samples)), logFC=rep(modified_FC, each=length(modified_samples)))
+        table_sim_design$stage <-str_sub(table_sim_design$sample, start=0,end=(-3))
+        all_tables_sim_design[[mat_slot_i]] <- table_sim_design
+      }
+      mat_slot_start_i<-mat_slot_start_i +tp_n_comb
+      
+    }
+    
+    df_sim_raw <- do.call("rbind", all_raw_sp_ts_sim_mat)
+    df_sim_metadata <- do.call("rbind", all_tables_sim_design)
+    
+    # Recovering lowly expressed genes but not SB genes
+    low_expr_genes <- setdiff(rownames(raw_sp_ts_SB), rownames(df_sim_raw))
+    low_expr_genes_tab <- as.matrix(raw_sp_ts_SB[low_expr_genes, meta_sp_ts_filt$id])
+    df_sim_raw<- rbind(df_sim_raw, low_expr_genes_tab)
+    
+    # Normalizing
+    DGE_counts <- DGEList(counts=df_sim_raw)
+    DGE_counts <- calcNormFactors(DGE_counts)
+    cpm <- edgeR::cpm(DGE_counts, log=F)
+    
+    sp_raw_sim_mats[[paste0(sp, "_", ts)]] <-df_sim_raw
+    sp_cpm_sim_mats[[paste0(sp, "_", ts)]] <- cpm
+    sp_meta_sim[[paste0(sp, "_", ts)]] <-df_sim_metadata
+    
+  }
+  
+  colnames(sp_shuffled_meta)[colnames(sp_shuffled_meta)=="sex"] <- "sex_ref"
+  colnames(sp_shuffled_meta)[colnames(sp_shuffled_meta)=="sex_shuffled"] <- "sex"
+  
+  # Exporting info on label shuffling
+  # write.table(sp_shuffled_meta, paste0("res/metadata_shuffled/", sp, name_trial, ".csv"), col.names = T, row.names = F, quote = F, sep= "\t")
+  
+}
+
+```
+
+## Exporting data
+
+```{r}
+dir_sim_raw <- "res/sp_simulated_raw/"
+dir_sim_cpm <- "res/sp_simulated_cpm/"
+dir_sim_samples <- "res/sp_simulated_meta/"
+
+for (sp in species){
+  sp_raw <- sp_raw_sim_mats[startsWith(names(sp_raw_sim_mats), sp)]
+  gene_order <- rownames(sp_raw[[1]])
+  sp_raw <- lapply(sp_raw, function(x){
+    x <- x[gene_order,]
+    return(x)
+  })
+  merged_sp_raw <- do.call("cbind", sp_raw)
+  
+  sp_cpm <- sp_cpm_sim_mats[startsWith(names(sp_cpm_sim_mats), sp)]
+  gene_order2 <- rownames(sp_cpm[[1]])
+  sp_cpm <- lapply(sp_cpm, function(x){
+    x <- x[gene_order2,]
+    return(x)
+  })
+  merged_sp_cpm <- do.call("cbind", sp_cpm)
+  
+  sp_meta <- sp_meta_sim[startsWith(names(sp_meta_sim), sp)]
+  merged_sp_meta <- do.call("rbind", sp_meta)
+  
+  # Exporting
+  # write.table(merged_sp_raw, file= paste0(dir_sim_raw, sp, "_raw", name_trial, ".txt"), quote=F, col.names=T, row.names=T, sep= "\t")
+  # write.table(merged_sp_cpm, paste0(dir_sim_cpm, sp, "_cpm", name_trial, ".txt"), quote=F, col.names=T, row.names=T, sep= "\t")
+  # write.table(merged_sp_meta, file= paste0(dir_sim_samples, sp, "_samples", name_trial, ".txt"), quote=F, col.names=T, row.names=F, sep= "\t")
+  
+}
+```
+
