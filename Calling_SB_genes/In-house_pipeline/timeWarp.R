@@ -1,6 +1,12 @@
 # Script for adjusting the developmental timelines before calculating the sex-bias scores
 # Author: Svetlana Ovchinnikova (s.ovchinnikova@zmbh.uni-heidelberg.de)
 
+setwd("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/Calling_SB_genes/In-house_pipeline")
+source("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/Calling_SB_genes/In-house_pipeline/f.R")
+
+dir.create("res")
+dir.create("res/timeWarp")
+
 species <- c("Mouse", "Human", "Rat", "Rabbit", "Chicken", "Opossum")
 tissues <- c("Brain", "Cerebellum", "Liver", "Heart", "Kidney")
 
@@ -77,5 +83,5 @@ for(sp in species) {
     tps$newTime <- newTime
     timeWarp[tps$group, t] <- tps$newTime
   }
-  write.table(timeWarp, paste0("../tw/", sp, "_time.csv"))
+  write.table(timeWarp, paste0("res/tw/", sp, "_time.csv"))
 }

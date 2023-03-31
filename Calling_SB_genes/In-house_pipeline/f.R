@@ -6,10 +6,14 @@ library(SummarizedExperiment)
 library(biomaRt)
 library(tidyverse)
 
+setwd("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/Calling_SB_genes/In-house_pipeline")
 
-#set path to data folder
-dataPath = "data/"
+#set path to metadata folder
+metaPath = "../../Metadata/"
+#set path to counts folder
+countsPath = "../../Norm_counts/"
 #set path to result files folder
+dir.create("res")
 resPath = "res/"
 
 
@@ -41,14 +45,14 @@ loadData <- function(species, geneInfo = F) {
       filter(timePoint <= min(lims$max) & timePoint >= max(lims$min))
   }  
   
-  read_csv(paste0(dataPath, species, ".sampleTable.csv")) %>%
+  read_csv(paste0(metaPath, species, ".sampleTable.csv")) %>%
     mutate(tissue = ifelse((tissue == "Ovary") | (tissue == "Testis"), "Gonads", tissue)) %>%
     group_by(tissue) %>%
     do(filterTP(.)) %>%    
     column_to_rownames(var = "id") %>%
     as.data.frame() -> sampleTable
   
-  read_delim(paste0(dataPath, species, "CountsMajorTissuesCor90.Norm.txt"), delim = " ") %>%
+  read_delim(paste0(countsPath, species, "CountsMajorTissuesCor90.Norm.txt"), delim = " ") %>%
     select(c("X1", rownames(sampleTable))) %>%
     column_to_rownames(var = "X1") %>%
     as.matrix() -> expr

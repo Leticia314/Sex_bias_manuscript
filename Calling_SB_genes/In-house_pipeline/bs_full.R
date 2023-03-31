@@ -1,6 +1,9 @@
 # Script for identifying sex-biased genes (in-house pipeline)
 # Author: Svetlana Ovchinnikova (s.ovchinnikova@zmbh.uni-heidelberg.de)
 
+setwd("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/Calling_SB_genes/In-house_pipeline")
+source("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/Calling_SB_genes/In-house_pipeline/f.R")
+
 library(locfit)
 library(future.apply)
 plan(multisession, workers = 16) #number of R sessions running in parallel to speed up the calculations
@@ -167,6 +170,6 @@ for(sp in species) {
       estPerm <- round(500 * nrow(exprs)/max(sum(!stop), 1))
     }
     print(Sys.time() - tm_all)
-    write_rds(res, paste0(resPath, sp, "_", t, "_bootstrap_0.1_notw.rds"), compress = "gz")
+    write_rds(res, paste0(resPath, sp, "_", t, "_bootstrap.rds"), compress = "gz")
   }
 }
