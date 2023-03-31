@@ -80,7 +80,7 @@ dir_ransick <- "Ransick_example_dataset/"
 ### Loading dataset and metadata
 
 ```{r, error=FALSE, warning=FALSE, message=FALSE}
-#Split_objects directory would contain a separate folder for each of the samples containing the following files: barcodes.tsv, features.tsv and matrix.mtx
+#Split_objects directory would contain a separate folder for each of the samples containing the following files: barcodes.tsv, features.tsv and matrix.mtx (example can be downloaded from:  https://heibox.uni-heidelberg.de/d/34ace5842ae34f798277/).
 s1 <- Read10X(paste0(dir_ransick, "Split_objects/F1"))
 s1 <- CreateSeuratObject(counts = s1, project="Female_1")
 s2 <- Read10X(paste0(dir_ransick, "Split_objects/M1"))
@@ -334,6 +334,7 @@ FeaturePlot(SB_data.combined.sct, feature="doublet_scores")
 ### Loading SB genes in the mouse kidney
 
 ```{r, warning=FALSE, message=FALSE}
+# Annotated dataset can be downloaded from:  https://heibox.uni-heidelberg.de/d/34ace5842ae34f798277/.
 SB_data.combined.sct<-readRDS(paste0(dir_ransick, "Annotated_object/annotated_dataset.RDS"))
 
 SB_genes <-read_delim("../SB_genes_tables/040522_Mouse_summary_table_gpclust.csv", 
