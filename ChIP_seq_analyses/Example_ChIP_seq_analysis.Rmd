@@ -69,7 +69,7 @@ rownames(M_liver_rpkm) <- Mouse_rpkm$Names
 Mouse_summary_table_pcg <- read_delim("../SB_genes_tables/040522_Mouse_summary_table_gpclust.csv", 
     delim = "\t", escape_double = FALSE, 
     trim_ws = TRUE)
-mouse_liver <-subset(Mouse_summary_table_pcg, Liver==T)
+mouse_liver <-subset(Mouse_summary_table_pcg, Extended_Liver==T)
 mouse_mb_liver<-subset(mouse_liver, Liver_SB_score>0)
 mouse_fb_liver<-subset(mouse_liver, Liver_SB_score<0)
 ```
