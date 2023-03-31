@@ -12,6 +12,8 @@ output:
 Getting fold difference tables as input for GPclust.
 
 ```{r}
+setwd("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/Onset_SB_expression")
+
 library(depmixS4)
 library(gridExtra)
 library(dplyr)
@@ -105,7 +107,7 @@ for (sp in species){
     all_genes_table <-read_delim(paste0(calls_dir, "040522_", sp, "_summary_table_gpclust.csv"),delim = "\t", escape_double = FALSE, trim_ws = TRUE)
     ts_SB_genes <- all_genes_table[all_genes_table[,paste0(ts)]==T,]
     sp_ts_FD_input <- FD_input(all_meta, all_counts, ts_SB_genes, sp, ts)
-    write.table(sp_ts_FD_input, paste0(res_dir, sp, "_", ts, "_FDs.txt"), quote = F,sep = "\t")
+    # write.table(sp_ts_FD_input, paste0(res_dir, sp, "_", ts, "_FDs.txt"), quote = F,sep = "\t")
   }
 }
 ```
