@@ -1,0 +1,155 @@
+---
+title: "DESeq2 in individual time points"
+author: "Leticia"
+date: "14/02/2023"
+output: 
+  html_document: 
+    toc: true
+    toc_float: true
+    code_folding: hide
+    toc_depth: 3
+---
+
+# Aim
+
+To apply differential expression analysis to males and females at individual stages.
+
+# Loading data
+
+## Libraries
+
+```{r}
+library(DESeq2)
+library(readr)
+library(tidyverse)
+
+setwd("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/DESeq2_adults")
+dir.create("res/")
+```
+
+
+## Loading cpm tables
+
+```{r}
+dir_cpm <- "../Norm_counts"
+
+path_names2 <- list.files(path = dir_cpm , pattern = ".txt",
+           full.names = T)
+file_names2 <- list.files(path = dir_cpm , pattern = ".txt",
+           full.names = F)
+file_names2 <- gsub("CountsMajorTissuesCor90.Norm.txt", "", file_names2)
+
+
+all_cpm <- lapply(path_names2, function(x){
+  file <-read.csv(x, row.names=1, sep="")
+  return(file)
+})
+
+names(all_cpm) <- file_names2
+```
+
+## Loading metadata
+
+```{r}
+dir_meta <- "../Metadata"
+
+path_names3 <- list.files(path = dir_meta , pattern = ".csv",
+           full.names = T)
+file_names3 <- list.files(path = dir_meta , pattern = ".csv",
+           full.names = F)
+file_names3 <- gsub(".sampleTable.csv", "", file_names3)
+
+all_meta <- lapply(path_names3, function(x){
+  file <-read_csv(x)
+  return(file)
+})
+
+names(all_meta)<- file_names3
+
+```
+
+
+## Loading raw counts tables
+
+```{r}
+dir_raw <- "../Raw_counts"
+
+path_names4 <- list.files(path = dir_raw , pattern = ".txt",
+           full.names = T)
+file_names4 <- list.files(path = dir_raw , pattern = ".txt",
+           full.names = F)
+file_names4 <- gsub("_counts_alltp.txt.gz", "", file_names4)
+
+
+all_raw <- lapply(path_names4, function(x){
+  file <-as.matrix(read.table(gzfile(x),header = TRUE))
+  return(file)
+})
+
+names(all_raw) <- file_names4
+```
+
+# Analysis
+
+```{r}
+species <- c("Mouse","Rat", "Rabbit")
+tissues <- c("Brain", "Cerebellum", "Heart","Kidney", "Liver")
+
+for (sp in species){
+  meta_sp <- all_meta[[sp]]
+  counts_sp <- all_raw[[sp]]
+  cpm_sp <- all_cpm[[sp]]
+  log_cpm_sp <-  as.matrix(log2(cpm_sp+1))
+  
+  for (ts in tissues){
+    # Subsetting metadata by organ 
+    meta_sp_ts <- subset(meta_sp, tissue==ts)
+    
+    if (sp == "Mouse"){
+      stages <- list("e13.5", "e16.5", "e17.5", "e18.5","P63")
+    }
+    
+    if (sp == "Rat"){
+      stages <- list("e15", "e19", "e20", "e20","P112")
+    }
+    
+    if (sp == "Rabbit"){
+      stages <- list(16.5, 21, 23, 27,216)
+    }
+  
+    for (st in 1:length(stages)){
+      stage <- stages[[st]]
+    meta_sp_ts_st <- subset(meta_sp_ts, group %in% stage)
+    
+    # Filtering time points where we don't have males or females and adding numbers to the replicates
+    meta_sp_ts_st %>% group_by(timePoint) %>% summarise(femCount = sum(sex == "Female"), maleCount = sum(sex == "Male"))%>% filter(femCount != 0 & maleCount != 0)%>% dplyr::select(timePoint)->use_tp
+    meta_sp_ts_st_filt <- subset(meta_sp_ts_st, timePoint %in% use_tp$timePoint)
+    rownames(meta_sp_ts_st_filt) <- meta_sp_ts_st_filt$id
+  
+
+    # Removing lowly expressed genes, keeping genes expressed in more than 2 sample along time course 
+    log_cpm_sp_ts <- log_cpm_sp [, meta_sp_ts_st_filt$id]
+    log_cpm_sp_ts_filt <- log_cpm_sp_ts[rowSums(log_cpm_sp_ts != 0) > 2, ]
+    gene_names <- rownames(log_cpm_sp_ts_filt)[rownames(log_cpm_sp_ts_filt) %in% rownames(counts_sp)]
+    
+    counts_sp_ts <-counts_sp[gene_names,as.character(meta_sp_ts_st_filt$id)]
+    
+    dds <- DESeqDataSetFromMatrix(countData = counts_sp_ts,
+                              colData = meta_sp_ts_st_filt,
+                              design = ~ sex)
+
+    dds <- DESeq(dds)
+    res <- results(dds)
+    res_df <- as.data.frame(res)
+    rownames_to_column(res_df, var="gene_id") ->res_df
+    res_df$species <- sp
+    res_df$tissue <- ts
+  
+    res_df$stage <- stage
+    # write.table(res_df, paste0("res/DESeq_", sp, "_", ts,"_", stage, ".txt"), sep="\t", col.names = T, row.names =F, quote=F) 
+    }
+  }
+}
+
+```
+
