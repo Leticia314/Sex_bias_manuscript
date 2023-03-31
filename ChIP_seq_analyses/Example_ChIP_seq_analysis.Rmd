@@ -26,6 +26,7 @@ library(org.Mm.eg.db)
 library(biomaRt)
 library(ggplot2)
 library(readr)
+setwd("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/ChIP_seq_analyses")
 
 #Function for getting the targets of a transcription factor. peak_data= data frame with peak data (coordinates) from the ChIPseq experiment; dist= maximal distance from a peak to a gene to consider that the TF is targeting that gene.
 getting_targets <- function(peak_data, dist=10000){
@@ -55,7 +56,7 @@ getting_targets <- function(peak_data, dist=10000){
 txdb <- TxDb.Mmusculus.UCSC.mm10.knownGene
 
 # Loading mouse metadata and RPKM table
-Mouse_sampleTable <- read_csv("../metadata/Mouse.sampleTable.csv")
+Mouse_sampleTable <- read_csv("../Metadata/Mouse.sampleTable.csv")
 Mouse_rpkm <- read.csv("../RPKM/110122_Mouse_rpkm_all_genes.txt", sep="")
 Mouse_rpkm <- subset(Mouse_rpkm, startsWith(as.character(Mouse_rpkm$Names), "ENS")|Mouse_rpkm$Names=="XLOC_045664"|Mouse_rpkm$Names=="XLOC_044866")
 
@@ -77,9 +78,13 @@ mouse_fb_liver<-subset(mouse_liver, Liver_SB_score<0)
 
 ```{r, warning=F, message=F}
 # Reading BED file with Cux2 peaks
-Cux2_peaks <- read_delim("../BED_files/EXP031263.liver.CUX2.MA0755.1.damo.bed", 
+Cux2_peaks1 <- read_delim("BED_files/EXP031263.liver.CUX2.MA0755.1.damo.bed", 
     "\t", escape_double = FALSE, col_names = FALSE, 
     trim_ws = TRUE)
+Cux2_peaks2 <- read_delim("BED_files/EXP031264.liver.CUX2.MA0755.1.damo.bed", 
+    "\t", escape_double = FALSE, col_names = FALSE, 
+    trim_ws = TRUE)
+Cux2_peaks <- rbind(Cux2_peaks1, Cux2_peaks2)
 
 colnames(Cux2_peaks) <- c("chr", "start", "end", "sam", "sc", "strand")
 

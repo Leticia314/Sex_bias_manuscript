@@ -70,8 +70,10 @@ tau <- function(x) {
 
 '%!in%' <- function(x,y)!('%in%'(x,y))
 
+setwd("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/Single_cell_analyses")
+
 #Directory where the data is
-dir_ransick <- "Ransick/"
+dir_ransick <- "Ransick_example_dataset/"
 ```
 
 
@@ -332,12 +334,12 @@ FeaturePlot(SB_data.combined.sct, feature="doublet_scores")
 ### Loading SB genes in the mouse kidney
 
 ```{r, warning=FALSE, message=FALSE}
-#SB_data.combined.sct<-readRDS(paste0(dir_ransick, "Annotated_object/annotated_dataset.RDS"))
+SB_data.combined.sct<-readRDS(paste0(dir_ransick, "Annotated_object/annotated_dataset.RDS"))
 
 SB_genes <-read_delim("../SB_genes_tables/040522_Mouse_summary_table_gpclust.csv", 
     "\t", escape_double = FALSE, trim_ws = TRUE)
 
-kidney_SB <- subset(SB_genes, Kidney==TRUE)
+kidney_SB <- subset(SB_genes, Extended_Kidney==TRUE)
 
 kidney_MB <- subset(kidney_SB, Kidney_SB_score>0 & chr!= "Y")
 kidney_FB <- subset(kidney_SB, Kidney_SB_score<0)
@@ -375,9 +377,6 @@ Plotting gene set scores for male-biased genes.
 ```{r}
 MB_scores <- sce.calc.score(SB_data.combined.sct_sce, kidney_MB$external_gene_name[kidney_MB$external_gene_name %in% rownames(SB_data.combined.sct)])
 
-print("The following FB genes are not in the single-cell dataset: ")
-table(kidney_MB$external_gene_name %in% rownames(SB_data.combined.sct))
-
 SB_data.combined.sct <-AddMetaData(SB_data.combined.sct, MB_scores, "MB_scores")
 
 FeaturePlot(SB_data.combined.sct,  features = "MB_scores", ncol = 1, 
@@ -397,7 +396,7 @@ stat.test <- SB_data.combined.sct_vln@meta.data %>%
 stat.test <- stat.test %>% add_xy_position(x = "cellTypes", dodge = 0.8)
 
 ggplot(SB_data.combined.sct_vln@meta.data, aes(x=cellTypes, y=MB_scores)) + 
-  geom_violin(aes(fill = sex))  + stat_pvalue_manual(stat.test, label = "p.adj.signif", size = 3) + theme(text = element_text(size = 15))  + theme(axis.text.x = element_text(angle = 45, hjust=1)) + ggtitle("Male-biased genes") + ylab("MB scores") + theme_classic2()+ scale_fill_manual(values=c("#895AA5","#F26622"))
+  geom_violin(aes(fill = sex))  + stat_pvalue_manual(stat.test, label = "p.adj.signif", size = 3) + theme(text = element_text(size = 15))  + ggtitle("Male-biased genes") + ylab("MB scores") + theme_classic2()+ scale_fill_manual(values=c("#895AA5","#F26622")) + theme(axis.text.x = element_text(angle = 45, hjust=1))
 ```
 
 #### Female-bias scores
@@ -406,9 +405,6 @@ Plotting gene set scores for female-biased genes.
 
 ```{r}
 FB_scores <- sce.calc.score(SB_data.combined.sct_sce, kidney_FB$external_gene_name[kidney_FB$external_gene_name %in% rownames(SB_data.combined.sct)])
-
-print("The following FB genes are not in the single-cell dataset: ")
-table(kidney_FB$external_gene_name %in% rownames(SB_data.combined.sct))
 
 SB_data.combined.sct <-AddMetaData(SB_data.combined.sct, FB_scores, "FB_scores")
 
@@ -430,7 +426,7 @@ stat.test <- SB_data.combined.sct_vln@meta.data %>%
 stat.test <- stat.test %>% add_xy_position(x = "cellTypes", dodge = 0.8)
 
 ggplot(SB_data.combined.sct_vln@meta.data, aes(x=cellTypes, y=FB_scores)) + 
-  geom_violin(aes(fill = sex))  + stat_pvalue_manual(stat.test, label = "p.adj.signif", size = 3) + theme(text = element_text(size = 15))  + theme(axis.text.x = element_text(angle = 45, hjust=1)) + ggtitle("Male-biased genes") + ylab("MB scores") + theme_classic2()+ scale_fill_manual(values=c("#895AA5","#F26622"))
+  geom_violin(aes(fill = sex))  + stat_pvalue_manual(stat.test, label = "p.adj.signif", size = 3) + theme(text = element_text(size = 15))   + ggtitle("Female-biased genes") + ylab("FB scores") + theme_classic2()+ scale_fill_manual(values=c("#895AA5","#F26622"))+ theme(axis.text.x = element_text(angle = 45, hjust=1))
 ```
 
 
