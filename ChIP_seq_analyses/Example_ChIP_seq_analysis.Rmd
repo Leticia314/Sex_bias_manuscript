@@ -40,7 +40,7 @@ getting_targets <- function(peak_data, dist=10000){
   # Results
   TF_targets <- as.data.frame(peaksAnno_TF)
   # Keeping only targets that are a smaller distance than "dist" to the peak
-  TF_targets$near <- ifelse(TF_targets$distanceToTSS<dist, T, F)
+  TF_targets$near <- ifelse(abs(TF_targets$distanceToTSS)<dist, T, F)
   TF_targets$target[TF_targets$near==T]<- TF_targets$ENSEMBL[TF_targets$near]
   TF_targets_names<- as.data.frame(unique(TF_targets$target))
   TF_targets_names<- TF_targets_names[complete.cases(TF_targets_names),]
