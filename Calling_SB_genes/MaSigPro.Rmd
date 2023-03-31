@@ -12,6 +12,8 @@ output:
 Using the maSigPro package to detect developmental sex-biased genes.
 
 ```{r}
+setwd("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/Calling_SB_genes")
+
 library(maSigPro)
 library(readr)
 
@@ -82,6 +84,7 @@ maSigPro_DE <- function(counts_ts, meta_ts){
 ## Running pipeline
 
 ```{r, message=FALSE, warning=FALSE}
+dir.create("MaSigPro_res")
 res_dir <- "MaSigPro_res/"
 
 species <- c("Human", "Mouse", "Rat", "Rabbit","Opossum", "Chicken")

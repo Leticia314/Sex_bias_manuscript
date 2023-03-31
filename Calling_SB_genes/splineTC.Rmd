@@ -14,6 +14,8 @@ Using the SplineTC package to detect developmental sex-biased genes.
 ## Libraries and functions 
 
 ```{r}
+setwd("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/Calling_SB_genes")
+
 library(splineTimeR)
 library(Biobase)
 library(readr)
@@ -139,6 +141,7 @@ splinePlot <- function(eSetObject, df, reference, toPlot="all", plotFileName) {
 ## Running pipeline
 
 ```{r}
+dir.create("splineTC_res")
 res_dir <- "splineTC_res/"
 
 species <- c( "Human", "Mouse", "Rat", "Rabbit", "Opossum", "Chicken")
@@ -149,7 +152,7 @@ for (sp in species){
   for (ts in tissues){
     sp_ts_prepro_data <- prepro_data_splineTC(sp, ts)
     diffExprs <- splineDiffExprs(eSetObject = sp_ts_prepro_data, df=3, cutoff.adj.pVal = 0.05, reference="Male", intercept = TRUE)
-     results[[paste0(sp, "_", ts)]] <- diffExprs
+    results[[paste0(sp, "_", ts)]] <- diffExprs
     
     # Plotting
     # splinePlot(eSetObject = data, df=3, reference = "Male", toPlot = rownames(diffExprs[diffExprs$adj.P.Val<0.05,]), plotFileName= paste0(res_dir, sp, "_", ts))

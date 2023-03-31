@@ -14,6 +14,8 @@ Using the DESeq2 package to detect developmental sex-biased genes.
 ## Libraries and functions
 
 ```{r, message=FALSE, warning=FALSE}
+setwd("~/R_analyses/280622_SB_repo/Sex_bias_manuscript/Calling_SB_genes")
+
 library(DESeq2)
 library(gplots)
 library(readr)
@@ -26,7 +28,7 @@ raw_counts_dir <- "../Raw_counts/"
 #Function for preparing data for DESEq2. sp= species; ts= tissue.
 prepro_data_DESeq2 <- function(sp, ts){
   # Loading counts and metadata from the species
-  meta_sp<- read_csv(paste0("../metadata/", sp, ".sampleTable.csv"))
+  meta_sp<- read_csv(paste0(metadata_dir, sp, ".sampleTable.csv"))
   counts_sp <- as.matrix(read.table(gzfile(paste0(raw_counts_dir, sp, "_counts_alltp.txt.gz")),header = TRUE))
   
   norm_counts_sp <- read.csv(paste0(counts_dir, sp, "CountsMajorTissuesCor90.Norm.txt"), row.names=1, sep="")
@@ -82,7 +84,8 @@ DESeq_calls <- function(counts_ts, meta_ts){
 ## Running pipeline
 
 ```{r, message=FALSE, warning=FALSE}
-res_dir <- "DESeq_res/"
+dir.create("DESeq_time_res")
+res_dir <- "DESeq_time_res/"
 
 species <- c("Human", "Mouse", "Rat", "Rabbit", "Opossum", "Chicken")
 tissues <- c("Brain", "Cerebellum", "Heart", "Kidney", "Liver")
