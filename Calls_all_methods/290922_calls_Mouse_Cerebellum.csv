@@ -1,0 +1,164 @@
+gene_id	tissue	species	n_pipe	pipe
+ENSMUSG00000036368	Cerebellum	Mouse	2	MaSigPro In-house 
+ENSMUSG00000038530	Cerebellum	Mouse	2	MaSigPro In-house 
+ENSMUSG00000039103	Cerebellum	Mouse	2	MaSigPro In-house 
+ENSMUSG00000037369	Cerebellum	Mouse	2	splineR In-house 
+ENSMUSG00000031226	Cerebellum	Mouse	2	DESeq2 In-house 
+ENSMUSG00000059751	Cerebellum	Mouse	2	DESeq2 In-house 
+ENSMUSG00000079297	Cerebellum	Mouse	2	DESeq2 In-house 
+ENSMUSG00000025332	Cerebellum	Mouse	4	DESeq2 splineR MaSigPro In-house 
+ENSMUSG00000032557	Cerebellum	Mouse	4	DESeq2 splineR MaSigPro In-house 
+ENSMUSG00000035150	Cerebellum	Mouse	4	DESeq2 splineR MaSigPro In-house 
+ENSMUSG00000056673	Cerebellum	Mouse	4	DESeq2 splineR MaSigPro In-house 
+ENSMUSG00000068457	Cerebellum	Mouse	4	DESeq2 splineR MaSigPro In-house 
+ENSMUSG00000069045	Cerebellum	Mouse	4	DESeq2 splineR MaSigPro In-house 
+ENSMUSG00000069049	Cerebellum	Mouse	4	DESeq2 splineR MaSigPro In-house 
+ENSMUSG00000099876	Cerebellum	Mouse	4	DESeq2 splineR MaSigPro In-house 
+XLOC_045664	Cerebellum	Mouse	4	DESeq2 splineR MaSigPro In-house 
+ENSMUSG00000101059	Cerebellum	Mouse	3	DESeq2 splineR In-house 
+XLOC_044866	Cerebellum	Mouse	3	DESeq2 splineR In-house 
+ENSMUSG00000000058	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000000088	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000001300	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000002109	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000002910	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000004098	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000005360	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000005609	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000006127	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000006673	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000007216	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000009739	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000010122	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000014294	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000015176	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000015536	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000016194	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000017390	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000018736	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000020523	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000021032	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000021091	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000021114	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000021548	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000021725	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000021752	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000021848	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000021975	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000022185	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000022247	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000023046	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000023913	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000024357	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000024410	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000024457	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000024985	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000025500	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000025790	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000026509	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000026571	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000027130	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000027956	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000027999	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000028330	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000028437	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000028771	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000029595	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000029670	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000030110	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000030124	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000030507	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000030630	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000031231	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000031256	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000031590	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000031734	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000031737	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000033278	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000033669	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000034621	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000034936	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000035069	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000035298	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000035495	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000036002	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000036721	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000036760	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000036904	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000037262	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000037415	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000037710	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000037984	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000038963	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000039043	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000039765	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000040158	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000040250	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000040412	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000040675	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000040883	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000041907	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000043445	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000043458	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000044043	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000044134	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000044641	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000044792	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000045493	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000045795	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000045975	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000046761	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000046844	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000047022	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000047766	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000048728	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000048899	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000048921	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000049690	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000049728	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000050010	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000051497	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000051695	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000052305	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000052748	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000055493	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000056383	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000057554	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000057615	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000057766	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000059182	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000059183	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000059540	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000060679	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000060969	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000061517	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000061650	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000069206	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000070471	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000070643	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000074406	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000074652	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000078716	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000078878	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000089810	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000097750	Cerebellum	Mouse	1	MaSigPro 
+ENSMUSG00000019505	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000026888	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000027236	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000027940	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000028028	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000028809	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000029062	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000029725	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000040586	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000045031	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000047843	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000052146	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000052676	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000057036	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000058600	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000065676	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000074384	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000079108	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000081729	Cerebellum	Mouse	1	In-house 
+ENSMUSG00000101567	Cerebellum	Mouse	1	In-house 

@@ -1,0 +1,1244 @@
+gene_id	tissue	species	n_pipe	pipe
+ENSGALG00000009382	Cerebellum	Chicken	2	splineR MaSigPro 
+ENSGALG00000000660	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000002797	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000004647	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000005134	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000006047	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000007914	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000008969	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000009576	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000010073	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000010301	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000013067	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000021676	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000026009	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000027126	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000029036	Cerebellum	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000029045	Cerebellum	Chicken	2	DESeq2 splineR 
+ENSGALG00000000055	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000000208	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000000600	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000001808	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000001849	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000001867	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000001932	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000002087	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000002234	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000002439	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000002599	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000002735	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000002878	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000003019	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000003295	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000003645	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000003726	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000004059	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000004106	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000005048	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000005164	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000005323	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000005416	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000005800	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000006099	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000006822	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000006839	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000007493	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000007715	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000008124	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000008714	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000009365	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000009771	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000010243	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000010323	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000011139	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000011301	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000011472	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000012017	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000012181	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000012575	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000012601	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000013107	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000013295	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000013588	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000013794	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000014016	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000014369	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000014447	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000014690	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000014729	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000014751	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000014768	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000014769	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000014813	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000014855	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000014875	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000014911	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015008	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015101	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015107	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015110	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015111	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015115	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015167	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015301	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015468	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015624	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015630	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015682	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000015702	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000016014	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000016397	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000016438	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000016665	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000016932	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000017013	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000020380	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000020561	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000021212	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000023379	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000026154	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000026431	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000026924	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000027224	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000027308	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000027357	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000027752	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000027887	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000028673	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000029076	Cerebellum	Chicken	2	MaSigPro In-house 
+ENSGALG00000025587	Cerebellum	Chicken	2	splineR In-house 
+ENSGALG00000014877	Cerebellum	Chicken	2	splineR In-house 
+ENSGALG00000023946	Cerebellum	Chicken	2	splineR In-house 
+ENSGALG00000002125	Cerebellum	Chicken	2	splineR In-house 
+ENSGALG00000006071	Cerebellum	Chicken	2	splineR In-house 
+ENSGALG00000000187	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000000253	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000000779	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000001705	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000001972	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000002326	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000002839	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000003101	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000004339	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000004425	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000004692	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000004759	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000005749	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000005821	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000006206	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000006630	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000007767	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000008121	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000009095	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000009264	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000012606	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000012753	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000012974	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000013294	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000014570	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000014711	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000014737	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000014786	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000014798	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000014944	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000014946	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000015660	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000016467	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000016598	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000017658	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000018352	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000020538	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000021762	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000021897	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000022892	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000023448	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000023510	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000023718	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000024621	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000024749	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000025902	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000025921	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000026516	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000026677	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000026704	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000026776	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000026928	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000027041	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000027418	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000027658	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000027666	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000027808	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000028363	Cerebellum	Chicken	2	DESeq2 In-house 
+ENSGALG00000007404	Cerebellum	Chicken	3	DESeq2 splineR MaSigPro 
+ENSGALG00000014256	Cerebellum	Chicken	3	DESeq2 splineR MaSigPro 
+ENSGALG00000021344	Cerebellum	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000000919	Cerebellum	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000003716	Cerebellum	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000015284	Cerebellum	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000000379	Cerebellum	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000015052	Cerebellum	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000015691	Cerebellum	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000015684	Cerebellum	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000015616	Cerebellum	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000014903	Cerebellum	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000014692	Cerebellum	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000001833	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000002142	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000002948	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000003204	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000003662	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000004702	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000006222	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000007044	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000008431	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000008570	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000010688	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000011286	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000012917	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014066	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000015113	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000016839	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000018819	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000021304	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000023083	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000027512	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000028782	Cerebellum	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000000171	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000234	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000280	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001109	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001766	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001851	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002014	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002022	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002371	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002386	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002677	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002917	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003235	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003353	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005423	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005441	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005818	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005959	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000008176	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000008237	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010178	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010180	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010187	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010652	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010697	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010879	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010896	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000011015	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000011693	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012009	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012608	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012629	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012809	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000013689	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014645	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014657	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014682	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014716	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014727	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014743	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014773	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014846	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014869	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014943	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015014	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015028	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015139	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015145	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015208	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015209	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015257	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015268	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015315	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015385	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015386	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015390	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015540	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015799	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015949	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000016716	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000017510	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000018346	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000020558	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000021951	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023089	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023411	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023552	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000025677	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000025947	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026362	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026899	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027073	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027116	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027251	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027345	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027472	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027728	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027907	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027927	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027968	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028005	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028365	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028484	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028736	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028913	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000029099	Cerebellum	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000004	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000140	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000189	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000215	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000218	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000220	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000241	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000247	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000264	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000273	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000386	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000395	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000419	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000428	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001184	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001538	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001668	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001677	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001732	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001756	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001761	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001763	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001765	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001782	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001801	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001843	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001864	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001944	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001947	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001954	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001986	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002009	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002023	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002064	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002110	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002187	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002227	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002250	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002294	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002308	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002341	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002345	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002394	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002399	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002419	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002430	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002505	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002523	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002605	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002696	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002777	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002805	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002852	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002872	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003049	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003066	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003087	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003168	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003248	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003288	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003326	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003365	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003373	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003387	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003547	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003558	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003605	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003631	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003688	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003708	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003775	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004311	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004350	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004353	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004390	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004825	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005016	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005316	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005330	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005337	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005346	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005354	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005368	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005390	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005395	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005433	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005785	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005806	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005831	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005846	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005994	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008174	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008197	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008204	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008229	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008870	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008887	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000009070	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000009227	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010147	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010164	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010694	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012350	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012583	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012585	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012586	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012588	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012589	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012591	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012592	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012598	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012607	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012615	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012618	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012620	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012621	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012624	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012627	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012628	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013312	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013377	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013493	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013510	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013511	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013512	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013809	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014003	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014168	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014184	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014366	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014441	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014545	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014584	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014589	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014642	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014644	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014648	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014649	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014650	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014651	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014661	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014664	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014670	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014672	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014678	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014684	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014691	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014697	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014700	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014703	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014709	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014712	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014718	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014719	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014721	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014724	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014725	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014732	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014734	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014740	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014747	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014753	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014756	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014765	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014767	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014775	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014787	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014788	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014789	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014790	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014810	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014819	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014826	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014832	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014845	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014851	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014859	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014863	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014865	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014867	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014874	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014880	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014891	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014906	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014916	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014939	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014942	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014945	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014948	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014952	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014956	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014960	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015002	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015019	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015027	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015036	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015050	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015058	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015071	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015078	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015081	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015082	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015083	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015090	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015091	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015097	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015103	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015105	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015108	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015118	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015138	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015144	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015155	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015156	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015164	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015170	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015177	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015179	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015184	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015256	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015264	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015288	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015311	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015320	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015326	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015331	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015333	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015349	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015368	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015372	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015376	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015391	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015397	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015399	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015439	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015442	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015443	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015451	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015543	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015545	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015548	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015571	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015576	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015577	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015589	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015603	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015617	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015618	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015620	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015641	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015663	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015677	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015683	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015689	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015704	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017333	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017447	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017558	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017706	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018479	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018565	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018639	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018874	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020523	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020528	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020534	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020569	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021365	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021378	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021397	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021843	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022174	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022277	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022611	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022674	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022679	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022683	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022685	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022690	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023042	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023066	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023094	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023443	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000025842	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000025868	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000025915	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026001	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026028	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026195	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026203	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026300	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026538	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026547	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026588	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026659	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026757	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026991	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027080	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027170	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027258	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027261	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027295	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027332	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027334	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027428	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027564	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027714	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027843	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027891	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027895	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027932	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027963	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028014	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028026	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028135	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028149	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028168	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028267	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028298	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028307	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028998	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029049	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029118	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029162	Cerebellum	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000724	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000002907	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000004837	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000005066	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000005391	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000005572	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000005668	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000006101	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000009008	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000009712	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000009772	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000010154	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000010296	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000011086	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000012115	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000012415	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000012538	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000012863	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000013733	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000013781	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000015163	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000016753	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000017322	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000017819	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000017860	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000017907	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000017926	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000017933	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000019019	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000024034	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000025590	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000025714	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000025794	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000025958	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000026335	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000026459	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000026611	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000026742	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000026748	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000026846	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000026887	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000027090	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000027151	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000027235	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000027337	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000027606	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000027959	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000028371	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000028896	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000028901	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000029059	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000029131	Cerebellum	Chicken	1	DESeq2 
+ENSGALG00000003007	Cerebellum	Chicken	1	splineR 
+ENSGALG00000025396	Cerebellum	Chicken	1	splineR 
+ENSGALG00000012250	Cerebellum	Chicken	1	splineR 
+ENSGALG00000008646	Cerebellum	Chicken	1	splineR 
+ENSGALG00000007961	Cerebellum	Chicken	1	splineR 
+ENSGALG00000005795	Cerebellum	Chicken	1	splineR 
+ENSGALG00000015609	Cerebellum	Chicken	1	splineR 
+ENSGALG00000002493	Cerebellum	Chicken	1	splineR 
+ENSGALG00000016991	Cerebellum	Chicken	1	splineR 
+ENSGALG00000000033	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000160	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000196	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000242	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000316	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000324	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000362	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000478	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000533	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000535	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000558	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000585	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000623	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000643	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000650	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000669	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000670	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000834	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000856	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000863	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000883	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000908	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000950	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000955	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001103	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001158	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001233	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001302	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001310	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001419	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001446	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001465	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001525	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001551	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001567	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001779	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001828	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001913	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001933	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000001966	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002038	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002057	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002078	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002091	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002098	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002137	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002232	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002284	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002315	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002352	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002377	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002398	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002467	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002574	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002671	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002681	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002710	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002823	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000002930	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003025	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003126	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003150	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003153	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003201	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003267	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003308	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003321	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003325	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003358	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003371	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003429	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003445	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003523	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003572	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003630	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003658	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003670	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003706	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003712	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003722	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003732	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003755	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003757	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003793	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003870	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003893	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003951	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000003976	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004029	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004039	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004040	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004045	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004057	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004074	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004121	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004153	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004198	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004203	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004208	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004219	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004300	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004362	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004378	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004410	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004413	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004481	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004509	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004585	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004683	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004691	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004730	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004798	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004873	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004888	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004959	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000004998	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005086	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005132	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005135	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005155	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005171	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005211	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005256	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005268	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005338	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005418	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005425	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005456	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005575	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005576	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005601	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005655	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005658	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005667	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005727	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005753	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005814	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005894	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000005973	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006022	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006083	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006145	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006149	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006193	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006234	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006252	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006290	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006456	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006489	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006520	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006531	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006561	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006628	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006643	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006702	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006742	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006764	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006782	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006787	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006841	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006949	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000006989	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007023	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007111	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007181	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007185	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007287	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007351	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007380	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007395	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007510	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007551	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007676	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007683	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007763	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007822	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007855	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007866	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000007875	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008110	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008167	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008188	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008236	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008308	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008348	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008400	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008419	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008497	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008517	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008532	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008534	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008638	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008652	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008667	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008755	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008815	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008893	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008902	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008938	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008956	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000008984	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009078	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009179	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009185	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009362	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009373	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009428	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009442	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009538	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009539	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009707	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009778	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009865	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009881	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009905	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009941	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000009954	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010151	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010156	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010208	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010291	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010470	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010507	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010564	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010661	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010681	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010709	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010716	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010722	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010775	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010781	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010837	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000010861	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011008	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011065	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011084	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011255	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011306	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011372	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011394	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011403	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011419	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011487	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011522	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011525	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011530	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011609	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011626	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011630	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011659	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011833	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000011904	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012037	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012039	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012043	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012201	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012209	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012218	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012245	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012304	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012310	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012379	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012421	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012438	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012454	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012709	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012747	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012759	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012775	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012798	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012827	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012834	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012847	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012857	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000012952	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000013070	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000013095	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000013136	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000013759	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000013771	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000013821	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000013837	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000013858	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000013862	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000014140	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000014192	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000014388	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000014567	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000014862	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000014866	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000014995	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015001	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015024	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015225	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015240	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015249	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015297	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015299	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015304	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015328	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015332	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015379	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015410	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015436	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015542	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015656	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015751	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015780	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015800	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015808	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015821	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000015992	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016062	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016136	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016139	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016331	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016363	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016372	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016437	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016444	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016501	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016551	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016680	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016724	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016740	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016813	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016861	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016889	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016898	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016907	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000016980	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000017048	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000017090	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000017163	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000017309	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000017347	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000017393	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000018401	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000018828	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000018998	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000019042	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000019087	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000019317	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000019438	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000019598	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000019979	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000020438	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000020488	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000020927	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000021128	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000021262	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000021271	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000021572	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000021653	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000022875	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000022884	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000022950	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000023430	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000023682	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000023689	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000023776	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000023786	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000023812	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000023958	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000024120	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000024295	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000024372	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000024485	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000025733	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000025747	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000025802	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000025803	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000025907	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000025927	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000026104	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000026119	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000026133	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000026140	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000026271	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000026490	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000026788	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000026891	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000026900	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000026957	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000026958	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000027070	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000027420	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000027497	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000027526	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000027541	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000027696	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000027800	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000027836	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000027905	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000027938	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000027950	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000028037	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000028167	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000028200	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000028221	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000028322	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000028466	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000028561	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000028678	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000028847	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000028879	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000028906	Cerebellum	Chicken	1	MaSigPro 
+ENSGALG00000000151	Cerebellum	Chicken	1	In-house 
+ENSGALG00000000161	Cerebellum	Chicken	1	In-house 
+ENSGALG00000000226	Cerebellum	Chicken	1	In-house 
+ENSGALG00000000243	Cerebellum	Chicken	1	In-house 
+ENSGALG00000000255	Cerebellum	Chicken	1	In-house 
+ENSGALG00000000276	Cerebellum	Chicken	1	In-house 
+ENSGALG00000000603	Cerebellum	Chicken	1	In-house 
+ENSGALG00000000708	Cerebellum	Chicken	1	In-house 
+ENSGALG00000000882	Cerebellum	Chicken	1	In-house 
+ENSGALG00000000954	Cerebellum	Chicken	1	In-house 
+ENSGALG00000000984	Cerebellum	Chicken	1	In-house 
+ENSGALG00000001093	Cerebellum	Chicken	1	In-house 
+ENSGALG00000001096	Cerebellum	Chicken	1	In-house 
+ENSGALG00000001330	Cerebellum	Chicken	1	In-house 
+ENSGALG00000001856	Cerebellum	Chicken	1	In-house 
+ENSGALG00000001918	Cerebellum	Chicken	1	In-house 
+ENSGALG00000001985	Cerebellum	Chicken	1	In-house 
+ENSGALG00000002069	Cerebellum	Chicken	1	In-house 
+ENSGALG00000002162	Cerebellum	Chicken	1	In-house 
+ENSGALG00000002340	Cerebellum	Chicken	1	In-house 
+ENSGALG00000002412	Cerebellum	Chicken	1	In-house 
+ENSGALG00000002539	Cerebellum	Chicken	1	In-house 
+ENSGALG00000002548	Cerebellum	Chicken	1	In-house 
+ENSGALG00000003409	Cerebellum	Chicken	1	In-house 
+ENSGALG00000003477	Cerebellum	Chicken	1	In-house 
+ENSGALG00000003733	Cerebellum	Chicken	1	In-house 
+ENSGALG00000003747	Cerebellum	Chicken	1	In-house 
+ENSGALG00000003792	Cerebellum	Chicken	1	In-house 
+ENSGALG00000003914	Cerebellum	Chicken	1	In-house 
+ENSGALG00000004343	Cerebellum	Chicken	1	In-house 
+ENSGALG00000004348	Cerebellum	Chicken	1	In-house 
+ENSGALG00000004351	Cerebellum	Chicken	1	In-house 
+ENSGALG00000004438	Cerebellum	Chicken	1	In-house 
+ENSGALG00000004629	Cerebellum	Chicken	1	In-house 
+ENSGALG00000005192	Cerebellum	Chicken	1	In-house 
+ENSGALG00000005215	Cerebellum	Chicken	1	In-house 
+ENSGALG00000005845	Cerebellum	Chicken	1	In-house 
+ENSGALG00000005861	Cerebellum	Chicken	1	In-house 
+ENSGALG00000006173	Cerebellum	Chicken	1	In-house 
+ENSGALG00000006464	Cerebellum	Chicken	1	In-house 
+ENSGALG00000006647	Cerebellum	Chicken	1	In-house 
+ENSGALG00000006674	Cerebellum	Chicken	1	In-house 
+ENSGALG00000006698	Cerebellum	Chicken	1	In-house 
+ENSGALG00000006780	Cerebellum	Chicken	1	In-house 
+ENSGALG00000006855	Cerebellum	Chicken	1	In-house 
+ENSGALG00000006933	Cerebellum	Chicken	1	In-house 
+ENSGALG00000007220	Cerebellum	Chicken	1	In-house 
+ENSGALG00000007373	Cerebellum	Chicken	1	In-house 
+ENSGALG00000007388	Cerebellum	Chicken	1	In-house 
+ENSGALG00000007403	Cerebellum	Chicken	1	In-house 
+ENSGALG00000008218	Cerebellum	Chicken	1	In-house 
+ENSGALG00000008255	Cerebellum	Chicken	1	In-house 
+ENSGALG00000008404	Cerebellum	Chicken	1	In-house 
+ENSGALG00000008421	Cerebellum	Chicken	1	In-house 
+ENSGALG00000008896	Cerebellum	Chicken	1	In-house 
+ENSGALG00000008908	Cerebellum	Chicken	1	In-house 
+ENSGALG00000009058	Cerebellum	Chicken	1	In-house 
+ENSGALG00000009560	Cerebellum	Chicken	1	In-house 
+ENSGALG00000010179	Cerebellum	Chicken	1	In-house 
+ENSGALG00000010440	Cerebellum	Chicken	1	In-house 
+ENSGALG00000010683	Cerebellum	Chicken	1	In-house 
+ENSGALG00000010798	Cerebellum	Chicken	1	In-house 
+ENSGALG00000011145	Cerebellum	Chicken	1	In-house 
+ENSGALG00000011290	Cerebellum	Chicken	1	In-house 
+ENSGALG00000011434	Cerebellum	Chicken	1	In-house 
+ENSGALG00000011740	Cerebellum	Chicken	1	In-house 
+ENSGALG00000012066	Cerebellum	Chicken	1	In-house 
+ENSGALG00000012102	Cerebellum	Chicken	1	In-house 
+ENSGALG00000012112	Cerebellum	Chicken	1	In-house 
+ENSGALG00000012166	Cerebellum	Chicken	1	In-house 
+ENSGALG00000012333	Cerebellum	Chicken	1	In-house 
+ENSGALG00000012420	Cerebellum	Chicken	1	In-house 
+ENSGALG00000012577	Cerebellum	Chicken	1	In-house 
+ENSGALG00000012594	Cerebellum	Chicken	1	In-house 
+ENSGALG00000012595	Cerebellum	Chicken	1	In-house 
+ENSGALG00000012610	Cerebellum	Chicken	1	In-house 
+ENSGALG00000013436	Cerebellum	Chicken	1	In-house 
+ENSGALG00000013483	Cerebellum	Chicken	1	In-house 
+ENSGALG00000013783	Cerebellum	Chicken	1	In-house 
+ENSGALG00000013907	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014022	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014179	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014190	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014284	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014337	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014356	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014656	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014668	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014673	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014675	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014717	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014726	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014784	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014807	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014824	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014861	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014914	Cerebellum	Chicken	1	In-house 
+ENSGALG00000014933	Cerebellum	Chicken	1	In-house 
+ENSGALG00000015216	Cerebellum	Chicken	1	In-house 
+ENSGALG00000015263	Cerebellum	Chicken	1	In-house 
+ENSGALG00000015433	Cerebellum	Chicken	1	In-house 
+ENSGALG00000015655	Cerebellum	Chicken	1	In-house 
+ENSGALG00000015669	Cerebellum	Chicken	1	In-house 
+ENSGALG00000015906	Cerebellum	Chicken	1	In-house 
+ENSGALG00000016348	Cerebellum	Chicken	1	In-house 
+ENSGALG00000016394	Cerebellum	Chicken	1	In-house 
+ENSGALG00000016616	Cerebellum	Chicken	1	In-house 
+ENSGALG00000017405	Cerebellum	Chicken	1	In-house 
+ENSGALG00000017849	Cerebellum	Chicken	1	In-house 
+ENSGALG00000017880	Cerebellum	Chicken	1	In-house 
+ENSGALG00000019025	Cerebellum	Chicken	1	In-house 
+ENSGALG00000019570	Cerebellum	Chicken	1	In-house 
+ENSGALG00000020009	Cerebellum	Chicken	1	In-house 
+ENSGALG00000020329	Cerebellum	Chicken	1	In-house 
+ENSGALG00000020513	Cerebellum	Chicken	1	In-house 
+ENSGALG00000020582	Cerebellum	Chicken	1	In-house 
+ENSGALG00000021009	Cerebellum	Chicken	1	In-house 
+ENSGALG00000021057	Cerebellum	Chicken	1	In-house 
+ENSGALG00000021240	Cerebellum	Chicken	1	In-house 
+ENSGALG00000021593	Cerebellum	Chicken	1	In-house 
+ENSGALG00000021750	Cerebellum	Chicken	1	In-house 
+ENSGALG00000023023	Cerebellum	Chicken	1	In-house 
+ENSGALG00000023179	Cerebellum	Chicken	1	In-house 
+ENSGALG00000024272	Cerebellum	Chicken	1	In-house 
+ENSGALG00000024332	Cerebellum	Chicken	1	In-house 
+ENSGALG00000024938	Cerebellum	Chicken	1	In-house 
+ENSGALG00000025449	Cerebellum	Chicken	1	In-house 
+ENSGALG00000025736	Cerebellum	Chicken	1	In-house 
+ENSGALG00000025780	Cerebellum	Chicken	1	In-house 
+ENSGALG00000025993	Cerebellum	Chicken	1	In-house 
+ENSGALG00000026107	Cerebellum	Chicken	1	In-house 
+ENSGALG00000026192	Cerebellum	Chicken	1	In-house 
+ENSGALG00000026268	Cerebellum	Chicken	1	In-house 
+ENSGALG00000026269	Cerebellum	Chicken	1	In-house 
+ENSGALG00000026280	Cerebellum	Chicken	1	In-house 
+ENSGALG00000026377	Cerebellum	Chicken	1	In-house 
+ENSGALG00000026395	Cerebellum	Chicken	1	In-house 
+ENSGALG00000026510	Cerebellum	Chicken	1	In-house 
+ENSGALG00000026598	Cerebellum	Chicken	1	In-house 
+ENSGALG00000026980	Cerebellum	Chicken	1	In-house 
+ENSGALG00000026992	Cerebellum	Chicken	1	In-house 
+ENSGALG00000027389	Cerebellum	Chicken	1	In-house 
+ENSGALG00000027517	Cerebellum	Chicken	1	In-house 
+ENSGALG00000027603	Cerebellum	Chicken	1	In-house 
+ENSGALG00000027785	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028210	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028234	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028288	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028350	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028544	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028641	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028675	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028751	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028928	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028946	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028989	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028996	Cerebellum	Chicken	1	In-house 
+ENSGALG00000028999	Cerebellum	Chicken	1	In-house 
+ENSGALG00000029154	Cerebellum	Chicken	1	In-house 
+ENSGALG00000029160	Cerebellum	Chicken	1	In-house 

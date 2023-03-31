@@ -1,0 +1,1270 @@
+gene_id	tissue	species	n_pipe	pipe
+ENSGALG00000017621	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000027497	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000028824	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000013350	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000006688	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000005412	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000002210	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000011475	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000000576	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000026809	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000007302	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000027798	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000018815	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000026394	Heart	Chicken	2	splineR MaSigPro 
+ENSGALG00000004170	Heart	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000005330	Heart	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000005351	Heart	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000006724	Heart	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000011284	Heart	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014673	Heart	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014690	Heart	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014711	Heart	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000015148	Heart	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000000004	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000000151	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000000638	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000000720	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000001630	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000001717	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000003258	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000004849	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000005577	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000005971	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000006348	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000006409	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000008625	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000008811	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000008840	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000010440	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000010910	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000011252	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000011994	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000012188	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000013740	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000014773	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000014784	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000015097	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000015141	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000015879	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000019873	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000026884	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000027075	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000027848	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000028529	Heart	Chicken	2	MaSigPro In-house 
+ENSGALG00000015902	Heart	Chicken	2	splineR In-house 
+ENSGALG00000000308	Heart	Chicken	2	splineR In-house 
+ENSGALG00000025964	Heart	Chicken	2	splineR In-house 
+ENSGALG00000027155	Heart	Chicken	2	splineR In-house 
+ENSGALG00000012102	Heart	Chicken	2	splineR In-house 
+ENSGALG00000021636	Heart	Chicken	2	splineR In-house 
+ENSGALG00000028448	Heart	Chicken	2	splineR In-house 
+ENSGALG00000029016	Heart	Chicken	2	splineR In-house 
+ENSGALG00000005897	Heart	Chicken	2	splineR In-house 
+ENSGALG00000027418	Heart	Chicken	2	splineR In-house 
+ENSGALG00000000495	Heart	Chicken	2	splineR In-house 
+ENSGALG00000002722	Heart	Chicken	2	splineR In-house 
+ENSGALG00000028937	Heart	Chicken	2	splineR In-house 
+ENSGALG00000027630	Heart	Chicken	2	splineR In-house 
+ENSGALG00000017627	Heart	Chicken	2	splineR In-house 
+ENSGALG00000021637	Heart	Chicken	2	splineR In-house 
+ENSGALG00000003387	Heart	Chicken	2	splineR In-house 
+ENSGALG00000004476	Heart	Chicken	2	splineR In-house 
+ENSGALG00000025923	Heart	Chicken	2	splineR In-house 
+ENSGALG00000012620	Heart	Chicken	2	splineR In-house 
+ENSGALG00000000723	Heart	Chicken	2	splineR In-house 
+ENSGALG00000006760	Heart	Chicken	2	splineR In-house 
+ENSGALG00000007886	Heart	Chicken	2	splineR In-house 
+ENSGALG00000014317	Heart	Chicken	2	splineR In-house 
+ENSGALG00000003345	Heart	Chicken	2	splineR In-house 
+ENSGALG00000006513	Heart	Chicken	2	splineR In-house 
+ENSGALG00000026878	Heart	Chicken	2	splineR In-house 
+ENSGALG00000004351	Heart	Chicken	2	splineR In-house 
+ENSGALG00000004446	Heart	Chicken	2	splineR In-house 
+ENSGALG00000000208	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000001677	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000001745	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000002069	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000002162	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000002266	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000003750	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000004491	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000004543	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000005416	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000005800	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000008870	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000009241	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000009935	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000010178	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000010721	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000010815	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000011604	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000011705	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000012575	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000012623	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000012989	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000013194	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000014675	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000014716	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000014718	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000014798	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000014840	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000014880	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000014930	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000014933	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000014978	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000015002	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000015014	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000015036	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000015083	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000015101	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000015208	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000015256	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000015386	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000015545	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000015682	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000015684	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000015833	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000016456	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000017005	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000020627	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000021355	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000021541	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000023036	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000023266	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000023622	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000023718	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000026899	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000027483	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000027492	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000027728	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000027927	Heart	Chicken	2	DESeq2 In-house 
+ENSGALG00000000140	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000189	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000218	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000244	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000247	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000264	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000386	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000395	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001668	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001756	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001761	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001763	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001765	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001782	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001801	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001843	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001864	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001947	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001986	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002009	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002087	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002187	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002250	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002308	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002599	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002605	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002852	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003019	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003288	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003295	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003365	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003547	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003605	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003688	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003708	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004311	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005316	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005337	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005354	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005368	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005390	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005395	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005433	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005785	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005812	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000007044	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008174	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008229	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008887	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000009227	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010164	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010187	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010228	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012350	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012585	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012589	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012591	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012598	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012607	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012615	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012618	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012621	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012624	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013312	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013510	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013511	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014003	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014022	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014168	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014184	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014366	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014441	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014447	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014545	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014584	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014642	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014648	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014649	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014651	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014661	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014664	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014670	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014672	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014684	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014691	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014697	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014709	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014729	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014732	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014740	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014756	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014787	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014790	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014810	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014826	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014835	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014851	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014859	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014863	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014891	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014916	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014942	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014952	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014956	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014960	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015032	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015071	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015082	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015090	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015091	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015103	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015108	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015110	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015118	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015139	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015156	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015179	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015209	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015284	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015311	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015326	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015331	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015376	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015391	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015397	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015451	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015543	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015548	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015576	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015577	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015589	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015603	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015617	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015620	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015641	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015677	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015691	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015704	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015788	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017271	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017558	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017706	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018479	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018565	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018639	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018874	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020523	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020528	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020534	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020569	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021365	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021378	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022174	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022611	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022674	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022679	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022683	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022685	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022690	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000025868	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000025915	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026195	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026203	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026300	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026395	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026547	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026588	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026757	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027080	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027170	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027258	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027261	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027295	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027334	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027428	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027564	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027714	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027843	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027891	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027895	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027932	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027963	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028014	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028135	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028149	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028168	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028307	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028913	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028998	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029049	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029118	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029162	Heart	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029062	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000027247	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000005806	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000007109	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000014788	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000016438	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000025897	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000023958	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000014753	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000028884	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000028753	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000012629	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000014813	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000011296	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000001808	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000008850	Heart	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000000215	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000241	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000273	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000428	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001732	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001851	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001944	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001954	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002014	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002022	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002110	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002125	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002294	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002341	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002345	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002394	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002399	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002419	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002430	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002523	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002696	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002744	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002777	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002805	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002872	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002917	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002948	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003087	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003168	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003235	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003326	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003373	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003558	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003631	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003775	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004350	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004353	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004390	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004438	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005016	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005346	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005502	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005821	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005846	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000007767	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000008197	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000008237	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010147	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010694	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012586	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012592	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012608	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012627	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000013377	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000013493	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000013512	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000013809	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014589	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014644	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014678	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014682	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014700	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014703	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014712	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014719	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014721	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014724	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014725	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014734	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014747	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014765	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014767	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014775	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014789	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014832	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014867	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014872	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014874	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014906	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014912	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014939	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014948	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015019	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015105	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015144	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015145	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015155	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015177	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015184	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015264	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015268	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015288	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015320	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015333	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015349	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015352	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015368	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015372	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015385	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015399	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015439	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015442	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015443	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015571	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015663	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015683	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015689	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000016467	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000016716	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000021951	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023042	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023089	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023157	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023379	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023443	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000024938	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000025842	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000025983	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026001	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026028	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026107	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026357	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026538	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026704	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026928	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027332	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027345	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027472	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027968	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028026	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028267	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028736	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028901	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000029099	Heart	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000120	Heart	Chicken	1	DESeq2 
+ENSGALG00000000337	Heart	Chicken	1	DESeq2 
+ENSGALG00000001071	Heart	Chicken	1	DESeq2 
+ENSGALG00000002327	Heart	Chicken	1	DESeq2 
+ENSGALG00000003777	Heart	Chicken	1	DESeq2 
+ENSGALG00000004420	Heart	Chicken	1	DESeq2 
+ENSGALG00000005176	Heart	Chicken	1	DESeq2 
+ENSGALG00000005541	Heart	Chicken	1	DESeq2 
+ENSGALG00000006091	Heart	Chicken	1	DESeq2 
+ENSGALG00000006543	Heart	Chicken	1	DESeq2 
+ENSGALG00000009507	Heart	Chicken	1	DESeq2 
+ENSGALG00000009705	Heart	Chicken	1	DESeq2 
+ENSGALG00000009867	Heart	Chicken	1	DESeq2 
+ENSGALG00000010206	Heart	Chicken	1	DESeq2 
+ENSGALG00000011205	Heart	Chicken	1	DESeq2 
+ENSGALG00000011577	Heart	Chicken	1	DESeq2 
+ENSGALG00000012010	Heart	Chicken	1	DESeq2 
+ENSGALG00000012228	Heart	Chicken	1	DESeq2 
+ENSGALG00000012464	Heart	Chicken	1	DESeq2 
+ENSGALG00000012908	Heart	Chicken	1	DESeq2 
+ENSGALG00000013616	Heart	Chicken	1	DESeq2 
+ENSGALG00000013781	Heart	Chicken	1	DESeq2 
+ENSGALG00000015126	Heart	Chicken	1	DESeq2 
+ENSGALG00000015143	Heart	Chicken	1	DESeq2 
+ENSGALG00000016112	Heart	Chicken	1	DESeq2 
+ENSGALG00000024031	Heart	Chicken	1	DESeq2 
+ENSGALG00000027036	Heart	Chicken	1	DESeq2 
+ENSGALG00000027090	Heart	Chicken	1	DESeq2 
+ENSGALG00000027107	Heart	Chicken	1	DESeq2 
+ENSGALG00000029045	Heart	Chicken	1	DESeq2 
+ENSGALG00000027807	Heart	Chicken	1	splineR 
+ENSGALG00000015192	Heart	Chicken	1	splineR 
+ENSGALG00000028605	Heart	Chicken	1	splineR 
+ENSGALG00000003076	Heart	Chicken	1	splineR 
+ENSGALG00000018828	Heart	Chicken	1	splineR 
+ENSGALG00000021211	Heart	Chicken	1	splineR 
+ENSGALG00000028166	Heart	Chicken	1	splineR 
+ENSGALG00000026065	Heart	Chicken	1	splineR 
+ENSGALG00000027998	Heart	Chicken	1	splineR 
+ENSGALG00000028970	Heart	Chicken	1	splineR 
+ENSGALG00000006714	Heart	Chicken	1	splineR 
+ENSGALG00000006144	Heart	Chicken	1	splineR 
+ENSGALG00000014154	Heart	Chicken	1	splineR 
+ENSGALG00000026198	Heart	Chicken	1	splineR 
+ENSGALG00000026988	Heart	Chicken	1	splineR 
+ENSGALG00000024378	Heart	Chicken	1	splineR 
+ENSGALG00000027912	Heart	Chicken	1	splineR 
+ENSGALG00000028618	Heart	Chicken	1	splineR 
+ENSGALG00000026087	Heart	Chicken	1	splineR 
+ENSGALG00000027611	Heart	Chicken	1	splineR 
+ENSGALG00000026760	Heart	Chicken	1	splineR 
+ENSGALG00000028434	Heart	Chicken	1	splineR 
+ENSGALG00000000456	Heart	Chicken	1	splineR 
+ENSGALG00000028719	Heart	Chicken	1	splineR 
+ENSGALG00000013341	Heart	Chicken	1	splineR 
+ENSGALG00000028854	Heart	Chicken	1	splineR 
+ENSGALG00000019710	Heart	Chicken	1	splineR 
+ENSGALG00000004927	Heart	Chicken	1	splineR 
+ENSGALG00000000201	Heart	Chicken	1	splineR 
+ENSGALG00000008297	Heart	Chicken	1	splineR 
+ENSGALG00000000122	Heart	Chicken	1	splineR 
+ENSGALG00000006075	Heart	Chicken	1	splineR 
+ENSGALG00000000966	Heart	Chicken	1	splineR 
+ENSGALG00000001007	Heart	Chicken	1	splineR 
+ENSGALG00000013548	Heart	Chicken	1	splineR 
+ENSGALG00000024298	Heart	Chicken	1	splineR 
+ENSGALG00000004267	Heart	Chicken	1	splineR 
+ENSGALG00000016320	Heart	Chicken	1	splineR 
+ENSGALG00000000852	Heart	Chicken	1	splineR 
+ENSGALG00000029152	Heart	Chicken	1	splineR 
+ENSGALG00000027392	Heart	Chicken	1	splineR 
+ENSGALG00000028427	Heart	Chicken	1	splineR 
+ENSGALG00000027725	Heart	Chicken	1	splineR 
+ENSGALG00000011899	Heart	Chicken	1	splineR 
+ENSGALG00000029181	Heart	Chicken	1	splineR 
+ENSGALG00000028243	Heart	Chicken	1	splineR 
+ENSGALG00000008925	Heart	Chicken	1	splineR 
+ENSGALG00000014387	Heart	Chicken	1	splineR 
+ENSGALG00000004167	Heart	Chicken	1	splineR 
+ENSGALG00000026423	Heart	Chicken	1	splineR 
+ENSGALG00000023684	Heart	Chicken	1	splineR 
+ENSGALG00000022603	Heart	Chicken	1	splineR 
+ENSGALG00000016589	Heart	Chicken	1	splineR 
+ENSGALG00000028189	Heart	Chicken	1	splineR 
+ENSGALG00000026800	Heart	Chicken	1	splineR 
+ENSGALG00000006547	Heart	Chicken	1	splineR 
+ENSGALG00000028906	Heart	Chicken	1	splineR 
+ENSGALG00000018810	Heart	Chicken	1	splineR 
+ENSGALG00000026218	Heart	Chicken	1	splineR 
+ENSGALG00000003832	Heart	Chicken	1	splineR 
+ENSGALG00000026820	Heart	Chicken	1	splineR 
+ENSGALG00000002610	Heart	Chicken	1	splineR 
+ENSGALG00000011955	Heart	Chicken	1	splineR 
+ENSGALG00000000678	Heart	Chicken	1	splineR 
+ENSGALG00000028506	Heart	Chicken	1	splineR 
+ENSGALG00000027227	Heart	Chicken	1	splineR 
+ENSGALG00000021362	Heart	Chicken	1	splineR 
+ENSGALG00000010160	Heart	Chicken	1	splineR 
+ENSGALG00000000951	Heart	Chicken	1	splineR 
+ENSGALG00000007900	Heart	Chicken	1	splineR 
+ENSGALG00000008208	Heart	Chicken	1	splineR 
+ENSGALG00000018760	Heart	Chicken	1	splineR 
+ENSGALG00000028119	Heart	Chicken	1	splineR 
+ENSGALG00000009536	Heart	Chicken	1	splineR 
+ENSGALG00000010952	Heart	Chicken	1	splineR 
+ENSGALG00000026965	Heart	Chicken	1	splineR 
+ENSGALG00000001019	Heart	Chicken	1	splineR 
+ENSGALG00000006303	Heart	Chicken	1	splineR 
+ENSGALG00000018992	Heart	Chicken	1	splineR 
+ENSGALG00000025662	Heart	Chicken	1	splineR 
+ENSGALG00000028784	Heart	Chicken	1	splineR 
+ENSGALG00000025893	Heart	Chicken	1	splineR 
+ENSGALG00000020575	Heart	Chicken	1	splineR 
+ENSGALG00000027098	Heart	Chicken	1	splineR 
+ENSGALG00000000427	Heart	Chicken	1	MaSigPro 
+ENSGALG00000000508	Heart	Chicken	1	MaSigPro 
+ENSGALG00000000516	Heart	Chicken	1	MaSigPro 
+ENSGALG00000000692	Heart	Chicken	1	MaSigPro 
+ENSGALG00000000793	Heart	Chicken	1	MaSigPro 
+ENSGALG00000000806	Heart	Chicken	1	MaSigPro 
+ENSGALG00000000845	Heart	Chicken	1	MaSigPro 
+ENSGALG00000000865	Heart	Chicken	1	MaSigPro 
+ENSGALG00000000988	Heart	Chicken	1	MaSigPro 
+ENSGALG00000000993	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001037	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001048	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001051	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001085	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001169	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001171	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001207	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001263	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001387	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001482	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001494	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001527	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001545	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001574	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001590	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001620	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001632	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001639	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001691	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001802	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001840	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001859	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001916	Heart	Chicken	1	MaSigPro 
+ENSGALG00000001988	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002005	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002117	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002158	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002159	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002219	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002235	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002272	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002279	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002280	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002283	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002310	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002371	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002372	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002398	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002462	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002506	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002526	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002551	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002561	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002665	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002693	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002773	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002774	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002840	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002878	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002964	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002973	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002988	Heart	Chicken	1	MaSigPro 
+ENSGALG00000002989	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003010	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003071	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003204	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003206	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003251	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003314	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003375	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003383	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003385	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003441	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003500	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003507	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003515	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003634	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003683	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003747	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003753	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003763	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003788	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003792	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003804	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003857	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003863	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003883	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003887	Heart	Chicken	1	MaSigPro 
+ENSGALG00000003897	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004049	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004057	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004065	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004068	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004179	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004223	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004240	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004259	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004329	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004537	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004550	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004555	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004596	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004628	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004644	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004671	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004675	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004679	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004709	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004722	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004741	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004802	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004816	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004823	Heart	Chicken	1	MaSigPro 
+ENSGALG00000004900	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005007	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005028	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005065	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005076	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005077	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005097	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005117	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005157	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005188	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005297	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005397	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005426	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005483	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005494	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005498	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005558	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005608	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005701	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005747	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005803	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005817	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005869	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005888	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005901	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005914	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005941	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005946	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005972	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005983	Heart	Chicken	1	MaSigPro 
+ENSGALG00000005999	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006047	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006094	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006123	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006160	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006170	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006174	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006181	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006209	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006264	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006296	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006298	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006345	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006357	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006384	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006415	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006424	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006475	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006477	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006505	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006514	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006566	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006682	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006689	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006697	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006700	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006713	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006730	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006805	Heart	Chicken	1	MaSigPro 
+ENSGALG00000006856	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007030	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007171	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007198	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007227	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007248	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007251	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007296	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007403	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007418	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007491	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007500	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007512	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007519	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007546	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007615	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007645	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007683	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007691	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007705	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007711	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007719	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007720	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007721	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007737	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007845	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007945	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007978	Heart	Chicken	1	MaSigPro 
+ENSGALG00000007992	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008081	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008088	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008096	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008114	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008141	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008172	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008234	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008266	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008282	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008305	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008367	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008399	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008407	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008439	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008491	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008500	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008537	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008546	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008612	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008727	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008730	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008756	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008828	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008855	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008903	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008954	Heart	Chicken	1	MaSigPro 
+ENSGALG00000008963	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009002	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009082	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009112	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009151	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009152	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009212	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009224	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009307	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009314	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009379	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009424	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009455	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009479	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009492	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009516	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009519	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009611	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009700	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009703	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009740	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009759	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009796	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009825	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009829	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009864	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009875	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009913	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009934	Heart	Chicken	1	MaSigPro 
+ENSGALG00000009956	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010021	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010035	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010046	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010087	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010089	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010167	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010183	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010202	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010235	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010276	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010277	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010291	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010303	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010312	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010341	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010361	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010414	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010543	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010554	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010594	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010619	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010625	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010629	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010668	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010835	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010873	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010884	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010898	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010957	Heart	Chicken	1	MaSigPro 
+ENSGALG00000010976	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011068	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011123	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011153	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011206	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011250	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011301	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011404	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011428	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011448	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011456	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011481	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011510	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011517	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011525	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011548	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011551	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011609	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011618	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011621	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011720	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011737	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011738	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011795	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011813	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011882	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011957	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011958	Heart	Chicken	1	MaSigPro 
+ENSGALG00000011991	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012111	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012237	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012250	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012258	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012273	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012278	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012279	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012296	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012333	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012352	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012360	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012361	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012382	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012519	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012523	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012536	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012546	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012680	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012689	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012714	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012808	Heart	Chicken	1	MaSigPro 
+ENSGALG00000012848	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013021	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013224	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013342	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013357	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013384	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013423	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013546	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013597	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013617	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013641	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013646	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013708	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013710	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013722	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013772	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013795	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013822	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013829	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013889	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013935	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013953	Heart	Chicken	1	MaSigPro 
+ENSGALG00000013971	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014084	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014106	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014116	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014124	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014179	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014185	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014263	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014303	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014329	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014428	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014436	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014582	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014638	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014730	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014737	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014750	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014751	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014915	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014923	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014976	Heart	Chicken	1	MaSigPro 
+ENSGALG00000014981	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015009	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015011	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015058	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015059	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015060	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015064	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015119	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015247	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015253	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015258	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015322	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015416	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015419	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015425	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015480	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015487	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015523	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015528	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015597	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015602	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015656	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015660	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015665	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015679	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015705	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015709	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015729	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015775	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015815	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015817	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015830	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015903	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015907	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015908	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015909	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015929	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015952	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015978	Heart	Chicken	1	MaSigPro 
+ENSGALG00000015988	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016079	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016166	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016259	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016267	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016289	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016304	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016323	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016338	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016357	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016369	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016378	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016387	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016447	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016524	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016676	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016686	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016720	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016766	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016811	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016851	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016854	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016875	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016883	Heart	Chicken	1	MaSigPro 
+ENSGALG00000016920	Heart	Chicken	1	MaSigPro 
+ENSGALG00000017010	Heart	Chicken	1	MaSigPro 
+ENSGALG00000017071	Heart	Chicken	1	MaSigPro 
+ENSGALG00000017105	Heart	Chicken	1	MaSigPro 
+ENSGALG00000017130	Heart	Chicken	1	MaSigPro 
+ENSGALG00000017186	Heart	Chicken	1	MaSigPro 
+ENSGALG00000017188	Heart	Chicken	1	MaSigPro 
+ENSGALG00000017272	Heart	Chicken	1	MaSigPro 
+ENSGALG00000017299	Heart	Chicken	1	MaSigPro 
+ENSGALG00000017302	Heart	Chicken	1	MaSigPro 
+ENSGALG00000017332	Heart	Chicken	1	MaSigPro 
+ENSGALG00000017357	Heart	Chicken	1	MaSigPro 
+ENSGALG00000017395	Heart	Chicken	1	MaSigPro 
+ENSGALG00000018803	Heart	Chicken	1	MaSigPro 
+ENSGALG00000019042	Heart	Chicken	1	MaSigPro 
+ENSGALG00000019054	Heart	Chicken	1	MaSigPro 
+ENSGALG00000019426	Heart	Chicken	1	MaSigPro 
+ENSGALG00000020626	Heart	Chicken	1	MaSigPro 
+ENSGALG00000021135	Heart	Chicken	1	MaSigPro 
+ENSGALG00000021231	Heart	Chicken	1	MaSigPro 
+ENSGALG00000021340	Heart	Chicken	1	MaSigPro 
+ENSGALG00000021375	Heart	Chicken	1	MaSigPro 
+ENSGALG00000021685	Heart	Chicken	1	MaSigPro 
+ENSGALG00000022629	Heart	Chicken	1	MaSigPro 
+ENSGALG00000022798	Heart	Chicken	1	MaSigPro 
+ENSGALG00000022802	Heart	Chicken	1	MaSigPro 
+ENSGALG00000023122	Heart	Chicken	1	MaSigPro 
+ENSGALG00000023294	Heart	Chicken	1	MaSigPro 
+ENSGALG00000023876	Heart	Chicken	1	MaSigPro 
+ENSGALG00000024020	Heart	Chicken	1	MaSigPro 
+ENSGALG00000024029	Heart	Chicken	1	MaSigPro 
+ENSGALG00000024292	Heart	Chicken	1	MaSigPro 
+ENSGALG00000024372	Heart	Chicken	1	MaSigPro 
+ENSGALG00000024470	Heart	Chicken	1	MaSigPro 
+ENSGALG00000024482	Heart	Chicken	1	MaSigPro 
+ENSGALG00000025764	Heart	Chicken	1	MaSigPro 
+ENSGALG00000025796	Heart	Chicken	1	MaSigPro 
+ENSGALG00000025938	Heart	Chicken	1	MaSigPro 
+ENSGALG00000025947	Heart	Chicken	1	MaSigPro 
+ENSGALG00000025966	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026041	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026173	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026182	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026189	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026234	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026271	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026291	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026314	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026315	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026330	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026373	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026536	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026542	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026663	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026714	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026778	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026906	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026910	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026940	Heart	Chicken	1	MaSigPro 
+ENSGALG00000026971	Heart	Chicken	1	MaSigPro 
+ENSGALG00000027151	Heart	Chicken	1	MaSigPro 
+ENSGALG00000027241	Heart	Chicken	1	MaSigPro 
+ENSGALG00000027287	Heart	Chicken	1	MaSigPro 
+ENSGALG00000027346	Heart	Chicken	1	MaSigPro 
+ENSGALG00000027353	Heart	Chicken	1	MaSigPro 
+ENSGALG00000027409	Heart	Chicken	1	MaSigPro 
+ENSGALG00000027537	Heart	Chicken	1	MaSigPro 
+ENSGALG00000027561	Heart	Chicken	1	MaSigPro 
+ENSGALG00000027617	Heart	Chicken	1	MaSigPro 
+ENSGALG00000027784	Heart	Chicken	1	MaSigPro 
+ENSGALG00000027974	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028003	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028085	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028174	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028290	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028291	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028367	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028517	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028600	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028801	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028861	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028932	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028982	Heart	Chicken	1	MaSigPro 
+ENSGALG00000028997	Heart	Chicken	1	MaSigPro 
+ENSGALG00000029009	Heart	Chicken	1	MaSigPro 
+ENSGALG00000029076	Heart	Chicken	1	MaSigPro 
+ENSGALG00000029157	Heart	Chicken	1	MaSigPro 
+ENSGALG00000000168	Heart	Chicken	1	In-house 
+ENSGALG00000000220	Heart	Chicken	1	In-house 
+ENSGALG00000000253	Heart	Chicken	1	In-house 
+ENSGALG00000000276	Heart	Chicken	1	In-house 
+ENSGALG00000000443	Heart	Chicken	1	In-house 
+ENSGALG00000000540	Heart	Chicken	1	In-house 
+ENSGALG00000000731	Heart	Chicken	1	In-house 
+ENSGALG00000000737	Heart	Chicken	1	In-house 
+ENSGALG00000000999	Heart	Chicken	1	In-house 
+ENSGALG00000001109	Heart	Chicken	1	In-house 
+ENSGALG00000001177	Heart	Chicken	1	In-house 
+ENSGALG00000001184	Heart	Chicken	1	In-house 
+ENSGALG00000001753	Heart	Chicken	1	In-house 
+ENSGALG00000001766	Heart	Chicken	1	In-house 
+ENSGALG00000002142	Heart	Chicken	1	In-house 
+ENSGALG00000002227	Heart	Chicken	1	In-house 
+ENSGALG00000002326	Heart	Chicken	1	In-house 
+ENSGALG00000002358	Heart	Chicken	1	In-house 
+ENSGALG00000002574	Heart	Chicken	1	In-house 
+ENSGALG00000002597	Heart	Chicken	1	In-house 
+ENSGALG00000002839	Heart	Chicken	1	In-house 
+ENSGALG00000002846	Heart	Chicken	1	In-house 
+ENSGALG00000002854	Heart	Chicken	1	In-house 
+ENSGALG00000003248	Heart	Chicken	1	In-house 
+ENSGALG00000003696	Heart	Chicken	1	In-house 
+ENSGALG00000003803	Heart	Chicken	1	In-house 
+ENSGALG00000003994	Heart	Chicken	1	In-house 
+ENSGALG00000004081	Heart	Chicken	1	In-house 
+ENSGALG00000004425	Heart	Chicken	1	In-house 
+ENSGALG00000004885	Heart	Chicken	1	In-house 
+ENSGALG00000005441	Heart	Chicken	1	In-house 
+ENSGALG00000005600	Heart	Chicken	1	In-house 
+ENSGALG00000005644	Heart	Chicken	1	In-house 
+ENSGALG00000005938	Heart	Chicken	1	In-house 
+ENSGALG00000005959	Heart	Chicken	1	In-house 
+ENSGALG00000006819	Heart	Chicken	1	In-house 
+ENSGALG00000006871	Heart	Chicken	1	In-house 
+ENSGALG00000007603	Heart	Chicken	1	In-house 
+ENSGALG00000008204	Heart	Chicken	1	In-house 
+ENSGALG00000008380	Heart	Chicken	1	In-house 
+ENSGALG00000009095	Heart	Chicken	1	In-house 
+ENSGALG00000009845	Heart	Chicken	1	In-house 
+ENSGALG00000010704	Heart	Chicken	1	In-house 
+ENSGALG00000010713	Heart	Chicken	1	In-house 
+ENSGALG00000010822	Heart	Chicken	1	In-house 
+ENSGALG00000010896	Heart	Chicken	1	In-house 
+ENSGALG00000011015	Heart	Chicken	1	In-house 
+ENSGALG00000011082	Heart	Chicken	1	In-house 
+ENSGALG00000011220	Heart	Chicken	1	In-house 
+ENSGALG00000011306	Heart	Chicken	1	In-house 
+ENSGALG00000011581	Heart	Chicken	1	In-house 
+ENSGALG00000011888	Heart	Chicken	1	In-house 
+ENSGALG00000012034	Heart	Chicken	1	In-house 
+ENSGALG00000012511	Heart	Chicken	1	In-house 
+ENSGALG00000012588	Heart	Chicken	1	In-house 
+ENSGALG00000012601	Heart	Chicken	1	In-house 
+ENSGALG00000012606	Heart	Chicken	1	In-house 
+ENSGALG00000012641	Heart	Chicken	1	In-house 
+ENSGALG00000012670	Heart	Chicken	1	In-house 
+ENSGALG00000013173	Heart	Chicken	1	In-house 
+ENSGALG00000013237	Heart	Chicken	1	In-house 
+ENSGALG00000013343	Heart	Chicken	1	In-house 
+ENSGALG00000013376	Heart	Chicken	1	In-house 
+ENSGALG00000013482	Heart	Chicken	1	In-house 
+ENSGALG00000013542	Heart	Chicken	1	In-house 
+ENSGALG00000013634	Heart	Chicken	1	In-house 
+ENSGALG00000013827	Heart	Chicken	1	In-house 
+ENSGALG00000014080	Heart	Chicken	1	In-house 
+ENSGALG00000014498	Heart	Chicken	1	In-house 
+ENSGALG00000014727	Heart	Chicken	1	In-house 
+ENSGALG00000014743	Heart	Chicken	1	In-house 
+ENSGALG00000014769	Heart	Chicken	1	In-house 
+ENSGALG00000014786	Heart	Chicken	1	In-house 
+ENSGALG00000014807	Heart	Chicken	1	In-house 
+ENSGALG00000014833	Heart	Chicken	1	In-house 
+ENSGALG00000014865	Heart	Chicken	1	In-house 
+ENSGALG00000014914	Heart	Chicken	1	In-house 
+ENSGALG00000014995	Heart	Chicken	1	In-house 
+ENSGALG00000015050	Heart	Chicken	1	In-house 
+ENSGALG00000015096	Heart	Chicken	1	In-house 
+ENSGALG00000015138	Heart	Chicken	1	In-house 
+ENSGALG00000015170	Heart	Chicken	1	In-house 
+ENSGALG00000015257	Heart	Chicken	1	In-house 
+ENSGALG00000015301	Heart	Chicken	1	In-house 
+ENSGALG00000015315	Heart	Chicken	1	In-house 
+ENSGALG00000015428	Heart	Chicken	1	In-house 
+ENSGALG00000015433	Heart	Chicken	1	In-house 
+ENSGALG00000015540	Heart	Chicken	1	In-house 
+ENSGALG00000015655	Heart	Chicken	1	In-house 
+ENSGALG00000015702	Heart	Chicken	1	In-house 
+ENSGALG00000015816	Heart	Chicken	1	In-house 
+ENSGALG00000015918	Heart	Chicken	1	In-house 
+ENSGALG00000016205	Heart	Chicken	1	In-house 
+ENSGALG00000016215	Heart	Chicken	1	In-house 
+ENSGALG00000016478	Heart	Chicken	1	In-house 
+ENSGALG00000016603	Heart	Chicken	1	In-house 
+ENSGALG00000016774	Heart	Chicken	1	In-house 
+ENSGALG00000016776	Heart	Chicken	1	In-house 
+ENSGALG00000017405	Heart	Chicken	1	In-house 
+ENSGALG00000017447	Heart	Chicken	1	In-house 
+ENSGALG00000017528	Heart	Chicken	1	In-house 
+ENSGALG00000018352	Heart	Chicken	1	In-house 
+ENSGALG00000019198	Heart	Chicken	1	In-house 
+ENSGALG00000019568	Heart	Chicken	1	In-house 
+ENSGALG00000019961	Heart	Chicken	1	In-house 
+ENSGALG00000020505	Heart	Chicken	1	In-house 
+ENSGALG00000020554	Heart	Chicken	1	In-house 
+ENSGALG00000021762	Heart	Chicken	1	In-house 
+ENSGALG00000021842	Heart	Chicken	1	In-house 
+ENSGALG00000021843	Heart	Chicken	1	In-house 
+ENSGALG00000022277	Heart	Chicken	1	In-house 
+ENSGALG00000022490	Heart	Chicken	1	In-house 
+ENSGALG00000022896	Heart	Chicken	1	In-house 
+ENSGALG00000023054	Heart	Chicken	1	In-house 
+ENSGALG00000023066	Heart	Chicken	1	In-house 
+ENSGALG00000023411	Heart	Chicken	1	In-house 
+ENSGALG00000023819	Heart	Chicken	1	In-house 
+ENSGALG00000024034	Heart	Chicken	1	In-house 
+ENSGALG00000024039	Heart	Chicken	1	In-house 
+ENSGALG00000024172	Heart	Chicken	1	In-house 
+ENSGALG00000025438	Heart	Chicken	1	In-house 
+ENSGALG00000025736	Heart	Chicken	1	In-house 
+ENSGALG00000025795	Heart	Chicken	1	In-house 
+ENSGALG00000025921	Heart	Chicken	1	In-house 
+ENSGALG00000025990	Heart	Chicken	1	In-house 
+ENSGALG00000026057	Heart	Chicken	1	In-house 
+ENSGALG00000026152	Heart	Chicken	1	In-house 
+ENSGALG00000026537	Heart	Chicken	1	In-house 
+ENSGALG00000026545	Heart	Chicken	1	In-house 
+ENSGALG00000026674	Heart	Chicken	1	In-house 
+ENSGALG00000026776	Heart	Chicken	1	In-house 
+ENSGALG00000026842	Heart	Chicken	1	In-house 
+ENSGALG00000027053	Heart	Chicken	1	In-house 
+ENSGALG00000027140	Heart	Chicken	1	In-house 
+ENSGALG00000027434	Heart	Chicken	1	In-house 
+ENSGALG00000027747	Heart	Chicken	1	In-house 
+ENSGALG00000027761	Heart	Chicken	1	In-house 
+ENSGALG00000028172	Heart	Chicken	1	In-house 
+ENSGALG00000028347	Heart	Chicken	1	In-house 
+ENSGALG00000028411	Heart	Chicken	1	In-house 
+ENSGALG00000028996	Heart	Chicken	1	In-house 
+ENSGALG00000029006	Heart	Chicken	1	In-house 
+ENSGALG00000029073	Heart	Chicken	1	In-house 

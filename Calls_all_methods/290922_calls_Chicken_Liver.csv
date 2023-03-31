@@ -1,0 +1,1131 @@
+gene_id	tissue	species	n_pipe	pipe
+ENSGALG00000005353	Liver	Chicken	2	splineR MaSigPro 
+ENSGALG00000008266	Liver	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000001793	Liver	Chicken	2	DESeq2 splineR 
+ENSGALG00000000151	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000000244	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000000255	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000000629	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000000719	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000001046	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000001465	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000001745	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000002030	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000002266	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000002317	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000002341	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000002431	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000002599	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000003308	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000003311	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000003353	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000003495	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000004449	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000004509	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000004823	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000004952	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000005092	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000005417	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000005426	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000005583	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000005704	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000005728	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000006319	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000006560	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000006562	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000006978	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000007579	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000007610	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000008608	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000008870	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000009047	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000009885	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000011227	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000011433	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000011646	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000011724	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000011842	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000012250	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000012615	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000012618	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000012635	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000012638	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000012973	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000013021	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000013051	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000013967	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000014753	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000014788	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000014840	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000014852	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000014880	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000014907	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000014911	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000015008	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000015097	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000015119	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000015134	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000015216	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000015339	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000015469	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000015492	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000015684	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000015691	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000015984	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000016024	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000016108	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000016438	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000016496	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000016654	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000019201	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000019277	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000021692	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000023409	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000025733	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000025956	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000026019	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000026824	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000027075	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000027140	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000027428	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000027761	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000027927	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000028063	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000028294	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000028298	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000028691	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000028861	Liver	Chicken	2	MaSigPro In-house 
+ENSGALG00000012652	Liver	Chicken	2	splineR In-house 
+ENSGALG00000015257	Liver	Chicken	2	splineR In-house 
+ENSGALG00000002817	Liver	Chicken	2	splineR In-house 
+ENSGALG00000001851	Liver	Chicken	2	splineR In-house 
+ENSGALG00000028284	Liver	Chicken	2	splineR In-house 
+ENSGALG00000012612	Liver	Chicken	2	splineR In-house 
+ENSGALG00000028736	Liver	Chicken	2	splineR In-house 
+ENSGALG00000012541	Liver	Chicken	2	splineR In-house 
+ENSGALG00000013194	Liver	Chicken	2	splineR In-house 
+ENSGALG00000005056	Liver	Chicken	2	splineR In-house 
+ENSGALG00000015333	Liver	Chicken	2	splineR In-house 
+ENSGALG00000000208	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000001219	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000001426	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000001732	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000002009	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000002069	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000002087	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000002142	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000002948	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000003087	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000003157	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000003248	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000003387	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000003456	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000004158	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000005043	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000006917	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000009712	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000010178	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000010896	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000011286	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000011494	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000014122	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000014816	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000014877	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000014930	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000015103	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000015170	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000015352	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000015368	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000015390	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000015399	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000015433	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000015545	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000024938	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000027035	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000027116	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000028133	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000028371	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000028628	Liver	Chicken	2	DESeq2 In-house 
+ENSGALG00000013591	Liver	Chicken	3	DESeq2 splineR MaSigPro 
+ENSGALG00000013376	Liver	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000011003	Liver	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000014464	Liver	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000014651	Liver	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000027315	Liver	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000000171	Liver	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000002326	Liver	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000002523	Liver	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000003295	Liver	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000012585	Liver	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014716	Liver	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014835	Liver	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000015256	Liver	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000015385	Liver	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000026884	Liver	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000000004	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000215	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000220	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000264	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000273	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000276	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001035	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001677	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001801	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001808	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001856	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002162	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002227	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002250	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002308	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002399	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002419	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002729	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002854	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002917	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003019	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003326	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003775	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003803	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004311	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004353	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004390	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004437	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004438	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005016	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005084	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005378	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005433	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005821	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000006832	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000008204	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000008237	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000008763	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010147	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010166	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010694	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012583	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012586	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012591	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012607	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000013922	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014168	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014650	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014690	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014700	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014703	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014711	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014719	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014721	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014734	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014740	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014765	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014773	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014775	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014786	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014807	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014832	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014859	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014863	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014865	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014869	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014903	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014939	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015071	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015118	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015138	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015139	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015144	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015179	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015184	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015264	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015288	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015386	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015442	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015443	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015571	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015689	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015949	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000016774	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000018343	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000020569	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000021842	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000021843	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023042	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000025921	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026001	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026107	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026195	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026203	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026538	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026776	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026928	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027418	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027472	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028014	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028135	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028340	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028748	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028901	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000029049	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000029099	Liver	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000140	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000189	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000218	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000247	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000253	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000386	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000395	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000428	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001668	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001756	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001763	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001765	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001782	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001843	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001863	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001864	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001947	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001954	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001986	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002022	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002110	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002187	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002345	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002394	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002605	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002696	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002777	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002805	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002852	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002872	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003235	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003288	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003365	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003373	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003605	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003631	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003688	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003708	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003747	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004350	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004425	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004825	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005316	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005330	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005337	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005346	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005354	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005368	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005390	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005395	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005423	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005785	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008174	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008229	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008887	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000009227	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010187	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012350	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012589	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012592	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012598	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012606	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012621	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012628	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013312	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013377	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013493	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013510	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013511	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013512	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013809	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014003	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014184	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014366	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014441	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014448	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014545	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014584	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014589	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014642	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014644	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014645	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014648	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014649	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014661	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014664	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014670	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014672	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014684	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014691	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014697	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014709	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014712	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014724	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014732	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014747	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014756	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014767	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014787	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014789	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014790	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014810	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014826	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014851	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014874	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014891	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014906	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014916	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014942	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014952	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014956	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014960	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015002	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015019	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015036	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015082	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015091	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015108	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015147	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015268	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015311	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015315	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015326	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015331	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015349	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015372	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015376	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015391	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015439	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015543	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015548	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015576	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015577	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015589	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015603	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015617	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015620	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015641	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015663	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015682	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015704	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000016467	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000016716	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017558	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017706	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018479	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018565	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018874	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020523	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020528	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020534	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021355	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021365	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021378	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022174	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022611	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022674	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022679	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022683	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022685	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022690	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023379	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000025842	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000025868	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026028	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026300	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026547	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026588	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026757	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026991	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027080	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027170	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027261	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027295	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027332	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027334	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027564	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027714	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027843	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027895	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027932	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027963	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028026	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028149	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028168	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028267	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028307	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028913	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028998	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029118	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029162	Liver	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003226	Liver	Chicken	1	DESeq2 
+ENSGALG00000004582	Liver	Chicken	1	DESeq2 
+ENSGALG00000005968	Liver	Chicken	1	DESeq2 
+ENSGALG00000012204	Liver	Chicken	1	DESeq2 
+ENSGALG00000026384	Liver	Chicken	1	DESeq2 
+ENSGALG00000009959	Liver	Chicken	1	splineR 
+ENSGALG00000028464	Liver	Chicken	1	splineR 
+ENSGALG00000006886	Liver	Chicken	1	splineR 
+ENSGALG00000009079	Liver	Chicken	1	splineR 
+ENSGALG00000015902	Liver	Chicken	1	splineR 
+ENSGALG00000004491	Liver	Chicken	1	splineR 
+ENSGALG00000028243	Liver	Chicken	1	splineR 
+ENSGALG00000010018	Liver	Chicken	1	splineR 
+ENSGALG00000017122	Liver	Chicken	1	splineR 
+ENSGALG00000004518	Liver	Chicken	1	splineR 
+ENSGALG00000015974	Liver	Chicken	1	splineR 
+ENSGALG00000015010	Liver	Chicken	1	splineR 
+ENSGALG00000000003	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000033	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000054	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000186	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000227	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000314	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000417	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000673	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000724	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000908	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000939	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000970	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000977	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001101	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001157	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001220	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001398	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001407	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001428	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001439	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001444	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001489	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001602	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001620	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001629	Liver	Chicken	1	MaSigPro 
+ENSGALG00000001639	Liver	Chicken	1	MaSigPro 
+ENSGALG00000002132	Liver	Chicken	1	MaSigPro 
+ENSGALG00000002235	Liver	Chicken	1	MaSigPro 
+ENSGALG00000002272	Liver	Chicken	1	MaSigPro 
+ENSGALG00000002354	Liver	Chicken	1	MaSigPro 
+ENSGALG00000002471	Liver	Chicken	1	MaSigPro 
+ENSGALG00000002479	Liver	Chicken	1	MaSigPro 
+ENSGALG00000002490	Liver	Chicken	1	MaSigPro 
+ENSGALG00000002506	Liver	Chicken	1	MaSigPro 
+ENSGALG00000002664	Liver	Chicken	1	MaSigPro 
+ENSGALG00000002746	Liver	Chicken	1	MaSigPro 
+ENSGALG00000003197	Liver	Chicken	1	MaSigPro 
+ENSGALG00000003358	Liver	Chicken	1	MaSigPro 
+ENSGALG00000003517	Liver	Chicken	1	MaSigPro 
+ENSGALG00000003560	Liver	Chicken	1	MaSigPro 
+ENSGALG00000003675	Liver	Chicken	1	MaSigPro 
+ENSGALG00000003709	Liver	Chicken	1	MaSigPro 
+ENSGALG00000003930	Liver	Chicken	1	MaSigPro 
+ENSGALG00000003957	Liver	Chicken	1	MaSigPro 
+ENSGALG00000004107	Liver	Chicken	1	MaSigPro 
+ENSGALG00000004112	Liver	Chicken	1	MaSigPro 
+ENSGALG00000004254	Liver	Chicken	1	MaSigPro 
+ENSGALG00000004528	Liver	Chicken	1	MaSigPro 
+ENSGALG00000004578	Liver	Chicken	1	MaSigPro 
+ENSGALG00000004590	Liver	Chicken	1	MaSigPro 
+ENSGALG00000004612	Liver	Chicken	1	MaSigPro 
+ENSGALG00000004711	Liver	Chicken	1	MaSigPro 
+ENSGALG00000004783	Liver	Chicken	1	MaSigPro 
+ENSGALG00000004820	Liver	Chicken	1	MaSigPro 
+ENSGALG00000004859	Liver	Chicken	1	MaSigPro 
+ENSGALG00000004966	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005000	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005021	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005239	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005401	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005405	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005416	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005469	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005547	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005553	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005572	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005579	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005626	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005736	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005816	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005846	Liver	Chicken	1	MaSigPro 
+ENSGALG00000005981	Liver	Chicken	1	MaSigPro 
+ENSGALG00000006223	Liver	Chicken	1	MaSigPro 
+ENSGALG00000006332	Liver	Chicken	1	MaSigPro 
+ENSGALG00000006350	Liver	Chicken	1	MaSigPro 
+ENSGALG00000006403	Liver	Chicken	1	MaSigPro 
+ENSGALG00000006539	Liver	Chicken	1	MaSigPro 
+ENSGALG00000006555	Liver	Chicken	1	MaSigPro 
+ENSGALG00000006627	Liver	Chicken	1	MaSigPro 
+ENSGALG00000006630	Liver	Chicken	1	MaSigPro 
+ENSGALG00000006960	Liver	Chicken	1	MaSigPro 
+ENSGALG00000006973	Liver	Chicken	1	MaSigPro 
+ENSGALG00000007016	Liver	Chicken	1	MaSigPro 
+ENSGALG00000007395	Liver	Chicken	1	MaSigPro 
+ENSGALG00000007465	Liver	Chicken	1	MaSigPro 
+ENSGALG00000007698	Liver	Chicken	1	MaSigPro 
+ENSGALG00000007807	Liver	Chicken	1	MaSigPro 
+ENSGALG00000007878	Liver	Chicken	1	MaSigPro 
+ENSGALG00000007993	Liver	Chicken	1	MaSigPro 
+ENSGALG00000008463	Liver	Chicken	1	MaSigPro 
+ENSGALG00000008620	Liver	Chicken	1	MaSigPro 
+ENSGALG00000008716	Liver	Chicken	1	MaSigPro 
+ENSGALG00000008745	Liver	Chicken	1	MaSigPro 
+ENSGALG00000008764	Liver	Chicken	1	MaSigPro 
+ENSGALG00000008774	Liver	Chicken	1	MaSigPro 
+ENSGALG00000008933	Liver	Chicken	1	MaSigPro 
+ENSGALG00000008950	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009212	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009217	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009298	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009434	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009453	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009536	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009594	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009702	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009732	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009755	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009847	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009855	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009870	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009930	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009932	Liver	Chicken	1	MaSigPro 
+ENSGALG00000009948	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010006	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010025	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010077	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010079	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010302	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010303	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010333	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010361	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010669	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010841	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010853	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010857	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010924	Liver	Chicken	1	MaSigPro 
+ENSGALG00000010950	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011058	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011178	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011182	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011216	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011252	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011314	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011334	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011361	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011369	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011394	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011428	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011510	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011889	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011941	Liver	Chicken	1	MaSigPro 
+ENSGALG00000011957	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012032	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012066	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012169	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012205	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012219	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012227	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012230	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012273	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012337	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012617	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012748	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012833	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012870	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012936	Liver	Chicken	1	MaSigPro 
+ENSGALG00000012947	Liver	Chicken	1	MaSigPro 
+ENSGALG00000013039	Liver	Chicken	1	MaSigPro 
+ENSGALG00000013057	Liver	Chicken	1	MaSigPro 
+ENSGALG00000013072	Liver	Chicken	1	MaSigPro 
+ENSGALG00000013207	Liver	Chicken	1	MaSigPro 
+ENSGALG00000013257	Liver	Chicken	1	MaSigPro 
+ENSGALG00000013310	Liver	Chicken	1	MaSigPro 
+ENSGALG00000013417	Liver	Chicken	1	MaSigPro 
+ENSGALG00000013575	Liver	Chicken	1	MaSigPro 
+ENSGALG00000013677	Liver	Chicken	1	MaSigPro 
+ENSGALG00000013723	Liver	Chicken	1	MaSigPro 
+ENSGALG00000013725	Liver	Chicken	1	MaSigPro 
+ENSGALG00000014016	Liver	Chicken	1	MaSigPro 
+ENSGALG00000014167	Liver	Chicken	1	MaSigPro 
+ENSGALG00000014256	Liver	Chicken	1	MaSigPro 
+ENSGALG00000014321	Liver	Chicken	1	MaSigPro 
+ENSGALG00000014471	Liver	Chicken	1	MaSigPro 
+ENSGALG00000014516	Liver	Chicken	1	MaSigPro 
+ENSGALG00000014569	Liver	Chicken	1	MaSigPro 
+ENSGALG00000014646	Liver	Chicken	1	MaSigPro 
+ENSGALG00000014750	Liver	Chicken	1	MaSigPro 
+ENSGALG00000014868	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015032	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015050	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015052	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015107	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015120	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015123	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015145	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015163	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015208	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015280	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015344	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015461	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015652	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015844	Liver	Chicken	1	MaSigPro 
+ENSGALG00000015972	Liver	Chicken	1	MaSigPro 
+ENSGALG00000016078	Liver	Chicken	1	MaSigPro 
+ENSGALG00000016203	Liver	Chicken	1	MaSigPro 
+ENSGALG00000016289	Liver	Chicken	1	MaSigPro 
+ENSGALG00000016377	Liver	Chicken	1	MaSigPro 
+ENSGALG00000016387	Liver	Chicken	1	MaSigPro 
+ENSGALG00000016420	Liver	Chicken	1	MaSigPro 
+ENSGALG00000016428	Liver	Chicken	1	MaSigPro 
+ENSGALG00000016737	Liver	Chicken	1	MaSigPro 
+ENSGALG00000016772	Liver	Chicken	1	MaSigPro 
+ENSGALG00000016799	Liver	Chicken	1	MaSigPro 
+ENSGALG00000016820	Liver	Chicken	1	MaSigPro 
+ENSGALG00000017158	Liver	Chicken	1	MaSigPro 
+ENSGALG00000017276	Liver	Chicken	1	MaSigPro 
+ENSGALG00000017378	Liver	Chicken	1	MaSigPro 
+ENSGALG00000017384	Liver	Chicken	1	MaSigPro 
+ENSGALG00000018557	Liver	Chicken	1	MaSigPro 
+ENSGALG00000019036	Liver	Chicken	1	MaSigPro 
+ENSGALG00000020185	Liver	Chicken	1	MaSigPro 
+ENSGALG00000020700	Liver	Chicken	1	MaSigPro 
+ENSGALG00000020840	Liver	Chicken	1	MaSigPro 
+ENSGALG00000020899	Liver	Chicken	1	MaSigPro 
+ENSGALG00000021139	Liver	Chicken	1	MaSigPro 
+ENSGALG00000022629	Liver	Chicken	1	MaSigPro 
+ENSGALG00000023314	Liver	Chicken	1	MaSigPro 
+ENSGALG00000023653	Liver	Chicken	1	MaSigPro 
+ENSGALG00000023682	Liver	Chicken	1	MaSigPro 
+ENSGALG00000023821	Liver	Chicken	1	MaSigPro 
+ENSGALG00000023925	Liver	Chicken	1	MaSigPro 
+ENSGALG00000025764	Liver	Chicken	1	MaSigPro 
+ENSGALG00000025796	Liver	Chicken	1	MaSigPro 
+ENSGALG00000026154	Liver	Chicken	1	MaSigPro 
+ENSGALG00000026330	Liver	Chicken	1	MaSigPro 
+ENSGALG00000026802	Liver	Chicken	1	MaSigPro 
+ENSGALG00000026970	Liver	Chicken	1	MaSigPro 
+ENSGALG00000027227	Liver	Chicken	1	MaSigPro 
+ENSGALG00000027330	Liver	Chicken	1	MaSigPro 
+ENSGALG00000027471	Liver	Chicken	1	MaSigPro 
+ENSGALG00000027506	Liver	Chicken	1	MaSigPro 
+ENSGALG00000027553	Liver	Chicken	1	MaSigPro 
+ENSGALG00000027853	Liver	Chicken	1	MaSigPro 
+ENSGALG00000028032	Liver	Chicken	1	MaSigPro 
+ENSGALG00000028230	Liver	Chicken	1	MaSigPro 
+ENSGALG00000028279	Liver	Chicken	1	MaSigPro 
+ENSGALG00000028386	Liver	Chicken	1	MaSigPro 
+ENSGALG00000028520	Liver	Chicken	1	MaSigPro 
+ENSGALG00000029174	Liver	Chicken	1	MaSigPro 
+ENSGALG00000000044	Liver	Chicken	1	In-house 
+ENSGALG00000000161	Liver	Chicken	1	In-house 
+ENSGALG00000000187	Liver	Chicken	1	In-house 
+ENSGALG00000000201	Liver	Chicken	1	In-house 
+ENSGALG00000000223	Liver	Chicken	1	In-house 
+ENSGALG00000000226	Liver	Chicken	1	In-house 
+ENSGALG00000000241	Liver	Chicken	1	In-house 
+ENSGALG00000000302	Liver	Chicken	1	In-house 
+ENSGALG00000000371	Liver	Chicken	1	In-house 
+ENSGALG00000000436	Liver	Chicken	1	In-house 
+ENSGALG00000000560	Liver	Chicken	1	In-house 
+ENSGALG00000000600	Liver	Chicken	1	In-house 
+ENSGALG00000000652	Liver	Chicken	1	In-house 
+ENSGALG00000000681	Liver	Chicken	1	In-house 
+ENSGALG00000000737	Liver	Chicken	1	In-house 
+ENSGALG00000000761	Liver	Chicken	1	In-house 
+ENSGALG00000000842	Liver	Chicken	1	In-house 
+ENSGALG00000000874	Liver	Chicken	1	In-house 
+ENSGALG00000000950	Liver	Chicken	1	In-house 
+ENSGALG00000000978	Liver	Chicken	1	In-house 
+ENSGALG00000000998	Liver	Chicken	1	In-house 
+ENSGALG00000001109	Liver	Chicken	1	In-house 
+ENSGALG00000001188	Liver	Chicken	1	In-house 
+ENSGALG00000001463	Liver	Chicken	1	In-house 
+ENSGALG00000001536	Liver	Chicken	1	In-house 
+ENSGALG00000001538	Liver	Chicken	1	In-house 
+ENSGALG00000001758	Liver	Chicken	1	In-house 
+ENSGALG00000001761	Liver	Chicken	1	In-house 
+ENSGALG00000001766	Liver	Chicken	1	In-house 
+ENSGALG00000001785	Liver	Chicken	1	In-house 
+ENSGALG00000001798	Liver	Chicken	1	In-house 
+ENSGALG00000001824	Liver	Chicken	1	In-house 
+ENSGALG00000001840	Liver	Chicken	1	In-house 
+ENSGALG00000001883	Liver	Chicken	1	In-house 
+ENSGALG00000001918	Liver	Chicken	1	In-house 
+ENSGALG00000001944	Liver	Chicken	1	In-house 
+ENSGALG00000002033	Liver	Chicken	1	In-house 
+ENSGALG00000002054	Liver	Chicken	1	In-house 
+ENSGALG00000002125	Liver	Chicken	1	In-house 
+ENSGALG00000002199	Liver	Chicken	1	In-house 
+ENSGALG00000002207	Liver	Chicken	1	In-house 
+ENSGALG00000002224	Liver	Chicken	1	In-house 
+ENSGALG00000002294	Liver	Chicken	1	In-house 
+ENSGALG00000002371	Liver	Chicken	1	In-house 
+ENSGALG00000002430	Liver	Chicken	1	In-house 
+ENSGALG00000002475	Liver	Chicken	1	In-house 
+ENSGALG00000002495	Liver	Chicken	1	In-house 
+ENSGALG00000002500	Liver	Chicken	1	In-house 
+ENSGALG00000002505	Liver	Chicken	1	In-house 
+ENSGALG00000002539	Liver	Chicken	1	In-house 
+ENSGALG00000002548	Liver	Chicken	1	In-house 
+ENSGALG00000002553	Liver	Chicken	1	In-house 
+ENSGALG00000002638	Liver	Chicken	1	In-house 
+ENSGALG00000002639	Liver	Chicken	1	In-house 
+ENSGALG00000002647	Liver	Chicken	1	In-house 
+ENSGALG00000002665	Liver	Chicken	1	In-house 
+ENSGALG00000002725	Liver	Chicken	1	In-house 
+ENSGALG00000002735	Liver	Chicken	1	In-house 
+ENSGALG00000002813	Liver	Chicken	1	In-house 
+ENSGALG00000002941	Liver	Chicken	1	In-house 
+ENSGALG00000002967	Liver	Chicken	1	In-house 
+ENSGALG00000003000	Liver	Chicken	1	In-house 
+ENSGALG00000003003	Liver	Chicken	1	In-house 
+ENSGALG00000003168	Liver	Chicken	1	In-house 
+ENSGALG00000003195	Liver	Chicken	1	In-house 
+ENSGALG00000003204	Liver	Chicken	1	In-house 
+ENSGALG00000003356	Liver	Chicken	1	In-house 
+ENSGALG00000003432	Liver	Chicken	1	In-house 
+ENSGALG00000003558	Liver	Chicken	1	In-house 
+ENSGALG00000003561	Liver	Chicken	1	In-house 
+ENSGALG00000003614	Liver	Chicken	1	In-house 
+ENSGALG00000003792	Liver	Chicken	1	In-house 
+ENSGALG00000003805	Liver	Chicken	1	In-house 
+ENSGALG00000003851	Liver	Chicken	1	In-house 
+ENSGALG00000003856	Liver	Chicken	1	In-house 
+ENSGALG00000003935	Liver	Chicken	1	In-house 
+ENSGALG00000004044	Liver	Chicken	1	In-house 
+ENSGALG00000004141	Liver	Chicken	1	In-house 
+ENSGALG00000004180	Liver	Chicken	1	In-house 
+ENSGALG00000004379	Liver	Chicken	1	In-house 
+ENSGALG00000004560	Liver	Chicken	1	In-house 
+ENSGALG00000004650	Liver	Chicken	1	In-house 
+ENSGALG00000004745	Liver	Chicken	1	In-house 
+ENSGALG00000004790	Liver	Chicken	1	In-house 
+ENSGALG00000004870	Liver	Chicken	1	In-house 
+ENSGALG00000004878	Liver	Chicken	1	In-house 
+ENSGALG00000004917	Liver	Chicken	1	In-house 
+ENSGALG00000005114	Liver	Chicken	1	In-house 
+ENSGALG00000005134	Liver	Chicken	1	In-house 
+ENSGALG00000005141	Liver	Chicken	1	In-house 
+ENSGALG00000005215	Liver	Chicken	1	In-house 
+ENSGALG00000005328	Liver	Chicken	1	In-house 
+ENSGALG00000005441	Liver	Chicken	1	In-house 
+ENSGALG00000005643	Liver	Chicken	1	In-house 
+ENSGALG00000005694	Liver	Chicken	1	In-house 
+ENSGALG00000005737	Liver	Chicken	1	In-house 
+ENSGALG00000005763	Liver	Chicken	1	In-house 
+ENSGALG00000005806	Liver	Chicken	1	In-house 
+ENSGALG00000005901	Liver	Chicken	1	In-house 
+ENSGALG00000005958	Liver	Chicken	1	In-house 
+ENSGALG00000006073	Liver	Chicken	1	In-house 
+ENSGALG00000006083	Liver	Chicken	1	In-house 
+ENSGALG00000006453	Liver	Chicken	1	In-house 
+ENSGALG00000006469	Liver	Chicken	1	In-house 
+ENSGALG00000006592	Liver	Chicken	1	In-house 
+ENSGALG00000006720	Liver	Chicken	1	In-house 
+ENSGALG00000006768	Liver	Chicken	1	In-house 
+ENSGALG00000006904	Liver	Chicken	1	In-house 
+ENSGALG00000006930	Liver	Chicken	1	In-house 
+ENSGALG00000006934	Liver	Chicken	1	In-house 
+ENSGALG00000006937	Liver	Chicken	1	In-house 
+ENSGALG00000007101	Liver	Chicken	1	In-house 
+ENSGALG00000007219	Liver	Chicken	1	In-house 
+ENSGALG00000007227	Liver	Chicken	1	In-house 
+ENSGALG00000007252	Liver	Chicken	1	In-house 
+ENSGALG00000007311	Liver	Chicken	1	In-house 
+ENSGALG00000007403	Liver	Chicken	1	In-house 
+ENSGALG00000007454	Liver	Chicken	1	In-house 
+ENSGALG00000007491	Liver	Chicken	1	In-house 
+ENSGALG00000007510	Liver	Chicken	1	In-house 
+ENSGALG00000007556	Liver	Chicken	1	In-house 
+ENSGALG00000007700	Liver	Chicken	1	In-house 
+ENSGALG00000007767	Liver	Chicken	1	In-house 
+ENSGALG00000007866	Liver	Chicken	1	In-house 
+ENSGALG00000007909	Liver	Chicken	1	In-house 
+ENSGALG00000008109	Liver	Chicken	1	In-house 
+ENSGALG00000008148	Liver	Chicken	1	In-house 
+ENSGALG00000008156	Liver	Chicken	1	In-house 
+ENSGALG00000008157	Liver	Chicken	1	In-house 
+ENSGALG00000008163	Liver	Chicken	1	In-house 
+ENSGALG00000008197	Liver	Chicken	1	In-house 
+ENSGALG00000008198	Liver	Chicken	1	In-house 
+ENSGALG00000008361	Liver	Chicken	1	In-house 
+ENSGALG00000008378	Liver	Chicken	1	In-house 
+ENSGALG00000008433	Liver	Chicken	1	In-house 
+ENSGALG00000008497	Liver	Chicken	1	In-house 
+ENSGALG00000008631	Liver	Chicken	1	In-house 
+ENSGALG00000008641	Liver	Chicken	1	In-house 
+ENSGALG00000008670	Liver	Chicken	1	In-house 
+ENSGALG00000008678	Liver	Chicken	1	In-house 
+ENSGALG00000008771	Liver	Chicken	1	In-house 
+ENSGALG00000008802	Liver	Chicken	1	In-house 
+ENSGALG00000008813	Liver	Chicken	1	In-house 
+ENSGALG00000008845	Liver	Chicken	1	In-house 
+ENSGALG00000008953	Liver	Chicken	1	In-house 
+ENSGALG00000009163	Liver	Chicken	1	In-house 
+ENSGALG00000009169	Liver	Chicken	1	In-house 
+ENSGALG00000009220	Liver	Chicken	1	In-house 
+ENSGALG00000009291	Liver	Chicken	1	In-house 
+ENSGALG00000009304	Liver	Chicken	1	In-house 
+ENSGALG00000009315	Liver	Chicken	1	In-house 
+ENSGALG00000009388	Liver	Chicken	1	In-house 
+ENSGALG00000009492	Liver	Chicken	1	In-house 
+ENSGALG00000009637	Liver	Chicken	1	In-house 
+ENSGALG00000009654	Liver	Chicken	1	In-house 
+ENSGALG00000009680	Liver	Chicken	1	In-house 
+ENSGALG00000009725	Liver	Chicken	1	In-house 
+ENSGALG00000009805	Liver	Chicken	1	In-house 
+ENSGALG00000009841	Liver	Chicken	1	In-house 
+ENSGALG00000009981	Liver	Chicken	1	In-house 
+ENSGALG00000010014	Liver	Chicken	1	In-house 
+ENSGALG00000010053	Liver	Chicken	1	In-house 
+ENSGALG00000010071	Liver	Chicken	1	In-house 
+ENSGALG00000010156	Liver	Chicken	1	In-house 
+ENSGALG00000010158	Liver	Chicken	1	In-house 
+ENSGALG00000010164	Liver	Chicken	1	In-house 
+ENSGALG00000010299	Liver	Chicken	1	In-house 
+ENSGALG00000010307	Liver	Chicken	1	In-house 
+ENSGALG00000010313	Liver	Chicken	1	In-house 
+ENSGALG00000010387	Liver	Chicken	1	In-house 
+ENSGALG00000010399	Liver	Chicken	1	In-house 
+ENSGALG00000010432	Liver	Chicken	1	In-house 
+ENSGALG00000010439	Liver	Chicken	1	In-house 
+ENSGALG00000010569	Liver	Chicken	1	In-house 
+ENSGALG00000010716	Liver	Chicken	1	In-house 
+ENSGALG00000010766	Liver	Chicken	1	In-house 
+ENSGALG00000010864	Liver	Chicken	1	In-house 
+ENSGALG00000010996	Liver	Chicken	1	In-house 
+ENSGALG00000011035	Liver	Chicken	1	In-house 
+ENSGALG00000011138	Liver	Chicken	1	In-house 
+ENSGALG00000011221	Liver	Chicken	1	In-house 
+ENSGALG00000011295	Liver	Chicken	1	In-house 
+ENSGALG00000011336	Liver	Chicken	1	In-house 
+ENSGALG00000011391	Liver	Chicken	1	In-house 
+ENSGALG00000011468	Liver	Chicken	1	In-house 
+ENSGALG00000011513	Liver	Chicken	1	In-house 
+ENSGALG00000011686	Liver	Chicken	1	In-house 
+ENSGALG00000011705	Liver	Chicken	1	In-house 
+ENSGALG00000011740	Liver	Chicken	1	In-house 
+ENSGALG00000011759	Liver	Chicken	1	In-house 
+ENSGALG00000011834	Liver	Chicken	1	In-house 
+ENSGALG00000011855	Liver	Chicken	1	In-house 
+ENSGALG00000011862	Liver	Chicken	1	In-house 
+ENSGALG00000011908	Liver	Chicken	1	In-house 
+ENSGALG00000011955	Liver	Chicken	1	In-house 
+ENSGALG00000012025	Liver	Chicken	1	In-house 
+ENSGALG00000012113	Liver	Chicken	1	In-house 
+ENSGALG00000012215	Liver	Chicken	1	In-house 
+ENSGALG00000012241	Liver	Chicken	1	In-house 
+ENSGALG00000012292	Liver	Chicken	1	In-house 
+ENSGALG00000012536	Liver	Chicken	1	In-house 
+ENSGALG00000012575	Liver	Chicken	1	In-house 
+ENSGALG00000012579	Liver	Chicken	1	In-house 
+ENSGALG00000012608	Liver	Chicken	1	In-house 
+ENSGALG00000012620	Liver	Chicken	1	In-house 
+ENSGALG00000012627	Liver	Chicken	1	In-house 
+ENSGALG00000012665	Liver	Chicken	1	In-house 
+ENSGALG00000012667	Liver	Chicken	1	In-house 
+ENSGALG00000012688	Liver	Chicken	1	In-house 
+ENSGALG00000012694	Liver	Chicken	1	In-house 
+ENSGALG00000012809	Liver	Chicken	1	In-house 
+ENSGALG00000012909	Liver	Chicken	1	In-house 
+ENSGALG00000012958	Liver	Chicken	1	In-house 
+ENSGALG00000012964	Liver	Chicken	1	In-house 
+ENSGALG00000013204	Liver	Chicken	1	In-house 
+ENSGALG00000013334	Liver	Chicken	1	In-house 
+ENSGALG00000013411	Liver	Chicken	1	In-house 
+ENSGALG00000013483	Liver	Chicken	1	In-house 
+ENSGALG00000013528	Liver	Chicken	1	In-house 
+ENSGALG00000013642	Liver	Chicken	1	In-house 
+ENSGALG00000013643	Liver	Chicken	1	In-house 
+ENSGALG00000013722	Liver	Chicken	1	In-house 
+ENSGALG00000013740	Liver	Chicken	1	In-house 
+ENSGALG00000013980	Liver	Chicken	1	In-house 
+ENSGALG00000014071	Liver	Chicken	1	In-house 
+ENSGALG00000014124	Liver	Chicken	1	In-house 
+ENSGALG00000014263	Liver	Chicken	1	In-house 
+ENSGALG00000014447	Liver	Chicken	1	In-house 
+ENSGALG00000014463	Liver	Chicken	1	In-house 
+ENSGALG00000014525	Liver	Chicken	1	In-house 
+ENSGALG00000014653	Liver	Chicken	1	In-house 
+ENSGALG00000014678	Liver	Chicken	1	In-house 
+ENSGALG00000014725	Liver	Chicken	1	In-house 
+ENSGALG00000014727	Liver	Chicken	1	In-house 
+ENSGALG00000014759	Liver	Chicken	1	In-house 
+ENSGALG00000014784	Liver	Chicken	1	In-house 
+ENSGALG00000014798	Liver	Chicken	1	In-house 
+ENSGALG00000014813	Liver	Chicken	1	In-house 
+ENSGALG00000014819	Liver	Chicken	1	In-house 
+ENSGALG00000014855	Liver	Chicken	1	In-house 
+ENSGALG00000014862	Liver	Chicken	1	In-house 
+ENSGALG00000014866	Liver	Chicken	1	In-house 
+ENSGALG00000014867	Liver	Chicken	1	In-house 
+ENSGALG00000014910	Liver	Chicken	1	In-house 
+ENSGALG00000014945	Liver	Chicken	1	In-house 
+ENSGALG00000014958	Liver	Chicken	1	In-house 
+ENSGALG00000014978	Liver	Chicken	1	In-house 
+ENSGALG00000015014	Liver	Chicken	1	In-house 
+ENSGALG00000015024	Liver	Chicken	1	In-house 
+ENSGALG00000015028	Liver	Chicken	1	In-house 
+ENSGALG00000015070	Liver	Chicken	1	In-house 
+ENSGALG00000015090	Liver	Chicken	1	In-house 
+ENSGALG00000015105	Liver	Chicken	1	In-house 
+ENSGALG00000015113	Liver	Chicken	1	In-house 
+ENSGALG00000015121	Liver	Chicken	1	In-house 
+ENSGALG00000015155	Liver	Chicken	1	In-house 
+ENSGALG00000015156	Liver	Chicken	1	In-house 
+ENSGALG00000015177	Liver	Chicken	1	In-house 
+ENSGALG00000015209	Liver	Chicken	1	In-house 
+ENSGALG00000015213	Liver	Chicken	1	In-house 
+ENSGALG00000015240	Liver	Chicken	1	In-house 
+ENSGALG00000015284	Liver	Chicken	1	In-house 
+ENSGALG00000015306	Liver	Chicken	1	In-house 
+ENSGALG00000015397	Liver	Chicken	1	In-house 
+ENSGALG00000015428	Liver	Chicken	1	In-house 
+ENSGALG00000015437	Liver	Chicken	1	In-house 
+ENSGALG00000015491	Liver	Chicken	1	In-house 
+ENSGALG00000015572	Liver	Chicken	1	In-house 
+ENSGALG00000015665	Liver	Chicken	1	In-house 
+ENSGALG00000015677	Liver	Chicken	1	In-house 
+ENSGALG00000015722	Liver	Chicken	1	In-house 
+ENSGALG00000015729	Liver	Chicken	1	In-house 
+ENSGALG00000015758	Liver	Chicken	1	In-house 
+ENSGALG00000015808	Liver	Chicken	1	In-house 
+ENSGALG00000015877	Liver	Chicken	1	In-house 
+ENSGALG00000016036	Liver	Chicken	1	In-house 
+ENSGALG00000016076	Liver	Chicken	1	In-house 
+ENSGALG00000016092	Liver	Chicken	1	In-house 
+ENSGALG00000016115	Liver	Chicken	1	In-house 
+ENSGALG00000016131	Liver	Chicken	1	In-house 
+ENSGALG00000016142	Liver	Chicken	1	In-house 
+ENSGALG00000016144	Liver	Chicken	1	In-house 
+ENSGALG00000016255	Liver	Chicken	1	In-house 
+ENSGALG00000016270	Liver	Chicken	1	In-house 
+ENSGALG00000016350	Liver	Chicken	1	In-house 
+ENSGALG00000016441	Liver	Chicken	1	In-house 
+ENSGALG00000016506	Liver	Chicken	1	In-house 
+ENSGALG00000016648	Liver	Chicken	1	In-house 
+ENSGALG00000016893	Liver	Chicken	1	In-house 
+ENSGALG00000016899	Liver	Chicken	1	In-house 
+ENSGALG00000017021	Liver	Chicken	1	In-house 
+ENSGALG00000017034	Liver	Chicken	1	In-house 
+ENSGALG00000017178	Liver	Chicken	1	In-house 
+ENSGALG00000017510	Liver	Chicken	1	In-house 
+ENSGALG00000017658	Liver	Chicken	1	In-house 
+ENSGALG00000017873	Liver	Chicken	1	In-house 
+ENSGALG00000017874	Liver	Chicken	1	In-house 
+ENSGALG00000017902	Liver	Chicken	1	In-house 
+ENSGALG00000017907	Liver	Chicken	1	In-house 
+ENSGALG00000018352	Liver	Chicken	1	In-house 
+ENSGALG00000018639	Liver	Chicken	1	In-house 
+ENSGALG00000019087	Liver	Chicken	1	In-house 
+ENSGALG00000019290	Liver	Chicken	1	In-house 
+ENSGALG00000019570	Liver	Chicken	1	In-house 
+ENSGALG00000019862	Liver	Chicken	1	In-house 
+ENSGALG00000020538	Liver	Chicken	1	In-house 
+ENSGALG00000020558	Liver	Chicken	1	In-house 
+ENSGALG00000020772	Liver	Chicken	1	In-house 
+ENSGALG00000021171	Liver	Chicken	1	In-house 
+ENSGALG00000021262	Liver	Chicken	1	In-house 
+ENSGALG00000021304	Liver	Chicken	1	In-house 
+ENSGALG00000021340	Liver	Chicken	1	In-house 
+ENSGALG00000021450	Liver	Chicken	1	In-house 
+ENSGALG00000021539	Liver	Chicken	1	In-house 
+ENSGALG00000021610	Liver	Chicken	1	In-house 
+ENSGALG00000021645	Liver	Chicken	1	In-house 
+ENSGALG00000021835	Liver	Chicken	1	In-house 
+ENSGALG00000021951	Liver	Chicken	1	In-house 
+ENSGALG00000022277	Liver	Chicken	1	In-house 
+ENSGALG00000022812	Liver	Chicken	1	In-house 
+ENSGALG00000023061	Liver	Chicken	1	In-house 
+ENSGALG00000023066	Liver	Chicken	1	In-house 
+ENSGALG00000023190	Liver	Chicken	1	In-house 
+ENSGALG00000023411	Liver	Chicken	1	In-house 
+ENSGALG00000023523	Liver	Chicken	1	In-house 
+ENSGALG00000023577	Liver	Chicken	1	In-house 
+ENSGALG00000023718	Liver	Chicken	1	In-house 
+ENSGALG00000023725	Liver	Chicken	1	In-house 
+ENSGALG00000023855	Liver	Chicken	1	In-house 
+ENSGALG00000024040	Liver	Chicken	1	In-house 
+ENSGALG00000024101	Liver	Chicken	1	In-house 
+ENSGALG00000024248	Liver	Chicken	1	In-house 
+ENSGALG00000024332	Liver	Chicken	1	In-house 
+ENSGALG00000024408	Liver	Chicken	1	In-house 
+ENSGALG00000024621	Liver	Chicken	1	In-house 
+ENSGALG00000025225	Liver	Chicken	1	In-house 
+ENSGALG00000025287	Liver	Chicken	1	In-house 
+ENSGALG00000025438	Liver	Chicken	1	In-house 
+ENSGALG00000025557	Liver	Chicken	1	In-house 
+ENSGALG00000025650	Liver	Chicken	1	In-house 
+ENSGALG00000025715	Liver	Chicken	1	In-house 
+ENSGALG00000025844	Liver	Chicken	1	In-house 
+ENSGALG00000025915	Liver	Chicken	1	In-house 
+ENSGALG00000026010	Liver	Chicken	1	In-house 
+ENSGALG00000026047	Liver	Chicken	1	In-house 
+ENSGALG00000026095	Liver	Chicken	1	In-house 
+ENSGALG00000026108	Liver	Chicken	1	In-house 
+ENSGALG00000026192	Liver	Chicken	1	In-house 
+ENSGALG00000026218	Liver	Chicken	1	In-house 
+ENSGALG00000026525	Liver	Chicken	1	In-house 
+ENSGALG00000026711	Liver	Chicken	1	In-house 
+ENSGALG00000026714	Liver	Chicken	1	In-house 
+ENSGALG00000026716	Liver	Chicken	1	In-house 
+ENSGALG00000026731	Liver	Chicken	1	In-house 
+ENSGALG00000026780	Liver	Chicken	1	In-house 
+ENSGALG00000026881	Liver	Chicken	1	In-house 
+ENSGALG00000026883	Liver	Chicken	1	In-house 
+ENSGALG00000026934	Liver	Chicken	1	In-house 
+ENSGALG00000026950	Liver	Chicken	1	In-house 
+ENSGALG00000026979	Liver	Chicken	1	In-house 
+ENSGALG00000027064	Liver	Chicken	1	In-house 
+ENSGALG00000027073	Liver	Chicken	1	In-house 
+ENSGALG00000027174	Liver	Chicken	1	In-house 
+ENSGALG00000027231	Liver	Chicken	1	In-house 
+ENSGALG00000027241	Liver	Chicken	1	In-house 
+ENSGALG00000027244	Liver	Chicken	1	In-house 
+ENSGALG00000027251	Liver	Chicken	1	In-house 
+ENSGALG00000027258	Liver	Chicken	1	In-house 
+ENSGALG00000027287	Liver	Chicken	1	In-house 
+ENSGALG00000027312	Liver	Chicken	1	In-house 
+ENSGALG00000027345	Liver	Chicken	1	In-house 
+ENSGALG00000027357	Liver	Chicken	1	In-house 
+ENSGALG00000027389	Liver	Chicken	1	In-house 
+ENSGALG00000027446	Liver	Chicken	1	In-house 
+ENSGALG00000027512	Liver	Chicken	1	In-house 
+ENSGALG00000027571	Liver	Chicken	1	In-house 
+ENSGALG00000027641	Liver	Chicken	1	In-house 
+ENSGALG00000027686	Liver	Chicken	1	In-house 
+ENSGALG00000027728	Liver	Chicken	1	In-house 
+ENSGALG00000027747	Liver	Chicken	1	In-house 
+ENSGALG00000027785	Liver	Chicken	1	In-house 
+ENSGALG00000027842	Liver	Chicken	1	In-house 
+ENSGALG00000027855	Liver	Chicken	1	In-house 
+ENSGALG00000027897	Liver	Chicken	1	In-house 
+ENSGALG00000027899	Liver	Chicken	1	In-house 
+ENSGALG00000027907	Liver	Chicken	1	In-house 
+ENSGALG00000027908	Liver	Chicken	1	In-house 
+ENSGALG00000027959	Liver	Chicken	1	In-house 
+ENSGALG00000027991	Liver	Chicken	1	In-house 
+ENSGALG00000028005	Liver	Chicken	1	In-house 
+ENSGALG00000028015	Liver	Chicken	1	In-house 
+ENSGALG00000028031	Liver	Chicken	1	In-house 
+ENSGALG00000028033	Liver	Chicken	1	In-house 
+ENSGALG00000028037	Liver	Chicken	1	In-house 
+ENSGALG00000028045	Liver	Chicken	1	In-house 
+ENSGALG00000028092	Liver	Chicken	1	In-house 
+ENSGALG00000028112	Liver	Chicken	1	In-house 
+ENSGALG00000028141	Liver	Chicken	1	In-house 
+ENSGALG00000028358	Liver	Chicken	1	In-house 
+ENSGALG00000028479	Liver	Chicken	1	In-house 
+ENSGALG00000028484	Liver	Chicken	1	In-house 
+ENSGALG00000028513	Liver	Chicken	1	In-house 
+ENSGALG00000028551	Liver	Chicken	1	In-house 
+ENSGALG00000028567	Liver	Chicken	1	In-house 
+ENSGALG00000028661	Liver	Chicken	1	In-house 
+ENSGALG00000028679	Liver	Chicken	1	In-house 
+ENSGALG00000028683	Liver	Chicken	1	In-house 
+ENSGALG00000028712	Liver	Chicken	1	In-house 
+ENSGALG00000028716	Liver	Chicken	1	In-house 
+ENSGALG00000028810	Liver	Chicken	1	In-house 
+ENSGALG00000028817	Liver	Chicken	1	In-house 
+ENSGALG00000028886	Liver	Chicken	1	In-house 
+ENSGALG00000029000	Liver	Chicken	1	In-house 
+ENSGALG00000029030	Liver	Chicken	1	In-house 

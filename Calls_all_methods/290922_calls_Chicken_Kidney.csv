@@ -1,0 +1,1183 @@
+gene_id	tissue	species	n_pipe	pipe
+ENSGALG00000002258	Kidney	Chicken	2	splineR MaSigPro 
+ENSGALG00000015810	Kidney	Chicken	2	splineR MaSigPro 
+ENSGALG00000015623	Kidney	Chicken	2	splineR MaSigPro 
+ENSGALG00000000234	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000002326	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000002599	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000003747	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000007044	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000012593	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000012629	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014673	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014807	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014855	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000015598	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000015683	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000027907	Kidney	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000026425	Kidney	Chicken	2	DESeq2 splineR 
+ENSGALG00000000737	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000001184	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000001192	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000001255	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000001661	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000002054	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000002162	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000002412	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000002479	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000003011	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000003253	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000003321	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000003716	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000004284	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000004494	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000005416	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000005426	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000005702	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000006486	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000006551	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000007357	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000007510	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000007998	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000008326	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000008436	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000008992	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000009324	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000009788	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000010272	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000010290	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000010440	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000010577	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000010652	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000011271	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000012184	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000012486	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000012576	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000012595	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000012740	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000013376	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014447	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014464	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014682	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014686	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014690	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014786	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014866	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014869	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014908	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014923	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014933	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014941	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014944	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014984	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000014995	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000015008	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000015021	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000015111	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000015119	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000015166	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000015167	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000015208	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000015234	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000015422	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000015572	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000015616	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000015661	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000016441	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000017266	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000017405	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000018534	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000019527	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000020538	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000023025	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000023303	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000024248	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000026192	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000026811	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000027073	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000027418	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000027630	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000028161	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000028522	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000028673	Kidney	Chicken	2	MaSigPro In-house 
+ENSGALG00000027669	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000005919	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000021142	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000005946	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000005937	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000002590	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000026598	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000014884	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000014277	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000015558	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000021139	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000002183	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000003446	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000006375	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000000244	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000015808	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000000447	Kidney	Chicken	2	splineR In-house 
+ENSGALG00000000276	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000002505	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000003087	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000004425	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000005959	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000008197	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000009768	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000010158	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000014727	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000014824	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000014877	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000014911	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000014914	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000015081	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000015301	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000015331	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000016716	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000021750	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000021842	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000022277	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000023083	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000023718	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000024047	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000025595	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000025842	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000025921	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000026928	Kidney	Chicken	2	DESeq2 In-house 
+ENSGALG00000000140	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000151	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000189	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000208	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000215	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000218	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000247	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000253	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000264	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000386	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000395	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000428	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001668	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001732	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001756	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001761	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001763	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001765	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001766	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001782	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001801	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001843	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001851	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001864	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001944	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001947	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001954	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001986	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002009	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002014	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002069	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002087	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002187	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002227	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002294	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002308	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002341	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002345	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002394	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002419	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002430	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002523	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002605	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002696	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002777	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002805	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002852	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002854	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002872	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002917	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002948	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003019	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003235	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003248	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003288	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003295	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003326	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003353	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003365	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003373	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003547	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003605	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003631	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003688	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003708	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003792	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004311	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004350	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004353	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004390	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004491	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005016	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005316	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005330	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005337	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005346	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005354	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005368	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005390	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005395	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005433	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005785	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005806	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005821	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005846	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000006002	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008174	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008188	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008229	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008237	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008887	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000009227	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010147	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010164	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010178	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010694	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012350	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012575	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012583	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012585	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012586	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012589	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012591	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012592	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012598	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012606	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012607	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012615	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012618	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012621	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012624	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013312	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013377	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013493	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013510	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013511	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013512	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013809	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014003	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014168	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014184	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014366	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014441	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014448	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014545	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014584	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014589	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014642	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014644	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014645	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014648	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014649	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014651	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014661	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014664	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014670	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014672	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014684	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014691	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014692	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014696	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014697	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014709	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014712	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014719	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014721	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014724	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014725	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014729	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014732	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014734	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014740	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014747	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014753	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014756	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014767	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014775	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014784	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014787	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014788	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014789	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014790	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014810	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014826	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014835	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014851	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014859	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014863	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014872	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014874	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014906	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014916	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014930	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014939	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014942	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014945	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014952	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014960	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014978	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015002	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015014	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015020	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015024	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015050	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015058	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015071	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015082	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015083	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015090	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015091	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015097	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015103	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015105	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015108	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015110	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015118	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015138	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015144	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015145	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015147	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015155	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015156	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015177	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015179	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015184	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015209	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015257	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015264	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015268	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015284	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015288	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015290	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015326	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015349	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015368	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015372	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015376	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015391	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015397	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015399	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015443	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015451	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015543	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015548	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015551	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015571	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015576	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015577	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015589	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015603	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015617	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015620	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015641	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015663	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015677	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015682	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015689	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015691	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015704	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015721	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017558	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017706	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018479	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018565	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018639	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018874	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020523	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020528	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020534	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020569	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021365	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021378	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021843	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022174	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022611	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022674	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022679	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022683	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022690	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023089	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023157	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023379	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023443	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000025868	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000025915	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026001	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026019	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026028	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026195	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026203	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026300	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026339	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026538	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026547	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026588	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026704	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026757	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026776	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026899	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027080	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027170	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027258	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027261	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027295	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027332	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027334	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027472	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027564	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027714	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027785	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027843	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027891	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027895	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027927	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027932	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027963	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028026	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028135	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028149	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028168	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028267	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028298	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028307	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028365	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028913	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028998	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029118	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029162	Kidney	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015154	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000003168	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000005423	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000016467	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000004511	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000005092	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000015052	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000003432	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000015101	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000012588	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000009179	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000016246	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000013643	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000014891	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000006511	Kidney	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000000004	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000220	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000241	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000273	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001677	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001840	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001856	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002022	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002023	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002064	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002110	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002142	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002165	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002250	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002399	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002677	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003387	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003558	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003614	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003775	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005800	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000008204	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000009639	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010896	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000011551	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012608	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012620	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012627	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014650	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014678	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014700	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014703	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014716	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014718	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014765	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014773	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014798	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014819	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014832	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014867	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014880	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014946	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014948	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014956	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015019	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015036	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015113	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015139	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015170	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015256	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015311	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015315	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015333	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015385	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015386	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015390	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015439	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015442	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015540	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015545	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000020561	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000021355	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000021951	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000022685	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023042	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000025677	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000025983	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026107	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026362	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026884	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027345	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027428	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027512	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027728	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027968	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028005	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028014	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028340	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028675	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028736	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028748	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028901	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028996	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000029049	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000029099	Kidney	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002579	Kidney	Chicken	1	DESeq2 
+ENSGALG00000003193	Kidney	Chicken	1	DESeq2 
+ENSGALG00000006835	Kidney	Chicken	1	DESeq2 
+ENSGALG00000012554	Kidney	Chicken	1	DESeq2 
+ENSGALG00000013740	Kidney	Chicken	1	DESeq2 
+ENSGALG00000015419	Kidney	Chicken	1	DESeq2 
+ENSGALG00000024368	Kidney	Chicken	1	DESeq2 
+ENSGALG00000029045	Kidney	Chicken	1	DESeq2 
+ENSGALG00000005941	Kidney	Chicken	1	splineR 
+ENSGALG00000014476	Kidney	Chicken	1	splineR 
+ENSGALG00000012151	Kidney	Chicken	1	splineR 
+ENSGALG00000006189	Kidney	Chicken	1	splineR 
+ENSGALG00000015902	Kidney	Chicken	1	splineR 
+ENSGALG00000025564	Kidney	Chicken	1	splineR 
+ENSGALG00000011349	Kidney	Chicken	1	splineR 
+ENSGALG00000000044	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000137	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000242	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000285	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000295	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000341	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000371	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000420	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000442	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000453	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000461	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000521	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000529	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000600	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000674	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000678	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000695	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000721	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000748	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000776	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000791	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000845	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000878	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000906	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000978	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001022	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001026	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001041	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001085	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001211	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001245	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001261	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001374	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001403	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001411	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001472	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001535	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001589	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001600	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001618	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001630	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001642	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001672	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001789	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001824	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001846	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001857	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001882	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000001988	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002005	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002067	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002080	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002113	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002169	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002192	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002193	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002234	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002289	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002338	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002431	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002509	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002540	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002551	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002555	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002564	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002594	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002664	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002716	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002778	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002926	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002987	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000002989	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003047	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003064	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003086	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003161	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003163	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003204	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003262	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003323	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003370	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003540	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003561	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003577	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003580	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003675	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003689	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003732	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003739	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003744	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003803	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003833	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003857	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003881	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003894	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003922	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000003972	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004118	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004195	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004249	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004250	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004252	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004270	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004290	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004309	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004320	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004412	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004436	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004439	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004500	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004553	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004585	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004751	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004758	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004766	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004785	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004816	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004818	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004838	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004848	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004878	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004907	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004958	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004975	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000004998	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005021	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005038	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005083	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005102	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005120	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005124	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005128	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005180	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005223	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005278	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005328	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005351	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005452	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005473	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005589	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005616	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005638	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005676	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005751	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005808	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005848	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005901	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005918	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005924	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000005934	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006014	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006016	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006032	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006040	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006104	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006138	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006175	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006206	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006245	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006270	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006271	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006317	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006379	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006384	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006388	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006560	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006584	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006630	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006639	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006642	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006848	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006887	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006965	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006988	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000006997	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007047	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007052	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007099	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007109	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007142	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007162	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007181	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007248	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007314	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007334	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007392	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007441	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007507	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007528	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007533	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007537	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007609	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007610	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007715	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007732	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007825	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007835	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007878	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007967	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007976	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000007992	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008036	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008051	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008098	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008104	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008113	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008153	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008155	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008285	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008293	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008332	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008365	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008400	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008421	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008440	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008621	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008629	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008656	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008749	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008836	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008855	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008861	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008933	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008937	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000008951	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009016	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009024	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009032	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009071	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009097	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009103	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009118	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009289	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009291	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009330	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009373	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009403	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009455	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009507	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009538	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009553	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009556	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009626	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009655	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009690	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009738	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009770	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009808	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009870	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009875	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009905	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009925	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000009971	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010090	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010125	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010145	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010152	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010154	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010156	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010214	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010225	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010302	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010303	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010341	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010362	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010434	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010454	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010569	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010669	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010736	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010758	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010772	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010795	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010811	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010855	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010886	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010908	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010925	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010958	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000010976	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011116	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011162	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011205	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011221	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011227	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011274	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011281	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011347	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011406	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011426	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011433	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011444	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011448	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011492	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011557	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011582	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011677	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011680	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011715	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011833	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011863	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011881	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000011957	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012023	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012074	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012113	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012154	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012179	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012183	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012219	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012230	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012238	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012241	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012260	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012321	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012353	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012412	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012426	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012436	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012452	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012532	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012612	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012636	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012650	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012687	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012714	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012744	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012754	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012807	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012830	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012847	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012952	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000012979	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013000	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013086	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013092	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013145	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013208	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013225	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013363	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013403	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013423	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013483	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013506	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013546	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013591	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013651	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013661	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013725	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013789	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013794	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013861	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013921	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013971	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000013981	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014022	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014127	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014201	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014263	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014270	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014312	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014639	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014737	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014754	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014801	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014804	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014825	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014827	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014840	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014852	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000014900	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015087	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015109	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015164	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015203	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015230	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015267	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015325	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015362	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015424	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015425	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015428	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015435	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015660	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015710	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015712	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015729	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015734	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015744	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015806	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015826	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015831	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015866	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015879	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015905	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015918	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015927	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000015966	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016038	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016055	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016114	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016160	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016173	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016176	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016234	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016255	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016279	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016294	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016308	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016320	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016358	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016375	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016377	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016403	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016404	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016438	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016486	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016651	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016682	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016797	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016841	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016858	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016881	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016931	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016945	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000016994	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017036	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017105	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017128	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017154	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017169	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017177	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017199	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017200	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017213	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017241	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017290	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017296	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017328	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017374	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017384	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017589	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000017674	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000018803	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000018828	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000018875	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000019672	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000019757	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000019759	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000020376	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000020488	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000020973	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000021017	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000021231	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000021238	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000021304	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000021592	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000021636	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000022629	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000022720	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000023294	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000023338	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000023414	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000023497	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000023876	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000023898	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000023925	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000023982	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000024082	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000024346	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000024483	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000025996	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000026200	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000026215	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000026426	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000026433	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000026505	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000026534	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000026584	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000026716	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000026728	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000026741	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000026780	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000026790	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000027056	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000027066	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000027164	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000027247	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000027275	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000027313	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000027389	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000027412	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000027620	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000027853	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000027854	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000027864	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000028063	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000028085	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000028155	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000028160	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000028363	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000028433	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000028566	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000028762	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000028846	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000028898	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000029090	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000029123	Kidney	Chicken	1	MaSigPro 
+ENSGALG00000000187	Kidney	Chicken	1	In-house 
+ENSGALG00000000255	Kidney	Chicken	1	In-house 
+ENSGALG00000000280	Kidney	Chicken	1	In-house 
+ENSGALG00000001109	Kidney	Chicken	1	In-house 
+ENSGALG00000001918	Kidney	Chicken	1	In-house 
+ENSGALG00000002125	Kidney	Chicken	1	In-house 
+ENSGALG00000002313	Kidney	Chicken	1	In-house 
+ENSGALG00000002371	Kidney	Chicken	1	In-house 
+ENSGALG00000002386	Kidney	Chicken	1	In-house 
+ENSGALG00000002439	Kidney	Chicken	1	In-house 
+ENSGALG00000002740	Kidney	Chicken	1	In-house 
+ENSGALG00000002839	Kidney	Chicken	1	In-house 
+ENSGALG00000002993	Kidney	Chicken	1	In-house 
+ENSGALG00000003066	Kidney	Chicken	1	In-house 
+ENSGALG00000003270	Kidney	Chicken	1	In-house 
+ENSGALG00000003569	Kidney	Chicken	1	In-house 
+ENSGALG00000003733	Kidney	Chicken	1	In-house 
+ENSGALG00000004437	Kidney	Chicken	1	In-house 
+ENSGALG00000004438	Kidney	Chicken	1	In-house 
+ENSGALG00000004612	Kidney	Chicken	1	In-house 
+ENSGALG00000004650	Kidney	Chicken	1	In-house 
+ENSGALG00000005812	Kidney	Chicken	1	In-house 
+ENSGALG00000005831	Kidney	Chicken	1	In-house 
+ENSGALG00000006083	Kidney	Chicken	1	In-house 
+ENSGALG00000006186	Kidney	Chicken	1	In-house 
+ENSGALG00000006412	Kidney	Chicken	1	In-house 
+ENSGALG00000006951	Kidney	Chicken	1	In-house 
+ENSGALG00000007767	Kidney	Chicken	1	In-house 
+ENSGALG00000008281	Kidney	Chicken	1	In-house 
+ENSGALG00000008870	Kidney	Chicken	1	In-house 
+ENSGALG00000009078	Kidney	Chicken	1	In-house 
+ENSGALG00000009651	Kidney	Chicken	1	In-house 
+ENSGALG00000009653	Kidney	Chicken	1	In-house 
+ENSGALG00000009712	Kidney	Chicken	1	In-house 
+ENSGALG00000010683	Kidney	Chicken	1	In-house 
+ENSGALG00000010697	Kidney	Chicken	1	In-house 
+ENSGALG00000011015	Kidney	Chicken	1	In-house 
+ENSGALG00000011287	Kidney	Chicken	1	In-house 
+ENSGALG00000011449	Kidney	Chicken	1	In-house 
+ENSGALG00000011919	Kidney	Chicken	1	In-house 
+ENSGALG00000012601	Kidney	Chicken	1	In-house 
+ENSGALG00000013265	Kidney	Chicken	1	In-house 
+ENSGALG00000013372	Kidney	Chicken	1	In-house 
+ENSGALG00000013542	Kidney	Chicken	1	In-house 
+ENSGALG00000013818	Kidney	Chicken	1	In-house 
+ENSGALG00000014369	Kidney	Chicken	1	In-house 
+ENSGALG00000014453	Kidney	Chicken	1	In-house 
+ENSGALG00000014711	Kidney	Chicken	1	In-house 
+ENSGALG00000014726	Kidney	Chicken	1	In-house 
+ENSGALG00000014743	Kidney	Chicken	1	In-house 
+ENSGALG00000014751	Kidney	Chicken	1	In-house 
+ENSGALG00000014768	Kidney	Chicken	1	In-house 
+ENSGALG00000014833	Kidney	Chicken	1	In-house 
+ENSGALG00000014862	Kidney	Chicken	1	In-house 
+ENSGALG00000014865	Kidney	Chicken	1	In-house 
+ENSGALG00000014903	Kidney	Chicken	1	In-house 
+ENSGALG00000014912	Kidney	Chicken	1	In-house 
+ENSGALG00000014958	Kidney	Chicken	1	In-house 
+ENSGALG00000015026	Kidney	Chicken	1	In-house 
+ENSGALG00000015084	Kidney	Chicken	1	In-house 
+ENSGALG00000015176	Kidney	Chicken	1	In-house 
+ENSGALG00000015320	Kidney	Chicken	1	In-house 
+ENSGALG00000015352	Kidney	Chicken	1	In-house 
+ENSGALG00000015433	Kidney	Chicken	1	In-house 
+ENSGALG00000015655	Kidney	Chicken	1	In-house 
+ENSGALG00000015684	Kidney	Chicken	1	In-house 
+ENSGALG00000015728	Kidney	Chicken	1	In-house 
+ENSGALG00000015786	Kidney	Chicken	1	In-house 
+ENSGALG00000015799	Kidney	Chicken	1	In-house 
+ENSGALG00000016690	Kidney	Chicken	1	In-house 
+ENSGALG00000017217	Kidney	Chicken	1	In-house 
+ENSGALG00000017276	Kidney	Chicken	1	In-house 
+ENSGALG00000017447	Kidney	Chicken	1	In-house 
+ENSGALG00000018352	Kidney	Chicken	1	In-house 
+ENSGALG00000018401	Kidney	Chicken	1	In-house 
+ENSGALG00000018781	Kidney	Chicken	1	In-house 
+ENSGALG00000019141	Kidney	Chicken	1	In-house 
+ENSGALG00000019509	Kidney	Chicken	1	In-house 
+ENSGALG00000019941	Kidney	Chicken	1	In-house 
+ENSGALG00000020303	Kidney	Chicken	1	In-house 
+ENSGALG00000020392	Kidney	Chicken	1	In-house 
+ENSGALG00000020972	Kidney	Chicken	1	In-house 
+ENSGALG00000021211	Kidney	Chicken	1	In-house 
+ENSGALG00000021240	Kidney	Chicken	1	In-house 
+ENSGALG00000021346	Kidney	Chicken	1	In-house 
+ENSGALG00000021397	Kidney	Chicken	1	In-house 
+ENSGALG00000021762	Kidney	Chicken	1	In-house 
+ENSGALG00000022939	Kidney	Chicken	1	In-house 
+ENSGALG00000023061	Kidney	Chicken	1	In-house 
+ENSGALG00000023066	Kidney	Chicken	1	In-house 
+ENSGALG00000023552	Kidney	Chicken	1	In-house 
+ENSGALG00000024621	Kidney	Chicken	1	In-house 
+ENSGALG00000024938	Kidney	Chicken	1	In-house 
+ENSGALG00000025633	Kidney	Chicken	1	In-house 
+ENSGALG00000026491	Kidney	Chicken	1	In-house 
+ENSGALG00000026625	Kidney	Chicken	1	In-house 
+ENSGALG00000026768	Kidney	Chicken	1	In-house 
+ENSGALG00000027051	Kidney	Chicken	1	In-house 
+ENSGALG00000027483	Kidney	Chicken	1	In-house 
+ENSGALG00000027658	Kidney	Chicken	1	In-house 
+ENSGALG00000027747	Kidney	Chicken	1	In-house 
+ENSGALG00000027761	Kidney	Chicken	1	In-house 
+ENSGALG00000028031	Kidney	Chicken	1	In-house 
+ENSGALG00000028402	Kidney	Chicken	1	In-house 
+ENSGALG00000028484	Kidney	Chicken	1	In-house 
+ENSGALG00000029056	Kidney	Chicken	1	In-house 

@@ -1,0 +1,470 @@
+gene_id	tissue	species	n_pipe	pipe
+ENSMODG00000000289	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000001028	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000001640	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000001820	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000002278	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000002313	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000003053	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000003063	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000003098	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000003377	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000003461	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000003962	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000003969	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000005013	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000005525	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000005747	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000007239	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000007993	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000009286	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000009615	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000009679	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000010165	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000010441	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000010770	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000012456	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000012999	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000013187	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000013212	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000013220	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000013660	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000014314	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000014784	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000015048	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000015259	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000018029	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000018221	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000018604	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000020516	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000021103	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000023163	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000029502	Kidney	Opossum	2	MaSigPro In-house 
+ENSMODG00000005735	Kidney	Opossum	4	DESeq2 splineR MaSigPro In-house 
+ENSMODG00000015320	Kidney	Opossum	4	DESeq2 splineR MaSigPro In-house 
+ENSMODG00000016737	Kidney	Opossum	4	DESeq2 splineR MaSigPro In-house 
+ENSMODG00000020772	Kidney	Opossum	3	DESeq2 splineR In-house 
+XLOC_045488	Kidney	Opossum	3	DESeq2 splineR In-house 
+ENSMODG00000000102	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000000348	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000000401	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000001318	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000001772	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000002750	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000003455	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000003553	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000003737	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000003813	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000003856	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000004315	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000004516	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000004782	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000004944	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000004955	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000004966	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000005168	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000006078	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000006515	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000007360	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000007769	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000008385	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000008386	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000008503	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000009191	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000009413	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000009538	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000010452	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000010811	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000010846	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000011077	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000011467	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000012343	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000012408	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000012516	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000012909	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000012914	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000012998	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000013072	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000013711	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000014576	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000014595	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000015558	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000015560	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000016132	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000016279	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000016551	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000016712	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000016937	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000017178	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000017211	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000017256	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000017436	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000017946	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000018715	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000018829	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000019737	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000021216	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000021511	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000024469	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000028633	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000028712	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000029565	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000029629	Kidney	Opossum	1	MaSigPro 
+ENSMODG00000000019	Kidney	Opossum	1	In-house 
+ENSMODG00000000040	Kidney	Opossum	1	In-house 
+ENSMODG00000000087	Kidney	Opossum	1	In-house 
+ENSMODG00000000160	Kidney	Opossum	1	In-house 
+ENSMODG00000000181	Kidney	Opossum	1	In-house 
+ENSMODG00000000195	Kidney	Opossum	1	In-house 
+ENSMODG00000000343	Kidney	Opossum	1	In-house 
+ENSMODG00000000536	Kidney	Opossum	1	In-house 
+ENSMODG00000000567	Kidney	Opossum	1	In-house 
+ENSMODG00000000624	Kidney	Opossum	1	In-house 
+ENSMODG00000000647	Kidney	Opossum	1	In-house 
+ENSMODG00000000650	Kidney	Opossum	1	In-house 
+ENSMODG00000000693	Kidney	Opossum	1	In-house 
+ENSMODG00000000705	Kidney	Opossum	1	In-house 
+ENSMODG00000000804	Kidney	Opossum	1	In-house 
+ENSMODG00000000814	Kidney	Opossum	1	In-house 
+ENSMODG00000000829	Kidney	Opossum	1	In-house 
+ENSMODG00000000860	Kidney	Opossum	1	In-house 
+ENSMODG00000000937	Kidney	Opossum	1	In-house 
+ENSMODG00000001021	Kidney	Opossum	1	In-house 
+ENSMODG00000001056	Kidney	Opossum	1	In-house 
+ENSMODG00000001219	Kidney	Opossum	1	In-house 
+ENSMODG00000001539	Kidney	Opossum	1	In-house 
+ENSMODG00000001577	Kidney	Opossum	1	In-house 
+ENSMODG00000001657	Kidney	Opossum	1	In-house 
+ENSMODG00000001669	Kidney	Opossum	1	In-house 
+ENSMODG00000001730	Kidney	Opossum	1	In-house 
+ENSMODG00000001760	Kidney	Opossum	1	In-house 
+ENSMODG00000001928	Kidney	Opossum	1	In-house 
+ENSMODG00000002125	Kidney	Opossum	1	In-house 
+ENSMODG00000002150	Kidney	Opossum	1	In-house 
+ENSMODG00000002155	Kidney	Opossum	1	In-house 
+ENSMODG00000002167	Kidney	Opossum	1	In-house 
+ENSMODG00000002337	Kidney	Opossum	1	In-house 
+ENSMODG00000002340	Kidney	Opossum	1	In-house 
+ENSMODG00000002379	Kidney	Opossum	1	In-house 
+ENSMODG00000002501	Kidney	Opossum	1	In-house 
+ENSMODG00000002503	Kidney	Opossum	1	In-house 
+ENSMODG00000002554	Kidney	Opossum	1	In-house 
+ENSMODG00000002591	Kidney	Opossum	1	In-house 
+ENSMODG00000002630	Kidney	Opossum	1	In-house 
+ENSMODG00000002716	Kidney	Opossum	1	In-house 
+ENSMODG00000002793	Kidney	Opossum	1	In-house 
+ENSMODG00000002951	Kidney	Opossum	1	In-house 
+ENSMODG00000003041	Kidney	Opossum	1	In-house 
+ENSMODG00000003092	Kidney	Opossum	1	In-house 
+ENSMODG00000003187	Kidney	Opossum	1	In-house 
+ENSMODG00000003389	Kidney	Opossum	1	In-house 
+ENSMODG00000003548	Kidney	Opossum	1	In-house 
+ENSMODG00000003565	Kidney	Opossum	1	In-house 
+ENSMODG00000003600	Kidney	Opossum	1	In-house 
+ENSMODG00000003687	Kidney	Opossum	1	In-house 
+ENSMODG00000003696	Kidney	Opossum	1	In-house 
+ENSMODG00000003718	Kidney	Opossum	1	In-house 
+ENSMODG00000003739	Kidney	Opossum	1	In-house 
+ENSMODG00000003761	Kidney	Opossum	1	In-house 
+ENSMODG00000003811	Kidney	Opossum	1	In-house 
+ENSMODG00000003852	Kidney	Opossum	1	In-house 
+ENSMODG00000003985	Kidney	Opossum	1	In-house 
+ENSMODG00000003987	Kidney	Opossum	1	In-house 
+ENSMODG00000004065	Kidney	Opossum	1	In-house 
+ENSMODG00000004214	Kidney	Opossum	1	In-house 
+ENSMODG00000004326	Kidney	Opossum	1	In-house 
+ENSMODG00000004428	Kidney	Opossum	1	In-house 
+ENSMODG00000004486	Kidney	Opossum	1	In-house 
+ENSMODG00000004490	Kidney	Opossum	1	In-house 
+ENSMODG00000004496	Kidney	Opossum	1	In-house 
+ENSMODG00000004570	Kidney	Opossum	1	In-house 
+ENSMODG00000004615	Kidney	Opossum	1	In-house 
+ENSMODG00000004644	Kidney	Opossum	1	In-house 
+ENSMODG00000004664	Kidney	Opossum	1	In-house 
+ENSMODG00000004717	Kidney	Opossum	1	In-house 
+ENSMODG00000004753	Kidney	Opossum	1	In-house 
+ENSMODG00000004765	Kidney	Opossum	1	In-house 
+ENSMODG00000004828	Kidney	Opossum	1	In-house 
+ENSMODG00000004895	Kidney	Opossum	1	In-house 
+ENSMODG00000004974	Kidney	Opossum	1	In-house 
+ENSMODG00000005039	Kidney	Opossum	1	In-house 
+ENSMODG00000005062	Kidney	Opossum	1	In-house 
+ENSMODG00000005089	Kidney	Opossum	1	In-house 
+ENSMODG00000005162	Kidney	Opossum	1	In-house 
+ENSMODG00000005192	Kidney	Opossum	1	In-house 
+ENSMODG00000005233	Kidney	Opossum	1	In-house 
+ENSMODG00000005298	Kidney	Opossum	1	In-house 
+ENSMODG00000005385	Kidney	Opossum	1	In-house 
+ENSMODG00000005434	Kidney	Opossum	1	In-house 
+ENSMODG00000005477	Kidney	Opossum	1	In-house 
+ENSMODG00000005524	Kidney	Opossum	1	In-house 
+ENSMODG00000005542	Kidney	Opossum	1	In-house 
+ENSMODG00000005550	Kidney	Opossum	1	In-house 
+ENSMODG00000005676	Kidney	Opossum	1	In-house 
+ENSMODG00000005691	Kidney	Opossum	1	In-house 
+ENSMODG00000005714	Kidney	Opossum	1	In-house 
+ENSMODG00000005744	Kidney	Opossum	1	In-house 
+ENSMODG00000005821	Kidney	Opossum	1	In-house 
+ENSMODG00000005868	Kidney	Opossum	1	In-house 
+ENSMODG00000006036	Kidney	Opossum	1	In-house 
+ENSMODG00000006040	Kidney	Opossum	1	In-house 
+ENSMODG00000006070	Kidney	Opossum	1	In-house 
+ENSMODG00000006126	Kidney	Opossum	1	In-house 
+ENSMODG00000006240	Kidney	Opossum	1	In-house 
+ENSMODG00000006279	Kidney	Opossum	1	In-house 
+ENSMODG00000006575	Kidney	Opossum	1	In-house 
+ENSMODG00000006586	Kidney	Opossum	1	In-house 
+ENSMODG00000006648	Kidney	Opossum	1	In-house 
+ENSMODG00000006660	Kidney	Opossum	1	In-house 
+ENSMODG00000006780	Kidney	Opossum	1	In-house 
+ENSMODG00000006801	Kidney	Opossum	1	In-house 
+ENSMODG00000006806	Kidney	Opossum	1	In-house 
+ENSMODG00000006989	Kidney	Opossum	1	In-house 
+ENSMODG00000007072	Kidney	Opossum	1	In-house 
+ENSMODG00000007251	Kidney	Opossum	1	In-house 
+ENSMODG00000007264	Kidney	Opossum	1	In-house 
+ENSMODG00000007284	Kidney	Opossum	1	In-house 
+ENSMODG00000007401	Kidney	Opossum	1	In-house 
+ENSMODG00000007427	Kidney	Opossum	1	In-house 
+ENSMODG00000007552	Kidney	Opossum	1	In-house 
+ENSMODG00000007630	Kidney	Opossum	1	In-house 
+ENSMODG00000007684	Kidney	Opossum	1	In-house 
+ENSMODG00000007737	Kidney	Opossum	1	In-house 
+ENSMODG00000007766	Kidney	Opossum	1	In-house 
+ENSMODG00000007978	Kidney	Opossum	1	In-house 
+ENSMODG00000008010	Kidney	Opossum	1	In-house 
+ENSMODG00000008139	Kidney	Opossum	1	In-house 
+ENSMODG00000008169	Kidney	Opossum	1	In-house 
+ENSMODG00000008170	Kidney	Opossum	1	In-house 
+ENSMODG00000008289	Kidney	Opossum	1	In-house 
+ENSMODG00000008291	Kidney	Opossum	1	In-house 
+ENSMODG00000008330	Kidney	Opossum	1	In-house 
+ENSMODG00000008390	Kidney	Opossum	1	In-house 
+ENSMODG00000008410	Kidney	Opossum	1	In-house 
+ENSMODG00000008468	Kidney	Opossum	1	In-house 
+ENSMODG00000008482	Kidney	Opossum	1	In-house 
+ENSMODG00000008498	Kidney	Opossum	1	In-house 
+ENSMODG00000008535	Kidney	Opossum	1	In-house 
+ENSMODG00000008601	Kidney	Opossum	1	In-house 
+ENSMODG00000008740	Kidney	Opossum	1	In-house 
+ENSMODG00000008795	Kidney	Opossum	1	In-house 
+ENSMODG00000008816	Kidney	Opossum	1	In-house 
+ENSMODG00000008878	Kidney	Opossum	1	In-house 
+ENSMODG00000008973	Kidney	Opossum	1	In-house 
+ENSMODG00000008989	Kidney	Opossum	1	In-house 
+ENSMODG00000009028	Kidney	Opossum	1	In-house 
+ENSMODG00000009058	Kidney	Opossum	1	In-house 
+ENSMODG00000009061	Kidney	Opossum	1	In-house 
+ENSMODG00000009096	Kidney	Opossum	1	In-house 
+ENSMODG00000009098	Kidney	Opossum	1	In-house 
+ENSMODG00000009102	Kidney	Opossum	1	In-house 
+ENSMODG00000009243	Kidney	Opossum	1	In-house 
+ENSMODG00000009290	Kidney	Opossum	1	In-house 
+ENSMODG00000009347	Kidney	Opossum	1	In-house 
+ENSMODG00000009353	Kidney	Opossum	1	In-house 
+ENSMODG00000009371	Kidney	Opossum	1	In-house 
+ENSMODG00000009431	Kidney	Opossum	1	In-house 
+ENSMODG00000009441	Kidney	Opossum	1	In-house 
+ENSMODG00000009565	Kidney	Opossum	1	In-house 
+ENSMODG00000009579	Kidney	Opossum	1	In-house 
+ENSMODG00000009636	Kidney	Opossum	1	In-house 
+ENSMODG00000009689	Kidney	Opossum	1	In-house 
+ENSMODG00000009827	Kidney	Opossum	1	In-house 
+ENSMODG00000009960	Kidney	Opossum	1	In-house 
+ENSMODG00000009978	Kidney	Opossum	1	In-house 
+ENSMODG00000010294	Kidney	Opossum	1	In-house 
+ENSMODG00000010440	Kidney	Opossum	1	In-house 
+ENSMODG00000010660	Kidney	Opossum	1	In-house 
+ENSMODG00000010734	Kidney	Opossum	1	In-house 
+ENSMODG00000010748	Kidney	Opossum	1	In-house 
+ENSMODG00000010862	Kidney	Opossum	1	In-house 
+ENSMODG00000010874	Kidney	Opossum	1	In-house 
+ENSMODG00000010978	Kidney	Opossum	1	In-house 
+ENSMODG00000010979	Kidney	Opossum	1	In-house 
+ENSMODG00000011205	Kidney	Opossum	1	In-house 
+ENSMODG00000011236	Kidney	Opossum	1	In-house 
+ENSMODG00000011289	Kidney	Opossum	1	In-house 
+ENSMODG00000011337	Kidney	Opossum	1	In-house 
+ENSMODG00000011371	Kidney	Opossum	1	In-house 
+ENSMODG00000011478	Kidney	Opossum	1	In-house 
+ENSMODG00000011579	Kidney	Opossum	1	In-house 
+ENSMODG00000011696	Kidney	Opossum	1	In-house 
+ENSMODG00000011736	Kidney	Opossum	1	In-house 
+ENSMODG00000011785	Kidney	Opossum	1	In-house 
+ENSMODG00000011804	Kidney	Opossum	1	In-house 
+ENSMODG00000011871	Kidney	Opossum	1	In-house 
+ENSMODG00000011945	Kidney	Opossum	1	In-house 
+ENSMODG00000011974	Kidney	Opossum	1	In-house 
+ENSMODG00000012064	Kidney	Opossum	1	In-house 
+ENSMODG00000012145	Kidney	Opossum	1	In-house 
+ENSMODG00000012158	Kidney	Opossum	1	In-house 
+ENSMODG00000012165	Kidney	Opossum	1	In-house 
+ENSMODG00000012199	Kidney	Opossum	1	In-house 
+ENSMODG00000012227	Kidney	Opossum	1	In-house 
+ENSMODG00000012286	Kidney	Opossum	1	In-house 
+ENSMODG00000012308	Kidney	Opossum	1	In-house 
+ENSMODG00000012371	Kidney	Opossum	1	In-house 
+ENSMODG00000012386	Kidney	Opossum	1	In-house 
+ENSMODG00000012394	Kidney	Opossum	1	In-house 
+ENSMODG00000012463	Kidney	Opossum	1	In-house 
+ENSMODG00000012543	Kidney	Opossum	1	In-house 
+ENSMODG00000012631	Kidney	Opossum	1	In-house 
+ENSMODG00000012656	Kidney	Opossum	1	In-house 
+ENSMODG00000012764	Kidney	Opossum	1	In-house 
+ENSMODG00000012786	Kidney	Opossum	1	In-house 
+ENSMODG00000012811	Kidney	Opossum	1	In-house 
+ENSMODG00000012835	Kidney	Opossum	1	In-house 
+ENSMODG00000012864	Kidney	Opossum	1	In-house 
+ENSMODG00000012944	Kidney	Opossum	1	In-house 
+ENSMODG00000013013	Kidney	Opossum	1	In-house 
+ENSMODG00000013038	Kidney	Opossum	1	In-house 
+ENSMODG00000013160	Kidney	Opossum	1	In-house 
+ENSMODG00000013214	Kidney	Opossum	1	In-house 
+ENSMODG00000013221	Kidney	Opossum	1	In-house 
+ENSMODG00000013238	Kidney	Opossum	1	In-house 
+ENSMODG00000013328	Kidney	Opossum	1	In-house 
+ENSMODG00000013416	Kidney	Opossum	1	In-house 
+ENSMODG00000013463	Kidney	Opossum	1	In-house 
+ENSMODG00000013533	Kidney	Opossum	1	In-house 
+ENSMODG00000013592	Kidney	Opossum	1	In-house 
+ENSMODG00000013643	Kidney	Opossum	1	In-house 
+ENSMODG00000013861	Kidney	Opossum	1	In-house 
+ENSMODG00000014072	Kidney	Opossum	1	In-house 
+ENSMODG00000014272	Kidney	Opossum	1	In-house 
+ENSMODG00000014345	Kidney	Opossum	1	In-house 
+ENSMODG00000014418	Kidney	Opossum	1	In-house 
+ENSMODG00000014444	Kidney	Opossum	1	In-house 
+ENSMODG00000014463	Kidney	Opossum	1	In-house 
+ENSMODG00000014558	Kidney	Opossum	1	In-house 
+ENSMODG00000014624	Kidney	Opossum	1	In-house 
+ENSMODG00000014644	Kidney	Opossum	1	In-house 
+ENSMODG00000014677	Kidney	Opossum	1	In-house 
+ENSMODG00000014729	Kidney	Opossum	1	In-house 
+ENSMODG00000014950	Kidney	Opossum	1	In-house 
+ENSMODG00000015060	Kidney	Opossum	1	In-house 
+ENSMODG00000015195	Kidney	Opossum	1	In-house 
+ENSMODG00000015335	Kidney	Opossum	1	In-house 
+ENSMODG00000015392	Kidney	Opossum	1	In-house 
+ENSMODG00000015399	Kidney	Opossum	1	In-house 
+ENSMODG00000015406	Kidney	Opossum	1	In-house 
+ENSMODG00000015544	Kidney	Opossum	1	In-house 
+ENSMODG00000015621	Kidney	Opossum	1	In-house 
+ENSMODG00000015640	Kidney	Opossum	1	In-house 
+ENSMODG00000015656	Kidney	Opossum	1	In-house 
+ENSMODG00000015725	Kidney	Opossum	1	In-house 
+ENSMODG00000015763	Kidney	Opossum	1	In-house 
+ENSMODG00000015822	Kidney	Opossum	1	In-house 
+ENSMODG00000015872	Kidney	Opossum	1	In-house 
+ENSMODG00000015992	Kidney	Opossum	1	In-house 
+ENSMODG00000016006	Kidney	Opossum	1	In-house 
+ENSMODG00000016018	Kidney	Opossum	1	In-house 
+ENSMODG00000016045	Kidney	Opossum	1	In-house 
+ENSMODG00000016115	Kidney	Opossum	1	In-house 
+ENSMODG00000016174	Kidney	Opossum	1	In-house 
+ENSMODG00000016183	Kidney	Opossum	1	In-house 
+ENSMODG00000016192	Kidney	Opossum	1	In-house 
+ENSMODG00000016356	Kidney	Opossum	1	In-house 
+ENSMODG00000016377	Kidney	Opossum	1	In-house 
+ENSMODG00000016383	Kidney	Opossum	1	In-house 
+ENSMODG00000016417	Kidney	Opossum	1	In-house 
+ENSMODG00000016421	Kidney	Opossum	1	In-house 
+ENSMODG00000016774	Kidney	Opossum	1	In-house 
+ENSMODG00000016801	Kidney	Opossum	1	In-house 
+ENSMODG00000016872	Kidney	Opossum	1	In-house 
+ENSMODG00000016960	Kidney	Opossum	1	In-house 
+ENSMODG00000017062	Kidney	Opossum	1	In-house 
+ENSMODG00000017096	Kidney	Opossum	1	In-house 
+ENSMODG00000017212	Kidney	Opossum	1	In-house 
+ENSMODG00000017231	Kidney	Opossum	1	In-house 
+ENSMODG00000017245	Kidney	Opossum	1	In-house 
+ENSMODG00000017401	Kidney	Opossum	1	In-house 
+ENSMODG00000017406	Kidney	Opossum	1	In-house 
+ENSMODG00000017410	Kidney	Opossum	1	In-house 
+ENSMODG00000017434	Kidney	Opossum	1	In-house 
+ENSMODG00000017504	Kidney	Opossum	1	In-house 
+ENSMODG00000017559	Kidney	Opossum	1	In-house 
+ENSMODG00000017810	Kidney	Opossum	1	In-house 
+ENSMODG00000017821	Kidney	Opossum	1	In-house 
+ENSMODG00000017841	Kidney	Opossum	1	In-house 
+ENSMODG00000017846	Kidney	Opossum	1	In-house 
+ENSMODG00000017887	Kidney	Opossum	1	In-house 
+ENSMODG00000018011	Kidney	Opossum	1	In-house 
+ENSMODG00000018153	Kidney	Opossum	1	In-house 
+ENSMODG00000018186	Kidney	Opossum	1	In-house 
+ENSMODG00000018193	Kidney	Opossum	1	In-house 
+ENSMODG00000018265	Kidney	Opossum	1	In-house 
+ENSMODG00000018382	Kidney	Opossum	1	In-house 
+ENSMODG00000018385	Kidney	Opossum	1	In-house 
+ENSMODG00000018722	Kidney	Opossum	1	In-house 
+ENSMODG00000018790	Kidney	Opossum	1	In-house 
+ENSMODG00000018815	Kidney	Opossum	1	In-house 
+ENSMODG00000018935	Kidney	Opossum	1	In-house 
+ENSMODG00000019049	Kidney	Opossum	1	In-house 
+ENSMODG00000019223	Kidney	Opossum	1	In-house 
+ENSMODG00000019271	Kidney	Opossum	1	In-house 
+ENSMODG00000019402	Kidney	Opossum	1	In-house 
+ENSMODG00000019449	Kidney	Opossum	1	In-house 
+ENSMODG00000019479	Kidney	Opossum	1	In-house 
+ENSMODG00000019548	Kidney	Opossum	1	In-house 
+ENSMODG00000019727	Kidney	Opossum	1	In-house 
+ENSMODG00000019804	Kidney	Opossum	1	In-house 
+ENSMODG00000019858	Kidney	Opossum	1	In-house 
+ENSMODG00000019865	Kidney	Opossum	1	In-house 
+ENSMODG00000020196	Kidney	Opossum	1	In-house 
+ENSMODG00000020254	Kidney	Opossum	1	In-house 
+ENSMODG00000020265	Kidney	Opossum	1	In-house 
+ENSMODG00000020308	Kidney	Opossum	1	In-house 
+ENSMODG00000020398	Kidney	Opossum	1	In-house 
+ENSMODG00000020573	Kidney	Opossum	1	In-house 
+ENSMODG00000020609	Kidney	Opossum	1	In-house 
+ENSMODG00000020872	Kidney	Opossum	1	In-house 
+ENSMODG00000020895	Kidney	Opossum	1	In-house 
+ENSMODG00000020958	Kidney	Opossum	1	In-house 
+ENSMODG00000020988	Kidney	Opossum	1	In-house 
+ENSMODG00000021032	Kidney	Opossum	1	In-house 
+ENSMODG00000021071	Kidney	Opossum	1	In-house 
+ENSMODG00000021092	Kidney	Opossum	1	In-house 
+ENSMODG00000021197	Kidney	Opossum	1	In-house 
+ENSMODG00000021246	Kidney	Opossum	1	In-house 
+ENSMODG00000021252	Kidney	Opossum	1	In-house 
+ENSMODG00000021342	Kidney	Opossum	1	In-house 
+ENSMODG00000021348	Kidney	Opossum	1	In-house 
+ENSMODG00000021434	Kidney	Opossum	1	In-house 
+ENSMODG00000021712	Kidney	Opossum	1	In-house 
+ENSMODG00000021804	Kidney	Opossum	1	In-house 
+ENSMODG00000021817	Kidney	Opossum	1	In-house 
+ENSMODG00000022044	Kidney	Opossum	1	In-house 
+ENSMODG00000022787	Kidney	Opossum	1	In-house 
+ENSMODG00000022965	Kidney	Opossum	1	In-house 
+ENSMODG00000023128	Kidney	Opossum	1	In-house 
+ENSMODG00000023280	Kidney	Opossum	1	In-house 
+ENSMODG00000023771	Kidney	Opossum	1	In-house 
+ENSMODG00000023906	Kidney	Opossum	1	In-house 
+ENSMODG00000023947	Kidney	Opossum	1	In-house 
+ENSMODG00000024050	Kidney	Opossum	1	In-house 
+ENSMODG00000025050	Kidney	Opossum	1	In-house 
+ENSMODG00000025313	Kidney	Opossum	1	In-house 
+ENSMODG00000025382	Kidney	Opossum	1	In-house 
+ENSMODG00000025410	Kidney	Opossum	1	In-house 
+ENSMODG00000025500	Kidney	Opossum	1	In-house 
+ENSMODG00000025528	Kidney	Opossum	1	In-house 
+ENSMODG00000025533	Kidney	Opossum	1	In-house 
+ENSMODG00000025608	Kidney	Opossum	1	In-house 
+ENSMODG00000025650	Kidney	Opossum	1	In-house 
+ENSMODG00000025676	Kidney	Opossum	1	In-house 
+ENSMODG00000025706	Kidney	Opossum	1	In-house 
+ENSMODG00000026306	Kidney	Opossum	1	In-house 
+ENSMODG00000026713	Kidney	Opossum	1	In-house 
+ENSMODG00000027491	Kidney	Opossum	1	In-house 
+ENSMODG00000027663	Kidney	Opossum	1	In-house 
+ENSMODG00000027679	Kidney	Opossum	1	In-house 
+ENSMODG00000028036	Kidney	Opossum	1	In-house 
+ENSMODG00000028153	Kidney	Opossum	1	In-house 
+ENSMODG00000028607	Kidney	Opossum	1	In-house 
+ENSMODG00000028761	Kidney	Opossum	1	In-house 
+ENSMODG00000028867	Kidney	Opossum	1	In-house 
+ENSMODG00000028927	Kidney	Opossum	1	In-house 
+ENSMODG00000029007	Kidney	Opossum	1	In-house 
+ENSMODG00000029146	Kidney	Opossum	1	In-house 
+ENSMODG00000029544	Kidney	Opossum	1	In-house 
+ENSMODG00000029576	Kidney	Opossum	1	In-house 

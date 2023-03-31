@@ -1,0 +1,1112 @@
+gene_id	tissue	species	n_pipe	pipe
+ENSG00000140853	Heart	Human	3	splineR MaSigPro In-house 
+ENSG00000143398	Heart	Human	3	splineR MaSigPro In-house 
+ENSG00000152086	Heart	Human	3	splineR MaSigPro In-house 
+ENSG00000081051	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000084674	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000091513	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000101076	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000106927	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000112759	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000122194	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000133065	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000138207	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000145192	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000151655	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000167711	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000171564	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000171759	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000197249	Heart	Human	2	DESeq2 MaSigPro 
+ENSG00000069188	Heart	Human	2	MaSigPro In-house 
+ENSG00000075618	Heart	Human	2	MaSigPro In-house 
+ENSG00000100626	Heart	Human	2	MaSigPro In-house 
+ENSG00000101162	Heart	Human	2	MaSigPro In-house 
+ENSG00000101935	Heart	Human	2	MaSigPro In-house 
+ENSG00000102096	Heart	Human	2	MaSigPro In-house 
+ENSG00000105612	Heart	Human	2	MaSigPro In-house 
+ENSG00000105639	Heart	Human	2	MaSigPro In-house 
+ENSG00000108381	Heart	Human	2	MaSigPro In-house 
+ENSG00000110013	Heart	Human	2	MaSigPro In-house 
+ENSG00000110328	Heart	Human	2	MaSigPro In-house 
+ENSG00000110799	Heart	Human	2	MaSigPro In-house 
+ENSG00000112773	Heart	Human	2	MaSigPro In-house 
+ENSG00000117016	Heart	Human	2	MaSigPro In-house 
+ENSG00000120158	Heart	Human	2	MaSigPro In-house 
+ENSG00000120647	Heart	Human	2	MaSigPro In-house 
+ENSG00000120948	Heart	Human	2	MaSigPro In-house 
+ENSG00000122679	Heart	Human	2	MaSigPro In-house 
+ENSG00000125354	Heart	Human	2	MaSigPro In-house 
+ENSG00000130234	Heart	Human	2	MaSigPro In-house 
+ENSG00000131100	Heart	Human	2	MaSigPro In-house 
+ENSG00000131634	Heart	Human	2	MaSigPro In-house 
+ENSG00000133740	Heart	Human	2	MaSigPro In-house 
+ENSG00000138115	Heart	Human	2	MaSigPro In-house 
+ENSG00000138821	Heart	Human	2	MaSigPro In-house 
+ENSG00000140682	Heart	Human	2	MaSigPro In-house 
+ENSG00000141198	Heart	Human	2	MaSigPro In-house 
+ENSG00000143627	Heart	Human	2	MaSigPro In-house 
+ENSG00000148737	Heart	Human	2	MaSigPro In-house 
+ENSG00000151690	Heart	Human	2	MaSigPro In-house 
+ENSG00000151849	Heart	Human	2	MaSigPro In-house 
+ENSG00000153790	Heart	Human	2	MaSigPro In-house 
+ENSG00000154133	Heart	Human	2	MaSigPro In-house 
+ENSG00000154678	Heart	Human	2	MaSigPro In-house 
+ENSG00000155368	Heart	Human	2	MaSigPro In-house 
+ENSG00000159164	Heart	Human	2	MaSigPro In-house 
+ENSG00000162367	Heart	Human	2	MaSigPro In-house 
+ENSG00000163006	Heart	Human	2	MaSigPro In-house 
+ENSG00000164010	Heart	Human	2	MaSigPro In-house 
+ENSG00000165702	Heart	Human	2	MaSigPro In-house 
+ENSG00000166257	Heart	Human	2	MaSigPro In-house 
+ENSG00000170915	Heart	Human	2	MaSigPro In-house 
+ENSG00000171408	Heart	Human	2	MaSigPro In-house 
+ENSG00000171840	Heart	Human	2	MaSigPro In-house 
+ENSG00000173898	Heart	Human	2	MaSigPro In-house 
+ENSG00000176102	Heart	Human	2	MaSigPro In-house 
+ENSG00000177469	Heart	Human	2	MaSigPro In-house 
+ENSG00000179241	Heart	Human	2	MaSigPro In-house 
+ENSG00000179431	Heart	Human	2	MaSigPro In-house 
+ENSG00000180914	Heart	Human	2	MaSigPro In-house 
+ENSG00000181896	Heart	Human	2	MaSigPro In-house 
+ENSG00000184792	Heart	Human	2	MaSigPro In-house 
+ENSG00000187688	Heart	Human	2	MaSigPro In-house 
+ENSG00000196208	Heart	Human	2	MaSigPro In-house 
+ENSG00000196353	Heart	Human	2	MaSigPro In-house 
+ENSG00000198185	Heart	Human	2	MaSigPro In-house 
+ENSG00000205664	Heart	Human	2	MaSigPro In-house 
+ENSG00000214097	Heart	Human	2	MaSigPro In-house 
+ENSG00000232656	Heart	Human	2	MaSigPro In-house 
+ENSG00000233762	Heart	Human	2	MaSigPro In-house 
+ENSG00000241644	Heart	Human	2	MaSigPro In-house 
+ENSG00000244005	Heart	Human	2	MaSigPro In-house 
+ENSG00000269970	Heart	Human	2	splineR In-house 
+ENSG00000230751	Heart	Human	2	splineR In-house 
+ENSG00000204632	Heart	Human	2	splineR In-house 
+ENSG00000146197	Heart	Human	2	splineR In-house 
+ENSG00000167286	Heart	Human	2	splineR In-house 
+ENSG00000147689	Heart	Human	2	splineR In-house 
+ENSG00000205020	Heart	Human	2	splineR In-house 
+ENSG00000104921	Heart	Human	2	splineR In-house 
+ENSG00000005889	Heart	Human	2	DESeq2 In-house 
+ENSG00000006327	Heart	Human	2	DESeq2 In-house 
+ENSG00000007314	Heart	Human	2	DESeq2 In-house 
+ENSG00000023171	Heart	Human	2	DESeq2 In-house 
+ENSG00000070404	Heart	Human	2	DESeq2 In-house 
+ENSG00000078081	Heart	Human	2	DESeq2 In-house 
+ENSG00000087076	Heart	Human	2	DESeq2 In-house 
+ENSG00000101670	Heart	Human	2	DESeq2 In-house 
+ENSG00000101695	Heart	Human	2	DESeq2 In-house 
+ENSG00000103490	Heart	Human	2	DESeq2 In-house 
+ENSG00000105281	Heart	Human	2	DESeq2 In-house 
+ENSG00000106348	Heart	Human	2	DESeq2 In-house 
+ENSG00000112319	Heart	Human	2	DESeq2 In-house 
+ENSG00000124243	Heart	Human	2	DESeq2 In-house 
+ENSG00000126803	Heart	Human	2	DESeq2 In-house 
+ENSG00000128965	Heart	Human	2	DESeq2 In-house 
+ENSG00000130201	Heart	Human	2	DESeq2 In-house 
+ENSG00000130300	Heart	Human	2	DESeq2 In-house 
+ENSG00000138119	Heart	Human	2	DESeq2 In-house 
+ENSG00000143845	Heart	Human	2	DESeq2 In-house 
+ENSG00000159212	Heart	Human	2	DESeq2 In-house 
+ENSG00000188573	Heart	Human	2	DESeq2 In-house 
+ENSG00000196517	Heart	Human	2	DESeq2 In-house 
+ENSG00000198130	Heart	Human	2	DESeq2 In-house 
+ENSG00000226976	Heart	Human	2	DESeq2 In-house 
+ENSG00000234335	Heart	Human	2	DESeq2 In-house 
+ENSG00000236533	Heart	Human	2	DESeq2 In-house 
+ENSG00000243181	Heart	Human	2	DESeq2 In-house 
+ENSG00000243710	Heart	Human	2	DESeq2 In-house 
+ENSG00000270681	Heart	Human	2	DESeq2 In-house 
+ENSG00000012817	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000067048	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000067646	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000114374	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000129824	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000154620	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000164076	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000165246	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000183878	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000198692	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000233864	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000241859	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000260197	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+XLOC_054028	Heart	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000006062	Heart	Human	3	DESeq2 MaSigPro In-house 
+ENSG00000166262	Heart	Human	3	DESeq2 MaSigPro In-house 
+ENSG00000205358	Heart	Human	3	DESeq2 MaSigPro In-house 
+ENSG00000080007	Heart	Human	3	DESeq2 splineR In-house 
+ENSG00000092377	Heart	Human	3	DESeq2 splineR In-house 
+ENSG00000117676	Heart	Human	3	DESeq2 splineR In-house 
+ENSG00000126012	Heart	Human	3	DESeq2 splineR In-house 
+ENSG00000168907	Heart	Human	3	DESeq2 splineR In-house 
+ENSG00000198034	Heart	Human	3	DESeq2 splineR In-house 
+ENSG00000213318	Heart	Human	3	DESeq2 splineR In-house 
+ENSG00000009950	Heart	Human	1	DESeq2 
+ENSG00000015413	Heart	Human	1	DESeq2 
+ENSG00000023839	Heart	Human	1	DESeq2 
+ENSG00000037897	Heart	Human	1	DESeq2 
+ENSG00000055957	Heart	Human	1	DESeq2 
+ENSG00000060566	Heart	Human	1	DESeq2 
+ENSG00000070669	Heart	Human	1	DESeq2 
+ENSG00000072694	Heart	Human	1	DESeq2 
+ENSG00000074842	Heart	Human	1	DESeq2 
+ENSG00000075643	Heart	Human	1	DESeq2 
+ENSG00000080618	Heart	Human	1	DESeq2 
+ENSG00000081181	Heart	Human	1	DESeq2 
+ENSG00000084110	Heart	Human	1	DESeq2 
+ENSG00000091583	Heart	Human	1	DESeq2 
+ENSG00000092621	Heart	Human	1	DESeq2 
+ENSG00000099937	Heart	Human	1	DESeq2 
+ENSG00000100031	Heart	Human	1	DESeq2 
+ENSG00000100079	Heart	Human	1	DESeq2 
+ENSG00000100889	Heart	Human	1	DESeq2 
+ENSG00000101255	Heart	Human	1	DESeq2 
+ENSG00000102575	Heart	Human	1	DESeq2 
+ENSG00000103257	Heart	Human	1	DESeq2 
+ENSG00000104760	Heart	Human	1	DESeq2 
+ENSG00000106258	Heart	Human	1	DESeq2 
+ENSG00000106366	Heart	Human	1	DESeq2 
+ENSG00000106689	Heart	Human	1	DESeq2 
+ENSG00000108846	Heart	Human	1	DESeq2 
+ENSG00000109072	Heart	Human	1	DESeq2 
+ENSG00000110169	Heart	Human	1	DESeq2 
+ENSG00000111671	Heart	Human	1	DESeq2 
+ENSG00000113924	Heart	Human	1	DESeq2 
+ENSG00000115163	Heart	Human	1	DESeq2 
+ENSG00000115602	Heart	Human	1	DESeq2 
+ENSG00000115718	Heart	Human	1	DESeq2 
+ENSG00000116133	Heart	Human	1	DESeq2 
+ENSG00000116771	Heart	Human	1	DESeq2 
+ENSG00000116833	Heart	Human	1	DESeq2 
+ENSG00000117601	Heart	Human	1	DESeq2 
+ENSG00000118137	Heart	Human	1	DESeq2 
+ENSG00000118271	Heart	Human	1	DESeq2 
+ENSG00000118520	Heart	Human	1	DESeq2 
+ENSG00000119547	Heart	Human	1	DESeq2 
+ENSG00000122877	Heart	Human	1	DESeq2 
+ENSG00000124568	Heart	Human	1	DESeq2 
+ENSG00000125144	Heart	Human	1	DESeq2 
+ENSG00000125430	Heart	Human	1	DESeq2 
+ENSG00000126775	Heart	Human	1	DESeq2 
+ENSG00000127948	Heart	Human	1	DESeq2 
+ENSG00000128165	Heart	Human	1	DESeq2 
+ENSG00000128228	Heart	Human	1	DESeq2 
+ENSG00000129654	Heart	Human	1	DESeq2 
+ENSG00000130173	Heart	Human	1	DESeq2 
+ENSG00000130427	Heart	Human	1	DESeq2 
+ENSG00000130513	Heart	Human	1	DESeq2 
+ENSG00000130707	Heart	Human	1	DESeq2 
+ENSG00000130766	Heart	Human	1	DESeq2 
+ENSG00000130829	Heart	Human	1	DESeq2 
+ENSG00000131187	Heart	Human	1	DESeq2 
+ENSG00000132855	Heart	Human	1	DESeq2 
+ENSG00000133135	Heart	Human	1	DESeq2 
+ENSG00000134684	Heart	Human	1	DESeq2 
+ENSG00000135069	Heart	Human	1	DESeq2 
+ENSG00000135378	Heart	Human	1	DESeq2 
+ENSG00000135423	Heart	Human	1	DESeq2 
+ENSG00000135744	Heart	Human	1	DESeq2 
+ENSG00000136872	Heart	Human	1	DESeq2 
+ENSG00000137825	Heart	Human	1	DESeq2 
+ENSG00000139144	Heart	Human	1	DESeq2 
+ENSG00000139269	Heart	Human	1	DESeq2 
+ENSG00000139540	Heart	Human	1	DESeq2 
+ENSG00000141485	Heart	Human	1	DESeq2 
+ENSG00000142494	Heart	Human	1	DESeq2 
+ENSG00000142748	Heart	Human	1	DESeq2 
+ENSG00000144035	Heart	Human	1	DESeq2 
+ENSG00000144891	Heart	Human	1	DESeq2 
+ENSG00000144908	Heart	Human	1	DESeq2 
+ENSG00000145321	Heart	Human	1	DESeq2 
+ENSG00000145692	Heart	Human	1	DESeq2 
+ENSG00000146215	Heart	Human	1	DESeq2 
+ENSG00000147676	Heart	Human	1	DESeq2 
+ENSG00000148832	Heart	Human	1	DESeq2 
+ENSG00000153879	Heart	Human	1	DESeq2 
+ENSG00000153976	Heart	Human	1	DESeq2 
+ENSG00000158050	Heart	Human	1	DESeq2 
+ENSG00000158089	Heart	Human	1	DESeq2 
+ENSG00000158874	Heart	Human	1	DESeq2 
+ENSG00000159166	Heart	Human	1	DESeq2 
+ENSG00000160200	Heart	Human	1	DESeq2 
+ENSG00000160606	Heart	Human	1	DESeq2 
+ENSG00000160870	Heart	Human	1	DESeq2 
+ENSG00000161944	Heart	Human	1	DESeq2 
+ENSG00000162267	Heart	Human	1	DESeq2 
+ENSG00000163581	Heart	Human	1	DESeq2 
+ENSG00000163586	Heart	Human	1	DESeq2 
+ENSG00000163631	Heart	Human	1	DESeq2 
+ENSG00000164266	Heart	Human	1	DESeq2 
+ENSG00000164690	Heart	Human	1	DESeq2 
+ENSG00000165140	Heart	Human	1	DESeq2 
+ENSG00000165548	Heart	Human	1	DESeq2 
+ENSG00000166126	Heart	Human	1	DESeq2 
+ENSG00000166819	Heart	Human	1	DESeq2 
+ENSG00000167772	Heart	Human	1	DESeq2 
+ENSG00000167775	Heart	Human	1	DESeq2 
+ENSG00000167780	Heart	Human	1	DESeq2 
+ENSG00000169136	Heart	Human	1	DESeq2 
+ENSG00000169174	Heart	Human	1	DESeq2 
+ENSG00000169562	Heart	Human	1	DESeq2 
+ENSG00000169903	Heart	Human	1	DESeq2 
+ENSG00000170099	Heart	Human	1	DESeq2 
+ENSG00000170290	Heart	Human	1	DESeq2 
+ENSG00000170608	Heart	Human	1	DESeq2 
+ENSG00000171223	Heart	Human	1	DESeq2 
+ENSG00000171236	Heart	Human	1	DESeq2 
+ENSG00000171557	Heart	Human	1	DESeq2 
+ENSG00000171560	Heart	Human	1	DESeq2 
+ENSG00000171700	Heart	Human	1	DESeq2 
+ENSG00000172478	Heart	Human	1	DESeq2 
+ENSG00000173598	Heart	Human	1	DESeq2 
+ENSG00000174498	Heart	Human	1	DESeq2 
+ENSG00000174827	Heart	Human	1	DESeq2 
+ENSG00000175287	Heart	Human	1	DESeq2 
+ENSG00000178445	Heart	Human	1	DESeq2 
+ENSG00000178772	Heart	Human	1	DESeq2 
+ENSG00000179178	Heart	Human	1	DESeq2 
+ENSG00000179388	Heart	Human	1	DESeq2 
+ENSG00000180210	Heart	Human	1	DESeq2 
+ENSG00000181019	Heart	Human	1	DESeq2 
+ENSG00000182199	Heart	Human	1	DESeq2 
+ENSG00000182902	Heart	Human	1	DESeq2 
+ENSG00000187510	Heart	Human	1	DESeq2 
+ENSG00000187840	Heart	Human	1	DESeq2 
+ENSG00000198203	Heart	Human	1	DESeq2 
+ENSG00000198670	Heart	Human	1	DESeq2 
+ENSG00000198728	Heart	Human	1	DESeq2 
+ENSG00000204128	Heart	Human	1	DESeq2 
+ENSG00000204334	Heart	Human	1	DESeq2 
+ENSG00000206557	Heart	Human	1	DESeq2 
+ENSG00000215644	Heart	Human	1	DESeq2 
+ENSG00000217791	Heart	Human	1	DESeq2 
+ENSG00000225093	Heart	Human	1	DESeq2 
+ENSG00000241935	Heart	Human	1	DESeq2 
+ENSG00000243955	Heart	Human	1	DESeq2 
+ENSG00000250799	Heart	Human	1	DESeq2 
+ENSG00000261603	Heart	Human	1	DESeq2 
+ENSG00000201044	Heart	Human	1	splineR 
+ENSG00000231047	Heart	Human	1	splineR 
+ENSG00000165863	Heart	Human	1	splineR 
+ENSG00000266946	Heart	Human	1	splineR 
+ENSG00000232810	Heart	Human	1	splineR 
+ENSG00000161381	Heart	Human	1	splineR 
+ENSG00000006695	Heart	Human	1	MaSigPro 
+ENSG00000008300	Heart	Human	1	MaSigPro 
+ENSG00000013392	Heart	Human	1	MaSigPro 
+ENSG00000013588	Heart	Human	1	MaSigPro 
+ENSG00000019505	Heart	Human	1	MaSigPro 
+ENSG00000023191	Heart	Human	1	MaSigPro 
+ENSG00000036448	Heart	Human	1	MaSigPro 
+ENSG00000043591	Heart	Human	1	MaSigPro 
+ENSG00000048544	Heart	Human	1	MaSigPro 
+ENSG00000050555	Heart	Human	1	MaSigPro 
+ENSG00000064547	Heart	Human	1	MaSigPro 
+ENSG00000065600	Heart	Human	1	MaSigPro 
+ENSG00000066117	Heart	Human	1	MaSigPro 
+ENSG00000072062	Heart	Human	1	MaSigPro 
+ENSG00000072182	Heart	Human	1	MaSigPro 
+ENSG00000072756	Heart	Human	1	MaSigPro 
+ENSG00000072954	Heart	Human	1	MaSigPro 
+ENSG00000074266	Heart	Human	1	MaSigPro 
+ENSG00000074527	Heart	Human	1	MaSigPro 
+ENSG00000075043	Heart	Human	1	MaSigPro 
+ENSG00000075239	Heart	Human	1	MaSigPro 
+ENSG00000076662	Heart	Human	1	MaSigPro 
+ENSG00000078549	Heart	Human	1	MaSigPro 
+ENSG00000078804	Heart	Human	1	MaSigPro 
+ENSG00000080546	Heart	Human	1	MaSigPro 
+ENSG00000082641	Heart	Human	1	MaSigPro 
+ENSG00000083635	Heart	Human	1	MaSigPro 
+ENSG00000086712	Heart	Human	1	MaSigPro 
+ENSG00000086848	Heart	Human	1	MaSigPro 
+ENSG00000088992	Heart	Human	1	MaSigPro 
+ENSG00000089639	Heart	Human	1	MaSigPro 
+ENSG00000091972	Heart	Human	1	MaSigPro 
+ENSG00000099365	Heart	Human	1	MaSigPro 
+ENSG00000100167	Heart	Human	1	MaSigPro 
+ENSG00000101104	Heart	Human	1	MaSigPro 
+ENSG00000101115	Heart	Human	1	MaSigPro 
+ENSG00000101224	Heart	Human	1	MaSigPro 
+ENSG00000101544	Heart	Human	1	MaSigPro 
+ENSG00000102882	Heart	Human	1	MaSigPro 
+ENSG00000103056	Heart	Human	1	MaSigPro 
+ENSG00000104218	Heart	Human	1	MaSigPro 
+ENSG00000104356	Heart	Human	1	MaSigPro 
+ENSG00000104549	Heart	Human	1	MaSigPro 
+ENSG00000105193	Heart	Human	1	MaSigPro 
+ENSG00000105255	Heart	Human	1	MaSigPro 
+ENSG00000105655	Heart	Human	1	MaSigPro 
+ENSG00000105677	Heart	Human	1	MaSigPro 
+ENSG00000105953	Heart	Human	1	MaSigPro 
+ENSG00000106976	Heart	Human	1	MaSigPro 
+ENSG00000107242	Heart	Human	1	MaSigPro 
+ENSG00000107738	Heart	Human	1	MaSigPro 
+ENSG00000108405	Heart	Human	1	MaSigPro 
+ENSG00000109576	Heart	Human	1	MaSigPro 
+ENSG00000110711	Heart	Human	1	MaSigPro 
+ENSG00000111057	Heart	Human	1	MaSigPro 
+ENSG00000111879	Heart	Human	1	MaSigPro 
+ENSG00000112096	Heart	Human	1	MaSigPro 
+ENSG00000112530	Heart	Human	1	MaSigPro 
+ENSG00000114654	Heart	Human	1	MaSigPro 
+ENSG00000114738	Heart	Human	1	MaSigPro 
+ENSG00000115641	Heart	Human	1	MaSigPro 
+ENSG00000116273	Heart	Human	1	MaSigPro 
+ENSG00000116688	Heart	Human	1	MaSigPro 
+ENSG00000116852	Heart	Human	1	MaSigPro 
+ENSG00000117289	Heart	Human	1	MaSigPro 
+ENSG00000117308	Heart	Human	1	MaSigPro 
+ENSG00000117525	Heart	Human	1	MaSigPro 
+ENSG00000119471	Heart	Human	1	MaSigPro 
+ENSG00000119707	Heart	Human	1	MaSigPro 
+ENSG00000119922	Heart	Human	1	MaSigPro 
+ENSG00000120029	Heart	Human	1	MaSigPro 
+ENSG00000120149	Heart	Human	1	MaSigPro 
+ENSG00000122299	Heart	Human	1	MaSigPro 
+ENSG00000122359	Heart	Human	1	MaSigPro 
+ENSG00000122566	Heart	Human	1	MaSigPro 
+ENSG00000122824	Heart	Human	1	MaSigPro 
+ENSG00000123240	Heart	Human	1	MaSigPro 
+ENSG00000123643	Heart	Human	1	MaSigPro 
+ENSG00000125170	Heart	Human	1	MaSigPro 
+ENSG00000125457	Heart	Human	1	MaSigPro 
+ENSG00000126215	Heart	Human	1	MaSigPro 
+ENSG00000126351	Heart	Human	1	MaSigPro 
+ENSG00000128185	Heart	Human	1	MaSigPro 
+ENSG00000130700	Heart	Human	1	MaSigPro 
+ENSG00000132849	Heart	Human	1	MaSigPro 
+ENSG00000132964	Heart	Human	1	MaSigPro 
+ENSG00000133424	Heart	Human	1	MaSigPro 
+ENSG00000133943	Heart	Human	1	MaSigPro 
+ENSG00000134138	Heart	Human	1	MaSigPro 
+ENSG00000134186	Heart	Human	1	MaSigPro 
+ENSG00000135119	Heart	Human	1	MaSigPro 
+ENSG00000135315	Heart	Human	1	MaSigPro 
+ENSG00000135472	Heart	Human	1	MaSigPro 
+ENSG00000135842	Heart	Human	1	MaSigPro 
+ENSG00000136149	Heart	Human	1	MaSigPro 
+ENSG00000136436	Heart	Human	1	MaSigPro 
+ENSG00000137868	Heart	Human	1	MaSigPro 
+ENSG00000138623	Heart	Human	1	MaSigPro 
+ENSG00000138755	Heart	Human	1	MaSigPro 
+ENSG00000139835	Heart	Human	1	MaSigPro 
+ENSG00000140945	Heart	Human	1	MaSigPro 
+ENSG00000143028	Heart	Human	1	MaSigPro 
+ENSG00000143320	Heart	Human	1	MaSigPro 
+ENSG00000143466	Heart	Human	1	MaSigPro 
+ENSG00000144959	Heart	Human	1	MaSigPro 
+ENSG00000145721	Heart	Human	1	MaSigPro 
+ENSG00000146054	Heart	Human	1	MaSigPro 
+ENSG00000146147	Heart	Human	1	MaSigPro 
+ENSG00000146809	Heart	Human	1	MaSigPro 
+ENSG00000147010	Heart	Human	1	MaSigPro 
+ENSG00000147113	Heart	Human	1	MaSigPro 
+ENSG00000147119	Heart	Human	1	MaSigPro 
+ENSG00000149476	Heart	Human	1	MaSigPro 
+ENSG00000149809	Heart	Human	1	MaSigPro 
+ENSG00000150281	Heart	Human	1	MaSigPro 
+ENSG00000150401	Heart	Human	1	MaSigPro 
+ENSG00000152642	Heart	Human	1	MaSigPro 
+ENSG00000153132	Heart	Human	1	MaSigPro 
+ENSG00000154263	Heart	Human	1	MaSigPro 
+ENSG00000154930	Heart	Human	1	MaSigPro 
+ENSG00000156463	Heart	Human	1	MaSigPro 
+ENSG00000156471	Heart	Human	1	MaSigPro 
+ENSG00000157168	Heart	Human	1	MaSigPro 
+ENSG00000157216	Heart	Human	1	MaSigPro 
+ENSG00000161533	Heart	Human	1	MaSigPro 
+ENSG00000161558	Heart	Human	1	MaSigPro 
+ENSG00000161682	Heart	Human	1	MaSigPro 
+ENSG00000161714	Heart	Human	1	MaSigPro 
+ENSG00000162630	Heart	Human	1	MaSigPro 
+ENSG00000163092	Heart	Human	1	MaSigPro 
+ENSG00000163219	Heart	Human	1	MaSigPro 
+ENSG00000163257	Heart	Human	1	MaSigPro 
+ENSG00000163380	Heart	Human	1	MaSigPro 
+ENSG00000163462	Heart	Human	1	MaSigPro 
+ENSG00000163820	Heart	Human	1	MaSigPro 
+ENSG00000163833	Heart	Human	1	MaSigPro 
+ENSG00000164112	Heart	Human	1	MaSigPro 
+ENSG00000164776	Heart	Human	1	MaSigPro 
+ENSG00000164849	Heart	Human	1	MaSigPro 
+ENSG00000165609	Heart	Human	1	MaSigPro 
+ENSG00000166130	Heart	Human	1	MaSigPro 
+ENSG00000166224	Heart	Human	1	MaSigPro 
+ENSG00000167191	Heart	Human	1	MaSigPro 
+ENSG00000167635	Heart	Human	1	MaSigPro 
+ENSG00000170323	Heart	Human	1	MaSigPro 
+ENSG00000170522	Heart	Human	1	MaSigPro 
+ENSG00000170801	Heart	Human	1	MaSigPro 
+ENSG00000171219	Heart	Human	1	MaSigPro 
+ENSG00000171503	Heart	Human	1	MaSigPro 
+ENSG00000171940	Heart	Human	1	MaSigPro 
+ENSG00000172197	Heart	Human	1	MaSigPro 
+ENSG00000172602	Heart	Human	1	MaSigPro 
+ENSG00000173141	Heart	Human	1	MaSigPro 
+ENSG00000173210	Heart	Human	1	MaSigPro 
+ENSG00000173226	Heart	Human	1	MaSigPro 
+ENSG00000173894	Heart	Human	1	MaSigPro 
+ENSG00000174059	Heart	Human	1	MaSigPro 
+ENSG00000175084	Heart	Human	1	MaSigPro 
+ENSG00000175806	Heart	Human	1	MaSigPro 
+ENSG00000176273	Heart	Human	1	MaSigPro 
+ENSG00000176533	Heart	Human	1	MaSigPro 
+ENSG00000177981	Heart	Human	1	MaSigPro 
+ENSG00000178715	Heart	Human	1	MaSigPro 
+ENSG00000180921	Heart	Human	1	MaSigPro 
+ENSG00000181817	Heart	Human	1	MaSigPro 
+ENSG00000182871	Heart	Human	1	MaSigPro 
+ENSG00000183161	Heart	Human	1	MaSigPro 
+ENSG00000183621	Heart	Human	1	MaSigPro 
+ENSG00000184056	Heart	Human	1	MaSigPro 
+ENSG00000184113	Heart	Human	1	MaSigPro 
+ENSG00000185737	Heart	Human	1	MaSigPro 
+ENSG00000185818	Heart	Human	1	MaSigPro 
+ENSG00000186577	Heart	Human	1	MaSigPro 
+ENSG00000186642	Heart	Human	1	MaSigPro 
+ENSG00000187642	Heart	Human	1	MaSigPro 
+ENSG00000188157	Heart	Human	1	MaSigPro 
+ENSG00000188322	Heart	Human	1	MaSigPro 
+ENSG00000189337	Heart	Human	1	MaSigPro 
+ENSG00000196345	Heart	Human	1	MaSigPro 
+ENSG00000196376	Heart	Human	1	MaSigPro 
+ENSG00000196459	Heart	Human	1	MaSigPro 
+ENSG00000196557	Heart	Human	1	MaSigPro 
+ENSG00000197296	Heart	Human	1	MaSigPro 
+ENSG00000197372	Heart	Human	1	MaSigPro 
+ENSG00000197442	Heart	Human	1	MaSigPro 
+ENSG00000197893	Heart	Human	1	MaSigPro 
+ENSG00000197993	Heart	Human	1	MaSigPro 
+ENSG00000198046	Heart	Human	1	MaSigPro 
+ENSG00000198105	Heart	Human	1	MaSigPro 
+ENSG00000204304	Heart	Human	1	MaSigPro 
+ENSG00000205060	Heart	Human	1	MaSigPro 
+ENSG00000211445	Heart	Human	1	MaSigPro 
+ENSG00000213931	Heart	Human	1	MaSigPro 
+ENSG00000225950	Heart	Human	1	MaSigPro 
+ENSG00000234438	Heart	Human	1	MaSigPro 
+ENSG00000235297	Heart	Human	1	MaSigPro 
+ENSG00000235314	Heart	Human	1	MaSigPro 
+ENSG00000235863	Heart	Human	1	MaSigPro 
+ENSG00000237077	Heart	Human	1	MaSigPro 
+ENSG00000240950	Heart	Human	1	MaSigPro 
+ENSG00000246223	Heart	Human	1	MaSigPro 
+ENSG00000256223	Heart	Human	1	MaSigPro 
+ENSG00000269190	Heart	Human	1	MaSigPro 
+ENSG00000270172	Heart	Human	1	MaSigPro 
+ENSG00000001460	Heart	Human	1	In-house 
+ENSG00000002586	Heart	Human	1	In-house 
+ENSG00000004399	Heart	Human	1	In-house 
+ENSG00000004468	Heart	Human	1	In-house 
+ENSG00000004939	Heart	Human	1	In-house 
+ENSG00000005238	Heart	Human	1	In-house 
+ENSG00000006128	Heart	Human	1	In-house 
+ENSG00000006638	Heart	Human	1	In-house 
+ENSG00000006756	Heart	Human	1	In-house 
+ENSG00000010810	Heart	Human	1	In-house 
+ENSG00000013016	Heart	Human	1	In-house 
+ENSG00000013573	Heart	Human	1	In-house 
+ENSG00000017483	Heart	Human	1	In-house 
+ENSG00000019485	Heart	Human	1	In-house 
+ENSG00000022267	Heart	Human	1	In-house 
+ENSG00000024422	Heart	Human	1	In-house 
+ENSG00000028137	Heart	Human	1	In-house 
+ENSG00000028839	Heart	Human	1	In-house 
+ENSG00000035403	Heart	Human	1	In-house 
+ENSG00000047579	Heart	Human	1	In-house 
+ENSG00000047597	Heart	Human	1	In-house 
+ENSG00000047634	Heart	Human	1	In-house 
+ENSG00000048140	Heart	Human	1	In-house 
+ENSG00000049246	Heart	Human	1	In-house 
+ENSG00000049323	Heart	Human	1	In-house 
+ENSG00000053747	Heart	Human	1	In-house 
+ENSG00000055732	Heart	Human	1	In-house 
+ENSG00000055813	Heart	Human	1	In-house 
+ENSG00000056998	Heart	Human	1	In-house 
+ENSG00000057657	Heart	Human	1	In-house 
+ENSG00000066056	Heart	Human	1	In-house 
+ENSG00000066322	Heart	Human	1	In-house 
+ENSG00000067064	Heart	Human	1	In-house 
+ENSG00000067177	Heart	Human	1	In-house 
+ENSG00000070182	Heart	Human	1	In-house 
+ENSG00000070526	Heart	Human	1	In-house 
+ENSG00000071282	Heart	Human	1	In-house 
+ENSG00000072110	Heart	Human	1	In-house 
+ENSG00000072401	Heart	Human	1	In-house 
+ENSG00000072786	Heart	Human	1	In-house 
+ENSG00000073861	Heart	Human	1	In-house 
+ENSG00000074370	Heart	Human	1	In-house 
+ENSG00000075340	Heart	Human	1	In-house 
+ENSG00000075702	Heart	Human	1	In-house 
+ENSG00000076706	Heart	Human	1	In-house 
+ENSG00000076864	Heart	Human	1	In-house 
+ENSG00000077616	Heart	Human	1	In-house 
+ENSG00000078018	Heart	Human	1	In-house 
+ENSG00000078053	Heart	Human	1	In-house 
+ENSG00000078401	Heart	Human	1	In-house 
+ENSG00000079257	Heart	Human	1	In-house 
+ENSG00000079337	Heart	Human	1	In-house 
+ENSG00000080819	Heart	Human	1	In-house 
+ENSG00000082684	Heart	Human	1	In-house 
+ENSG00000085831	Heart	Human	1	In-house 
+ENSG00000085982	Heart	Human	1	In-house 
+ENSG00000087157	Heart	Human	1	In-house 
+ENSG00000087250	Heart	Human	1	In-house 
+ENSG00000088053	Heart	Human	1	In-house 
+ENSG00000088298	Heart	Human	1	In-house 
+ENSG00000088881	Heart	Human	1	In-house 
+ENSG00000089327	Heart	Human	1	In-house 
+ENSG00000090013	Heart	Human	1	In-house 
+ENSG00000090020	Heart	Human	1	In-house 
+ENSG00000090659	Heart	Human	1	In-house 
+ENSG00000090776	Heart	Human	1	In-house 
+ENSG00000092841	Heart	Human	1	In-house 
+ENSG00000093072	Heart	Human	1	In-house 
+ENSG00000099998	Heart	Human	1	In-house 
+ENSG00000100060	Heart	Human	1	In-house 
+ENSG00000100345	Heart	Human	1	In-house 
+ENSG00000100351	Heart	Human	1	In-house 
+ENSG00000100353	Heart	Human	1	In-house 
+ENSG00000100379	Heart	Human	1	In-house 
+ENSG00000100558	Heart	Human	1	In-house 
+ENSG00000100647	Heart	Human	1	In-house 
+ENSG00000101000	Heart	Human	1	In-house 
+ENSG00000101019	Heart	Human	1	In-house 
+ENSG00000101098	Heart	Human	1	In-house 
+ENSG00000101197	Heart	Human	1	In-house 
+ENSG00000101276	Heart	Human	1	In-house 
+ENSG00000101463	Heart	Human	1	In-house 
+ENSG00000101608	Heart	Human	1	In-house 
+ENSG00000101638	Heart	Human	1	In-house 
+ENSG00000101680	Heart	Human	1	In-house 
+ENSG00000102007	Heart	Human	1	In-house 
+ENSG00000102032	Heart	Human	1	In-house 
+ENSG00000102145	Heart	Human	1	In-house 
+ENSG00000102362	Heart	Human	1	In-house 
+ENSG00000102760	Heart	Human	1	In-house 
+ENSG00000102871	Heart	Human	1	In-house 
+ENSG00000102981	Heart	Human	1	In-house 
+ENSG00000103335	Heart	Human	1	In-house 
+ENSG00000104689	Heart	Human	1	In-house 
+ENSG00000104967	Heart	Human	1	In-house 
+ENSG00000104998	Heart	Human	1	In-house 
+ENSG00000105227	Heart	Human	1	In-house 
+ENSG00000105371	Heart	Human	1	In-house 
+ENSG00000105643	Heart	Human	1	In-house 
+ENSG00000105792	Heart	Human	1	In-house 
+ENSG00000105793	Heart	Human	1	In-house 
+ENSG00000106049	Heart	Human	1	In-house 
+ENSG00000106070	Heart	Human	1	In-house 
+ENSG00000106089	Heart	Human	1	In-house 
+ENSG00000106355	Heart	Human	1	In-house 
+ENSG00000106605	Heart	Human	1	In-house 
+ENSG00000106948	Heart	Human	1	In-house 
+ENSG00000106991	Heart	Human	1	In-house 
+ENSG00000107130	Heart	Human	1	In-house 
+ENSG00000107521	Heart	Human	1	In-house 
+ENSG00000107731	Heart	Human	1	In-house 
+ENSG00000107758	Heart	Human	1	In-house 
+ENSG00000107819	Heart	Human	1	In-house 
+ENSG00000107859	Heart	Human	1	In-house 
+ENSG00000108375	Heart	Human	1	In-house 
+ENSG00000108387	Heart	Human	1	In-house 
+ENSG00000108798	Heart	Human	1	In-house 
+ENSG00000108839	Heart	Human	1	In-house 
+ENSG00000109089	Heart	Human	1	In-house 
+ENSG00000109920	Heart	Human	1	In-house 
+ENSG00000110060	Heart	Human	1	In-house 
+ENSG00000110619	Heart	Human	1	In-house 
+ENSG00000110786	Heart	Human	1	In-house 
+ENSG00000111249	Heart	Human	1	In-house 
+ENSG00000111674	Heart	Human	1	In-house 
+ENSG00000111725	Heart	Human	1	In-house 
+ENSG00000111816	Heart	Human	1	In-house 
+ENSG00000111860	Heart	Human	1	In-house 
+ENSG00000111912	Heart	Human	1	In-house 
+ENSG00000111913	Heart	Human	1	In-house 
+ENSG00000112195	Heart	Human	1	In-house 
+ENSG00000112294	Heart	Human	1	In-house 
+ENSG00000112379	Heart	Human	1	In-house 
+ENSG00000112576	Heart	Human	1	In-house 
+ENSG00000112619	Heart	Human	1	In-house 
+ENSG00000112655	Heart	Human	1	In-house 
+ENSG00000113296	Heart	Human	1	In-house 
+ENSG00000113578	Heart	Human	1	In-house 
+ENSG00000114805	Heart	Human	1	In-house 
+ENSG00000115041	Heart	Human	1	In-house 
+ENSG00000115221	Heart	Human	1	In-house 
+ENSG00000115310	Heart	Human	1	In-house 
+ENSG00000115317	Heart	Human	1	In-house 
+ENSG00000115325	Heart	Human	1	In-house 
+ENSG00000115361	Heart	Human	1	In-house 
+ENSG00000115457	Heart	Human	1	In-house 
+ENSG00000115665	Heart	Human	1	In-house 
+ENSG00000116396	Heart	Human	1	In-house 
+ENSG00000116741	Heart	Human	1	In-house 
+ENSG00000116750	Heart	Human	1	In-house 
+ENSG00000117013	Heart	Human	1	In-house 
+ENSG00000117228	Heart	Human	1	In-house 
+ENSG00000117298	Heart	Human	1	In-house 
+ENSG00000118507	Heart	Human	1	In-house 
+ENSG00000120318	Heart	Human	1	In-house 
+ENSG00000120833	Heart	Human	1	In-house 
+ENSG00000120899	Heart	Human	1	In-house 
+ENSG00000120907	Heart	Human	1	In-house 
+ENSG00000120937	Heart	Human	1	In-house 
+ENSG00000121089	Heart	Human	1	In-house 
+ENSG00000122035	Heart	Human	1	In-house 
+ENSG00000122694	Heart	Human	1	In-house 
+ENSG00000122863	Heart	Human	1	In-house 
+ENSG00000123009	Heart	Human	1	In-house 
+ENSG00000123405	Heart	Human	1	In-house 
+ENSG00000123685	Heart	Human	1	In-house 
+ENSG00000124126	Heart	Human	1	In-house 
+ENSG00000124201	Heart	Human	1	In-house 
+ENSG00000124440	Heart	Human	1	In-house 
+ENSG00000124920	Heart	Human	1	In-house 
+ENSG00000125148	Heart	Human	1	In-house 
+ENSG00000125952	Heart	Human	1	In-house 
+ENSG00000125966	Heart	Human	1	In-house 
+ENSG00000126088	Heart	Human	1	In-house 
+ENSG00000126249	Heart	Human	1	In-house 
+ENSG00000126458	Heart	Human	1	In-house 
+ENSG00000126561	Heart	Human	1	In-house 
+ENSG00000126756	Heart	Human	1	In-house 
+ENSG00000126860	Heart	Human	1	In-house 
+ENSG00000126895	Heart	Human	1	In-house 
+ENSG00000126970	Heart	Human	1	In-house 
+ENSG00000127252	Heart	Human	1	In-house 
+ENSG00000127329	Heart	Human	1	In-house 
+ENSG00000127824	Heart	Human	1	In-house 
+ENSG00000128052	Heart	Human	1	In-house 
+ENSG00000128218	Heart	Human	1	In-house 
+ENSG00000129270	Heart	Human	1	In-house 
+ENSG00000130021	Heart	Human	1	In-house 
+ENSG00000130270	Heart	Human	1	In-house 
+ENSG00000130294	Heart	Human	1	In-house 
+ENSG00000130508	Heart	Human	1	In-house 
+ENSG00000130560	Heart	Human	1	In-house 
+ENSG00000130741	Heart	Human	1	In-house 
+ENSG00000130844	Heart	Human	1	In-house 
+ENSG00000130985	Heart	Human	1	In-house 
+ENSG00000131015	Heart	Human	1	In-house 
+ENSG00000131398	Heart	Human	1	In-house 
+ENSG00000131408	Heart	Human	1	In-house 
+ENSG00000131844	Heart	Human	1	In-house 
+ENSG00000132376	Heart	Human	1	In-house 
+ENSG00000132436	Heart	Human	1	In-house 
+ENSG00000133110	Heart	Human	1	In-house 
+ENSG00000133134	Heart	Human	1	In-house 
+ENSG00000133256	Heart	Human	1	In-house 
+ENSG00000133794	Heart	Human	1	In-house 
+ENSG00000133985	Heart	Human	1	In-house 
+ENSG00000134013	Heart	Human	1	In-house 
+ENSG00000134201	Heart	Human	1	In-house 
+ENSG00000134531	Heart	Human	1	In-house 
+ENSG00000135363	Heart	Human	1	In-house 
+ENSG00000135414	Heart	Human	1	In-house 
+ENSG00000135622	Heart	Human	1	In-house 
+ENSG00000135631	Heart	Human	1	In-house 
+ENSG00000135778	Heart	Human	1	In-house 
+ENSG00000136068	Heart	Human	1	In-house 
+ENSG00000136141	Heart	Human	1	In-house 
+ENSG00000136840	Heart	Human	1	In-house 
+ENSG00000136854	Heart	Human	1	In-house 
+ENSG00000136929	Heart	Human	1	In-house 
+ENSG00000137094	Heart	Human	1	In-house 
+ENSG00000137198	Heart	Human	1	In-house 
+ENSG00000137261	Heart	Human	1	In-house 
+ENSG00000137274	Heart	Human	1	In-house 
+ENSG00000138411	Heart	Human	1	In-house 
+ENSG00000138709	Heart	Human	1	In-house 
+ENSG00000138835	Heart	Human	1	In-house 
+ENSG00000139567	Heart	Human	1	In-house 
+ENSG00000139842	Heart	Human	1	In-house 
+ENSG00000139998	Heart	Human	1	In-house 
+ENSG00000140043	Heart	Human	1	In-house 
+ENSG00000140479	Heart	Human	1	In-house 
+ENSG00000140557	Heart	Human	1	In-house 
+ENSG00000140848	Heart	Human	1	In-house 
+ENSG00000141452	Heart	Human	1	In-house 
+ENSG00000141480	Heart	Human	1	In-house 
+ENSG00000141622	Heart	Human	1	In-house 
+ENSG00000141738	Heart	Human	1	In-house 
+ENSG00000142227	Heart	Human	1	In-house 
+ENSG00000142252	Heart	Human	1	In-house 
+ENSG00000142544	Heart	Human	1	In-house 
+ENSG00000142583	Heart	Human	1	In-house 
+ENSG00000142669	Heart	Human	1	In-house 
+ENSG00000142910	Heart	Human	1	In-house 
+ENSG00000143171	Heart	Human	1	In-house 
+ENSG00000143224	Heart	Human	1	In-house 
+ENSG00000143365	Heart	Human	1	In-house 
+ENSG00000143590	Heart	Human	1	In-house 
+ENSG00000143595	Heart	Human	1	In-house 
+ENSG00000143847	Heart	Human	1	In-house 
+ENSG00000144130	Heart	Human	1	In-house 
+ENSG00000144648	Heart	Human	1	In-house 
+ENSG00000145014	Heart	Human	1	In-house 
+ENSG00000145384	Heart	Human	1	In-house 
+ENSG00000145623	Heart	Human	1	In-house 
+ENSG00000145949	Heart	Human	1	In-house 
+ENSG00000146112	Heart	Human	1	In-house 
+ENSG00000147050	Heart	Human	1	In-house 
+ENSG00000147454	Heart	Human	1	In-house 
+ENSG00000147642	Heart	Human	1	In-house 
+ENSG00000147697	Heart	Human	1	In-house 
+ENSG00000148019	Heart	Human	1	In-house 
+ENSG00000148288	Heart	Human	1	In-house 
+ENSG00000148468	Heart	Human	1	In-house 
+ENSG00000148677	Heart	Human	1	In-house 
+ENSG00000149218	Heart	Human	1	In-house 
+ENSG00000149257	Heart	Human	1	In-house 
+ENSG00000149564	Heart	Human	1	In-house 
+ENSG00000150687	Heart	Human	1	In-house 
+ENSG00000151117	Heart	Human	1	In-house 
+ENSG00000151131	Heart	Human	1	In-house 
+ENSG00000151366	Heart	Human	1	In-house 
+ENSG00000151470	Heart	Human	1	In-house 
+ENSG00000151552	Heart	Human	1	In-house 
+ENSG00000151632	Heart	Human	1	In-house 
+ENSG00000151702	Heart	Human	1	In-house 
+ENSG00000152229	Heart	Human	1	In-house 
+ENSG00000152822	Heart	Human	1	In-house 
+ENSG00000153048	Heart	Human	1	In-house 
+ENSG00000153162	Heart	Human	1	In-house 
+ENSG00000153234	Heart	Human	1	In-house 
+ENSG00000153495	Heart	Human	1	In-house 
+ENSG00000154127	Heart	Human	1	In-house 
+ENSG00000154328	Heart	Human	1	In-house 
+ENSG00000154783	Heart	Human	1	In-house 
+ENSG00000155749	Heart	Human	1	In-house 
+ENSG00000155849	Heart	Human	1	In-house 
+ENSG00000155876	Heart	Human	1	In-house 
+ENSG00000155980	Heart	Human	1	In-house 
+ENSG00000156206	Heart	Human	1	In-house 
+ENSG00000156508	Heart	Human	1	In-house 
+ENSG00000156603	Heart	Human	1	In-house 
+ENSG00000156689	Heart	Human	1	In-house 
+ENSG00000156802	Heart	Human	1	In-house 
+ENSG00000157191	Heart	Human	1	In-house 
+ENSG00000157224	Heart	Human	1	In-house 
+ENSG00000157510	Heart	Human	1	In-house 
+ENSG00000157554	Heart	Human	1	In-house 
+ENSG00000157557	Heart	Human	1	In-house 
+ENSG00000157765	Heart	Human	1	In-house 
+ENSG00000158006	Heart	Human	1	In-house 
+ENSG00000158352	Heart	Human	1	In-house 
+ENSG00000158578	Heart	Human	1	In-house 
+ENSG00000159217	Heart	Human	1	In-house 
+ENSG00000159346	Heart	Human	1	In-house 
+ENSG00000159348	Heart	Human	1	In-house 
+ENSG00000159882	Heart	Human	1	In-house 
+ENSG00000160097	Heart	Human	1	In-house 
+ENSG00000160190	Heart	Human	1	In-house 
+ENSG00000160310	Heart	Human	1	In-house 
+ENSG00000160712	Heart	Human	1	In-house 
+ENSG00000160991	Heart	Human	1	In-house 
+ENSG00000161048	Heart	Human	1	In-house 
+ENSG00000161638	Heart	Human	1	In-house 
+ENSG00000161649	Heart	Human	1	In-house 
+ENSG00000162191	Heart	Human	1	In-house 
+ENSG00000162222	Heart	Human	1	In-house 
+ENSG00000162426	Heart	Human	1	In-house 
+ENSG00000162595	Heart	Human	1	In-house 
+ENSG00000162777	Heart	Human	1	In-house 
+ENSG00000162909	Heart	Human	1	In-house 
+ENSG00000163156	Heart	Human	1	In-house 
+ENSG00000163394	Heart	Human	1	In-house 
+ENSG00000163481	Heart	Human	1	In-house 
+ENSG00000163554	Heart	Human	1	In-house 
+ENSG00000163684	Heart	Human	1	In-house 
+ENSG00000163710	Heart	Human	1	In-house 
+ENSG00000163872	Heart	Human	1	In-house 
+ENSG00000163909	Heart	Human	1	In-house 
+ENSG00000163961	Heart	Human	1	In-house 
+ENSG00000163975	Heart	Human	1	In-house 
+ENSG00000164122	Heart	Human	1	In-house 
+ENSG00000164171	Heart	Human	1	In-house 
+ENSG00000164543	Heart	Human	1	In-house 
+ENSG00000164695	Heart	Human	1	In-house 
+ENSG00000164867	Heart	Human	1	In-house 
+ENSG00000164970	Heart	Human	1	In-house 
+ENSG00000165731	Heart	Human	1	In-house 
+ENSG00000165868	Heart	Human	1	In-house 
+ENSG00000165905	Heart	Human	1	In-house 
+ENSG00000166073	Heart	Human	1	In-house 
+ENSG00000166260	Heart	Human	1	In-house 
+ENSG00000166341	Heart	Human	1	In-house 
+ENSG00000166482	Heart	Human	1	In-house 
+ENSG00000166523	Heart	Human	1	In-house 
+ENSG00000166946	Heart	Human	1	In-house 
+ENSG00000166947	Heart	Human	1	In-house 
+ENSG00000167083	Heart	Human	1	In-house 
+ENSG00000167186	Heart	Human	1	In-house 
+ENSG00000167220	Heart	Human	1	In-house 
+ENSG00000167536	Heart	Human	1	In-house 
+ENSG00000167644	Heart	Human	1	In-house 
+ENSG00000167701	Heart	Human	1	In-house 
+ENSG00000168067	Heart	Human	1	In-house 
+ENSG00000168135	Heart	Human	1	In-house 
+ENSG00000168461	Heart	Human	1	In-house 
+ENSG00000168878	Heart	Human	1	In-house 
+ENSG00000168899	Heart	Human	1	In-house 
+ENSG00000169239	Heart	Human	1	In-house 
+ENSG00000169245	Heart	Human	1	In-house 
+ENSG00000169253	Heart	Human	1	In-house 
+ENSG00000169418	Heart	Human	1	In-house 
+ENSG00000169715	Heart	Human	1	In-house 
+ENSG00000170180	Heart	Human	1	In-house 
+ENSG00000170464	Heart	Human	1	In-house 
+ENSG00000170791	Heart	Human	1	In-house 
+ENSG00000170835	Heart	Human	1	In-house 
+ENSG00000170899	Heart	Human	1	In-house 
+ENSG00000171160	Heart	Human	1	In-house 
+ENSG00000171311	Heart	Human	1	In-house 
+ENSG00000171471	Heart	Human	1	In-house 
+ENSG00000171574	Heart	Human	1	In-house 
+ENSG00000171791	Heart	Human	1	In-house 
+ENSG00000172059	Heart	Human	1	In-house 
+ENSG00000172350	Heart	Human	1	In-house 
+ENSG00000172426	Heart	Human	1	In-house 
+ENSG00000173269	Heart	Human	1	In-house 
+ENSG00000173406	Heart	Human	1	In-house 
+ENSG00000173442	Heart	Human	1	In-house 
+ENSG00000173546	Heart	Human	1	In-house 
+ENSG00000173566	Heart	Human	1	In-house 
+ENSG00000173757	Heart	Human	1	In-house 
+ENSG00000173926	Heart	Human	1	In-house 
+ENSG00000174175	Heart	Human	1	In-house 
+ENSG00000174640	Heart	Human	1	In-house 
+ENSG00000175322	Heart	Human	1	In-house 
+ENSG00000175482	Heart	Human	1	In-house 
+ENSG00000175727	Heart	Human	1	In-house 
+ENSG00000176720	Heart	Human	1	In-house 
+ENSG00000176903	Heart	Human	1	In-house 
+ENSG00000177697	Heart	Human	1	In-house 
+ENSG00000177721	Heart	Human	1	In-house 
+ENSG00000178078	Heart	Human	1	In-house 
+ENSG00000178149	Heart	Human	1	In-house 
+ENSG00000178175	Heart	Human	1	In-house 
+ENSG00000178462	Heart	Human	1	In-house 
+ENSG00000178464	Heart	Human	1	In-house 
+ENSG00000178776	Heart	Human	1	In-house 
+ENSG00000179256	Heart	Human	1	In-house 
+ENSG00000179270	Heart	Human	1	In-house 
+ENSG00000179344	Heart	Human	1	In-house 
+ENSG00000179588	Heart	Human	1	In-house 
+ENSG00000179796	Heart	Human	1	In-house 
+ENSG00000180230	Heart	Human	1	In-house 
+ENSG00000180884	Heart	Human	1	In-house 
+ENSG00000181284	Heart	Human	1	In-house 
+ENSG00000181350	Heart	Human	1	In-house 
+ENSG00000181826	Heart	Human	1	In-house 
+ENSG00000182022	Heart	Human	1	In-house 
+ENSG00000182177	Heart	Human	1	In-house 
+ENSG00000182240	Heart	Human	1	In-house 
+ENSG00000182379	Heart	Human	1	In-house 
+ENSG00000182718	Heart	Human	1	In-house 
+ENSG00000182732	Heart	Human	1	In-house 
+ENSG00000183307	Heart	Human	1	In-house 
+ENSG00000183386	Heart	Human	1	In-house 
+ENSG00000183671	Heart	Human	1	In-house 
+ENSG00000184860	Heart	Human	1	In-house 
+ENSG00000184986	Heart	Human	1	In-house 
+ENSG00000185115	Heart	Human	1	In-house 
+ENSG00000185155	Heart	Human	1	In-house 
+ENSG00000185201	Heart	Human	1	In-house 
+ENSG00000185245	Heart	Human	1	In-house 
+ENSG00000185519	Heart	Human	1	In-house 
+ENSG00000185561	Heart	Human	1	In-house 
+ENSG00000185585	Heart	Human	1	In-house 
+ENSG00000185664	Heart	Human	1	In-house 
+ENSG00000185669	Heart	Human	1	In-house 
+ENSG00000185761	Heart	Human	1	In-house 
+ENSG00000185811	Heart	Human	1	In-house 
+ENSG00000186141	Heart	Human	1	In-house 
+ENSG00000186470	Heart	Human	1	In-house 
+ENSG00000186603	Heart	Human	1	In-house 
+ENSG00000186867	Heart	Human	1	In-house 
+ENSG00000187010	Heart	Human	1	In-house 
+ENSG00000187049	Heart	Human	1	In-house 
+ENSG00000187193	Heart	Human	1	In-house 
+ENSG00000187266	Heart	Human	1	In-house 
+ENSG00000187653	Heart	Human	1	In-house 
+ENSG00000187773	Heart	Human	1	In-house 
+ENSG00000187889	Heart	Human	1	In-house 
+ENSG00000187994	Heart	Human	1	In-house 
+ENSG00000187997	Heart	Human	1	In-house 
+ENSG00000188158	Heart	Human	1	In-house 
+ENSG00000188266	Heart	Human	1	In-house 
+ENSG00000188523	Heart	Human	1	In-house 
+ENSG00000188582	Heart	Human	1	In-house 
+ENSG00000188613	Heart	Human	1	In-house 
+ENSG00000188672	Heart	Human	1	In-house 
+ENSG00000188690	Heart	Human	1	In-house 
+ENSG00000188906	Heart	Human	1	In-house 
+ENSG00000189127	Heart	Human	1	In-house 
+ENSG00000189350	Heart	Human	1	In-house 
+ENSG00000196177	Heart	Human	1	In-house 
+ENSG00000196205	Heart	Human	1	In-house 
+ENSG00000196284	Heart	Human	1	In-house 
+ENSG00000196358	Heart	Human	1	In-house 
+ENSG00000196741	Heart	Human	1	In-house 
+ENSG00000196935	Heart	Human	1	In-house 
+ENSG00000197165	Heart	Human	1	In-house 
+ENSG00000197324	Heart	Human	1	In-house 
+ENSG00000197380	Heart	Human	1	In-house 
+ENSG00000197465	Heart	Human	1	In-house 
+ENSG00000197471	Heart	Human	1	In-house 
+ENSG00000197721	Heart	Human	1	In-house 
+ENSG00000197956	Heart	Human	1	In-house 
+ENSG00000198039	Heart	Human	1	In-house 
+ENSG00000198420	Heart	Human	1	In-house 
+ENSG00000198835	Heart	Human	1	In-house 
+ENSG00000198844	Heart	Human	1	In-house 
+ENSG00000198948	Heart	Human	1	In-house 
+ENSG00000200879	Heart	Human	1	In-house 
+ENSG00000201772	Heart	Human	1	In-house 
+ENSG00000203880	Heart	Human	1	In-house 
+ENSG00000203886	Heart	Human	1	In-house 
+ENSG00000204389	Heart	Human	1	In-house 
+ENSG00000204580	Heart	Human	1	In-house 
+ENSG00000204894	Heart	Human	1	In-house 
+ENSG00000205364	Heart	Human	1	In-house 
+ENSG00000205485	Heart	Human	1	In-house 
+ENSG00000205639	Heart	Human	1	In-house 
+ENSG00000205981	Heart	Human	1	In-house 
+ENSG00000206538	Heart	Human	1	In-house 
+ENSG00000211584	Heart	Human	1	In-house 
+ENSG00000212296	Heart	Human	1	In-house 
+ENSG00000212664	Heart	Human	1	In-house 
+ENSG00000212802	Heart	Human	1	In-house 
+ENSG00000213051	Heart	Human	1	In-house 
+ENSG00000213088	Heart	Human	1	In-house 
+ENSG00000213171	Heart	Human	1	In-house 
+ENSG00000213225	Heart	Human	1	In-house 
+ENSG00000213291	Heart	Human	1	In-house 
+ENSG00000213442	Heart	Human	1	In-house 
+ENSG00000213494	Heart	Human	1	In-house 
+ENSG00000213539	Heart	Human	1	In-house 
+ENSG00000213609	Heart	Human	1	In-house 
+ENSG00000213730	Heart	Human	1	In-house 
+ENSG00000214114	Heart	Human	1	In-house 
+ENSG00000214203	Heart	Human	1	In-house 
+ENSG00000214226	Heart	Human	1	In-house 
+ENSG00000214535	Heart	Human	1	In-house 
+ENSG00000214711	Heart	Human	1	In-house 
+ENSG00000214814	Heart	Human	1	In-house 
+ENSG00000214973	Heart	Human	1	In-house 
+ENSG00000215221	Heart	Human	1	In-house 
+ENSG00000215301	Heart	Human	1	In-house 
+ENSG00000218265	Heart	Human	1	In-house 
+ENSG00000219146	Heart	Human	1	In-house 
+ENSG00000220583	Heart	Human	1	In-house 
+ENSG00000223722	Heart	Human	1	In-house 
+ENSG00000223774	Heart	Human	1	In-house 
+ENSG00000224005	Heart	Human	1	In-house 
+ENSG00000224738	Heart	Human	1	In-house 
+ENSG00000224769	Heart	Human	1	In-house 
+ENSG00000225614	Heart	Human	1	In-house 
+ENSG00000226360	Heart	Human	1	In-house 
+ENSG00000226421	Heart	Human	1	In-house 
+ENSG00000226543	Heart	Human	1	In-house 
+ENSG00000226564	Heart	Human	1	In-house 
+ENSG00000227077	Heart	Human	1	In-house 
+ENSG00000227173	Heart	Human	1	In-house 
+ENSG00000227304	Heart	Human	1	In-house 
+ENSG00000228007	Heart	Human	1	In-house 
+ENSG00000228502	Heart	Human	1	In-house 
+ENSG00000228532	Heart	Human	1	In-house 
+ENSG00000228623	Heart	Human	1	In-house 
+ENSG00000228929	Heart	Human	1	In-house 
+ENSG00000229119	Heart	Human	1	In-house 
+ENSG00000230191	Heart	Human	1	In-house 
+ENSG00000230453	Heart	Human	1	In-house 
+ENSG00000230896	Heart	Human	1	In-house 
+ENSG00000230903	Heart	Human	1	In-house 
+ENSG00000231245	Heart	Human	1	In-house 
+ENSG00000232859	Heart	Human	1	In-house 
+ENSG00000233287	Heart	Human	1	In-house 
+ENSG00000233328	Heart	Human	1	In-house 
+ENSG00000234224	Heart	Human	1	In-house 
+ENSG00000234373	Heart	Human	1	In-house 
+ENSG00000234683	Heart	Human	1	In-house 
+ENSG00000234719	Heart	Human	1	In-house 
+ENSG00000235169	Heart	Human	1	In-house 
+ENSG00000235477	Heart	Human	1	In-house 
+ENSG00000236058	Heart	Human	1	In-house 
+ENSG00000236320	Heart	Human	1	In-house 
+ENSG00000236801	Heart	Human	1	In-house 
+ENSG00000238083	Heart	Human	1	In-house 
+ENSG00000239223	Heart	Human	1	In-house 
+ENSG00000239344	Heart	Human	1	In-house 
+ENSG00000239388	Heart	Human	1	In-house 
+ENSG00000239887	Heart	Human	1	In-house 
+ENSG00000240371	Heart	Human	1	In-house 
+ENSG00000240463	Heart	Human	1	In-house 
+ENSG00000240616	Heart	Human	1	In-house 
+ENSG00000240652	Heart	Human	1	In-house 
+ENSG00000241061	Heart	Human	1	In-house 
+ENSG00000242163	Heart	Human	1	In-house 
+ENSG00000242358	Heart	Human	1	In-house 
+ENSG00000242571	Heart	Human	1	In-house 
+ENSG00000242602	Heart	Human	1	In-house 
+ENSG00000243279	Heart	Human	1	In-house 
+ENSG00000243364	Heart	Human	1	In-house 
+ENSG00000243445	Heart	Human	1	In-house 
+ENSG00000243663	Heart	Human	1	In-house 
+ENSG00000243829	Heart	Human	1	In-house 
+ENSG00000243960	Heart	Human	1	In-house 
+ENSG00000243964	Heart	Human	1	In-house 
+ENSG00000244073	Heart	Human	1	In-house 
+ENSG00000244097	Heart	Human	1	In-house 
+ENSG00000244398	Heart	Human	1	In-house 
+ENSG00000245975	Heart	Human	1	In-house 
+ENSG00000248015	Heart	Human	1	In-house 
+ENSG00000248362	Heart	Human	1	In-house 
+ENSG00000248503	Heart	Human	1	In-house 
+ENSG00000249617	Heart	Human	1	In-house 
+ENSG00000250182	Heart	Human	1	In-house 
+ENSG00000253320	Heart	Human	1	In-house 
+ENSG00000253368	Heart	Human	1	In-house 
+ENSG00000253991	Heart	Human	1	In-house 
+ENSG00000254910	Heart	Human	1	In-house 
+ENSG00000255262	Heart	Human	1	In-house 
+ENSG00000255374	Heart	Human	1	In-house 
+ENSG00000255737	Heart	Human	1	In-house 
+ENSG00000255965	Heart	Human	1	In-house 
+ENSG00000256006	Heart	Human	1	In-house 
+ENSG00000256204	Heart	Human	1	In-house 
+ENSG00000256269	Heart	Human	1	In-house 
+ENSG00000257875	Heart	Human	1	In-house 
+ENSG00000258300	Heart	Human	1	In-house 
+ENSG00000259071	Heart	Human	1	In-house 
+ENSG00000259287	Heart	Human	1	In-house 
+ENSG00000259711	Heart	Human	1	In-house 
+ENSG00000259799	Heart	Human	1	In-house 
+ENSG00000259828	Heart	Human	1	In-house 
+ENSG00000259943	Heart	Human	1	In-house 
+ENSG00000260259	Heart	Human	1	In-house 
+ENSG00000260655	Heart	Human	1	In-house 
+ENSG00000261115	Heart	Human	1	In-house 
+ENSG00000261578	Heart	Human	1	In-house 
+ENSG00000261635	Heart	Human	1	In-house 
+ENSG00000262222	Heart	Human	1	In-house 
+ENSG00000267405	Heart	Human	1	In-house 
+ENSG00000267544	Heart	Human	1	In-house 
+ENSG00000268006	Heart	Human	1	In-house 
+ENSG00000268433	Heart	Human	1	In-house 
+ENSG00000270018	Heart	Human	1	In-house 
+ENSG00000270101	Heart	Human	1	In-house 
+ENSG00000270964	Heart	Human	1	In-house 
+ENSG00000271420	Heart	Human	1	In-house 
+ENSG00000272129	Heart	Human	1	In-house 
+ENSG00000272143	Heart	Human	1	In-house 
+ENSG00000272330	Heart	Human	1	In-house 
+ENSG00000272686	Heart	Human	1	In-house 
+ENSG00000272812	Heart	Human	1	In-house 
+ENSG00000273081	Heart	Human	1	In-house 
+ENSG00000273437	Heart	Human	1	In-house 
+XLOC_053296	Heart	Human	1	In-house 

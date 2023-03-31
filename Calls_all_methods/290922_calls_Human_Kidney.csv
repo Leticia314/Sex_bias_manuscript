@@ -1,0 +1,1756 @@
+gene_id	tissue	species	n_pipe	pipe
+ENSG00000143390	Kidney	Human	2	splineR MaSigPro 
+ENSG00000128298	Kidney	Human	2	splineR MaSigPro 
+ENSG00000180767	Kidney	Human	2	splineR MaSigPro 
+ENSG00000126012	Kidney	Human	3	DESeq2 MaSigPro In-house 
+ENSG00000205664	Kidney	Human	3	DESeq2 MaSigPro In-house 
+XLOC_053296	Kidney	Human	3	DESeq2 MaSigPro In-house 
+ENSG00000002919	Kidney	Human	2	MaSigPro In-house 
+ENSG00000003987	Kidney	Human	2	MaSigPro In-house 
+ENSG00000005889	Kidney	Human	2	MaSigPro In-house 
+ENSG00000006118	Kidney	Human	2	MaSigPro In-house 
+ENSG00000006756	Kidney	Human	2	MaSigPro In-house 
+ENSG00000012211	Kidney	Human	2	MaSigPro In-house 
+ENSG00000021488	Kidney	Human	2	MaSigPro In-house 
+ENSG00000023902	Kidney	Human	2	MaSigPro In-house 
+ENSG00000051108	Kidney	Human	2	MaSigPro In-house 
+ENSG00000053918	Kidney	Human	2	MaSigPro In-house 
+ENSG00000056998	Kidney	Human	2	MaSigPro In-house 
+ENSG00000058056	Kidney	Human	2	MaSigPro In-house 
+ENSG00000062096	Kidney	Human	2	MaSigPro In-house 
+ENSG00000064218	Kidney	Human	2	MaSigPro In-house 
+ENSG00000066230	Kidney	Human	2	MaSigPro In-house 
+ENSG00000067596	Kidney	Human	2	MaSigPro In-house 
+ENSG00000072501	Kidney	Human	2	MaSigPro In-house 
+ENSG00000073536	Kidney	Human	2	MaSigPro In-house 
+ENSG00000076864	Kidney	Human	2	MaSigPro In-house 
+ENSG00000079156	Kidney	Human	2	MaSigPro In-house 
+ENSG00000079215	Kidney	Human	2	MaSigPro In-house 
+ENSG00000083782	Kidney	Human	2	MaSigPro In-house 
+ENSG00000085117	Kidney	Human	2	MaSigPro In-house 
+ENSG00000089127	Kidney	Human	2	MaSigPro In-house 
+ENSG00000100167	Kidney	Human	2	MaSigPro In-house 
+ENSG00000100867	Kidney	Human	2	MaSigPro In-house 
+ENSG00000102547	Kidney	Human	2	MaSigPro In-house 
+ENSG00000106538	Kidney	Human	2	MaSigPro In-house 
+ENSG00000106605	Kidney	Human	2	MaSigPro In-house 
+ENSG00000107819	Kidney	Human	2	MaSigPro In-house 
+ENSG00000107951	Kidney	Human	2	MaSigPro In-house 
+ENSG00000108826	Kidney	Human	2	MaSigPro In-house 
+ENSG00000108961	Kidney	Human	2	MaSigPro In-house 
+ENSG00000111215	Kidney	Human	2	MaSigPro In-house 
+ENSG00000111275	Kidney	Human	2	MaSigPro In-house 
+ENSG00000112761	Kidney	Human	2	MaSigPro In-house 
+ENSG00000114021	Kidney	Human	2	MaSigPro In-house 
+ENSG00000115339	Kidney	Human	2	MaSigPro In-house 
+ENSG00000117691	Kidney	Human	2	MaSigPro In-house 
+ENSG00000119280	Kidney	Human	2	MaSigPro In-house 
+ENSG00000121406	Kidney	Human	2	MaSigPro In-house 
+ENSG00000122121	Kidney	Human	2	MaSigPro In-house 
+ENSG00000124216	Kidney	Human	2	MaSigPro In-house 
+ENSG00000124588	Kidney	Human	2	MaSigPro In-house 
+ENSG00000129562	Kidney	Human	2	MaSigPro In-house 
+ENSG00000130584	Kidney	Human	2	MaSigPro In-house 
+ENSG00000130766	Kidney	Human	2	MaSigPro In-house 
+ENSG00000131779	Kidney	Human	2	MaSigPro In-house 
+ENSG00000133135	Kidney	Human	2	MaSigPro In-house 
+ENSG00000135373	Kidney	Human	2	MaSigPro In-house 
+ENSG00000135441	Kidney	Human	2	MaSigPro In-house 
+ENSG00000135480	Kidney	Human	2	MaSigPro In-house 
+ENSG00000135763	Kidney	Human	2	MaSigPro In-house 
+ENSG00000136630	Kidney	Human	2	MaSigPro In-house 
+ENSG00000137285	Kidney	Human	2	MaSigPro In-house 
+ENSG00000137338	Kidney	Human	2	MaSigPro In-house 
+ENSG00000140105	Kidney	Human	2	MaSigPro In-house 
+ENSG00000141391	Kidney	Human	2	MaSigPro In-house 
+ENSG00000144233	Kidney	Human	2	MaSigPro In-house 
+ENSG00000144867	Kidney	Human	2	MaSigPro In-house 
+ENSG00000145147	Kidney	Human	2	MaSigPro In-house 
+ENSG00000146376	Kidney	Human	2	MaSigPro In-house 
+ENSG00000147003	Kidney	Human	2	MaSigPro In-house 
+ENSG00000148606	Kidney	Human	2	MaSigPro In-house 
+ENSG00000152056	Kidney	Human	2	MaSigPro In-house 
+ENSG00000152503	Kidney	Human	2	MaSigPro In-house 
+ENSG00000154099	Kidney	Human	2	MaSigPro In-house 
+ENSG00000154743	Kidney	Human	2	MaSigPro In-house 
+ENSG00000157036	Kidney	Human	2	MaSigPro In-house 
+ENSG00000157399	Kidney	Human	2	MaSigPro In-house 
+ENSG00000157502	Kidney	Human	2	MaSigPro In-house 
+ENSG00000159261	Kidney	Human	2	MaSigPro In-house 
+ENSG00000159377	Kidney	Human	2	MaSigPro In-house 
+ENSG00000160183	Kidney	Human	2	MaSigPro In-house 
+ENSG00000160188	Kidney	Human	2	MaSigPro In-house 
+ENSG00000160298	Kidney	Human	2	MaSigPro In-house 
+ENSG00000160868	Kidney	Human	2	MaSigPro In-house 
+ENSG00000161677	Kidney	Human	2	MaSigPro In-house 
+ENSG00000162542	Kidney	Human	2	MaSigPro In-house 
+ENSG00000162777	Kidney	Human	2	MaSigPro In-house 
+ENSG00000162869	Kidney	Human	2	MaSigPro In-house 
+ENSG00000164713	Kidney	Human	2	MaSigPro In-house 
+ENSG00000164733	Kidney	Human	2	MaSigPro In-house 
+ENSG00000164764	Kidney	Human	2	MaSigPro In-house 
+ENSG00000164855	Kidney	Human	2	MaSigPro In-house 
+ENSG00000165501	Kidney	Human	2	MaSigPro In-house 
+ENSG00000166578	Kidney	Human	2	MaSigPro In-house 
+ENSG00000167552	Kidney	Human	2	MaSigPro In-house 
+ENSG00000168246	Kidney	Human	2	MaSigPro In-house 
+ENSG00000169129	Kidney	Human	2	MaSigPro In-house 
+ENSG00000171798	Kidney	Human	2	MaSigPro In-house 
+ENSG00000171867	Kidney	Human	2	MaSigPro In-house 
+ENSG00000172985	Kidney	Human	2	MaSigPro In-house 
+ENSG00000173598	Kidney	Human	2	MaSigPro In-house 
+ENSG00000174132	Kidney	Human	2	MaSigPro In-house 
+ENSG00000174483	Kidney	Human	2	MaSigPro In-house 
+ENSG00000176974	Kidney	Human	2	MaSigPro In-house 
+ENSG00000177125	Kidney	Human	2	MaSigPro In-house 
+ENSG00000180316	Kidney	Human	2	MaSigPro In-house 
+ENSG00000180425	Kidney	Human	2	MaSigPro In-house 
+ENSG00000183172	Kidney	Human	2	MaSigPro In-house 
+ENSG00000183647	Kidney	Human	2	MaSigPro In-house 
+ENSG00000184292	Kidney	Human	2	MaSigPro In-house 
+ENSG00000184408	Kidney	Human	2	MaSigPro In-house 
+ENSG00000184925	Kidney	Human	2	MaSigPro In-house 
+ENSG00000187867	Kidney	Human	2	MaSigPro In-house 
+ENSG00000188242	Kidney	Human	2	MaSigPro In-house 
+ENSG00000188517	Kidney	Human	2	MaSigPro In-house 
+ENSG00000196208	Kidney	Human	2	MaSigPro In-house 
+ENSG00000196581	Kidney	Human	2	MaSigPro In-house 
+ENSG00000196655	Kidney	Human	2	MaSigPro In-house 
+ENSG00000196811	Kidney	Human	2	MaSigPro In-house 
+ENSG00000197410	Kidney	Human	2	MaSigPro In-house 
+ENSG00000198885	Kidney	Human	2	MaSigPro In-house 
+ENSG00000204444	Kidney	Human	2	MaSigPro In-house 
+ENSG00000205268	Kidney	Human	2	MaSigPro In-house 
+ENSG00000215277	Kidney	Human	2	MaSigPro In-house 
+ENSG00000217791	Kidney	Human	2	MaSigPro In-house 
+ENSG00000225308	Kidney	Human	2	MaSigPro In-house 
+ENSG00000228716	Kidney	Human	2	MaSigPro In-house 
+ENSG00000231025	Kidney	Human	2	MaSigPro In-house 
+ENSG00000231925	Kidney	Human	2	MaSigPro In-house 
+ENSG00000241404	Kidney	Human	2	MaSigPro In-house 
+ENSG00000257335	Kidney	Human	2	MaSigPro In-house 
+ENSG00000260285	Kidney	Human	2	MaSigPro In-house 
+ENSG00000265681	Kidney	Human	2	MaSigPro In-house 
+ENSG00000272796	Kidney	Human	2	MaSigPro In-house 
+ENSG00000101444	Kidney	Human	2	splineR In-house 
+ENSG00000237674	Kidney	Human	2	splineR In-house 
+ENSG00000184022	Kidney	Human	2	splineR In-house 
+ENSG00000101405	Kidney	Human	2	splineR In-house 
+ENSG00000173237	Kidney	Human	2	splineR In-house 
+ENSG00000205669	Kidney	Human	2	splineR In-house 
+ENSG00000227881	Kidney	Human	2	splineR In-house 
+ENSG00000172425	Kidney	Human	2	splineR In-house 
+ENSG00000268149	Kidney	Human	2	splineR In-house 
+ENSG00000211947	Kidney	Human	2	splineR In-house 
+ENSG00000255353	Kidney	Human	2	splineR In-house 
+ENSG00000103154	Kidney	Human	2	splineR In-house 
+ENSG00000267804	Kidney	Human	2	splineR In-house 
+ENSG00000204610	Kidney	Human	2	splineR In-house 
+ENSG00000129214	Kidney	Human	2	splineR In-house 
+ENSG00000080007	Kidney	Human	2	splineR In-house 
+ENSG00000215301	Kidney	Human	2	DESeq2 In-house 
+ENSG00000234335	Kidney	Human	2	DESeq2 In-house 
+ENSG00000006757	Kidney	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000012817	Kidney	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000067048	Kidney	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000067646	Kidney	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000114374	Kidney	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000129824	Kidney	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000147050	Kidney	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000183878	Kidney	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000198692	Kidney	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000213318	Kidney	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000260197	Kidney	Human	4	DESeq2 splineR MaSigPro In-house 
+XLOC_054028	Kidney	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000182557	Kidney	Human	3	splineR MaSigPro In-house 
+ENSG00000079557	Kidney	Human	3	splineR MaSigPro In-house 
+ENSG00000168237	Kidney	Human	3	splineR MaSigPro In-house 
+ENSG00000104808	Kidney	Human	3	splineR MaSigPro In-house 
+ENSG00000117448	Kidney	Human	3	splineR MaSigPro In-house 
+ENSG00000171124	Kidney	Human	3	splineR MaSigPro In-house 
+ENSG00000092377	Kidney	Human	3	DESeq2 splineR In-house 
+ENSG00000154620	Kidney	Human	3	DESeq2 splineR In-house 
+ENSG00000165246	Kidney	Human	3	DESeq2 splineR In-house 
+ENSG00000184895	Kidney	Human	3	DESeq2 splineR In-house 
+ENSG00000198034	Kidney	Human	3	DESeq2 splineR In-house 
+ENSG00000233864	Kidney	Human	3	DESeq2 splineR In-house 
+ENSG00000241859	Kidney	Human	3	DESeq2 splineR In-house 
+ENSG00000182327	Kidney	Human	1	splineR 
+ENSG00000234576	Kidney	Human	1	splineR 
+ENSG00000211669	Kidney	Human	1	splineR 
+ENSG00000153012	Kidney	Human	1	splineR 
+ENSG00000162881	Kidney	Human	1	splineR 
+ENSG00000182600	Kidney	Human	1	splineR 
+ENSG00000001461	Kidney	Human	1	MaSigPro 
+ENSG00000002746	Kidney	Human	1	MaSigPro 
+ENSG00000002933	Kidney	Human	1	MaSigPro 
+ENSG00000005073	Kidney	Human	1	MaSigPro 
+ENSG00000006468	Kidney	Human	1	MaSigPro 
+ENSG00000006611	Kidney	Human	1	MaSigPro 
+ENSG00000007237	Kidney	Human	1	MaSigPro 
+ENSG00000009765	Kidney	Human	1	MaSigPro 
+ENSG00000009954	Kidney	Human	1	MaSigPro 
+ENSG00000010292	Kidney	Human	1	MaSigPro 
+ENSG00000010379	Kidney	Human	1	MaSigPro 
+ENSG00000011677	Kidney	Human	1	MaSigPro 
+ENSG00000013573	Kidney	Human	1	MaSigPro 
+ENSG00000015413	Kidney	Human	1	MaSigPro 
+ENSG00000021574	Kidney	Human	1	MaSigPro 
+ENSG00000026025	Kidney	Human	1	MaSigPro 
+ENSG00000038002	Kidney	Human	1	MaSigPro 
+ENSG00000040275	Kidney	Human	1	MaSigPro 
+ENSG00000042088	Kidney	Human	1	MaSigPro 
+ENSG00000047230	Kidney	Human	1	MaSigPro 
+ENSG00000048991	Kidney	Human	1	MaSigPro 
+ENSG00000049541	Kidney	Human	1	MaSigPro 
+ENSG00000050327	Kidney	Human	1	MaSigPro 
+ENSG00000054118	Kidney	Human	1	MaSigPro 
+ENSG00000054965	Kidney	Human	1	MaSigPro 
+ENSG00000059573	Kidney	Human	1	MaSigPro 
+ENSG00000060688	Kidney	Human	1	MaSigPro 
+ENSG00000060971	Kidney	Human	1	MaSigPro 
+ENSG00000063241	Kidney	Human	1	MaSigPro 
+ENSG00000063438	Kidney	Human	1	MaSigPro 
+ENSG00000065665	Kidney	Human	1	MaSigPro 
+ENSG00000066044	Kidney	Human	1	MaSigPro 
+ENSG00000066117	Kidney	Human	1	MaSigPro 
+ENSG00000066185	Kidney	Human	1	MaSigPro 
+ENSG00000066813	Kidney	Human	1	MaSigPro 
+ENSG00000068796	Kidney	Human	1	MaSigPro 
+ENSG00000070950	Kidney	Human	1	MaSigPro 
+ENSG00000072506	Kidney	Human	1	MaSigPro 
+ENSG00000072864	Kidney	Human	1	MaSigPro 
+ENSG00000073711	Kidney	Human	1	MaSigPro 
+ENSG00000073756	Kidney	Human	1	MaSigPro 
+ENSG00000074047	Kidney	Human	1	MaSigPro 
+ENSG00000074219	Kidney	Human	1	MaSigPro 
+ENSG00000074276	Kidney	Human	1	MaSigPro 
+ENSG00000075131	Kidney	Human	1	MaSigPro 
+ENSG00000075151	Kidney	Human	1	MaSigPro 
+ENSG00000076258	Kidney	Human	1	MaSigPro 
+ENSG00000077152	Kidney	Human	1	MaSigPro 
+ENSG00000079150	Kidney	Human	1	MaSigPro 
+ENSG00000079387	Kidney	Human	1	MaSigPro 
+ENSG00000079819	Kidney	Human	1	MaSigPro 
+ENSG00000080839	Kidney	Human	1	MaSigPro 
+ENSG00000082068	Kidney	Human	1	MaSigPro 
+ENSG00000083290	Kidney	Human	1	MaSigPro 
+ENSG00000084628	Kidney	Human	1	MaSigPro 
+ENSG00000084652	Kidney	Human	1	MaSigPro 
+ENSG00000084731	Kidney	Human	1	MaSigPro 
+ENSG00000086289	Kidney	Human	1	MaSigPro 
+ENSG00000086827	Kidney	Human	1	MaSigPro 
+ENSG00000086848	Kidney	Human	1	MaSigPro 
+ENSG00000087076	Kidney	Human	1	MaSigPro 
+ENSG00000087152	Kidney	Human	1	MaSigPro 
+ENSG00000087253	Kidney	Human	1	MaSigPro 
+ENSG00000088538	Kidney	Human	1	MaSigPro 
+ENSG00000089472	Kidney	Human	1	MaSigPro 
+ENSG00000089685	Kidney	Human	1	MaSigPro 
+ENSG00000089902	Kidney	Human	1	MaSigPro 
+ENSG00000090061	Kidney	Human	1	MaSigPro 
+ENSG00000090470	Kidney	Human	1	MaSigPro 
+ENSG00000090621	Kidney	Human	1	MaSigPro 
+ENSG00000090932	Kidney	Human	1	MaSigPro 
+ENSG00000091262	Kidney	Human	1	MaSigPro 
+ENSG00000092068	Kidney	Human	1	MaSigPro 
+ENSG00000092470	Kidney	Human	1	MaSigPro 
+ENSG00000092758	Kidney	Human	1	MaSigPro 
+ENSG00000095002	Kidney	Human	1	MaSigPro 
+ENSG00000099219	Kidney	Human	1	MaSigPro 
+ENSG00000099834	Kidney	Human	1	MaSigPro 
+ENSG00000099957	Kidney	Human	1	MaSigPro 
+ENSG00000099994	Kidney	Human	1	MaSigPro 
+ENSG00000100027	Kidney	Human	1	MaSigPro 
+ENSG00000100031	Kidney	Human	1	MaSigPro 
+ENSG00000100075	Kidney	Human	1	MaSigPro 
+ENSG00000100079	Kidney	Human	1	MaSigPro 
+ENSG00000100206	Kidney	Human	1	MaSigPro 
+ENSG00000100218	Kidney	Human	1	MaSigPro 
+ENSG00000100281	Kidney	Human	1	MaSigPro 
+ENSG00000100296	Kidney	Human	1	MaSigPro 
+ENSG00000100426	Kidney	Human	1	MaSigPro 
+ENSG00000100526	Kidney	Human	1	MaSigPro 
+ENSG00000100600	Kidney	Human	1	MaSigPro 
+ENSG00000100968	Kidney	Human	1	MaSigPro 
+ENSG00000101003	Kidney	Human	1	MaSigPro 
+ENSG00000101146	Kidney	Human	1	MaSigPro 
+ENSG00000101361	Kidney	Human	1	MaSigPro 
+ENSG00000101400	Kidney	Human	1	MaSigPro 
+ENSG00000101452	Kidney	Human	1	MaSigPro 
+ENSG00000101624	Kidney	Human	1	MaSigPro 
+ENSG00000101639	Kidney	Human	1	MaSigPro 
+ENSG00000102032	Kidney	Human	1	MaSigPro 
+ENSG00000102048	Kidney	Human	1	MaSigPro 
+ENSG00000102109	Kidney	Human	1	MaSigPro 
+ENSG00000102271	Kidney	Human	1	MaSigPro 
+ENSG00000102302	Kidney	Human	1	MaSigPro 
+ENSG00000102575	Kidney	Human	1	MaSigPro 
+ENSG00000102781	Kidney	Human	1	MaSigPro 
+ENSG00000102871	Kidney	Human	1	MaSigPro 
+ENSG00000102900	Kidney	Human	1	MaSigPro 
+ENSG00000103275	Kidney	Human	1	MaSigPro 
+ENSG00000104313	Kidney	Human	1	MaSigPro 
+ENSG00000104356	Kidney	Human	1	MaSigPro 
+ENSG00000104626	Kidney	Human	1	MaSigPro 
+ENSG00000104824	Kidney	Human	1	MaSigPro 
+ENSG00000104889	Kidney	Human	1	MaSigPro 
+ENSG00000104901	Kidney	Human	1	MaSigPro 
+ENSG00000105048	Kidney	Human	1	MaSigPro 
+ENSG00000105173	Kidney	Human	1	MaSigPro 
+ENSG00000105270	Kidney	Human	1	MaSigPro 
+ENSG00000105583	Kidney	Human	1	MaSigPro 
+ENSG00000105963	Kidney	Human	1	MaSigPro 
+ENSG00000105991	Kidney	Human	1	MaSigPro 
+ENSG00000106144	Kidney	Human	1	MaSigPro 
+ENSG00000106565	Kidney	Human	1	MaSigPro 
+ENSG00000106617	Kidney	Human	1	MaSigPro 
+ENSG00000106733	Kidney	Human	1	MaSigPro 
+ENSG00000107165	Kidney	Human	1	MaSigPro 
+ENSG00000107537	Kidney	Human	1	MaSigPro 
+ENSG00000107957	Kidney	Human	1	MaSigPro 
+ENSG00000108039	Kidney	Human	1	MaSigPro 
+ENSG00000108264	Kidney	Human	1	MaSigPro 
+ENSG00000108424	Kidney	Human	1	MaSigPro 
+ENSG00000108788	Kidney	Human	1	MaSigPro 
+ENSG00000109466	Kidney	Human	1	MaSigPro 
+ENSG00000109667	Kidney	Human	1	MaSigPro 
+ENSG00000109674	Kidney	Human	1	MaSigPro 
+ENSG00000109685	Kidney	Human	1	MaSigPro 
+ENSG00000109743	Kidney	Human	1	MaSigPro 
+ENSG00000110195	Kidney	Human	1	MaSigPro 
+ENSG00000110583	Kidney	Human	1	MaSigPro 
+ENSG00000110628	Kidney	Human	1	MaSigPro 
+ENSG00000110713	Kidney	Human	1	MaSigPro 
+ENSG00000110881	Kidney	Human	1	MaSigPro 
+ENSG00000110975	Kidney	Human	1	MaSigPro 
+ENSG00000111206	Kidney	Human	1	MaSigPro 
+ENSG00000111261	Kidney	Human	1	MaSigPro 
+ENSG00000111341	Kidney	Human	1	MaSigPro 
+ENSG00000111602	Kidney	Human	1	MaSigPro 
+ENSG00000111665	Kidney	Human	1	MaSigPro 
+ENSG00000111752	Kidney	Human	1	MaSigPro 
+ENSG00000112029	Kidney	Human	1	MaSigPro 
+ENSG00000112039	Kidney	Human	1	MaSigPro 
+ENSG00000112118	Kidney	Human	1	MaSigPro 
+ENSG00000112210	Kidney	Human	1	MaSigPro 
+ENSG00000112640	Kidney	Human	1	MaSigPro 
+ENSG00000112769	Kidney	Human	1	MaSigPro 
+ENSG00000112983	Kidney	Human	1	MaSigPro 
+ENSG00000112984	Kidney	Human	1	MaSigPro 
+ENSG00000113648	Kidney	Human	1	MaSigPro 
+ENSG00000113761	Kidney	Human	1	MaSigPro 
+ENSG00000113790	Kidney	Human	1	MaSigPro 
+ENSG00000113811	Kidney	Human	1	MaSigPro 
+ENSG00000114030	Kidney	Human	1	MaSigPro 
+ENSG00000114346	Kidney	Human	1	MaSigPro 
+ENSG00000114999	Kidney	Human	1	MaSigPro 
+ENSG00000115163	Kidney	Human	1	MaSigPro 
+ENSG00000115318	Kidney	Human	1	MaSigPro 
+ENSG00000115718	Kidney	Human	1	MaSigPro 
+ENSG00000116212	Kidney	Human	1	MaSigPro 
+ENSG00000116273	Kidney	Human	1	MaSigPro 
+ENSG00000116497	Kidney	Human	1	MaSigPro 
+ENSG00000116771	Kidney	Human	1	MaSigPro 
+ENSG00000116882	Kidney	Human	1	MaSigPro 
+ENSG00000116885	Kidney	Human	1	MaSigPro 
+ENSG00000117009	Kidney	Human	1	MaSigPro 
+ENSG00000117122	Kidney	Human	1	MaSigPro 
+ENSG00000117305	Kidney	Human	1	MaSigPro 
+ENSG00000117399	Kidney	Human	1	MaSigPro 
+ENSG00000117480	Kidney	Human	1	MaSigPro 
+ENSG00000117632	Kidney	Human	1	MaSigPro 
+ENSG00000117682	Kidney	Human	1	MaSigPro 
+ENSG00000117834	Kidney	Human	1	MaSigPro 
+ENSG00000118004	Kidney	Human	1	MaSigPro 
+ENSG00000118276	Kidney	Human	1	MaSigPro 
+ENSG00000118514	Kidney	Human	1	MaSigPro 
+ENSG00000118655	Kidney	Human	1	MaSigPro 
+ENSG00000118971	Kidney	Human	1	MaSigPro 
+ENSG00000119403	Kidney	Human	1	MaSigPro 
+ENSG00000119431	Kidney	Human	1	MaSigPro 
+ENSG00000119673	Kidney	Human	1	MaSigPro 
+ENSG00000120071	Kidney	Human	1	MaSigPro 
+ENSG00000120802	Kidney	Human	1	MaSigPro 
+ENSG00000120833	Kidney	Human	1	MaSigPro 
+ENSG00000121621	Kidney	Human	1	MaSigPro 
+ENSG00000121957	Kidney	Human	1	MaSigPro 
+ENSG00000122194	Kidney	Human	1	MaSigPro 
+ENSG00000122545	Kidney	Human	1	MaSigPro 
+ENSG00000122679	Kidney	Human	1	MaSigPro 
+ENSG00000122694	Kidney	Human	1	MaSigPro 
+ENSG00000122707	Kidney	Human	1	MaSigPro 
+ENSG00000122952	Kidney	Human	1	MaSigPro 
+ENSG00000123219	Kidney	Human	1	MaSigPro 
+ENSG00000123349	Kidney	Human	1	MaSigPro 
+ENSG00000123352	Kidney	Human	1	MaSigPro 
+ENSG00000123374	Kidney	Human	1	MaSigPro 
+ENSG00000123411	Kidney	Human	1	MaSigPro 
+ENSG00000123416	Kidney	Human	1	MaSigPro 
+ENSG00000123473	Kidney	Human	1	MaSigPro 
+ENSG00000123485	Kidney	Human	1	MaSigPro 
+ENSG00000124299	Kidney	Human	1	MaSigPro 
+ENSG00000124422	Kidney	Human	1	MaSigPro 
+ENSG00000124571	Kidney	Human	1	MaSigPro 
+ENSG00000124749	Kidney	Human	1	MaSigPro 
+ENSG00000124784	Kidney	Human	1	MaSigPro 
+ENSG00000125246	Kidney	Human	1	MaSigPro 
+ENSG00000125247	Kidney	Human	1	MaSigPro 
+ENSG00000125255	Kidney	Human	1	MaSigPro 
+ENSG00000125319	Kidney	Human	1	MaSigPro 
+ENSG00000125450	Kidney	Human	1	MaSigPro 
+ENSG00000126216	Kidney	Human	1	MaSigPro 
+ENSG00000126261	Kidney	Human	1	MaSigPro 
+ENSG00000126746	Kidney	Human	1	MaSigPro 
+ENSG00000126970	Kidney	Human	1	MaSigPro 
+ENSG00000128165	Kidney	Human	1	MaSigPro 
+ENSG00000128311	Kidney	Human	1	MaSigPro 
+ENSG00000128656	Kidney	Human	1	MaSigPro 
+ENSG00000129195	Kidney	Human	1	MaSigPro 
+ENSG00000129472	Kidney	Human	1	MaSigPro 
+ENSG00000130222	Kidney	Human	1	MaSigPro 
+ENSG00000130234	Kidney	Human	1	MaSigPro 
+ENSG00000130309	Kidney	Human	1	MaSigPro 
+ENSG00000130517	Kidney	Human	1	MaSigPro 
+ENSG00000130695	Kidney	Human	1	MaSigPro 
+ENSG00000130700	Kidney	Human	1	MaSigPro 
+ENSG00000130707	Kidney	Human	1	MaSigPro 
+ENSG00000130956	Kidney	Human	1	MaSigPro 
+ENSG00000131351	Kidney	Human	1	MaSigPro 
+ENSG00000131746	Kidney	Human	1	MaSigPro 
+ENSG00000131788	Kidney	Human	1	MaSigPro 
+ENSG00000132383	Kidney	Human	1	MaSigPro 
+ENSG00000132437	Kidney	Human	1	MaSigPro 
+ENSG00000132535	Kidney	Human	1	MaSigPro 
+ENSG00000132541	Kidney	Human	1	MaSigPro 
+ENSG00000132604	Kidney	Human	1	MaSigPro 
+ENSG00000132837	Kidney	Human	1	MaSigPro 
+ENSG00000132840	Kidney	Human	1	MaSigPro 
+ENSG00000133056	Kidney	Human	1	MaSigPro 
+ENSG00000133216	Kidney	Human	1	MaSigPro 
+ENSG00000134013	Kidney	Human	1	MaSigPro 
+ENSG00000134057	Kidney	Human	1	MaSigPro 
+ENSG00000134201	Kidney	Human	1	MaSigPro 
+ENSG00000134222	Kidney	Human	1	MaSigPro 
+ENSG00000134243	Kidney	Human	1	MaSigPro 
+ENSG00000134248	Kidney	Human	1	MaSigPro 
+ENSG00000134287	Kidney	Human	1	MaSigPro 
+ENSG00000134369	Kidney	Human	1	MaSigPro 
+ENSG00000134690	Kidney	Human	1	MaSigPro 
+ENSG00000134824	Kidney	Human	1	MaSigPro 
+ENSG00000134864	Kidney	Human	1	MaSigPro 
+ENSG00000135049	Kidney	Human	1	MaSigPro 
+ENSG00000135148	Kidney	Human	1	MaSigPro 
+ENSG00000135365	Kidney	Human	1	MaSigPro 
+ENSG00000135409	Kidney	Human	1	MaSigPro 
+ENSG00000135622	Kidney	Human	1	MaSigPro 
+ENSG00000135829	Kidney	Human	1	MaSigPro 
+ENSG00000135929	Kidney	Human	1	MaSigPro 
+ENSG00000136026	Kidney	Human	1	MaSigPro 
+ENSG00000136108	Kidney	Human	1	MaSigPro 
+ENSG00000136111	Kidney	Human	1	MaSigPro 
+ENSG00000136463	Kidney	Human	1	MaSigPro 
+ENSG00000136518	Kidney	Human	1	MaSigPro 
+ENSG00000136709	Kidney	Human	1	MaSigPro 
+ENSG00000136715	Kidney	Human	1	MaSigPro 
+ENSG00000136811	Kidney	Human	1	MaSigPro 
+ENSG00000136872	Kidney	Human	1	MaSigPro 
+ENSG00000136875	Kidney	Human	1	MaSigPro 
+ENSG00000137073	Kidney	Human	1	MaSigPro 
+ENSG00000137106	Kidney	Human	1	MaSigPro 
+ENSG00000137135	Kidney	Human	1	MaSigPro 
+ENSG00000137337	Kidney	Human	1	MaSigPro 
+ENSG00000137404	Kidney	Human	1	MaSigPro 
+ENSG00000137807	Kidney	Human	1	MaSigPro 
+ENSG00000137842	Kidney	Human	1	MaSigPro 
+ENSG00000137880	Kidney	Human	1	MaSigPro 
+ENSG00000137960	Kidney	Human	1	MaSigPro 
+ENSG00000138092	Kidney	Human	1	MaSigPro 
+ENSG00000138279	Kidney	Human	1	MaSigPro 
+ENSG00000138435	Kidney	Human	1	MaSigPro 
+ENSG00000138623	Kidney	Human	1	MaSigPro 
+ENSG00000138678	Kidney	Human	1	MaSigPro 
+ENSG00000139194	Kidney	Human	1	MaSigPro 
+ENSG00000139410	Kidney	Human	1	MaSigPro 
+ENSG00000139540	Kidney	Human	1	MaSigPro 
+ENSG00000139644	Kidney	Human	1	MaSigPro 
+ENSG00000140092	Kidney	Human	1	MaSigPro 
+ENSG00000140284	Kidney	Human	1	MaSigPro 
+ENSG00000140557	Kidney	Human	1	MaSigPro 
+ENSG00000140750	Kidney	Human	1	MaSigPro 
+ENSG00000140937	Kidney	Human	1	MaSigPro 
+ENSG00000141295	Kidney	Human	1	MaSigPro 
+ENSG00000141562	Kidney	Human	1	MaSigPro 
+ENSG00000141720	Kidney	Human	1	MaSigPro 
+ENSG00000142182	Kidney	Human	1	MaSigPro 
+ENSG00000142230	Kidney	Human	1	MaSigPro 
+ENSG00000142583	Kidney	Human	1	MaSigPro 
+ENSG00000142611	Kidney	Human	1	MaSigPro 
+ENSG00000142661	Kidney	Human	1	MaSigPro 
+ENSG00000142686	Kidney	Human	1	MaSigPro 
+ENSG00000143119	Kidney	Human	1	MaSigPro 
+ENSG00000143398	Kidney	Human	1	MaSigPro 
+ENSG00000143409	Kidney	Human	1	MaSigPro 
+ENSG00000143420	Kidney	Human	1	MaSigPro 
+ENSG00000143493	Kidney	Human	1	MaSigPro 
+ENSG00000143515	Kidney	Human	1	MaSigPro 
+ENSG00000143569	Kidney	Human	1	MaSigPro 
+ENSG00000143621	Kidney	Human	1	MaSigPro 
+ENSG00000143643	Kidney	Human	1	MaSigPro 
+ENSG00000143799	Kidney	Human	1	MaSigPro 
+ENSG00000143891	Kidney	Human	1	MaSigPro 
+ENSG00000144035	Kidney	Human	1	MaSigPro 
+ENSG00000144218	Kidney	Human	1	MaSigPro 
+ENSG00000144580	Kidney	Human	1	MaSigPro 
+ENSG00000144730	Kidney	Human	1	MaSigPro 
+ENSG00000144837	Kidney	Human	1	MaSigPro 
+ENSG00000144843	Kidney	Human	1	MaSigPro 
+ENSG00000145088	Kidney	Human	1	MaSigPro 
+ENSG00000145217	Kidney	Human	1	MaSigPro 
+ENSG00000145247	Kidney	Human	1	MaSigPro 
+ENSG00000145386	Kidney	Human	1	MaSigPro 
+ENSG00000145685	Kidney	Human	1	MaSigPro 
+ENSG00000145692	Kidney	Human	1	MaSigPro 
+ENSG00000145832	Kidney	Human	1	MaSigPro 
+ENSG00000146143	Kidney	Human	1	MaSigPro 
+ENSG00000146242	Kidney	Human	1	MaSigPro 
+ENSG00000146374	Kidney	Human	1	MaSigPro 
+ENSG00000146433	Kidney	Human	1	MaSigPro 
+ENSG00000146535	Kidney	Human	1	MaSigPro 
+ENSG00000146670	Kidney	Human	1	MaSigPro 
+ENSG00000147804	Kidney	Human	1	MaSigPro 
+ENSG00000148175	Kidney	Human	1	MaSigPro 
+ENSG00000148840	Kidney	Human	1	MaSigPro 
+ENSG00000148843	Kidney	Human	1	MaSigPro 
+ENSG00000148925	Kidney	Human	1	MaSigPro 
+ENSG00000148942	Kidney	Human	1	MaSigPro 
+ENSG00000149124	Kidney	Human	1	MaSigPro 
+ENSG00000149136	Kidney	Human	1	MaSigPro 
+ENSG00000149294	Kidney	Human	1	MaSigPro 
+ENSG00000149452	Kidney	Human	1	MaSigPro 
+ENSG00000149476	Kidney	Human	1	MaSigPro 
+ENSG00000149480	Kidney	Human	1	MaSigPro 
+ENSG00000149485	Kidney	Human	1	MaSigPro 
+ENSG00000149527	Kidney	Human	1	MaSigPro 
+ENSG00000149636	Kidney	Human	1	MaSigPro 
+ENSG00000149679	Kidney	Human	1	MaSigPro 
+ENSG00000149792	Kidney	Human	1	MaSigPro 
+ENSG00000150054	Kidney	Human	1	MaSigPro 
+ENSG00000151208	Kidney	Human	1	MaSigPro 
+ENSG00000151466	Kidney	Human	1	MaSigPro 
+ENSG00000151503	Kidney	Human	1	MaSigPro 
+ENSG00000151715	Kidney	Human	1	MaSigPro 
+ENSG00000151882	Kidney	Human	1	MaSigPro 
+ENSG00000152240	Kidney	Human	1	MaSigPro 
+ENSG00000153786	Kidney	Human	1	MaSigPro 
+ENSG00000153885	Kidney	Human	1	MaSigPro 
+ENSG00000154760	Kidney	Human	1	MaSigPro 
+ENSG00000154920	Kidney	Human	1	MaSigPro 
+ENSG00000155111	Kidney	Human	1	MaSigPro 
+ENSG00000155254	Kidney	Human	1	MaSigPro 
+ENSG00000155506	Kidney	Human	1	MaSigPro 
+ENSG00000155755	Kidney	Human	1	MaSigPro 
+ENSG00000155962	Kidney	Human	1	MaSigPro 
+ENSG00000156299	Kidney	Human	1	MaSigPro 
+ENSG00000156413	Kidney	Human	1	MaSigPro 
+ENSG00000156509	Kidney	Human	1	MaSigPro 
+ENSG00000156642	Kidney	Human	1	MaSigPro 
+ENSG00000156928	Kidney	Human	1	MaSigPro 
+ENSG00000157212	Kidney	Human	1	MaSigPro 
+ENSG00000157216	Kidney	Human	1	MaSigPro 
+ENSG00000157303	Kidney	Human	1	MaSigPro 
+ENSG00000157326	Kidney	Human	1	MaSigPro 
+ENSG00000157613	Kidney	Human	1	MaSigPro 
+ENSG00000157851	Kidney	Human	1	MaSigPro 
+ENSG00000157873	Kidney	Human	1	MaSigPro 
+ENSG00000158113	Kidney	Human	1	MaSigPro 
+ENSG00000159023	Kidney	Human	1	MaSigPro 
+ENSG00000159131	Kidney	Human	1	MaSigPro 
+ENSG00000159147	Kidney	Human	1	MaSigPro 
+ENSG00000159164	Kidney	Human	1	MaSigPro 
+ENSG00000159259	Kidney	Human	1	MaSigPro 
+ENSG00000159461	Kidney	Human	1	MaSigPro 
+ENSG00000159588	Kidney	Human	1	MaSigPro 
+ENSG00000160199	Kidney	Human	1	MaSigPro 
+ENSG00000160282	Kidney	Human	1	MaSigPro 
+ENSG00000160785	Kidney	Human	1	MaSigPro 
+ENSG00000160801	Kidney	Human	1	MaSigPro 
+ENSG00000160862	Kidney	Human	1	MaSigPro 
+ENSG00000161547	Kidney	Human	1	MaSigPro 
+ENSG00000161647	Kidney	Human	1	MaSigPro 
+ENSG00000161653	Kidney	Human	1	MaSigPro 
+ENSG00000161800	Kidney	Human	1	MaSigPro 
+ENSG00000162063	Kidney	Human	1	MaSigPro 
+ENSG00000162073	Kidney	Human	1	MaSigPro 
+ENSG00000162390	Kidney	Human	1	MaSigPro 
+ENSG00000162391	Kidney	Human	1	MaSigPro 
+ENSG00000162460	Kidney	Human	1	MaSigPro 
+ENSG00000162482	Kidney	Human	1	MaSigPro 
+ENSG00000162551	Kidney	Human	1	MaSigPro 
+ENSG00000162877	Kidney	Human	1	MaSigPro 
+ENSG00000162882	Kidney	Human	1	MaSigPro 
+ENSG00000162929	Kidney	Human	1	MaSigPro 
+ENSG00000163161	Kidney	Human	1	MaSigPro 
+ENSG00000163191	Kidney	Human	1	MaSigPro 
+ENSG00000163359	Kidney	Human	1	MaSigPro 
+ENSG00000163449	Kidney	Human	1	MaSigPro 
+ENSG00000163462	Kidney	Human	1	MaSigPro 
+ENSG00000163686	Kidney	Human	1	MaSigPro 
+ENSG00000163762	Kidney	Human	1	MaSigPro 
+ENSG00000163820	Kidney	Human	1	MaSigPro 
+ENSG00000163961	Kidney	Human	1	MaSigPro 
+ENSG00000164091	Kidney	Human	1	MaSigPro 
+ENSG00000164306	Kidney	Human	1	MaSigPro 
+ENSG00000164318	Kidney	Human	1	MaSigPro 
+ENSG00000164989	Kidney	Human	1	MaSigPro 
+ENSG00000165124	Kidney	Human	1	MaSigPro 
+ENSG00000165140	Kidney	Human	1	MaSigPro 
+ENSG00000165269	Kidney	Human	1	MaSigPro 
+ENSG00000165376	Kidney	Human	1	MaSigPro 
+ENSG00000165424	Kidney	Human	1	MaSigPro 
+ENSG00000165475	Kidney	Human	1	MaSigPro 
+ENSG00000165490	Kidney	Human	1	MaSigPro 
+ENSG00000165617	Kidney	Human	1	MaSigPro 
+ENSG00000165733	Kidney	Human	1	MaSigPro 
+ENSG00000165821	Kidney	Human	1	MaSigPro 
+ENSG00000165863	Kidney	Human	1	MaSigPro 
+ENSG00000166126	Kidney	Human	1	MaSigPro 
+ENSG00000166183	Kidney	Human	1	MaSigPro 
+ENSG00000166224	Kidney	Human	1	MaSigPro 
+ENSG00000166340	Kidney	Human	1	MaSigPro 
+ENSG00000166503	Kidney	Human	1	MaSigPro 
+ENSG00000166508	Kidney	Human	1	MaSigPro 
+ENSG00000166803	Kidney	Human	1	MaSigPro 
+ENSG00000166845	Kidney	Human	1	MaSigPro 
+ENSG00000166851	Kidney	Human	1	MaSigPro 
+ENSG00000166881	Kidney	Human	1	MaSigPro 
+ENSG00000166912	Kidney	Human	1	MaSigPro 
+ENSG00000166922	Kidney	Human	1	MaSigPro 
+ENSG00000166963	Kidney	Human	1	MaSigPro 
+ENSG00000166986	Kidney	Human	1	MaSigPro 
+ENSG00000167244	Kidney	Human	1	MaSigPro 
+ENSG00000167363	Kidney	Human	1	MaSigPro 
+ENSG00000167378	Kidney	Human	1	MaSigPro 
+ENSG00000167588	Kidney	Human	1	MaSigPro 
+ENSG00000167695	Kidney	Human	1	MaSigPro 
+ENSG00000167900	Kidney	Human	1	MaSigPro 
+ENSG00000167986	Kidney	Human	1	MaSigPro 
+ENSG00000168003	Kidney	Human	1	MaSigPro 
+ENSG00000168036	Kidney	Human	1	MaSigPro 
+ENSG00000168062	Kidney	Human	1	MaSigPro 
+ENSG00000168268	Kidney	Human	1	MaSigPro 
+ENSG00000168411	Kidney	Human	1	MaSigPro 
+ENSG00000168496	Kidney	Human	1	MaSigPro 
+ENSG00000168701	Kidney	Human	1	MaSigPro 
+ENSG00000168890	Kidney	Human	1	MaSigPro 
+ENSG00000169105	Kidney	Human	1	MaSigPro 
+ENSG00000169218	Kidney	Human	1	MaSigPro 
+ENSG00000169344	Kidney	Human	1	MaSigPro 
+ENSG00000169679	Kidney	Human	1	MaSigPro 
+ENSG00000169738	Kidney	Human	1	MaSigPro 
+ENSG00000169783	Kidney	Human	1	MaSigPro 
+ENSG00000169857	Kidney	Human	1	MaSigPro 
+ENSG00000169994	Kidney	Human	1	MaSigPro 
+ENSG00000170027	Kidney	Human	1	MaSigPro 
+ENSG00000170439	Kidney	Human	1	MaSigPro 
+ENSG00000170469	Kidney	Human	1	MaSigPro 
+ENSG00000170482	Kidney	Human	1	MaSigPro 
+ENSG00000170571	Kidney	Human	1	MaSigPro 
+ENSG00000170779	Kidney	Human	1	MaSigPro 
+ENSG00000171016	Kidney	Human	1	MaSigPro 
+ENSG00000171033	Kidney	Human	1	MaSigPro 
+ENSG00000171105	Kidney	Human	1	MaSigPro 
+ENSG00000171234	Kidney	Human	1	MaSigPro 
+ENSG00000171456	Kidney	Human	1	MaSigPro 
+ENSG00000171759	Kidney	Human	1	MaSigPro 
+ENSG00000171766	Kidney	Human	1	MaSigPro 
+ENSG00000171792	Kidney	Human	1	MaSigPro 
+ENSG00000171793	Kidney	Human	1	MaSigPro 
+ENSG00000171824	Kidney	Human	1	MaSigPro 
+ENSG00000172367	Kidney	Human	1	MaSigPro 
+ENSG00000172432	Kidney	Human	1	MaSigPro 
+ENSG00000172478	Kidney	Human	1	MaSigPro 
+ENSG00000172594	Kidney	Human	1	MaSigPro 
+ENSG00000172716	Kidney	Human	1	MaSigPro 
+ENSG00000172731	Kidney	Human	1	MaSigPro 
+ENSG00000172733	Kidney	Human	1	MaSigPro 
+ENSG00000172828	Kidney	Human	1	MaSigPro 
+ENSG00000172955	Kidney	Human	1	MaSigPro 
+ENSG00000173011	Kidney	Human	1	MaSigPro 
+ENSG00000173320	Kidney	Human	1	MaSigPro 
+ENSG00000173894	Kidney	Human	1	MaSigPro 
+ENSG00000173950	Kidney	Human	1	MaSigPro 
+ENSG00000173960	Kidney	Human	1	MaSigPro 
+ENSG00000174080	Kidney	Human	1	MaSigPro 
+ENSG00000174358	Kidney	Human	1	MaSigPro 
+ENSG00000174442	Kidney	Human	1	MaSigPro 
+ENSG00000174567	Kidney	Human	1	MaSigPro 
+ENSG00000174705	Kidney	Human	1	MaSigPro 
+ENSG00000174827	Kidney	Human	1	MaSigPro 
+ENSG00000175063	Kidney	Human	1	MaSigPro 
+ENSG00000175130	Kidney	Human	1	MaSigPro 
+ENSG00000175166	Kidney	Human	1	MaSigPro 
+ENSG00000175322	Kidney	Human	1	MaSigPro 
+ENSG00000175600	Kidney	Human	1	MaSigPro 
+ENSG00000175806	Kidney	Human	1	MaSigPro 
+ENSG00000175898	Kidney	Human	1	MaSigPro 
+ENSG00000176182	Kidney	Human	1	MaSigPro 
+ENSG00000176953	Kidney	Human	1	MaSigPro 
+ENSG00000176986	Kidney	Human	1	MaSigPro 
+ENSG00000177465	Kidney	Human	1	MaSigPro 
+ENSG00000177469	Kidney	Human	1	MaSigPro 
+ENSG00000177556	Kidney	Human	1	MaSigPro 
+ENSG00000177570	Kidney	Human	1	MaSigPro 
+ENSG00000177917	Kidney	Human	1	MaSigPro 
+ENSG00000177971	Kidney	Human	1	MaSigPro 
+ENSG00000178038	Kidney	Human	1	MaSigPro 
+ENSG00000178999	Kidney	Human	1	MaSigPro 
+ENSG00000179222	Kidney	Human	1	MaSigPro 
+ENSG00000179241	Kidney	Human	1	MaSigPro 
+ENSG00000179837	Kidney	Human	1	MaSigPro 
+ENSG00000180198	Kidney	Human	1	MaSigPro 
+ENSG00000180628	Kidney	Human	1	MaSigPro 
+ENSG00000180745	Kidney	Human	1	MaSigPro 
+ENSG00000180957	Kidney	Human	1	MaSigPro 
+ENSG00000181481	Kidney	Human	1	MaSigPro 
+ENSG00000181513	Kidney	Human	1	MaSigPro 
+ENSG00000181790	Kidney	Human	1	MaSigPro 
+ENSG00000181938	Kidney	Human	1	MaSigPro 
+ENSG00000182481	Kidney	Human	1	MaSigPro 
+ENSG00000182934	Kidney	Human	1	MaSigPro 
+ENSG00000182963	Kidney	Human	1	MaSigPro 
+ENSG00000183010	Kidney	Human	1	MaSigPro 
+ENSG00000183048	Kidney	Human	1	MaSigPro 
+ENSG00000183496	Kidney	Human	1	MaSigPro 
+ENSG00000183535	Kidney	Human	1	MaSigPro 
+ENSG00000183580	Kidney	Human	1	MaSigPro 
+ENSG00000183747	Kidney	Human	1	MaSigPro 
+ENSG00000183779	Kidney	Human	1	MaSigPro 
+ENSG00000183814	Kidney	Human	1	MaSigPro 
+ENSG00000183837	Kidney	Human	1	MaSigPro 
+ENSG00000184402	Kidney	Human	1	MaSigPro 
+ENSG00000184470	Kidney	Human	1	MaSigPro 
+ENSG00000184867	Kidney	Human	1	MaSigPro 
+ENSG00000184939	Kidney	Human	1	MaSigPro 
+ENSG00000184988	Kidney	Human	1	MaSigPro 
+ENSG00000185339	Kidney	Human	1	MaSigPro 
+ENSG00000185436	Kidney	Human	1	MaSigPro 
+ENSG00000185551	Kidney	Human	1	MaSigPro 
+ENSG00000185559	Kidney	Human	1	MaSigPro 
+ENSG00000185697	Kidney	Human	1	MaSigPro 
+ENSG00000185825	Kidney	Human	1	MaSigPro 
+ENSG00000185896	Kidney	Human	1	MaSigPro 
+ENSG00000186073	Kidney	Human	1	MaSigPro 
+ENSG00000186187	Kidney	Human	1	MaSigPro 
+ENSG00000186395	Kidney	Human	1	MaSigPro 
+ENSG00000186566	Kidney	Human	1	MaSigPro 
+ENSG00000186767	Kidney	Human	1	MaSigPro 
+ENSG00000186815	Kidney	Human	1	MaSigPro 
+ENSG00000187017	Kidney	Human	1	MaSigPro 
+ENSG00000187630	Kidney	Human	1	MaSigPro 
+ENSG00000187764	Kidney	Human	1	MaSigPro 
+ENSG00000187951	Kidney	Human	1	MaSigPro 
+ENSG00000188312	Kidney	Human	1	MaSigPro 
+ENSG00000188322	Kidney	Human	1	MaSigPro 
+ENSG00000188833	Kidney	Human	1	MaSigPro 
+ENSG00000188848	Kidney	Human	1	MaSigPro 
+ENSG00000189091	Kidney	Human	1	MaSigPro 
+ENSG00000189159	Kidney	Human	1	MaSigPro 
+ENSG00000189227	Kidney	Human	1	MaSigPro 
+ENSG00000196177	Kidney	Human	1	MaSigPro 
+ENSG00000196312	Kidney	Human	1	MaSigPro 
+ENSG00000196372	Kidney	Human	1	MaSigPro 
+ENSG00000196526	Kidney	Human	1	MaSigPro 
+ENSG00000196839	Kidney	Human	1	MaSigPro 
+ENSG00000197372	Kidney	Human	1	MaSigPro 
+ENSG00000197798	Kidney	Human	1	MaSigPro 
+ENSG00000197808	Kidney	Human	1	MaSigPro 
+ENSG00000198176	Kidney	Human	1	MaSigPro 
+ENSG00000198203	Kidney	Human	1	MaSigPro 
+ENSG00000198218	Kidney	Human	1	MaSigPro 
+ENSG00000198353	Kidney	Human	1	MaSigPro 
+ENSG00000198417	Kidney	Human	1	MaSigPro 
+ENSG00000198715	Kidney	Human	1	MaSigPro 
+ENSG00000198736	Kidney	Human	1	MaSigPro 
+ENSG00000203760	Kidney	Human	1	MaSigPro 
+ENSG00000204262	Kidney	Human	1	MaSigPro 
+ENSG00000204304	Kidney	Human	1	MaSigPro 
+ENSG00000204385	Kidney	Human	1	MaSigPro 
+ENSG00000204568	Kidney	Human	1	MaSigPro 
+ENSG00000204619	Kidney	Human	1	MaSigPro 
+ENSG00000204856	Kidney	Human	1	MaSigPro 
+ENSG00000205208	Kidney	Human	1	MaSigPro 
+ENSG00000205683	Kidney	Human	1	MaSigPro 
+ENSG00000205744	Kidney	Human	1	MaSigPro 
+ENSG00000212719	Kidney	Human	1	MaSigPro 
+ENSG00000213190	Kidney	Human	1	MaSigPro 
+ENSG00000213551	Kidney	Human	1	MaSigPro 
+ENSG00000213901	Kidney	Human	1	MaSigPro 
+ENSG00000216560	Kidney	Human	1	MaSigPro 
+ENSG00000221829	Kidney	Human	1	MaSigPro 
+ENSG00000224769	Kidney	Human	1	MaSigPro 
+ENSG00000226976	Kidney	Human	1	MaSigPro 
+ENSG00000227051	Kidney	Human	1	MaSigPro 
+ENSG00000228998	Kidney	Human	1	MaSigPro 
+ENSG00000229391	Kidney	Human	1	MaSigPro 
+ENSG00000235663	Kidney	Human	1	MaSigPro 
+ENSG00000241935	Kidney	Human	1	MaSigPro 
+ENSG00000242485	Kidney	Human	1	MaSigPro 
+ENSG00000242612	Kidney	Human	1	MaSigPro 
+ENSG00000243955	Kidney	Human	1	MaSigPro 
+ENSG00000243989	Kidney	Human	1	MaSigPro 
+ENSG00000250799	Kidney	Human	1	MaSigPro 
+ENSG00000253293	Kidney	Human	1	MaSigPro 
+ENSG00000254602	Kidney	Human	1	MaSigPro 
+ENSG00000255517	Kidney	Human	1	MaSigPro 
+ENSG00000259806	Kidney	Human	1	MaSigPro 
+ENSG00000260400	Kidney	Human	1	MaSigPro 
+ENSG00000260534	Kidney	Human	1	MaSigPro 
+ENSG00000260597	Kidney	Human	1	MaSigPro 
+ENSG00000260655	Kidney	Human	1	MaSigPro 
+ENSG00000260804	Kidney	Human	1	MaSigPro 
+ENSG00000261452	Kidney	Human	1	MaSigPro 
+ENSG00000261716	Kidney	Human	1	MaSigPro 
+ENSG00000262973	Kidney	Human	1	MaSigPro 
+ENSG00000267041	Kidney	Human	1	MaSigPro 
+ENSG00000269728	Kidney	Human	1	MaSigPro 
+ENSG00000269974	Kidney	Human	1	MaSigPro 
+ENSG00000270041	Kidney	Human	1	MaSigPro 
+ENSG00000270949	Kidney	Human	1	MaSigPro 
+ENSG00000271824	Kidney	Human	1	MaSigPro 
+ENSG00000271936	Kidney	Human	1	MaSigPro 
+ENSG00000272016	Kidney	Human	1	MaSigPro 
+ENSG00000272077	Kidney	Human	1	MaSigPro 
+ENSG00000001629	Kidney	Human	1	In-house 
+ENSG00000002586	Kidney	Human	1	In-house 
+ENSG00000002587	Kidney	Human	1	In-house 
+ENSG00000002822	Kidney	Human	1	In-house 
+ENSG00000004399	Kidney	Human	1	In-house 
+ENSG00000005001	Kidney	Human	1	In-house 
+ENSG00000005194	Kidney	Human	1	In-house 
+ENSG00000006015	Kidney	Human	1	In-house 
+ENSG00000006016	Kidney	Human	1	In-house 
+ENSG00000006042	Kidney	Human	1	In-house 
+ENSG00000006327	Kidney	Human	1	In-house 
+ENSG00000007047	Kidney	Human	1	In-house 
+ENSG00000007080	Kidney	Human	1	In-house 
+ENSG00000007264	Kidney	Human	1	In-house 
+ENSG00000007541	Kidney	Human	1	In-house 
+ENSG00000008018	Kidney	Human	1	In-house 
+ENSG00000008324	Kidney	Human	1	In-house 
+ENSG00000010310	Kidney	Human	1	In-house 
+ENSG00000010810	Kidney	Human	1	In-house 
+ENSG00000011132	Kidney	Human	1	In-house 
+ENSG00000011243	Kidney	Human	1	In-house 
+ENSG00000011451	Kidney	Human	1	In-house 
+ENSG00000013810	Kidney	Human	1	In-house 
+ENSG00000015532	Kidney	Human	1	In-house 
+ENSG00000022567	Kidney	Human	1	In-house 
+ENSG00000026297	Kidney	Human	1	In-house 
+ENSG00000037897	Kidney	Human	1	In-house 
+ENSG00000039650	Kidney	Human	1	In-house 
+ENSG00000040199	Kidney	Human	1	In-house 
+ENSG00000040608	Kidney	Human	1	In-house 
+ENSG00000042429	Kidney	Human	1	In-house 
+ENSG00000044574	Kidney	Human	1	In-house 
+ENSG00000046651	Kidney	Human	1	In-house 
+ENSG00000047457	Kidney	Human	1	In-house 
+ENSG00000049089	Kidney	Human	1	In-house 
+ENSG00000050030	Kidney	Human	1	In-house 
+ENSG00000050555	Kidney	Human	1	In-house 
+ENSG00000050820	Kidney	Human	1	In-house 
+ENSG00000053372	Kidney	Human	1	In-house 
+ENSG00000054611	Kidney	Human	1	In-house 
+ENSG00000057294	Kidney	Human	1	In-house 
+ENSG00000058453	Kidney	Human	1	In-house 
+ENSG00000060140	Kidney	Human	1	In-house 
+ENSG00000062370	Kidney	Human	1	In-house 
+ENSG00000062822	Kidney	Human	1	In-house 
+ENSG00000063169	Kidney	Human	1	In-house 
+ENSG00000063245	Kidney	Human	1	In-house 
+ENSG00000064201	Kidney	Human	1	In-house 
+ENSG00000064787	Kidney	Human	1	In-house 
+ENSG00000064932	Kidney	Human	1	In-house 
+ENSG00000065911	Kidney	Human	1	In-house 
+ENSG00000066379	Kidney	Human	1	In-house 
+ENSG00000068120	Kidney	Human	1	In-house 
+ENSG00000069966	Kidney	Human	1	In-house 
+ENSG00000070047	Kidney	Human	1	In-house 
+ENSG00000070423	Kidney	Human	1	In-house 
+ENSG00000071626	Kidney	Human	1	In-house 
+ENSG00000071889	Kidney	Human	1	In-house 
+ENSG00000071894	Kidney	Human	1	In-house 
+ENSG00000072310	Kidney	Human	1	In-house 
+ENSG00000072736	Kidney	Human	1	In-house 
+ENSG00000072849	Kidney	Human	1	In-house 
+ENSG00000073067	Kidney	Human	1	In-house 
+ENSG00000074590	Kidney	Human	1	In-house 
+ENSG00000074621	Kidney	Human	1	In-house 
+ENSG00000076321	Kidney	Human	1	In-house 
+ENSG00000076826	Kidney	Human	1	In-house 
+ENSG00000076984	Kidney	Human	1	In-house 
+ENSG00000077454	Kidney	Human	1	In-house 
+ENSG00000079313	Kidney	Human	1	In-house 
+ENSG00000079337	Kidney	Human	1	In-house 
+ENSG00000079805	Kidney	Human	1	In-house 
+ENSG00000081760	Kidney	Human	1	In-house 
+ENSG00000081853	Kidney	Human	1	In-house 
+ENSG00000082397	Kidney	Human	1	In-house 
+ENSG00000083814	Kidney	Human	1	In-house 
+ENSG00000085741	Kidney	Human	1	In-house 
+ENSG00000086696	Kidney	Human	1	In-house 
+ENSG00000086712	Kidney	Human	1	In-house 
+ENSG00000087510	Kidney	Human	1	In-house 
+ENSG00000088808	Kidney	Human	1	In-house 
+ENSG00000088992	Kidney	Human	1	In-house 
+ENSG00000089060	Kidney	Human	1	In-house 
+ENSG00000089351	Kidney	Human	1	In-house 
+ENSG00000089820	Kidney	Human	1	In-house 
+ENSG00000090975	Kidney	Human	1	In-house 
+ENSG00000091622	Kidney	Human	1	In-house 
+ENSG00000092929	Kidney	Human	1	In-house 
+ENSG00000093010	Kidney	Human	1	In-house 
+ENSG00000093217	Kidney	Human	1	In-house 
+ENSG00000095066	Kidney	Human	1	In-house 
+ENSG00000095397	Kidney	Human	1	In-house 
+ENSG00000095637	Kidney	Human	1	In-house 
+ENSG00000095951	Kidney	Human	1	In-house 
+ENSG00000096433	Kidney	Human	1	In-house 
+ENSG00000096717	Kidney	Human	1	In-house 
+ENSG00000097021	Kidney	Human	1	In-house 
+ENSG00000099364	Kidney	Human	1	In-house 
+ENSG00000099624	Kidney	Human	1	In-house 
+ENSG00000099821	Kidney	Human	1	In-house 
+ENSG00000099849	Kidney	Human	1	In-house 
+ENSG00000099860	Kidney	Human	1	In-house 
+ENSG00000099866	Kidney	Human	1	In-house 
+ENSG00000099904	Kidney	Human	1	In-house 
+ENSG00000099917	Kidney	Human	1	In-house 
+ENSG00000100219	Kidney	Human	1	In-house 
+ENSG00000100220	Kidney	Human	1	In-house 
+ENSG00000100221	Kidney	Human	1	In-house 
+ENSG00000100299	Kidney	Human	1	In-house 
+ENSG00000100359	Kidney	Human	1	In-house 
+ENSG00000100373	Kidney	Human	1	In-house 
+ENSG00000100385	Kidney	Human	1	In-house 
+ENSG00000100473	Kidney	Human	1	In-house 
+ENSG00000100532	Kidney	Human	1	In-house 
+ENSG00000100726	Kidney	Human	1	In-house 
+ENSG00000101084	Kidney	Human	1	In-house 
+ENSG00000101190	Kidney	Human	1	In-house 
+ENSG00000101194	Kidney	Human	1	In-house 
+ENSG00000101200	Kidney	Human	1	In-house 
+ENSG00000101213	Kidney	Human	1	In-house 
+ENSG00000101425	Kidney	Human	1	In-house 
+ENSG00000101825	Kidney	Human	1	In-house 
+ENSG00000101846	Kidney	Human	1	In-house 
+ENSG00000101898	Kidney	Human	1	In-house 
+ENSG00000101938	Kidney	Human	1	In-house 
+ENSG00000102890	Kidney	Human	1	In-house 
+ENSG00000102921	Kidney	Human	1	In-house 
+ENSG00000103241	Kidney	Human	1	In-house 
+ENSG00000103249	Kidney	Human	1	In-house 
+ENSG00000103326	Kidney	Human	1	In-house 
+ENSG00000103449	Kidney	Human	1	In-house 
+ENSG00000104365	Kidney	Human	1	In-house 
+ENSG00000104490	Kidney	Human	1	In-house 
+ENSG00000104714	Kidney	Human	1	In-house 
+ENSG00000104852	Kidney	Human	1	In-house 
+ENSG00000104866	Kidney	Human	1	In-house 
+ENSG00000104881	Kidney	Human	1	In-house 
+ENSG00000104973	Kidney	Human	1	In-house 
+ENSG00000105063	Kidney	Human	1	In-house 
+ENSG00000105085	Kidney	Human	1	In-house 
+ENSG00000105219	Kidney	Human	1	In-house 
+ENSG00000105221	Kidney	Human	1	In-house 
+ENSG00000105289	Kidney	Human	1	In-house 
+ENSG00000105321	Kidney	Human	1	In-house 
+ENSG00000105329	Kidney	Human	1	In-house 
+ENSG00000105339	Kidney	Human	1	In-house 
+ENSG00000105472	Kidney	Human	1	In-house 
+ENSG00000105479	Kidney	Human	1	In-house 
+ENSG00000105552	Kidney	Human	1	In-house 
+ENSG00000105556	Kidney	Human	1	In-house 
+ENSG00000105668	Kidney	Human	1	In-house 
+ENSG00000106258	Kidney	Human	1	In-house 
+ENSG00000106327	Kidney	Human	1	In-house 
+ENSG00000106459	Kidney	Human	1	In-house 
+ENSG00000106686	Kidney	Human	1	In-house 
+ENSG00000107021	Kidney	Human	1	In-house 
+ENSG00000107404	Kidney	Human	1	In-house 
+ENSG00000107485	Kidney	Human	1	In-house 
+ENSG00000107816	Kidney	Human	1	In-house 
+ENSG00000107872	Kidney	Human	1	In-house 
+ENSG00000108106	Kidney	Human	1	In-house 
+ENSG00000108389	Kidney	Human	1	In-house 
+ENSG00000108469	Kidney	Human	1	In-house 
+ENSG00000108557	Kidney	Human	1	In-house 
+ENSG00000108576	Kidney	Human	1	In-house 
+ENSG00000108679	Kidney	Human	1	In-house 
+ENSG00000109475	Kidney	Human	1	In-house 
+ENSG00000109686	Kidney	Human	1	In-house 
+ENSG00000109705	Kidney	Human	1	In-house 
+ENSG00000109736	Kidney	Human	1	In-house 
+ENSG00000109758	Kidney	Human	1	In-house 
+ENSG00000110011	Kidney	Human	1	In-house 
+ENSG00000110013	Kidney	Human	1	In-house 
+ENSG00000110066	Kidney	Human	1	In-house 
+ENSG00000110375	Kidney	Human	1	In-house 
+ENSG00000110697	Kidney	Human	1	In-house 
+ENSG00000110717	Kidney	Human	1	In-house 
+ENSG00000110719	Kidney	Human	1	In-house 
+ENSG00000110931	Kidney	Human	1	In-house 
+ENSG00000111344	Kidney	Human	1	In-house 
+ENSG00000111361	Kidney	Human	1	In-house 
+ENSG00000111907	Kidney	Human	1	In-house 
+ENSG00000112081	Kidney	Human	1	In-house 
+ENSG00000112167	Kidney	Human	1	In-house 
+ENSG00000112182	Kidney	Human	1	In-house 
+ENSG00000112308	Kidney	Human	1	In-house 
+ENSG00000112320	Kidney	Human	1	In-house 
+ENSG00000112578	Kidney	Human	1	In-house 
+ENSG00000112787	Kidney	Human	1	In-house 
+ENSG00000113552	Kidney	Human	1	In-house 
+ENSG00000113805	Kidney	Human	1	In-house 
+ENSG00000114473	Kidney	Human	1	In-house 
+ENSG00000114812	Kidney	Human	1	In-house 
+ENSG00000115085	Kidney	Human	1	In-house 
+ENSG00000115138	Kidney	Human	1	In-house 
+ENSG00000115170	Kidney	Human	1	In-house 
+ENSG00000115257	Kidney	Human	1	In-house 
+ENSG00000115274	Kidney	Human	1	In-house 
+ENSG00000115286	Kidney	Human	1	In-house 
+ENSG00000115561	Kidney	Human	1	In-house 
+ENSG00000115648	Kidney	Human	1	In-house 
+ENSG00000115884	Kidney	Human	1	In-house 
+ENSG00000116014	Kidney	Human	1	In-house 
+ENSG00000116017	Kidney	Human	1	In-house 
+ENSG00000116514	Kidney	Human	1	In-house 
+ENSG00000116711	Kidney	Human	1	In-house 
+ENSG00000116954	Kidney	Human	1	In-house 
+ENSG00000117262	Kidney	Human	1	In-house 
+ENSG00000117266	Kidney	Human	1	In-house 
+ENSG00000117394	Kidney	Human	1	In-house 
+ENSG00000117461	Kidney	Human	1	In-house 
+ENSG00000117594	Kidney	Human	1	In-house 
+ENSG00000118046	Kidney	Human	1	In-house 
+ENSG00000118156	Kidney	Human	1	In-house 
+ENSG00000118402	Kidney	Human	1	In-house 
+ENSG00000119408	Kidney	Human	1	In-house 
+ENSG00000119782	Kidney	Human	1	In-house 
+ENSG00000119919	Kidney	Human	1	In-house 
+ENSG00000120328	Kidney	Human	1	In-house 
+ENSG00000120658	Kidney	Human	1	In-house 
+ENSG00000121068	Kidney	Human	1	In-house 
+ENSG00000121073	Kidney	Human	1	In-house 
+ENSG00000121281	Kidney	Human	1	In-house 
+ENSG00000121440	Kidney	Human	1	In-house 
+ENSG00000121690	Kidney	Human	1	In-house 
+ENSG00000121989	Kidney	Human	1	In-house 
+ENSG00000122877	Kidney	Human	1	In-house 
+ENSG00000123064	Kidney	Human	1	In-house 
+ENSG00000123154	Kidney	Human	1	In-house 
+ENSG00000123159	Kidney	Human	1	In-house 
+ENSG00000123496	Kidney	Human	1	In-house 
+ENSG00000123610	Kidney	Human	1	In-house 
+ENSG00000123689	Kidney	Human	1	In-house 
+ENSG00000123815	Kidney	Human	1	In-house 
+ENSG00000124074	Kidney	Human	1	In-house 
+ENSG00000124143	Kidney	Human	1	In-house 
+ENSG00000124160	Kidney	Human	1	In-house 
+ENSG00000124257	Kidney	Human	1	In-house 
+ENSG00000124279	Kidney	Human	1	In-house 
+ENSG00000124479	Kidney	Human	1	In-house 
+ENSG00000124486	Kidney	Human	1	In-house 
+ENSG00000124789	Kidney	Human	1	In-house 
+ENSG00000125089	Kidney	Human	1	In-house 
+ENSG00000125484	Kidney	Human	1	In-house 
+ENSG00000125503	Kidney	Human	1	In-house 
+ENSG00000125531	Kidney	Human	1	In-house 
+ENSG00000125534	Kidney	Human	1	In-house 
+ENSG00000125630	Kidney	Human	1	In-house 
+ENSG00000125637	Kidney	Human	1	In-house 
+ENSG00000125656	Kidney	Human	1	In-house 
+ENSG00000125731	Kidney	Human	1	In-house 
+ENSG00000125898	Kidney	Human	1	In-house 
+ENSG00000125912	Kidney	Human	1	In-house 
+ENSG00000125968	Kidney	Human	1	In-house 
+ENSG00000126243	Kidney	Human	1	In-house 
+ENSG00000126456	Kidney	Human	1	In-house 
+ENSG00000126464	Kidney	Human	1	In-house 
+ENSG00000126705	Kidney	Human	1	In-house 
+ENSG00000126778	Kidney	Human	1	In-house 
+ENSG00000126934	Kidney	Human	1	In-house 
+ENSG00000127418	Kidney	Human	1	In-house 
+ENSG00000127445	Kidney	Human	1	In-house 
+ENSG00000127564	Kidney	Human	1	In-house 
+ENSG00000127774	Kidney	Human	1	In-house 
+ENSG00000128039	Kidney	Human	1	In-house 
+ENSG00000128274	Kidney	Human	1	In-house 
+ENSG00000128394	Kidney	Human	1	In-house 
+ENSG00000128607	Kidney	Human	1	In-house 
+ENSG00000129038	Kidney	Human	1	In-house 
+ENSG00000129282	Kidney	Human	1	In-house 
+ENSG00000129514	Kidney	Human	1	In-house 
+ENSG00000129667	Kidney	Human	1	In-house 
+ENSG00000129757	Kidney	Human	1	In-house 
+ENSG00000129911	Kidney	Human	1	In-house 
+ENSG00000129925	Kidney	Human	1	In-house 
+ENSG00000129932	Kidney	Human	1	In-house 
+ENSG00000129968	Kidney	Human	1	In-house 
+ENSG00000130021	Kidney	Human	1	In-house 
+ENSG00000130032	Kidney	Human	1	In-house 
+ENSG00000130158	Kidney	Human	1	In-house 
+ENSG00000130201	Kidney	Human	1	In-house 
+ENSG00000130226	Kidney	Human	1	In-house 
+ENSG00000130254	Kidney	Human	1	In-house 
+ENSG00000130312	Kidney	Human	1	In-house 
+ENSG00000130332	Kidney	Human	1	In-house 
+ENSG00000130377	Kidney	Human	1	In-house 
+ENSG00000130433	Kidney	Human	1	In-house 
+ENSG00000130479	Kidney	Human	1	In-house 
+ENSG00000130511	Kidney	Human	1	In-house 
+ENSG00000130529	Kidney	Human	1	In-house 
+ENSG00000130669	Kidney	Human	1	In-house 
+ENSG00000130702	Kidney	Human	1	In-house 
+ENSG00000130733	Kidney	Human	1	In-house 
+ENSG00000130748	Kidney	Human	1	In-house 
+ENSG00000130758	Kidney	Human	1	In-house 
+ENSG00000130762	Kidney	Human	1	In-house 
+ENSG00000130829	Kidney	Human	1	In-house 
+ENSG00000130856	Kidney	Human	1	In-house 
+ENSG00000130940	Kidney	Human	1	In-house 
+ENSG00000130948	Kidney	Human	1	In-house 
+ENSG00000130985	Kidney	Human	1	In-house 
+ENSG00000131037	Kidney	Human	1	In-house 
+ENSG00000131116	Kidney	Human	1	In-house 
+ENSG00000131591	Kidney	Human	1	In-house 
+ENSG00000131620	Kidney	Human	1	In-house 
+ENSG00000131845	Kidney	Human	1	In-house 
+ENSG00000132361	Kidney	Human	1	In-house 
+ENSG00000132434	Kidney	Human	1	In-house 
+ENSG00000132465	Kidney	Human	1	In-house 
+ENSG00000132613	Kidney	Human	1	In-house 
+ENSG00000132746	Kidney	Human	1	In-house 
+ENSG00000132773	Kidney	Human	1	In-house 
+ENSG00000132793	Kidney	Human	1	In-house 
+ENSG00000132952	Kidney	Human	1	In-house 
+ENSG00000133020	Kidney	Human	1	In-house 
+ENSG00000133059	Kidney	Human	1	In-house 
+ENSG00000133105	Kidney	Human	1	In-house 
+ENSG00000133247	Kidney	Human	1	In-house 
+ENSG00000133250	Kidney	Human	1	In-house 
+ENSG00000133275	Kidney	Human	1	In-house 
+ENSG00000134020	Kidney	Human	1	In-house 
+ENSG00000134259	Kidney	Human	1	In-house 
+ENSG00000134262	Kidney	Human	1	In-house 
+ENSG00000134815	Kidney	Human	1	In-house 
+ENSG00000134825	Kidney	Human	1	In-house 
+ENSG00000134986	Kidney	Human	1	In-house 
+ENSG00000135845	Kidney	Human	1	In-house 
+ENSG00000135930	Kidney	Human	1	In-house 
+ENSG00000135940	Kidney	Human	1	In-house 
+ENSG00000136160	Kidney	Human	1	In-house 
+ENSG00000136213	Kidney	Human	1	In-house 
+ENSG00000136574	Kidney	Human	1	In-house 
+ENSG00000136720	Kidney	Human	1	In-house 
+ENSG00000136830	Kidney	Human	1	In-house 
+ENSG00000136840	Kidney	Human	1	In-house 
+ENSG00000136933	Kidney	Human	1	In-house 
+ENSG00000136943	Kidney	Human	1	In-house 
+ENSG00000137672	Kidney	Human	1	In-house 
+ENSG00000137700	Kidney	Human	1	In-house 
+ENSG00000137731	Kidney	Human	1	In-house 
+ENSG00000137766	Kidney	Human	1	In-house 
+ENSG00000137818	Kidney	Human	1	In-house 
+ENSG00000137841	Kidney	Human	1	In-house 
+ENSG00000138028	Kidney	Human	1	In-house 
+ENSG00000138080	Kidney	Human	1	In-house 
+ENSG00000138293	Kidney	Human	1	In-house 
+ENSG00000138495	Kidney	Human	1	In-house 
+ENSG00000138696	Kidney	Human	1	In-house 
+ENSG00000138944	Kidney	Human	1	In-house 
+ENSG00000139132	Kidney	Human	1	In-house 
+ENSG00000139405	Kidney	Human	1	In-house 
+ENSG00000139620	Kidney	Human	1	In-house 
+ENSG00000139719	Kidney	Human	1	In-house 
+ENSG00000139725	Kidney	Human	1	In-house 
+ENSG00000139988	Kidney	Human	1	In-house 
+ENSG00000140297	Kidney	Human	1	In-house 
+ENSG00000140564	Kidney	Human	1	In-house 
+ENSG00000140859	Kidney	Human	1	In-house 
+ENSG00000140987	Kidney	Human	1	In-house 
+ENSG00000141068	Kidney	Human	1	In-house 
+ENSG00000141076	Kidney	Human	1	In-house 
+ENSG00000141504	Kidney	Human	1	In-house 
+ENSG00000141524	Kidney	Human	1	In-house 
+ENSG00000141526	Kidney	Human	1	In-house 
+ENSG00000141576	Kidney	Human	1	In-house 
+ENSG00000141577	Kidney	Human	1	In-house 
+ENSG00000141933	Kidney	Human	1	In-house 
+ENSG00000141994	Kidney	Human	1	In-house 
+ENSG00000142102	Kidney	Human	1	In-house 
+ENSG00000142273	Kidney	Human	1	In-house 
+ENSG00000142409	Kidney	Human	1	In-house 
+ENSG00000142484	Kidney	Human	1	In-house 
+ENSG00000142606	Kidney	Human	1	In-house 
+ENSG00000142655	Kidney	Human	1	In-house 
+ENSG00000142694	Kidney	Human	1	In-house 
+ENSG00000142765	Kidney	Human	1	In-house 
+ENSG00000142798	Kidney	Human	1	In-house 
+ENSG00000142910	Kidney	Human	1	In-house 
+ENSG00000143217	Kidney	Human	1	In-house 
+ENSG00000143257	Kidney	Human	1	In-house 
+ENSG00000143319	Kidney	Human	1	In-house 
+ENSG00000143375	Kidney	Human	1	In-house 
+ENSG00000143479	Kidney	Human	1	In-house 
+ENSG00000143786	Kidney	Human	1	In-house 
+ENSG00000144057	Kidney	Human	1	In-house 
+ENSG00000145675	Kidney	Human	1	In-house 
+ENSG00000146477	Kidney	Human	1	In-house 
+ENSG00000146700	Kidney	Human	1	In-house 
+ENSG00000147416	Kidney	Human	1	In-house 
+ENSG00000148082	Kidney	Human	1	In-house 
+ENSG00000148343	Kidney	Human	1	In-house 
+ENSG00000148572	Kidney	Human	1	In-house 
+ENSG00000148660	Kidney	Human	1	In-house 
+ENSG00000148688	Kidney	Human	1	In-house 
+ENSG00000149289	Kidney	Human	1	In-house 
+ENSG00000149328	Kidney	Human	1	In-house 
+ENSG00000149531	Kidney	Human	1	In-house 
+ENSG00000149922	Kidney	Human	1	In-house 
+ENSG00000150281	Kidney	Human	1	In-house 
+ENSG00000150594	Kidney	Human	1	In-house 
+ENSG00000151224	Kidney	Human	1	In-house 
+ENSG00000151240	Kidney	Human	1	In-house 
+ENSG00000151655	Kidney	Human	1	In-house 
+ENSG00000151917	Kidney	Human	1	In-house 
+ENSG00000151948	Kidney	Human	1	In-house 
+ENSG00000152082	Kidney	Human	1	In-house 
+ENSG00000152467	Kidney	Human	1	In-house 
+ENSG00000152475	Kidney	Human	1	In-house 
+ENSG00000152669	Kidney	Human	1	In-house 
+ENSG00000152784	Kidney	Human	1	In-house 
+ENSG00000153094	Kidney	Human	1	In-house 
+ENSG00000153391	Kidney	Human	1	In-house 
+ENSG00000153879	Kidney	Human	1	In-house 
+ENSG00000154134	Kidney	Human	1	In-house 
+ENSG00000154258	Kidney	Human	1	In-house 
+ENSG00000154277	Kidney	Human	1	In-house 
+ENSG00000154645	Kidney	Human	1	In-house 
+ENSG00000154736	Kidney	Human	1	In-house 
+ENSG00000155367	Kidney	Human	1	In-house 
+ENSG00000155463	Kidney	Human	1	In-house 
+ENSG00000155629	Kidney	Human	1	In-house 
+ENSG00000155760	Kidney	Human	1	In-house 
+ENSG00000155876	Kidney	Human	1	In-house 
+ENSG00000155897	Kidney	Human	1	In-house 
+ENSG00000156381	Kidney	Human	1	In-house 
+ENSG00000156860	Kidney	Human	1	In-house 
+ENSG00000157014	Kidney	Human	1	In-house 
+ENSG00000157540	Kidney	Human	1	In-house 
+ENSG00000157833	Kidney	Human	1	In-house 
+ENSG00000157837	Kidney	Human	1	In-house 
+ENSG00000158055	Kidney	Human	1	In-house 
+ENSG00000158169	Kidney	Human	1	In-house 
+ENSG00000158258	Kidney	Human	1	In-house 
+ENSG00000158406	Kidney	Human	1	In-house 
+ENSG00000158427	Kidney	Human	1	In-house 
+ENSG00000158747	Kidney	Human	1	In-house 
+ENSG00000158865	Kidney	Human	1	In-house 
+ENSG00000159069	Kidney	Human	1	In-house 
+ENSG00000159176	Kidney	Human	1	In-house 
+ENSG00000159212	Kidney	Human	1	In-house 
+ENSG00000159314	Kidney	Human	1	In-house 
+ENSG00000159479	Kidney	Human	1	In-house 
+ENSG00000159761	Kidney	Human	1	In-house 
+ENSG00000160072	Kidney	Human	1	In-house 
+ENSG00000160113	Kidney	Human	1	In-house 
+ENSG00000160202	Kidney	Human	1	In-house 
+ENSG00000160256	Kidney	Human	1	In-house 
+ENSG00000160284	Kidney	Human	1	In-house 
+ENSG00000160318	Kidney	Human	1	In-house 
+ENSG00000160323	Kidney	Human	1	In-house 
+ENSG00000160401	Kidney	Human	1	In-house 
+ENSG00000160685	Kidney	Human	1	In-house 
+ENSG00000160767	Kidney	Human	1	In-house 
+ENSG00000160877	Kidney	Human	1	In-house 
+ENSG00000160949	Kidney	Human	1	In-house 
+ENSG00000160957	Kidney	Human	1	In-house 
+ENSG00000160972	Kidney	Human	1	In-house 
+ENSG00000161036	Kidney	Human	1	In-house 
+ENSG00000161179	Kidney	Human	1	In-house 
+ENSG00000161328	Kidney	Human	1	In-house 
+ENSG00000161642	Kidney	Human	1	In-house 
+ENSG00000161682	Kidney	Human	1	In-house 
+ENSG00000161847	Kidney	Human	1	In-house 
+ENSG00000161992	Kidney	Human	1	In-house 
+ENSG00000162069	Kidney	Human	1	In-house 
+ENSG00000162377	Kidney	Human	1	In-house 
+ENSG00000162493	Kidney	Human	1	In-house 
+ENSG00000162522	Kidney	Human	1	In-house 
+ENSG00000162585	Kidney	Human	1	In-house 
+ENSG00000162599	Kidney	Human	1	In-house 
+ENSG00000163026	Kidney	Human	1	In-house 
+ENSG00000163171	Kidney	Human	1	In-house 
+ENSG00000163393	Kidney	Human	1	In-house 
+ENSG00000163412	Kidney	Human	1	In-house 
+ENSG00000163435	Kidney	Human	1	In-house 
+ENSG00000163659	Kidney	Human	1	In-house 
+ENSG00000163697	Kidney	Human	1	In-house 
+ENSG00000163935	Kidney	Human	1	In-house 
+ENSG00000163993	Kidney	Human	1	In-house 
+ENSG00000164039	Kidney	Human	1	In-house 
+ENSG00000164120	Kidney	Human	1	In-house 
+ENSG00000164188	Kidney	Human	1	In-house 
+ENSG00000164877	Kidney	Human	1	In-house 
+ENSG00000164889	Kidney	Human	1	In-house 
+ENSG00000164897	Kidney	Human	1	In-house 
+ENSG00000164904	Kidney	Human	1	In-house 
+ENSG00000164938	Kidney	Human	1	In-house 
+ENSG00000165175	Kidney	Human	1	In-house 
+ENSG00000165215	Kidney	Human	1	In-house 
+ENSG00000165272	Kidney	Human	1	In-house 
+ENSG00000165355	Kidney	Human	1	In-house 
+ENSG00000165379	Kidney	Human	1	In-house 
+ENSG00000165644	Kidney	Human	1	In-house 
+ENSG00000165655	Kidney	Human	1	In-house 
+ENSG00000165730	Kidney	Human	1	In-house 
+ENSG00000165804	Kidney	Human	1	In-house 
+ENSG00000165810	Kidney	Human	1	In-house 
+ENSG00000165828	Kidney	Human	1	In-house 
+ENSG00000165905	Kidney	Human	1	In-house 
+ENSG00000165923	Kidney	Human	1	In-house 
+ENSG00000165929	Kidney	Human	1	In-house 
+ENSG00000166225	Kidney	Human	1	In-house 
+ENSG00000166387	Kidney	Human	1	In-house 
+ENSG00000166444	Kidney	Human	1	In-house 
+ENSG00000166529	Kidney	Human	1	In-house 
+ENSG00000166582	Kidney	Human	1	In-house 
+ENSG00000166689	Kidney	Human	1	In-house 
+ENSG00000166823	Kidney	Human	1	In-house 
+ENSG00000166925	Kidney	Human	1	In-house 
+ENSG00000167332	Kidney	Human	1	In-house 
+ENSG00000167522	Kidney	Human	1	In-house 
+ENSG00000167525	Kidney	Human	1	In-house 
+ENSG00000167566	Kidney	Human	1	In-house 
+ENSG00000167617	Kidney	Human	1	In-house 
+ENSG00000167653	Kidney	Human	1	In-house 
+ENSG00000167674	Kidney	Human	1	In-house 
+ENSG00000167676	Kidney	Human	1	In-house 
+ENSG00000167680	Kidney	Human	1	In-house 
+ENSG00000167765	Kidney	Human	1	In-house 
+ENSG00000167880	Kidney	Human	1	In-house 
+ENSG00000167985	Kidney	Human	1	In-house 
+ENSG00000168071	Kidney	Human	1	In-house 
+ENSG00000168081	Kidney	Human	1	In-house 
+ENSG00000168140	Kidney	Human	1	In-house 
+ENSG00000168143	Kidney	Human	1	In-house 
+ENSG00000168209	Kidney	Human	1	In-house 
+ENSG00000168476	Kidney	Human	1	In-house 
+ENSG00000168802	Kidney	Human	1	In-house 
+ENSG00000168906	Kidney	Human	1	In-house 
+ENSG00000169083	Kidney	Human	1	In-house 
+ENSG00000169093	Kidney	Human	1	In-house 
+ENSG00000169100	Kidney	Human	1	In-house 
+ENSG00000169255	Kidney	Human	1	In-house 
+ENSG00000169314	Kidney	Human	1	In-house 
+ENSG00000169504	Kidney	Human	1	In-house 
+ENSG00000169660	Kidney	Human	1	In-house 
+ENSG00000169683	Kidney	Human	1	In-house 
+ENSG00000169692	Kidney	Human	1	In-house 
+ENSG00000169871	Kidney	Human	1	In-house 
+ENSG00000169957	Kidney	Human	1	In-house 
+ENSG00000169981	Kidney	Human	1	In-house 
+ENSG00000170035	Kidney	Human	1	In-house 
+ENSG00000170100	Kidney	Human	1	In-house 
+ENSG00000170190	Kidney	Human	1	In-house 
+ENSG00000170291	Kidney	Human	1	In-house 
+ENSG00000170498	Kidney	Human	1	In-house 
+ENSG00000170525	Kidney	Human	1	In-house 
+ENSG00000170577	Kidney	Human	1	In-house 
+ENSG00000170608	Kidney	Human	1	In-house 
+ENSG00000170638	Kidney	Human	1	In-house 
+ENSG00000170684	Kidney	Human	1	In-house 
+ENSG00000170837	Kidney	Human	1	In-house 
+ENSG00000170949	Kidney	Human	1	In-house 
+ENSG00000171135	Kidney	Human	1	In-house 
+ENSG00000171150	Kidney	Human	1	In-house 
+ENSG00000171159	Kidney	Human	1	In-house 
+ENSG00000171219	Kidney	Human	1	In-house 
+ENSG00000171222	Kidney	Human	1	In-house 
+ENSG00000171345	Kidney	Human	1	In-house 
+ENSG00000171357	Kidney	Human	1	In-house 
+ENSG00000171467	Kidney	Human	1	In-house 
+ENSG00000171649	Kidney	Human	1	In-house 
+ENSG00000171813	Kidney	Human	1	In-house 
+ENSG00000172007	Kidney	Human	1	In-house 
+ENSG00000172009	Kidney	Human	1	In-house 
+ENSG00000172179	Kidney	Human	1	In-house 
+ENSG00000172270	Kidney	Human	1	In-house 
+ENSG00000172339	Kidney	Human	1	In-house 
+ENSG00000172366	Kidney	Human	1	In-house 
+ENSG00000172409	Kidney	Human	1	In-house 
+ENSG00000172530	Kidney	Human	1	In-house 
+ENSG00000172725	Kidney	Human	1	In-house 
+ENSG00000172830	Kidney	Human	1	In-house 
+ENSG00000173137	Kidney	Human	1	In-house 
+ENSG00000173272	Kidney	Human	1	In-house 
+ENSG00000173376	Kidney	Human	1	In-house 
+ENSG00000173467	Kidney	Human	1	In-house 
+ENSG00000173531	Kidney	Human	1	In-house 
+ENSG00000173557	Kidney	Human	1	In-house 
+ENSG00000173641	Kidney	Human	1	In-house 
+ENSG00000173674	Kidney	Human	1	In-house 
+ENSG00000173705	Kidney	Human	1	In-house 
+ENSG00000173848	Kidney	Human	1	In-house 
+ENSG00000174109	Kidney	Human	1	In-house 
+ENSG00000174226	Kidney	Human	1	In-house 
+ENSG00000174460	Kidney	Human	1	In-house 
+ENSG00000174748	Kidney	Human	1	In-house 
+ENSG00000175040	Kidney	Human	1	In-house 
+ENSG00000175221	Kidney	Human	1	In-house 
+ENSG00000175591	Kidney	Human	1	In-house 
+ENSG00000175602	Kidney	Human	1	In-house 
+ENSG00000175920	Kidney	Human	1	In-house 
+ENSG00000175984	Kidney	Human	1	In-house 
+ENSG00000176058	Kidney	Human	1	In-house 
+ENSG00000176092	Kidney	Human	1	In-house 
+ENSG00000176402	Kidney	Human	1	In-house 
+ENSG00000176428	Kidney	Human	1	In-house 
+ENSG00000176532	Kidney	Human	1	In-house 
+ENSG00000176845	Kidney	Human	1	In-house 
+ENSG00000176919	Kidney	Human	1	In-house 
+ENSG00000176928	Kidney	Human	1	In-house 
+ENSG00000177076	Kidney	Human	1	In-house 
+ENSG00000177106	Kidney	Human	1	In-house 
+ENSG00000177191	Kidney	Human	1	In-house 
+ENSG00000177192	Kidney	Human	1	In-house 
+ENSG00000177374	Kidney	Human	1	In-house 
+ENSG00000177508	Kidney	Human	1	In-house 
+ENSG00000177548	Kidney	Human	1	In-house 
+ENSG00000177576	Kidney	Human	1	In-house 
+ENSG00000177595	Kidney	Human	1	In-house 
+ENSG00000177666	Kidney	Human	1	In-house 
+ENSG00000177685	Kidney	Human	1	In-house 
+ENSG00000177764	Kidney	Human	1	In-house 
+ENSG00000177943	Kidney	Human	1	In-house 
+ENSG00000178150	Kidney	Human	1	In-house 
+ENSG00000178397	Kidney	Human	1	In-house 
+ENSG00000178531	Kidney	Human	1	In-house 
+ENSG00000178585	Kidney	Human	1	In-house 
+ENSG00000178623	Kidney	Human	1	In-house 
+ENSG00000178814	Kidney	Human	1	In-house 
+ENSG00000178927	Kidney	Human	1	In-house 
+ENSG00000179403	Kidney	Human	1	In-house 
+ENSG00000179562	Kidney	Human	1	In-house 
+ENSG00000179588	Kidney	Human	1	In-house 
+ENSG00000179598	Kidney	Human	1	In-house 
+ENSG00000179715	Kidney	Human	1	In-house 
+ENSG00000179774	Kidney	Human	1	In-house 
+ENSG00000179921	Kidney	Human	1	In-house 
+ENSG00000179954	Kidney	Human	1	In-house 
+ENSG00000179958	Kidney	Human	1	In-house 
+ENSG00000180537	Kidney	Human	1	In-house 
+ENSG00000180818	Kidney	Human	1	In-house 
+ENSG00000180900	Kidney	Human	1	In-house 
+ENSG00000180902	Kidney	Human	1	In-house 
+ENSG00000180992	Kidney	Human	1	In-house 
+ENSG00000181007	Kidney	Human	1	In-house 
+ENSG00000181031	Kidney	Human	1	In-house 
+ENSG00000181045	Kidney	Human	1	In-house 
+ENSG00000181218	Kidney	Human	1	In-house 
+ENSG00000181444	Kidney	Human	1	In-house 
+ENSG00000181523	Kidney	Human	1	In-house 
+ENSG00000181649	Kidney	Human	1	In-house 
+ENSG00000182087	Kidney	Human	1	In-house 
+ENSG00000182093	Kidney	Human	1	In-house 
+ENSG00000182095	Kidney	Human	1	In-house 
+ENSG00000182156	Kidney	Human	1	In-house 
+ENSG00000182271	Kidney	Human	1	In-house 
+ENSG00000182362	Kidney	Human	1	In-house 
+ENSG00000182606	Kidney	Human	1	In-house 
+ENSG00000182685	Kidney	Human	1	In-house 
+ENSG00000182809	Kidney	Human	1	In-house 
+ENSG00000182871	Kidney	Human	1	In-house 
+ENSG00000182901	Kidney	Human	1	In-house 
+ENSG00000182909	Kidney	Human	1	In-house 
+ENSG00000182979	Kidney	Human	1	In-house 
+ENSG00000183155	Kidney	Human	1	In-house 
+ENSG00000183444	Kidney	Human	1	In-house 
+ENSG00000183458	Kidney	Human	1	In-house 
+ENSG00000183691	Kidney	Human	1	In-house 
+ENSG00000183864	Kidney	Human	1	In-house 
+ENSG00000183971	Kidney	Human	1	In-house 
+ENSG00000184182	Kidney	Human	1	In-house 
+ENSG00000184363	Kidney	Human	1	In-house 
+ENSG00000184368	Kidney	Human	1	In-house 
+ENSG00000184374	Kidney	Human	1	In-house 
+ENSG00000184381	Kidney	Human	1	In-house 
+ENSG00000184428	Kidney	Human	1	In-house 
+ENSG00000184481	Kidney	Human	1	In-house 
+ENSG00000184489	Kidney	Human	1	In-house 
+ENSG00000184897	Kidney	Human	1	In-house 
+ENSG00000185049	Kidney	Human	1	In-house 
+ENSG00000185101	Kidney	Human	1	In-house 
+ENSG00000185269	Kidney	Human	1	In-house 
+ENSG00000185291	Kidney	Human	1	In-house 
+ENSG00000185453	Kidney	Human	1	In-house 
+ENSG00000185507	Kidney	Human	1	In-house 
+ENSG00000185522	Kidney	Human	1	In-house 
+ENSG00000185627	Kidney	Human	1	In-house 
+ENSG00000185630	Kidney	Human	1	In-house 
+ENSG00000186310	Kidney	Human	1	In-house 
+ENSG00000186416	Kidney	Human	1	In-house 
+ENSG00000186493	Kidney	Human	1	In-house 
+ENSG00000186510	Kidney	Human	1	In-house 
+ENSG00000186625	Kidney	Human	1	In-house 
+ENSG00000186765	Kidney	Human	1	In-house 
+ENSG00000186868	Kidney	Human	1	In-house 
+ENSG00000187049	Kidney	Human	1	In-house 
+ENSG00000187118	Kidney	Human	1	In-house 
+ENSG00000187189	Kidney	Human	1	In-house 
+ENSG00000187323	Kidney	Human	1	In-house 
+ENSG00000187583	Kidney	Human	1	In-house 
+ENSG00000187634	Kidney	Human	1	In-house 
+ENSG00000187676	Kidney	Human	1	In-house 
+ENSG00000187714	Kidney	Human	1	In-house 
+ENSG00000187994	Kidney	Human	1	In-house 
+ENSG00000188021	Kidney	Human	1	In-house 
+ENSG00000188112	Kidney	Human	1	In-house 
+ENSG00000188157	Kidney	Human	1	In-house 
+ENSG00000188290	Kidney	Human	1	In-house 
+ENSG00000188483	Kidney	Human	1	In-house 
+ENSG00000188747	Kidney	Human	1	In-house 
+ENSG00000188906	Kidney	Human	1	In-house 
+ENSG00000188916	Kidney	Human	1	In-house 
+ENSG00000189337	Kidney	Human	1	In-house 
+ENSG00000196260	Kidney	Human	1	In-house 
+ENSG00000196262	Kidney	Human	1	In-house 
+ENSG00000196365	Kidney	Human	1	In-house 
+ENSG00000196456	Kidney	Human	1	In-house 
+ENSG00000196459	Kidney	Human	1	In-house 
+ENSG00000196470	Kidney	Human	1	In-house 
+ENSG00000196498	Kidney	Human	1	In-house 
+ENSG00000196503	Kidney	Human	1	In-house 
+ENSG00000196542	Kidney	Human	1	In-house 
+ENSG00000196557	Kidney	Human	1	In-house 
+ENSG00000196890	Kidney	Human	1	In-house 
+ENSG00000197016	Kidney	Human	1	In-house 
+ENSG00000197070	Kidney	Human	1	In-house 
+ENSG00000197114	Kidney	Human	1	In-house 
+ENSG00000197119	Kidney	Human	1	In-house 
+ENSG00000197146	Kidney	Human	1	In-house 
+ENSG00000197170	Kidney	Human	1	In-house 
+ENSG00000197208	Kidney	Human	1	In-house 
+ENSG00000197479	Kidney	Human	1	In-house 
+ENSG00000197530	Kidney	Human	1	In-house 
+ENSG00000197599	Kidney	Human	1	In-house 
+ENSG00000197852	Kidney	Human	1	In-house 
+ENSG00000197892	Kidney	Human	1	In-house 
+ENSG00000198113	Kidney	Human	1	In-house 
+ENSG00000198171	Kidney	Human	1	In-house 
+ENSG00000198242	Kidney	Human	1	In-house 
+ENSG00000198286	Kidney	Human	1	In-house 
+ENSG00000198355	Kidney	Human	1	In-house 
+ENSG00000198440	Kidney	Human	1	In-house 
+ENSG00000198513	Kidney	Human	1	In-house 
+ENSG00000198517	Kidney	Human	1	In-house 
+ENSG00000198520	Kidney	Human	1	In-house 
+ENSG00000198668	Kidney	Human	1	In-house 
+ENSG00000198670	Kidney	Human	1	In-house 
+ENSG00000198816	Kidney	Human	1	In-house 
+ENSG00000198824	Kidney	Human	1	In-house 
+ENSG00000198837	Kidney	Human	1	In-house 
+ENSG00000198918	Kidney	Human	1	In-house 
+ENSG00000203780	Kidney	Human	1	In-house 
+ENSG00000203883	Kidney	Human	1	In-house 
+ENSG00000203993	Kidney	Human	1	In-house 
+ENSG00000204178	Kidney	Human	1	In-house 
+ENSG00000204219	Kidney	Human	1	In-house 
+ENSG00000204282	Kidney	Human	1	In-house 
+ENSG00000204301	Kidney	Human	1	In-house 
+ENSG00000204498	Kidney	Human	1	In-house 
+ENSG00000204839	Kidney	Human	1	In-house 
+ENSG00000204920	Kidney	Human	1	In-house 
+ENSG00000205015	Kidney	Human	1	In-house 
+ENSG00000205078	Kidney	Human	1	In-house 
+ENSG00000205116	Kidney	Human	1	In-house 
+ENSG00000205129	Kidney	Human	1	In-house 
+ENSG00000205279	Kidney	Human	1	In-house 
+ENSG00000205544	Kidney	Human	1	In-house 
+ENSG00000205659	Kidney	Human	1	In-house 
+ENSG00000205663	Kidney	Human	1	In-house 
+ENSG00000205903	Kidney	Human	1	In-house 
+ENSG00000207342	Kidney	Human	1	In-house 
+ENSG00000207554	Kidney	Human	1	In-house 
+ENSG00000211448	Kidney	Human	1	In-house 
+ENSG00000211450	Kidney	Human	1	In-house 
+ENSG00000212371	Kidney	Human	1	In-house 
+ENSG00000212743	Kidney	Human	1	In-house 
+ENSG00000212864	Kidney	Human	1	In-house 
+ENSG00000213064	Kidney	Human	1	In-house 
+ENSG00000213291	Kidney	Human	1	In-house 
+ENSG00000213347	Kidney	Human	1	In-house 
+ENSG00000213402	Kidney	Human	1	In-house 
+ENSG00000213445	Kidney	Human	1	In-house 
+ENSG00000213462	Kidney	Human	1	In-house 
+ENSG00000213516	Kidney	Human	1	In-house 
+ENSG00000213523	Kidney	Human	1	In-house 
+ENSG00000213638	Kidney	Human	1	In-house 
+ENSG00000213676	Kidney	Human	1	In-house 
+ENSG00000214022	Kidney	Human	1	In-house 
+ENSG00000214106	Kidney	Human	1	In-house 
+ENSG00000214203	Kidney	Human	1	In-house 
+ENSG00000214708	Kidney	Human	1	In-house 
+ENSG00000214960	Kidney	Human	1	In-house 
+ENSG00000215284	Kidney	Human	1	In-house 
+ENSG00000215325	Kidney	Human	1	In-house 
+ENSG00000217555	Kidney	Human	1	In-house 
+ENSG00000217702	Kidney	Human	1	In-house 
+ENSG00000218265	Kidney	Human	1	In-house 
+ENSG00000218336	Kidney	Human	1	In-house 
+ENSG00000218422	Kidney	Human	1	In-house 
+ENSG00000218891	Kidney	Human	1	In-house 
+ENSG00000219102	Kidney	Human	1	In-house 
+ENSG00000219891	Kidney	Human	1	In-house 
+ENSG00000220517	Kidney	Human	1	In-house 
+ENSG00000223551	Kidney	Human	1	In-house 
+ENSG00000223705	Kidney	Human	1	In-house 
+ENSG00000224051	Kidney	Human	1	In-house 
+ENSG00000224058	Kidney	Human	1	In-house 
+ENSG00000224470	Kidney	Human	1	In-house 
+ENSG00000224818	Kidney	Human	1	In-house 
+ENSG00000224945	Kidney	Human	1	In-house 
+ENSG00000224956	Kidney	Human	1	In-house 
+ENSG00000225113	Kidney	Human	1	In-house 
+ENSG00000225766	Kidney	Human	1	In-house 
+ENSG00000225880	Kidney	Human	1	In-house 
+ENSG00000226085	Kidney	Human	1	In-house 
+ENSG00000226209	Kidney	Human	1	In-house 
+ENSG00000226360	Kidney	Human	1	In-house 
+ENSG00000226824	Kidney	Human	1	In-house 
+ENSG00000227934	Kidney	Human	1	In-house 
+ENSG00000229119	Kidney	Human	1	In-house 
+ENSG00000229368	Kidney	Human	1	In-house 
+ENSG00000229644	Kidney	Human	1	In-house 
+ENSG00000230177	Kidney	Human	1	In-house 
+ENSG00000230732	Kidney	Human	1	In-house 
+ENSG00000230795	Kidney	Human	1	In-house 
+ENSG00000231123	Kidney	Human	1	In-house 
+ENSG00000231177	Kidney	Human	1	In-house 
+ENSG00000232110	Kidney	Human	1	In-house 
+ENSG00000234176	Kidney	Human	1	In-house 
+ENSG00000234465	Kidney	Human	1	In-house 
+ENSG00000234584	Kidney	Human	1	In-house 
+ENSG00000235034	Kidney	Human	1	In-house 
+ENSG00000235065	Kidney	Human	1	In-house 
+ENSG00000235109	Kidney	Human	1	In-house 
+ENSG00000235169	Kidney	Human	1	In-house 
+ENSG00000236624	Kidney	Human	1	In-house 
+ENSG00000236801	Kidney	Human	1	In-house 
+ENSG00000236953	Kidney	Human	1	In-house 
+ENSG00000237061	Kidney	Human	1	In-house 
+ENSG00000237330	Kidney	Human	1	In-house 
+ENSG00000238151	Kidney	Human	1	In-house 
+ENSG00000239713	Kidney	Human	1	In-house 
+ENSG00000239857	Kidney	Human	1	In-house 
+ENSG00000240371	Kidney	Human	1	In-house 
+ENSG00000240972	Kidney	Human	1	In-house 
+ENSG00000242114	Kidney	Human	1	In-house 
+ENSG00000243015	Kidney	Human	1	In-house 
+ENSG00000243449	Kidney	Human	1	In-house 
+ENSG00000243811	Kidney	Human	1	In-house 
+ENSG00000244045	Kidney	Human	1	In-house 
+ENSG00000244073	Kidney	Human	1	In-house 
+ENSG00000244414	Kidney	Human	1	In-house 
+ENSG00000244480	Kidney	Human	1	In-house 
+ENSG00000244582	Kidney	Human	1	In-house 
+ENSG00000244617	Kidney	Human	1	In-house 
+ENSG00000244627	Kidney	Human	1	In-house 
+ENSG00000245025	Kidney	Human	1	In-house 
+ENSG00000248099	Kidney	Human	1	In-house 
+ENSG00000248774	Kidney	Human	1	In-house 
+ENSG00000249007	Kidney	Human	1	In-house 
+ENSG00000249341	Kidney	Human	1	In-house 
+ENSG00000250436	Kidney	Human	1	In-house 
+ENSG00000250588	Kidney	Human	1	In-house 
+ENSG00000251493	Kidney	Human	1	In-house 
+ENSG00000253106	Kidney	Human	1	In-house 
+ENSG00000253292	Kidney	Human	1	In-house 
+ENSG00000253304	Kidney	Human	1	In-house 
+ENSG00000253719	Kidney	Human	1	In-house 
+ENSG00000254402	Kidney	Human	1	In-house 
+ENSG00000254815	Kidney	Human	1	In-house 
+ENSG00000255026	Kidney	Human	1	In-house 
+ENSG00000255153	Kidney	Human	1	In-house 
+ENSG00000255394	Kidney	Human	1	In-house 
+ENSG00000255746	Kidney	Human	1	In-house 
+ENSG00000256968	Kidney	Human	1	In-house 
+ENSG00000257086	Kidney	Human	1	In-house 
+ENSG00000257110	Kidney	Human	1	In-house 
+ENSG00000257243	Kidney	Human	1	In-house 
+ENSG00000257582	Kidney	Human	1	In-house 
+ENSG00000257923	Kidney	Human	1	In-house 
+ENSG00000258311	Kidney	Human	1	In-house 
+ENSG00000258484	Kidney	Human	1	In-house 
+ENSG00000259623	Kidney	Human	1	In-house 
+ENSG00000259969	Kidney	Human	1	In-house 
+ENSG00000260006	Kidney	Human	1	In-house 
+ENSG00000260014	Kidney	Human	1	In-house 
+ENSG00000260101	Kidney	Human	1	In-house 
+ENSG00000260257	Kidney	Human	1	In-house 
+ENSG00000260293	Kidney	Human	1	In-house 
+ENSG00000260539	Kidney	Human	1	In-house 
+ENSG00000260686	Kidney	Human	1	In-house 
+ENSG00000260740	Kidney	Human	1	In-house 
+ENSG00000260912	Kidney	Human	1	In-house 
+ENSG00000261068	Kidney	Human	1	In-house 
+ENSG00000261221	Kidney	Human	1	In-house 
+ENSG00000261567	Kidney	Human	1	In-house 
+ENSG00000261786	Kidney	Human	1	In-house 
+ENSG00000262903	Kidney	Human	1	In-house 
+ENSG00000262979	Kidney	Human	1	In-house 
+ENSG00000263914	Kidney	Human	1	In-house 
+ENSG00000264364	Kidney	Human	1	In-house 
+ENSG00000264462	Kidney	Human	1	In-house 
+ENSG00000265242	Kidney	Human	1	In-house 
+ENSG00000265465	Kidney	Human	1	In-house 
+ENSG00000265638	Kidney	Human	1	In-house 
+ENSG00000265802	Kidney	Human	1	In-house 
+ENSG00000266066	Kidney	Human	1	In-house 
+ENSG00000266618	Kidney	Human	1	In-house 
+ENSG00000267030	Kidney	Human	1	In-house 
+ENSG00000267045	Kidney	Human	1	In-house 
+ENSG00000267194	Kidney	Human	1	In-house 
+ENSG00000267964	Kidney	Human	1	In-house 
+ENSG00000268471	Kidney	Human	1	In-house 
+ENSG00000268858	Kidney	Human	1	In-house 
+ENSG00000268885	Kidney	Human	1	In-house 
+ENSG00000269235	Kidney	Human	1	In-house 
+ENSG00000269343	Kidney	Human	1	In-house 
+ENSG00000269352	Kidney	Human	1	In-house 
+ENSG00000269892	Kidney	Human	1	In-house 
+ENSG00000269970	Kidney	Human	1	In-house 
+ENSG00000270060	Kidney	Human	1	In-house 
+ENSG00000270101	Kidney	Human	1	In-house 
+ENSG00000270135	Kidney	Human	1	In-house 
+ENSG00000270661	Kidney	Human	1	In-house 
+ENSG00000270988	Kidney	Human	1	In-house 
+ENSG00000271155	Kidney	Human	1	In-house 
+ENSG00000271359	Kidney	Human	1	In-house 
+ENSG00000272159	Kidney	Human	1	In-house 
+ENSG00000272327	Kidney	Human	1	In-house 
+ENSG00000272345	Kidney	Human	1	In-house 
+ENSG00000272449	Kidney	Human	1	In-house 
+ENSG00000272576	Kidney	Human	1	In-house 
+ENSG00000272593	Kidney	Human	1	In-house 
+ENSG00000272604	Kidney	Human	1	In-house 
+ENSG00000272644	Kidney	Human	1	In-house 
+ENSG00000272656	Kidney	Human	1	In-house 
+ENSG00000272750	Kidney	Human	1	In-house 
+ENSG00000272913	Kidney	Human	1	In-house 
+ENSG00000272990	Kidney	Human	1	In-house 
+ENSG00000273097	Kidney	Human	1	In-house 
+ENSG00000273156	Kidney	Human	1	In-house 
+ENSG00000273320	Kidney	Human	1	In-house 

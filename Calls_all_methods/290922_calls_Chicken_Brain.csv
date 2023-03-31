@@ -1,0 +1,2519 @@
+gene_id	tissue	species	n_pipe	pipe
+ENSGALG00000009387	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000006039	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000006802	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000007053	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000028084	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000002018	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000009881	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000017189	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000028320	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000021334	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000017417	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000016415	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000026153	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000000579	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000008865	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000028605	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000028879	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000005902	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000010204	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000016975	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000017347	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000014639	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000028543	Brain	Chicken	2	splineR MaSigPro 
+ENSGALG00000007537	Brain	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000007779	Brain	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000008293	Brain	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000010571	Brain	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000010775	Brain	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000011525	Brain	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000011596	Brain	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000012808	Brain	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000013920	Brain	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000017312	Brain	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000018624	Brain	Chicken	2	DESeq2 MaSigPro 
+ENSGALG00000027082	Brain	Chicken	2	DESeq2 splineR 
+ENSGALG00000027611	Brain	Chicken	2	DESeq2 splineR 
+ENSGALG00000028195	Brain	Chicken	2	DESeq2 splineR 
+ENSGALG00000000208	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000001111	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000001172	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000001450	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000001476	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000001709	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000001770	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000001849	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000001872	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000001905	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000001912	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000001933	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000002626	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000002735	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000003287	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000003410	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000003541	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000003601	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000003701	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000003726	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000004011	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000004170	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000004486	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000004643	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000004777	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000004963	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000005140	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000005242	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000005403	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000005800	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000006008	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000006014	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000006060	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000006097	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000006204	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000006594	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000006643	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000006644	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000006655	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000007114	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000007141	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000007220	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000007585	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000007763	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000007767	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000007819	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000008268	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000008538	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000008630	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000008698	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000008836	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000008875	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000009090	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000009105	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000009155	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000009260	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000009453	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000009480	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000009847	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000010169	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000010200	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000010638	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000010983	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011009	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011017	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011100	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011172	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011207	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011221	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011227	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011276	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011290	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011336	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011339	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011395	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011479	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011692	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011703	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000011709	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000012017	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000012352	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000012537	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000012575	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000012663	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000012923	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000013056	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000013436	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000013625	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000013771	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000013814	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000013893	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000013907	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000013993	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014232	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014233	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014432	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014539	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014615	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014627	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014668	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014726	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014729	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014768	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014807	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014833	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014843	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000014875	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000015008	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000015040	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000015087	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000015332	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000015525	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000015570	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000015598	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000015659	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000015746	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000015799	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000015866	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000016086	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000016216	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000016246	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000016322	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000016438	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000016603	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000016681	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000016755	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000016776	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000016811	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000017234	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000017299	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000018512	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000019663	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000019702	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000020488	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000020615	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000020703	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000021512	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000021897	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000022875	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000025869	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000026180	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000026383	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000026531	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000026653	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000026661	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000026715	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000027346	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000027471	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000027565	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000027709	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000027785	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000027836	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000028384	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000028564	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000028635	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000028750	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000028996	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000029064	Brain	Chicken	2	MaSigPro In-house 
+ENSGALG00000026362	Brain	Chicken	2	splineR In-house 
+ENSGALG00000006421	Brain	Chicken	2	splineR In-house 
+ENSGALG00000014846	Brain	Chicken	2	splineR In-house 
+ENSGALG00000027728	Brain	Chicken	2	splineR In-house 
+ENSGALG00000015306	Brain	Chicken	2	splineR In-house 
+ENSGALG00000009639	Brain	Chicken	2	splineR In-house 
+ENSGALG00000002127	Brain	Chicken	2	splineR In-house 
+ENSGALG00000008859	Brain	Chicken	2	splineR In-house 
+ENSGALG00000011051	Brain	Chicken	2	splineR In-house 
+ENSGALG00000012866	Brain	Chicken	2	splineR In-house 
+ENSGALG00000010716	Brain	Chicken	2	splineR In-house 
+ENSGALG00000012623	Brain	Chicken	2	splineR In-house 
+ENSGALG00000004498	Brain	Chicken	2	splineR In-house 
+ENSGALG00000013058	Brain	Chicken	2	splineR In-house 
+ENSGALG00000021951	Brain	Chicken	2	splineR In-house 
+ENSGALG00000015345	Brain	Chicken	2	splineR In-house 
+ENSGALG00000018244	Brain	Chicken	2	splineR In-house 
+ENSGALG00000005849	Brain	Chicken	2	splineR In-house 
+ENSGALG00000017072	Brain	Chicken	2	splineR In-house 
+ENSGALG00000017405	Brain	Chicken	2	splineR In-house 
+ENSGALG00000005583	Brain	Chicken	2	splineR In-house 
+ENSGALG00000026192	Brain	Chicken	2	splineR In-house 
+ENSGALG00000027114	Brain	Chicken	2	splineR In-house 
+ENSGALG00000001918	Brain	Chicken	2	splineR In-house 
+ENSGALG00000004438	Brain	Chicken	2	splineR In-house 
+ENSGALG00000002847	Brain	Chicken	2	splineR In-house 
+ENSGALG00000010881	Brain	Chicken	2	splineR In-house 
+ENSGALG00000012985	Brain	Chicken	2	splineR In-house 
+ENSGALG00000005541	Brain	Chicken	2	splineR In-house 
+ENSGALG00000003548	Brain	Chicken	2	splineR In-house 
+ENSGALG00000000253	Brain	Chicken	2	splineR In-house 
+ENSGALG00000015111	Brain	Chicken	2	splineR In-house 
+ENSGALG00000010364	Brain	Chicken	2	splineR In-house 
+ENSGALG00000011693	Brain	Chicken	2	splineR In-house 
+ENSGALG00000027099	Brain	Chicken	2	splineR In-house 
+ENSGALG00000011121	Brain	Chicken	2	splineR In-house 
+ENSGALG00000016035	Brain	Chicken	2	splineR In-house 
+ENSGALG00000012830	Brain	Chicken	2	splineR In-house 
+ENSGALG00000000187	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000000276	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000000882	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000001705	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000001944	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000002413	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000002439	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000002645	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000003713	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000004323	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000004945	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000005114	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000005441	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000005821	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000006173	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000006327	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000006635	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000006822	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000007719	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000007998	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000008704	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000008728	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000008969	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000008980	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000009107	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000010154	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000010331	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000010858	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000011443	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000011579	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000012054	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000012181	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000012370	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000012566	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000012610	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000012613	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000012665	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000012809	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000013697	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000013708	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000013967	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000014022	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000014244	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000014444	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000014819	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000015097	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000015113	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000015352	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000015390	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000015868	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000016022	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000016124	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000016144	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000016455	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000016563	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000016724	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000016737	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000018499	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000021031	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000021304	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000023089	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000025736	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000025932	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000026107	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000026166	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000026491	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000026598	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000026736	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000026808	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000026928	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000027063	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000027345	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000027658	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000028298	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000028363	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000028551	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000028582	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000028872	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000029015	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000029140	Brain	Chicken	2	DESeq2 In-house 
+ENSGALG00000005132	Brain	Chicken	3	DESeq2 splineR MaSigPro 
+ENSGALG00000009895	Brain	Chicken	3	DESeq2 splineR MaSigPro 
+ENSGALG00000004518	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000016791	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000004778	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000016598	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000004040	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000015115	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000015551	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000001956	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000003295	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000014872	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000026890	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000014914	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000020260	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000028673	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000007373	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000014995	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000011210	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000002839	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000002125	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000026023	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000005302	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000002599	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000009945	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000019054	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000015464	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000007741	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000012015	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000027641	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000008727	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000010554	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000027807	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000010740	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000021271	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000023958	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000021843	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000005323	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000002455	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000010976	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000007740	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000010440	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000010842	Brain	Chicken	3	splineR MaSigPro In-house 
+ENSGALG00000000336	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000001900	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000002294	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000002714	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000006096	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000006497	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000006810	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000008933	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000009061	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000010283	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000011921	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000011972	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014675	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014788	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014798	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014911	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000014945	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000015256	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000015789	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000016716	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000020905	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000028946	Brain	Chicken	3	DESeq2 MaSigPro In-house 
+ENSGALG00000000171	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000220	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000255	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000273	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001194	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001732	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001766	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001833	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001851	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000001869	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002022	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002162	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002227	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002326	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002386	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002412	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000002805	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003172	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003387	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003716	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000003775	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004198	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004341	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004346	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004425	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004437	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004783	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000004893	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005346	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005806	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005831	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005846	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005897	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000005959	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000006038	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000007412	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000007737	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000008174	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000008677	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000008691	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000009062	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000009241	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000009758	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000009821	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010237	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010697	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000010896	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000011015	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000011801	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000011962	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012045	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012350	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012577	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012592	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012595	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012608	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012624	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000012913	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000013377	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000013689	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014386	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014657	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014662	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014669	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014682	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014684	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014700	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014716	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014718	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014719	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014737	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014743	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014773	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014786	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014813	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014855	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014857	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014861	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014865	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014869	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014891	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014930	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014956	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000014994	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015014	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015015	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015024	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015028	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015032	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015036	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015058	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015083	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015110	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015163	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015170	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015268	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015311	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015315	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015320	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015333	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015385	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015399	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015419	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015439	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015442	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015540	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015618	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015655	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015660	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015682	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000015818	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000017031	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000017447	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000017510	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000017658	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000017902	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000019617	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000021378	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000021397	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000022683	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023094	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023552	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000023718	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000025224	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000025796	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026001	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026300	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026510	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026538	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000026677	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027116	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027251	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027418	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027428	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027435	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027895	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027907	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000027927	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028005	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028365	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028484	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000028966	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000029099	Brain	Chicken	3	DESeq2 splineR In-house 
+ENSGALG00000000004	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000140	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000189	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000215	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000218	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000234	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000241	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000247	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000264	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000386	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000395	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000428	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001184	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001449	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001668	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001677	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001756	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001761	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001763	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001765	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001782	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001801	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001808	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001843	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001864	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001947	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001954	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000001986	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002009	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002014	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002023	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002064	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002069	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002087	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002110	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002165	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002187	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002250	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002308	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002341	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002345	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002371	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002394	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002399	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002419	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002430	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002505	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002523	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002605	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002677	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002696	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002777	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002852	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002872	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000002917	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003019	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003049	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003066	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003087	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003168	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003235	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003248	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003288	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003308	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003326	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003365	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003373	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003558	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003605	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003631	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003688	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000003708	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004059	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004311	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004350	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004353	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000004390	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005016	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005086	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005316	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005330	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005337	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005354	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005368	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005390	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005395	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005423	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005433	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000005785	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000006206	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000006811	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000007044	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008197	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008204	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008229	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008431	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008870	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000008887	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000009227	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010147	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010164	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010178	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010180	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010652	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010688	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000010694	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012127	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012583	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012585	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012586	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012588	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012589	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012591	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012593	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012594	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012598	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012607	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012615	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012618	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012620	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012621	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012626	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012627	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012628	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000012685	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013312	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013493	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013510	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013511	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013512	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000013809	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014003	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014140	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014168	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014184	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014366	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014441	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014545	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014584	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014589	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014642	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014644	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014648	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014649	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014650	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014651	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014661	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014664	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014670	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014672	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014678	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014686	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014691	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014692	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014697	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014703	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014708	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014709	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014711	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014712	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014721	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014724	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014725	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014727	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014732	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014734	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014740	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014747	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014751	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014753	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014756	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014765	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014767	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014769	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014775	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014787	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014789	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014790	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014810	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014826	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014832	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014851	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014859	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014863	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014874	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014880	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014903	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014906	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014916	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014939	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014942	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014943	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014948	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014952	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000014960	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015002	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015019	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015050	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015071	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015078	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015081	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015082	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015090	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015091	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015103	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015105	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015107	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015108	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015118	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015138	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015144	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015145	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015155	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015156	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015177	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015179	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015209	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015257	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015264	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015284	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015288	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015326	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015331	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015349	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015366	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015368	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015372	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015376	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015386	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015391	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015397	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015422	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015443	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015451	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015543	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015545	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015548	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015571	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015576	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015577	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015589	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015603	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015617	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015620	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015641	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015663	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015677	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015683	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015689	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015691	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015704	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000015944	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000016210	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000016467	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000016684	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017046	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017558	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000017706	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018479	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018565	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018639	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000018874	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020523	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020528	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020534	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020557	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020558	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020561	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000020569	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021212	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021365	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000021676	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022174	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022277	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022611	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022674	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022679	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022685	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000022690	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023036	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023042	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023066	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023179	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000023379	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000025842	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000025868	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000025915	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026028	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026195	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026203	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026291	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026547	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026588	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026757	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026776	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026788	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026899	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026924	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000026991	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027073	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027080	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027170	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027258	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027261	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027295	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027332	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027334	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027389	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027512	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027564	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027714	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027843	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027891	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027932	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000027963	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028014	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028026	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028135	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028149	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028168	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028267	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028307	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028913	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028928	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000028998	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029049	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029118	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000029162	Brain	Chicken	4	DESeq2 splineR MaSigPro In-house 
+ENSGALG00000000309	Brain	Chicken	1	DESeq2 
+ENSGALG00000000417	Brain	Chicken	1	DESeq2 
+ENSGALG00000000446	Brain	Chicken	1	DESeq2 
+ENSGALG00000000547	Brain	Chicken	1	DESeq2 
+ENSGALG00000000608	Brain	Chicken	1	DESeq2 
+ENSGALG00000001661	Brain	Chicken	1	DESeq2 
+ENSGALG00000002546	Brain	Chicken	1	DESeq2 
+ENSGALG00000002957	Brain	Chicken	1	DESeq2 
+ENSGALG00000003075	Brain	Chicken	1	DESeq2 
+ENSGALG00000003316	Brain	Chicken	1	DESeq2 
+ENSGALG00000004267	Brain	Chicken	1	DESeq2 
+ENSGALG00000004373	Brain	Chicken	1	DESeq2 
+ENSGALG00000004585	Brain	Chicken	1	DESeq2 
+ENSGALG00000005059	Brain	Chicken	1	DESeq2 
+ENSGALG00000005504	Brain	Chicken	1	DESeq2 
+ENSGALG00000005763	Brain	Chicken	1	DESeq2 
+ENSGALG00000005824	Brain	Chicken	1	DESeq2 
+ENSGALG00000006134	Brain	Chicken	1	DESeq2 
+ENSGALG00000006454	Brain	Chicken	1	DESeq2 
+ENSGALG00000007115	Brain	Chicken	1	DESeq2 
+ENSGALG00000007320	Brain	Chicken	1	DESeq2 
+ENSGALG00000007505	Brain	Chicken	1	DESeq2 
+ENSGALG00000007596	Brain	Chicken	1	DESeq2 
+ENSGALG00000007636	Brain	Chicken	1	DESeq2 
+ENSGALG00000007979	Brain	Chicken	1	DESeq2 
+ENSGALG00000008701	Brain	Chicken	1	DESeq2 
+ENSGALG00000008778	Brain	Chicken	1	DESeq2 
+ENSGALG00000009044	Brain	Chicken	1	DESeq2 
+ENSGALG00000009682	Brain	Chicken	1	DESeq2 
+ENSGALG00000010122	Brain	Chicken	1	DESeq2 
+ENSGALG00000010291	Brain	Chicken	1	DESeq2 
+ENSGALG00000010343	Brain	Chicken	1	DESeq2 
+ENSGALG00000010402	Brain	Chicken	1	DESeq2 
+ENSGALG00000010417	Brain	Chicken	1	DESeq2 
+ENSGALG00000010469	Brain	Chicken	1	DESeq2 
+ENSGALG00000010473	Brain	Chicken	1	DESeq2 
+ENSGALG00000010926	Brain	Chicken	1	DESeq2 
+ENSGALG00000011497	Brain	Chicken	1	DESeq2 
+ENSGALG00000011635	Brain	Chicken	1	DESeq2 
+ENSGALG00000011664	Brain	Chicken	1	DESeq2 
+ENSGALG00000011705	Brain	Chicken	1	DESeq2 
+ENSGALG00000012140	Brain	Chicken	1	DESeq2 
+ENSGALG00000012250	Brain	Chicken	1	DESeq2 
+ENSGALG00000012531	Brain	Chicken	1	DESeq2 
+ENSGALG00000012641	Brain	Chicken	1	DESeq2 
+ENSGALG00000013180	Brain	Chicken	1	DESeq2 
+ENSGALG00000013304	Brain	Chicken	1	DESeq2 
+ENSGALG00000013408	Brain	Chicken	1	DESeq2 
+ENSGALG00000015147	Brain	Chicken	1	DESeq2 
+ENSGALG00000015649	Brain	Chicken	1	DESeq2 
+ENSGALG00000015814	Brain	Chicken	1	DESeq2 
+ENSGALG00000015966	Brain	Chicken	1	DESeq2 
+ENSGALG00000016300	Brain	Chicken	1	DESeq2 
+ENSGALG00000016570	Brain	Chicken	1	DESeq2 
+ENSGALG00000016667	Brain	Chicken	1	DESeq2 
+ENSGALG00000016679	Brain	Chicken	1	DESeq2 
+ENSGALG00000016690	Brain	Chicken	1	DESeq2 
+ENSGALG00000016805	Brain	Chicken	1	DESeq2 
+ENSGALG00000017032	Brain	Chicken	1	DESeq2 
+ENSGALG00000017803	Brain	Chicken	1	DESeq2 
+ENSGALG00000017907	Brain	Chicken	1	DESeq2 
+ENSGALG00000017926	Brain	Chicken	1	DESeq2 
+ENSGALG00000018875	Brain	Chicken	1	DESeq2 
+ENSGALG00000019114	Brain	Chicken	1	DESeq2 
+ENSGALG00000019527	Brain	Chicken	1	DESeq2 
+ENSGALG00000019589	Brain	Chicken	1	DESeq2 
+ENSGALG00000020805	Brain	Chicken	1	DESeq2 
+ENSGALG00000021087	Brain	Chicken	1	DESeq2 
+ENSGALG00000021126	Brain	Chicken	1	DESeq2 
+ENSGALG00000021362	Brain	Chicken	1	DESeq2 
+ENSGALG00000021541	Brain	Chicken	1	DESeq2 
+ENSGALG00000021848	Brain	Chicken	1	DESeq2 
+ENSGALG00000023243	Brain	Chicken	1	DESeq2 
+ENSGALG00000023420	Brain	Chicken	1	DESeq2 
+ENSGALG00000023443	Brain	Chicken	1	DESeq2 
+ENSGALG00000025557	Brain	Chicken	1	DESeq2 
+ENSGALG00000025650	Brain	Chicken	1	DESeq2 
+ENSGALG00000025794	Brain	Chicken	1	DESeq2 
+ENSGALG00000025958	Brain	Chicken	1	DESeq2 
+ENSGALG00000026089	Brain	Chicken	1	DESeq2 
+ENSGALG00000026244	Brain	Chicken	1	DESeq2 
+ENSGALG00000026396	Brain	Chicken	1	DESeq2 
+ENSGALG00000027606	Brain	Chicken	1	DESeq2 
+ENSGALG00000027959	Brain	Chicken	1	DESeq2 
+ENSGALG00000028128	Brain	Chicken	1	DESeq2 
+ENSGALG00000028371	Brain	Chicken	1	DESeq2 
+ENSGALG00000028726	Brain	Chicken	1	DESeq2 
+ENSGALG00000029059	Brain	Chicken	1	DESeq2 
+ENSGALG00000026662	Brain	Chicken	1	splineR 
+ENSGALG00000023314	Brain	Chicken	1	splineR 
+ENSGALG00000023975	Brain	Chicken	1	splineR 
+ENSGALG00000027968	Brain	Chicken	1	splineR 
+ENSGALG00000006427	Brain	Chicken	1	splineR 
+ENSGALG00000015608	Brain	Chicken	1	splineR 
+ENSGALG00000028756	Brain	Chicken	1	splineR 
+ENSGALG00000001258	Brain	Chicken	1	splineR 
+ENSGALG00000008656	Brain	Chicken	1	splineR 
+ENSGALG00000028970	Brain	Chicken	1	splineR 
+ENSGALG00000005332	Brain	Chicken	1	splineR 
+ENSGALG00000028330	Brain	Chicken	1	splineR 
+ENSGALG00000008362	Brain	Chicken	1	splineR 
+ENSGALG00000026651	Brain	Chicken	1	splineR 
+ENSGALG00000027853	Brain	Chicken	1	splineR 
+ENSGALG00000013350	Brain	Chicken	1	splineR 
+ENSGALG00000014477	Brain	Chicken	1	splineR 
+ENSGALG00000026108	Brain	Chicken	1	splineR 
+ENSGALG00000028854	Brain	Chicken	1	splineR 
+ENSGALG00000011531	Brain	Chicken	1	splineR 
+ENSGALG00000012761	Brain	Chicken	1	splineR 
+ENSGALG00000014154	Brain	Chicken	1	splineR 
+ENSGALG00000027954	Brain	Chicken	1	splineR 
+ENSGALG00000028189	Brain	Chicken	1	splineR 
+ENSGALG00000002517	Brain	Chicken	1	splineR 
+ENSGALG00000029107	Brain	Chicken	1	splineR 
+ENSGALG00000028666	Brain	Chicken	1	splineR 
+ENSGALG00000007315	Brain	Chicken	1	splineR 
+ENSGALG00000006736	Brain	Chicken	1	splineR 
+ENSGALG00000004481	Brain	Chicken	1	splineR 
+ENSGALG00000027294	Brain	Chicken	1	splineR 
+ENSGALG00000010318	Brain	Chicken	1	splineR 
+ENSGALG00000003038	Brain	Chicken	1	splineR 
+ENSGALG00000022940	Brain	Chicken	1	splineR 
+ENSGALG00000000456	Brain	Chicken	1	splineR 
+ENSGALG00000002960	Brain	Chicken	1	splineR 
+ENSGALG00000011358	Brain	Chicken	1	splineR 
+ENSGALG00000000019	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000040	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000062	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000122	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000137	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000150	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000217	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000244	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000307	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000312	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000366	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000368	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000372	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000394	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000399	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000410	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000424	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000438	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000452	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000453	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000468	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000476	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000508	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000511	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000516	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000521	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000558	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000623	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000674	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000681	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000692	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000693	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000694	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000695	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000742	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000753	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000814	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000845	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000895	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000898	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000909	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000913	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000983	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001019	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001030	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001039	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001043	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001048	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001053	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001062	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001093	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001121	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001130	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001165	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001183	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001192	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001208	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001213	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001226	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001263	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001282	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001291	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001314	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001315	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001334	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001337	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001342	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001387	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001425	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001429	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001442	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001446	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001455	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001473	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001483	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001504	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001519	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001522	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001545	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001547	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001617	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001618	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001620	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001629	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001637	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001652	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001658	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001716	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001719	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001725	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001728	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001741	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001775	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001840	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001841	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001863	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001916	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001942	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001969	Brain	Chicken	1	MaSigPro 
+ENSGALG00000001973	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002041	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002048	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002078	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002080	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002094	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002123	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002139	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002157	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002158	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002183	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002286	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002298	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002335	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002340	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002348	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002375	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002384	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002437	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002461	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002477	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002489	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002577	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002579	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002581	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002588	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002606	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002631	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002643	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002644	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002666	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002673	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002719	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002739	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002750	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002759	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002773	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002775	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002783	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002789	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002797	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002828	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002837	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002862	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002868	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002899	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002903	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002925	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002945	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002969	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002973	Brain	Chicken	1	MaSigPro 
+ENSGALG00000002988	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003005	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003010	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003025	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003026	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003039	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003042	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003053	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003065	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003079	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003084	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003091	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003099	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003141	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003146	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003150	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003174	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003195	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003197	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003204	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003205	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003208	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003212	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003260	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003268	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003277	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003286	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003311	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003325	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003344	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003354	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003358	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003375	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003386	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003391	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003392	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003406	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003409	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003437	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003439	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003449	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003454	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003473	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003476	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003483	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003499	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003500	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003507	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003532	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003547	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003574	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003582	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003602	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003628	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003648	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003662	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003675	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003699	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003709	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003727	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003731	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003732	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003734	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003736	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003741	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003767	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003770	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003771	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003789	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003792	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003806	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003819	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003826	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003895	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003937	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003942	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003959	Brain	Chicken	1	MaSigPro 
+ENSGALG00000003971	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004046	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004064	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004086	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004103	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004106	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004107	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004108	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004116	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004143	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004144	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004166	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004176	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004197	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004257	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004268	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004300	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004375	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004384	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004399	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004420	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004509	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004516	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004521	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004523	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004548	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004553	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004575	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004610	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004611	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004612	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004614	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004618	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004639	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004642	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004644	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004671	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004679	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004683	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004701	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004719	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004725	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004729	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004738	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004741	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004745	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004776	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004793	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004796	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004798	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004802	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004816	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004827	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004831	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004834	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004871	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004875	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004887	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004888	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004909	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004940	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004952	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004969	Brain	Chicken	1	MaSigPro 
+ENSGALG00000004983	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005001	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005011	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005034	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005042	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005045	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005048	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005063	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005065	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005092	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005103	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005121	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005124	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005133	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005141	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005145	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005155	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005163	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005176	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005215	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005223	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005236	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005282	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005304	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005318	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005326	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005338	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005379	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005412	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005413	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005415	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005426	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005430	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005450	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005475	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005498	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005508	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005512	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005518	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005519	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005538	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005549	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005552	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005610	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005621	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005632	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005643	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005645	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005662	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005670	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005675	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005676	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005693	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005720	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005721	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005730	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005751	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005775	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005781	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005792	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005816	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005853	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005882	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005887	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005888	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005892	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005894	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005906	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005911	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005914	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005915	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005922	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005933	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005962	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005991	Brain	Chicken	1	MaSigPro 
+ENSGALG00000005994	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006031	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006061	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006069	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006086	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006088	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006094	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006098	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006108	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006109	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006132	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006172	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006217	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006221	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006234	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006254	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006266	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006284	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006336	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006351	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006361	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006406	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006410	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006420	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006422	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006428	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006430	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006439	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006449	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006456	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006467	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006488	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006498	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006518	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006542	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006562	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006569	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006572	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006576	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006596	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006606	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006609	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006611	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006619	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006634	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006640	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006656	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006714	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006723	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006743	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006768	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006771	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006793	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006799	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006808	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006833	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006873	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006876	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006877	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006884	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006889	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006898	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006901	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006906	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006917	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006938	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006960	Brain	Chicken	1	MaSigPro 
+ENSGALG00000006995	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007017	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007018	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007023	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007024	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007030	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007045	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007050	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007056	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007100	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007169	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007181	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007185	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007193	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007194	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007210	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007234	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007253	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007260	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007262	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007287	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007298	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007331	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007354	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007364	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007370	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007374	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007380	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007415	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007416	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007419	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007437	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007448	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007462	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007463	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007489	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007493	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007549	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007573	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007581	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007582	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007608	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007669	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007672	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007697	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007712	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007715	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007732	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007777	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007809	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007810	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007821	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007889	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007910	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007914	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007928	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007931	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007971	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007974	Brain	Chicken	1	MaSigPro 
+ENSGALG00000007996	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008011	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008032	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008045	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008064	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008080	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008088	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008124	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008125	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008130	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008133	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008144	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008154	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008155	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008156	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008164	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008172	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008188	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008193	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008202	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008212	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008240	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008255	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008262	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008263	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008265	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008286	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008297	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008306	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008308	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008314	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008319	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008322	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008326	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008336	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008353	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008359	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008399	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008400	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008407	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008413	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008419	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008454	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008466	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008491	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008497	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008512	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008525	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008526	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008542	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008561	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008590	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008594	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008602	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008605	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008621	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008628	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008631	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008682	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008684	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008713	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008734	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008755	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008806	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008808	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008828	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008867	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008898	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008903	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008926	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008929	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008938	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008940	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008963	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008974	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008975	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008976	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008984	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008989	Brain	Chicken	1	MaSigPro 
+ENSGALG00000008995	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009001	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009005	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009018	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009064	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009073	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009110	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009131	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009134	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009179	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009240	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009248	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009252	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009300	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009302	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009304	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009336	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009344	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009361	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009365	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009379	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009381	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009385	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009388	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009400	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009405	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009424	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009448	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009481	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009497	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009499	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009500	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009519	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009528	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009538	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009556	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009560	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009569	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009587	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009601	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009610	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009640	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009669	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009680	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009689	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009738	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009774	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009782	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009783	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009805	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009809	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009823	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009829	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009845	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009848	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009855	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009866	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009896	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009913	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009943	Brain	Chicken	1	MaSigPro 
+ENSGALG00000009970	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010010	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010014	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010016	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010020	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010021	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010023	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010030	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010042	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010077	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010124	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010130	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010133	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010140	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010145	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010175	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010187	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010189	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010192	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010276	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010319	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010325	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010363	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010374	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010379	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010400	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010406	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010441	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010485	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010486	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010505	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010555	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010560	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010575	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010582	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010594	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010622	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010636	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010674	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010680	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010704	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010746	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010780	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010794	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010804	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010818	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010835	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010837	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010843	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010854	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010857	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010861	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010882	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010909	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010957	Brain	Chicken	1	MaSigPro 
+ENSGALG00000010967	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011016	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011031	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011041	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011047	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011058	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011083	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011089	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011094	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011113	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011123	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011139	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011145	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011203	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011220	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011228	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011241	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011248	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011258	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011264	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011278	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011288	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011294	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011327	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011368	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011373	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011376	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011392	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011400	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011404	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011432	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011436	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011447	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011469	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011498	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011499	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011510	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011557	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011573	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011592	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011621	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011690	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011720	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011770	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011777	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011795	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011800	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011810	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011857	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011865	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011889	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011898	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011905	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011910	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011917	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011926	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011937	Brain	Chicken	1	MaSigPro 
+ENSGALG00000011941	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012007	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012036	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012037	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012061	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012087	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012101	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012109	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012112	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012137	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012138	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012154	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012159	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012163	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012178	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012192	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012229	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012245	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012246	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012259	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012280	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012286	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012321	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012322	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012333	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012336	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012361	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012451	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012455	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012457	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012486	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012511	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012518	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012520	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012536	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012543	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012570	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012601	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012653	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012710	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012714	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012715	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012722	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012732	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012734	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012740	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012759	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012781	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012796	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012798	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012823	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012874	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012890	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012952	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012966	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012986	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012993	Brain	Chicken	1	MaSigPro 
+ENSGALG00000012998	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013000	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013021	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013034	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013036	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013060	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013067	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013098	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013117	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013133	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013136	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013164	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013171	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013185	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013200	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013210	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013211	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013212	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013237	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013239	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013365	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013370	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013424	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013499	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013565	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013617	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013649	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013688	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013729	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013738	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013768	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013772	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013782	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013784	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013785	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013787	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013810	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013817	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013830	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013858	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013872	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013916	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013932	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013935	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013948	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013961	Brain	Chicken	1	MaSigPro 
+ENSGALG00000013990	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014011	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014016	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014069	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014084	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014106	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014128	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014144	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014165	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014179	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014203	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014206	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014236	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014284	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014290	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014309	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014324	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014330	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014343	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014347	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014355	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014413	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014428	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014433	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014466	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014498	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014508	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014510	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014559	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014582	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014616	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014674	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014681	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014742	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014754	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014758	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014783	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014793	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014800	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014811	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014812	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014834	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014836	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014852	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014878	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014887	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014915	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014920	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014931	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014941	Brain	Chicken	1	MaSigPro 
+ENSGALG00000014947	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015027	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015049	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015052	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015059	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015061	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015086	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015101	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015112	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015119	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015120	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015124	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015148	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015152	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015193	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015195	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015225	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015248	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015249	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015271	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015330	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015334	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015339	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015340	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015344	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015373	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015407	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015416	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015431	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015458	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015469	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015476	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015480	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015497	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015499	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015511	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015529	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015531	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015565	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015612	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015624	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015626	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015629	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015653	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015684	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015693	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015702	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015720	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015721	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015763	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015768	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015770	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015782	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015786	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015788	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015807	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015808	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015813	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015815	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015831	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015842	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015869	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015901	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015907	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015915	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015916	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015917	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015949	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015954	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015961	Brain	Chicken	1	MaSigPro 
+ENSGALG00000015983	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016013	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016040	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016050	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016052	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016054	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016062	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016063	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016074	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016097	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016128	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016143	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016146	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016148	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016154	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016155	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016161	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016166	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016172	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016222	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016224	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016232	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016302	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016320	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016330	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016331	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016340	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016348	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016352	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016357	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016359	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016379	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016387	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016392	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016397	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016405	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016448	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016451	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016459	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016514	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016543	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016555	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016586	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016591	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016594	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016597	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016607	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016680	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016693	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016727	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016731	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016734	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016752	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016775	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016779	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016786	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016799	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016801	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016806	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016849	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016850	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016852	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016861	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016875	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016885	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016908	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016920	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016930	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016953	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016974	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016984	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016986	Brain	Chicken	1	MaSigPro 
+ENSGALG00000016988	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017004	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017049	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017082	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017092	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017104	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017178	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017185	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017186	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017244	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017249	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017254	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017304	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017329	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017330	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017331	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017334	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017345	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017358	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017371	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017372	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017379	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017627	Brain	Chicken	1	MaSigPro 
+ENSGALG00000017652	Brain	Chicken	1	MaSigPro 
+ENSGALG00000018760	Brain	Chicken	1	MaSigPro 
+ENSGALG00000018778	Brain	Chicken	1	MaSigPro 
+ENSGALG00000018998	Brain	Chicken	1	MaSigPro 
+ENSGALG00000019094	Brain	Chicken	1	MaSigPro 
+ENSGALG00000019171	Brain	Chicken	1	MaSigPro 
+ENSGALG00000019201	Brain	Chicken	1	MaSigPro 
+ENSGALG00000019202	Brain	Chicken	1	MaSigPro 
+ENSGALG00000019229	Brain	Chicken	1	MaSigPro 
+ENSGALG00000019384	Brain	Chicken	1	MaSigPro 
+ENSGALG00000019468	Brain	Chicken	1	MaSigPro 
+ENSGALG00000019514	Brain	Chicken	1	MaSigPro 
+ENSGALG00000019866	Brain	Chicken	1	MaSigPro 
+ENSGALG00000020078	Brain	Chicken	1	MaSigPro 
+ENSGALG00000020199	Brain	Chicken	1	MaSigPro 
+ENSGALG00000020249	Brain	Chicken	1	MaSigPro 
+ENSGALG00000020505	Brain	Chicken	1	MaSigPro 
+ENSGALG00000020515	Brain	Chicken	1	MaSigPro 
+ENSGALG00000020582	Brain	Chicken	1	MaSigPro 
+ENSGALG00000020893	Brain	Chicken	1	MaSigPro 
+ENSGALG00000020995	Brain	Chicken	1	MaSigPro 
+ENSGALG00000021039	Brain	Chicken	1	MaSigPro 
+ENSGALG00000021041	Brain	Chicken	1	MaSigPro 
+ENSGALG00000021230	Brain	Chicken	1	MaSigPro 
+ENSGALG00000021325	Brain	Chicken	1	MaSigPro 
+ENSGALG00000021616	Brain	Chicken	1	MaSigPro 
+ENSGALG00000021658	Brain	Chicken	1	MaSigPro 
+ENSGALG00000021697	Brain	Chicken	1	MaSigPro 
+ENSGALG00000022565	Brain	Chicken	1	MaSigPro 
+ENSGALG00000022706	Brain	Chicken	1	MaSigPro 
+ENSGALG00000022938	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023069	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023073	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023135	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023157	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023256	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023441	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023547	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023626	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023640	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023648	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023731	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023821	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023847	Brain	Chicken	1	MaSigPro 
+ENSGALG00000023881	Brain	Chicken	1	MaSigPro 
+ENSGALG00000024012	Brain	Chicken	1	MaSigPro 
+ENSGALG00000024031	Brain	Chicken	1	MaSigPro 
+ENSGALG00000024033	Brain	Chicken	1	MaSigPro 
+ENSGALG00000024035	Brain	Chicken	1	MaSigPro 
+ENSGALG00000024041	Brain	Chicken	1	MaSigPro 
+ENSGALG00000024103	Brain	Chicken	1	MaSigPro 
+ENSGALG00000024120	Brain	Chicken	1	MaSigPro 
+ENSGALG00000024153	Brain	Chicken	1	MaSigPro 
+ENSGALG00000024298	Brain	Chicken	1	MaSigPro 
+ENSGALG00000025776	Brain	Chicken	1	MaSigPro 
+ENSGALG00000025788	Brain	Chicken	1	MaSigPro 
+ENSGALG00000025792	Brain	Chicken	1	MaSigPro 
+ENSGALG00000025803	Brain	Chicken	1	MaSigPro 
+ENSGALG00000025819	Brain	Chicken	1	MaSigPro 
+ENSGALG00000025822	Brain	Chicken	1	MaSigPro 
+ENSGALG00000025887	Brain	Chicken	1	MaSigPro 
+ENSGALG00000025896	Brain	Chicken	1	MaSigPro 
+ENSGALG00000025911	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026031	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026065	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026071	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026075	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026093	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026103	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026124	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026154	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026173	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026179	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026237	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026282	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026360	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026364	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026365	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026377	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026397	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026426	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026431	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026433	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026435	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026476	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026484	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026493	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026497	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026545	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026563	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026644	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026713	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026714	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026727	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026741	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026826	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026900	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026910	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026955	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026957	Brain	Chicken	1	MaSigPro 
+ENSGALG00000026992	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027017	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027042	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027070	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027142	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027156	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027159	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027187	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027222	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027227	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027299	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027308	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027324	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027337	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027363	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027409	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027494	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027497	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027500	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027532	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027615	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027617	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027639	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027669	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027682	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027787	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027845	Brain	Chicken	1	MaSigPro 
+ENSGALG00000027987	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028037	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028046	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028110	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028112	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028114	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028167	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028200	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028247	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028259	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028282	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028345	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028350	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028386	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028400	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028520	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028531	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028734	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028744	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028795	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028797	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028810	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028813	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028821	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028822	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028823	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028824	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028826	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028898	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028912	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028929	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028935	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028992	Brain	Chicken	1	MaSigPro 
+ENSGALG00000028994	Brain	Chicken	1	MaSigPro 
+ENSGALG00000029076	Brain	Chicken	1	MaSigPro 
+ENSGALG00000029120	Brain	Chicken	1	MaSigPro 
+ENSGALG00000029134	Brain	Chicken	1	MaSigPro 
+ENSGALG00000029135	Brain	Chicken	1	MaSigPro 
+ENSGALG00000000151	Brain	Chicken	1	In-house 
+ENSGALG00000000184	Brain	Chicken	1	In-house 
+ENSGALG00000000226	Brain	Chicken	1	In-house 
+ENSGALG00000000243	Brain	Chicken	1	In-house 
+ENSGALG00000000474	Brain	Chicken	1	In-house 
+ENSGALG00000000483	Brain	Chicken	1	In-house 
+ENSGALG00000000549	Brain	Chicken	1	In-house 
+ENSGALG00000000600	Brain	Chicken	1	In-house 
+ENSGALG00000000667	Brain	Chicken	1	In-house 
+ENSGALG00000000740	Brain	Chicken	1	In-house 
+ENSGALG00000000761	Brain	Chicken	1	In-house 
+ENSGALG00000000930	Brain	Chicken	1	In-house 
+ENSGALG00000001009	Brain	Chicken	1	In-house 
+ENSGALG00000001034	Brain	Chicken	1	In-house 
+ENSGALG00000001109	Brain	Chicken	1	In-house 
+ENSGALG00000001158	Brain	Chicken	1	In-house 
+ENSGALG00000001262	Brain	Chicken	1	In-house 
+ENSGALG00000001396	Brain	Chicken	1	In-house 
+ENSGALG00000001434	Brain	Chicken	1	In-house 
+ENSGALG00000001502	Brain	Chicken	1	In-house 
+ENSGALG00000001561	Brain	Chicken	1	In-house 
+ENSGALG00000001610	Brain	Chicken	1	In-house 
+ENSGALG00000001612	Brain	Chicken	1	In-house 
+ENSGALG00000001790	Brain	Chicken	1	In-house 
+ENSGALG00000001932	Brain	Chicken	1	In-house 
+ENSGALG00000001946	Brain	Chicken	1	In-house 
+ENSGALG00000002001	Brain	Chicken	1	In-house 
+ENSGALG00000002142	Brain	Chicken	1	In-house 
+ENSGALG00000002358	Brain	Chicken	1	In-house 
+ENSGALG00000002432	Brain	Chicken	1	In-house 
+ENSGALG00000002524	Brain	Chicken	1	In-house 
+ENSGALG00000002529	Brain	Chicken	1	In-house 
+ENSGALG00000002542	Brain	Chicken	1	In-house 
+ENSGALG00000002548	Brain	Chicken	1	In-house 
+ENSGALG00000002618	Brain	Chicken	1	In-house 
+ENSGALG00000002763	Brain	Chicken	1	In-house 
+ENSGALG00000002869	Brain	Chicken	1	In-house 
+ENSGALG00000003011	Brain	Chicken	1	In-house 
+ENSGALG00000003015	Brain	Chicken	1	In-house 
+ENSGALG00000003046	Brain	Chicken	1	In-house 
+ENSGALG00000003063	Brain	Chicken	1	In-house 
+ENSGALG00000003193	Brain	Chicken	1	In-house 
+ENSGALG00000003203	Brain	Chicken	1	In-house 
+ENSGALG00000003227	Brain	Chicken	1	In-house 
+ENSGALG00000003290	Brain	Chicken	1	In-house 
+ENSGALG00000003353	Brain	Chicken	1	In-house 
+ENSGALG00000003434	Brain	Chicken	1	In-house 
+ENSGALG00000003446	Brain	Chicken	1	In-house 
+ENSGALG00000003477	Brain	Chicken	1	In-house 
+ENSGALG00000003527	Brain	Chicken	1	In-house 
+ENSGALG00000003693	Brain	Chicken	1	In-house 
+ENSGALG00000003733	Brain	Chicken	1	In-house 
+ENSGALG00000003747	Brain	Chicken	1	In-house 
+ENSGALG00000003805	Brain	Chicken	1	In-house 
+ENSGALG00000003812	Brain	Chicken	1	In-house 
+ENSGALG00000003817	Brain	Chicken	1	In-house 
+ENSGALG00000003842	Brain	Chicken	1	In-house 
+ENSGALG00000003973	Brain	Chicken	1	In-house 
+ENSGALG00000004042	Brain	Chicken	1	In-house 
+ENSGALG00000004146	Brain	Chicken	1	In-house 
+ENSGALG00000004294	Brain	Chicken	1	In-house 
+ENSGALG00000004331	Brain	Chicken	1	In-house 
+ENSGALG00000004339	Brain	Chicken	1	In-house 
+ENSGALG00000004393	Brain	Chicken	1	In-house 
+ENSGALG00000004445	Brain	Chicken	1	In-house 
+ENSGALG00000004491	Brain	Chicken	1	In-house 
+ENSGALG00000004800	Brain	Chicken	1	In-house 
+ENSGALG00000004814	Brain	Chicken	1	In-house 
+ENSGALG00000004870	Brain	Chicken	1	In-house 
+ENSGALG00000004930	Brain	Chicken	1	In-house 
+ENSGALG00000005000	Brain	Chicken	1	In-house 
+ENSGALG00000005204	Brain	Chicken	1	In-house 
+ENSGALG00000005309	Brain	Chicken	1	In-house 
+ENSGALG00000005414	Brain	Chicken	1	In-house 
+ENSGALG00000005416	Brain	Chicken	1	In-house 
+ENSGALG00000005419	Brain	Chicken	1	In-house 
+ENSGALG00000005465	Brain	Chicken	1	In-house 
+ENSGALG00000005517	Brain	Chicken	1	In-house 
+ENSGALG00000005628	Brain	Chicken	1	In-house 
+ENSGALG00000005812	Brain	Chicken	1	In-house 
+ENSGALG00000005845	Brain	Chicken	1	In-house 
+ENSGALG00000005956	Brain	Chicken	1	In-house 
+ENSGALG00000006083	Brain	Chicken	1	In-house 
+ENSGALG00000006235	Brain	Chicken	1	In-house 
+ENSGALG00000006379	Brain	Chicken	1	In-house 
+ENSGALG00000006453	Brain	Chicken	1	In-house 
+ENSGALG00000006551	Brain	Chicken	1	In-house 
+ENSGALG00000006560	Brain	Chicken	1	In-house 
+ENSGALG00000006565	Brain	Chicken	1	In-house 
+ENSGALG00000006566	Brain	Chicken	1	In-house 
+ENSGALG00000006607	Brain	Chicken	1	In-house 
+ENSGALG00000006680	Brain	Chicken	1	In-house 
+ENSGALG00000006715	Brain	Chicken	1	In-house 
+ENSGALG00000006807	Brain	Chicken	1	In-house 
+ENSGALG00000007014	Brain	Chicken	1	In-house 
+ENSGALG00000007096	Brain	Chicken	1	In-house 
+ENSGALG00000007128	Brain	Chicken	1	In-house 
+ENSGALG00000007179	Brain	Chicken	1	In-house 
+ENSGALG00000007365	Brain	Chicken	1	In-house 
+ENSGALG00000007376	Brain	Chicken	1	In-house 
+ENSGALG00000007510	Brain	Chicken	1	In-house 
+ENSGALG00000007668	Brain	Chicken	1	In-house 
+ENSGALG00000007714	Brain	Chicken	1	In-house 
+ENSGALG00000007799	Brain	Chicken	1	In-house 
+ENSGALG00000007848	Brain	Chicken	1	In-house 
+ENSGALG00000008009	Brain	Chicken	1	In-house 
+ENSGALG00000008072	Brain	Chicken	1	In-house 
+ENSGALG00000008218	Brain	Chicken	1	In-house 
+ENSGALG00000008288	Brain	Chicken	1	In-house 
+ENSGALG00000008330	Brain	Chicken	1	In-house 
+ENSGALG00000008398	Brain	Chicken	1	In-house 
+ENSGALG00000008455	Brain	Chicken	1	In-house 
+ENSGALG00000008456	Brain	Chicken	1	In-house 
+ENSGALG00000008469	Brain	Chicken	1	In-house 
+ENSGALG00000008560	Brain	Chicken	1	In-house 
+ENSGALG00000008714	Brain	Chicken	1	In-house 
+ENSGALG00000008827	Brain	Chicken	1	In-house 
+ENSGALG00000008901	Brain	Chicken	1	In-house 
+ENSGALG00000008908	Brain	Chicken	1	In-house 
+ENSGALG00000009002	Brain	Chicken	1	In-house 
+ENSGALG00000009070	Brain	Chicken	1	In-house 
+ENSGALG00000009154	Brain	Chicken	1	In-house 
+ENSGALG00000009286	Brain	Chicken	1	In-house 
+ENSGALG00000009340	Brain	Chicken	1	In-house 
+ENSGALG00000009468	Brain	Chicken	1	In-house 
+ENSGALG00000009491	Brain	Chicken	1	In-house 
+ENSGALG00000009507	Brain	Chicken	1	In-house 
+ENSGALG00000009536	Brain	Chicken	1	In-house 
+ENSGALG00000009562	Brain	Chicken	1	In-house 
+ENSGALG00000009594	Brain	Chicken	1	In-house 
+ENSGALG00000009641	Brain	Chicken	1	In-house 
+ENSGALG00000009687	Brain	Chicken	1	In-house 
+ENSGALG00000009730	Brain	Chicken	1	In-house 
+ENSGALG00000009731	Brain	Chicken	1	In-house 
+ENSGALG00000009771	Brain	Chicken	1	In-house 
+ENSGALG00000009792	Brain	Chicken	1	In-house 
+ENSGALG00000009865	Brain	Chicken	1	In-house 
+ENSGALG00000009900	Brain	Chicken	1	In-house 
+ENSGALG00000009954	Brain	Chicken	1	In-house 
+ENSGALG00000010000	Brain	Chicken	1	In-house 
+ENSGALG00000010107	Brain	Chicken	1	In-house 
+ENSGALG00000010224	Brain	Chicken	1	In-house 
+ENSGALG00000010244	Brain	Chicken	1	In-house 
+ENSGALG00000010607	Brain	Chicken	1	In-house 
+ENSGALG00000010647	Brain	Chicken	1	In-house 
+ENSGALG00000010683	Brain	Chicken	1	In-house 
+ENSGALG00000010879	Brain	Chicken	1	In-house 
+ENSGALG00000010940	Brain	Chicken	1	In-house 
+ENSGALG00000010958	Brain	Chicken	1	In-house 
+ENSGALG00000011099	Brain	Chicken	1	In-house 
+ENSGALG00000011166	Brain	Chicken	1	In-house 
+ENSGALG00000011215	Brain	Chicken	1	In-house 
+ENSGALG00000011271	Brain	Chicken	1	In-house 
+ENSGALG00000011274	Brain	Chicken	1	In-house 
+ENSGALG00000011352	Brain	Chicken	1	In-house 
+ENSGALG00000011361	Brain	Chicken	1	In-house 
+ENSGALG00000011421	Brain	Chicken	1	In-house 
+ENSGALG00000011434	Brain	Chicken	1	In-house 
+ENSGALG00000011478	Brain	Chicken	1	In-house 
+ENSGALG00000011488	Brain	Chicken	1	In-house 
+ENSGALG00000011535	Brain	Chicken	1	In-house 
+ENSGALG00000011738	Brain	Chicken	1	In-house 
+ENSGALG00000011740	Brain	Chicken	1	In-house 
+ENSGALG00000011861	Brain	Chicken	1	In-house 
+ENSGALG00000011875	Brain	Chicken	1	In-house 
+ENSGALG00000011902	Brain	Chicken	1	In-house 
+ENSGALG00000011965	Brain	Chicken	1	In-house 
+ENSGALG00000011973	Brain	Chicken	1	In-house 
+ENSGALG00000012025	Brain	Chicken	1	In-house 
+ENSGALG00000012166	Brain	Chicken	1	In-house 
+ENSGALG00000012186	Brain	Chicken	1	In-house 
+ENSGALG00000012196	Brain	Chicken	1	In-house 
+ENSGALG00000012211	Brain	Chicken	1	In-house 
+ENSGALG00000012219	Brain	Chicken	1	In-house 
+ENSGALG00000012295	Brain	Chicken	1	In-house 
+ENSGALG00000012304	Brain	Chicken	1	In-house 
+ENSGALG00000012351	Brain	Chicken	1	In-house 
+ENSGALG00000012392	Brain	Chicken	1	In-house 
+ENSGALG00000012606	Brain	Chicken	1	In-house 
+ENSGALG00000012616	Brain	Chicken	1	In-house 
+ENSGALG00000012629	Brain	Chicken	1	In-house 
+ENSGALG00000012650	Brain	Chicken	1	In-house 
+ENSGALG00000012670	Brain	Chicken	1	In-house 
+ENSGALG00000012684	Brain	Chicken	1	In-house 
+ENSGALG00000012909	Brain	Chicken	1	In-house 
+ENSGALG00000012971	Brain	Chicken	1	In-house 
+ENSGALG00000012974	Brain	Chicken	1	In-house 
+ENSGALG00000013022	Brain	Chicken	1	In-house 
+ENSGALG00000013112	Brain	Chicken	1	In-house 
+ENSGALG00000013363	Brain	Chicken	1	In-house 
+ENSGALG00000013376	Brain	Chicken	1	In-house 
+ENSGALG00000013598	Brain	Chicken	1	In-house 
+ENSGALG00000013980	Brain	Chicken	1	In-house 
+ENSGALG00000013987	Brain	Chicken	1	In-house 
+ENSGALG00000014030	Brain	Chicken	1	In-house 
+ENSGALG00000014031	Brain	Chicken	1	In-house 
+ENSGALG00000014185	Brain	Chicken	1	In-house 
+ENSGALG00000014264	Brain	Chicken	1	In-house 
+ENSGALG00000014379	Brain	Chicken	1	In-house 
+ENSGALG00000014471	Brain	Chicken	1	In-house 
+ENSGALG00000014645	Brain	Chicken	1	In-house 
+ENSGALG00000014690	Brain	Chicken	1	In-house 
+ENSGALG00000014784	Brain	Chicken	1	In-house 
+ENSGALG00000014864	Brain	Chicken	1	In-house 
+ENSGALG00000014866	Brain	Chicken	1	In-house 
+ENSGALG00000014923	Brain	Chicken	1	In-house 
+ENSGALG00000014933	Brain	Chicken	1	In-house 
+ENSGALG00000014946	Brain	Chicken	1	In-house 
+ENSGALG00000015026	Brain	Chicken	1	In-house 
+ENSGALG00000015139	Brain	Chicken	1	In-house 
+ENSGALG00000015142	Brain	Chicken	1	In-house 
+ENSGALG00000015150	Brain	Chicken	1	In-house 
+ENSGALG00000015167	Brain	Chicken	1	In-house 
+ENSGALG00000015237	Brain	Chicken	1	In-house 
+ENSGALG00000015253	Brain	Chicken	1	In-house 
+ENSGALG00000015301	Brain	Chicken	1	In-house 
+ENSGALG00000015410	Brain	Chicken	1	In-house 
+ENSGALG00000015428	Brain	Chicken	1	In-house 
+ENSGALG00000015568	Brain	Chicken	1	In-house 
+ENSGALG00000015593	Brain	Chicken	1	In-house 
+ENSGALG00000015630	Brain	Chicken	1	In-house 
+ENSGALG00000015669	Brain	Chicken	1	In-house 
+ENSGALG00000015692	Brain	Chicken	1	In-house 
+ENSGALG00000015779	Brain	Chicken	1	In-house 
+ENSGALG00000015797	Brain	Chicken	1	In-house 
+ENSGALG00000015812	Brain	Chicken	1	In-house 
+ENSGALG00000015884	Brain	Chicken	1	In-house 
+ENSGALG00000016001	Brain	Chicken	1	In-house 
+ENSGALG00000016112	Brain	Chicken	1	In-house 
+ENSGALG00000016324	Brain	Chicken	1	In-house 
+ENSGALG00000016328	Brain	Chicken	1	In-house 
+ENSGALG00000016372	Brain	Chicken	1	In-house 
+ENSGALG00000016446	Brain	Chicken	1	In-house 
+ENSGALG00000016549	Brain	Chicken	1	In-house 
+ENSGALG00000016654	Brain	Chicken	1	In-house 
+ENSGALG00000016655	Brain	Chicken	1	In-house 
+ENSGALG00000016713	Brain	Chicken	1	In-house 
+ENSGALG00000016800	Brain	Chicken	1	In-house 
+ENSGALG00000016807	Brain	Chicken	1	In-house 
+ENSGALG00000016867	Brain	Chicken	1	In-house 
+ENSGALG00000016932	Brain	Chicken	1	In-house 
+ENSGALG00000017042	Brain	Chicken	1	In-house 
+ENSGALG00000017247	Brain	Chicken	1	In-house 
+ENSGALG00000017290	Brain	Chicken	1	In-house 
+ENSGALG00000017394	Brain	Chicken	1	In-house 
+ENSGALG00000017690	Brain	Chicken	1	In-house 
+ENSGALG00000018346	Brain	Chicken	1	In-house 
+ENSGALG00000018702	Brain	Chicken	1	In-house 
+ENSGALG00000019087	Brain	Chicken	1	In-house 
+ENSGALG00000019261	Brain	Chicken	1	In-house 
+ENSGALG00000019436	Brain	Chicken	1	In-house 
+ENSGALG00000019602	Brain	Chicken	1	In-house 
+ENSGALG00000019921	Brain	Chicken	1	In-house 
+ENSGALG00000020005	Brain	Chicken	1	In-house 
+ENSGALG00000020538	Brain	Chicken	1	In-house 
+ENSGALG00000020656	Brain	Chicken	1	In-house 
+ENSGALG00000020883	Brain	Chicken	1	In-house 
+ENSGALG00000021235	Brain	Chicken	1	In-house 
+ENSGALG00000021327	Brain	Chicken	1	In-house 
+ENSGALG00000021644	Brain	Chicken	1	In-house 
+ENSGALG00000022490	Brain	Chicken	1	In-house 
+ENSGALG00000022884	Brain	Chicken	1	In-house 
+ENSGALG00000023083	Brain	Chicken	1	In-house 
+ENSGALG00000023472	Brain	Chicken	1	In-house 
+ENSGALG00000023601	Brain	Chicken	1	In-house 
+ENSGALG00000023660	Brain	Chicken	1	In-house 
+ENSGALG00000023920	Brain	Chicken	1	In-house 
+ENSGALG00000024101	Brain	Chicken	1	In-house 
+ENSGALG00000024430	Brain	Chicken	1	In-house 
+ENSGALG00000024487	Brain	Chicken	1	In-house 
+ENSGALG00000024488	Brain	Chicken	1	In-house 
+ENSGALG00000025546	Brain	Chicken	1	In-house 
+ENSGALG00000025677	Brain	Chicken	1	In-house 
+ENSGALG00000025735	Brain	Chicken	1	In-house 
+ENSGALG00000025875	Brain	Chicken	1	In-house 
+ENSGALG00000025919	Brain	Chicken	1	In-house 
+ENSGALG00000025921	Brain	Chicken	1	In-house 
+ENSGALG00000025947	Brain	Chicken	1	In-house 
+ENSGALG00000025993	Brain	Chicken	1	In-house 
+ENSGALG00000026006	Brain	Chicken	1	In-house 
+ENSGALG00000026113	Brain	Chicken	1	In-house 
+ENSGALG00000026147	Brain	Chicken	1	In-house 
+ENSGALG00000026175	Brain	Chicken	1	In-house 
+ENSGALG00000026269	Brain	Chicken	1	In-house 
+ENSGALG00000026326	Brain	Chicken	1	In-house 
+ENSGALG00000026600	Brain	Chicken	1	In-house 
+ENSGALG00000026731	Brain	Chicken	1	In-house 
+ENSGALG00000026838	Brain	Chicken	1	In-house 
+ENSGALG00000026850	Brain	Chicken	1	In-house 
+ENSGALG00000027058	Brain	Chicken	1	In-house 
+ENSGALG00000027103	Brain	Chicken	1	In-house 
+ENSGALG00000027154	Brain	Chicken	1	In-house 
+ENSGALG00000027165	Brain	Chicken	1	In-house 
+ENSGALG00000027168	Brain	Chicken	1	In-house 
+ENSGALG00000027184	Brain	Chicken	1	In-house 
+ENSGALG00000027446	Brain	Chicken	1	In-house 
+ENSGALG00000027472	Brain	Chicken	1	In-house 
+ENSGALG00000027537	Brain	Chicken	1	In-house 
+ENSGALG00000027630	Brain	Chicken	1	In-house 
+ENSGALG00000027684	Brain	Chicken	1	In-house 
+ENSGALG00000027747	Brain	Chicken	1	In-house 
+ENSGALG00000027752	Brain	Chicken	1	In-house 
+ENSGALG00000027789	Brain	Chicken	1	In-house 
+ENSGALG00000028065	Brain	Chicken	1	In-house 
+ENSGALG00000028106	Brain	Chicken	1	In-house 
+ENSGALG00000028136	Brain	Chicken	1	In-house 
+ENSGALG00000028207	Brain	Chicken	1	In-house 
+ENSGALG00000028227	Brain	Chicken	1	In-house 
+ENSGALG00000028275	Brain	Chicken	1	In-house 
+ENSGALG00000028340	Brain	Chicken	1	In-house 
+ENSGALG00000028354	Brain	Chicken	1	In-house 
+ENSGALG00000028595	Brain	Chicken	1	In-house 
+ENSGALG00000028774	Brain	Chicken	1	In-house 
+ENSGALG00000028790	Brain	Chicken	1	In-house 
+ENSGALG00000028815	Brain	Chicken	1	In-house 
+ENSGALG00000029035	Brain	Chicken	1	In-house 
+ENSGALG00000029067	Brain	Chicken	1	In-house 
+ENSGALG00000029083	Brain	Chicken	1	In-house 
+ENSGALG00000029127	Brain	Chicken	1	In-house 

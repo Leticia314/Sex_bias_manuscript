@@ -1,0 +1,1885 @@
+gene_id	tissue	species	n_pipe	pipe
+ENSG00000175520	Brain	Human	2	splineR MaSigPro 
+ENSG00000198121	Brain	Human	2	splineR MaSigPro 
+ENSG00000117859	Brain	Human	2	splineR MaSigPro 
+ENSG00000171495	Brain	Human	2	splineR MaSigPro 
+ENSG00000165113	Brain	Human	2	splineR MaSigPro 
+ENSG00000186910	Brain	Human	2	splineR MaSigPro 
+ENSG00000136240	Brain	Human	2	splineR MaSigPro 
+ENSG00000240764	Brain	Human	2	splineR MaSigPro 
+ENSG00000251322	Brain	Human	2	splineR MaSigPro 
+ENSG00000168484	Brain	Human	2	splineR MaSigPro 
+ENSG00000108557	Brain	Human	2	splineR MaSigPro 
+ENSG00000141503	Brain	Human	2	splineR MaSigPro 
+ENSG00000047644	Brain	Human	2	splineR MaSigPro 
+ENSG00000111261	Brain	Human	2	DESeq2 MaSigPro 
+ENSG00000012124	Brain	Human	2	DESeq2 splineR 
+ENSG00000054690	Brain	Human	2	DESeq2 splineR 
+ENSG00000076513	Brain	Human	2	DESeq2 splineR 
+ENSG00000091513	Brain	Human	2	DESeq2 splineR 
+ENSG00000107593	Brain	Human	2	DESeq2 splineR 
+ENSG00000121690	Brain	Human	2	DESeq2 splineR 
+ENSG00000164124	Brain	Human	2	DESeq2 splineR 
+ENSG00000167123	Brain	Human	2	DESeq2 splineR 
+ENSG00000176532	Brain	Human	2	DESeq2 splineR 
+ENSG00000176912	Brain	Human	2	DESeq2 splineR 
+ENSG00000204655	Brain	Human	2	DESeq2 splineR 
+ENSG00000207955	Brain	Human	2	DESeq2 splineR 
+ENSG00000234531	Brain	Human	2	DESeq2 splineR 
+ENSG00000003249	Brain	Human	2	MaSigPro In-house 
+ENSG00000008118	Brain	Human	2	MaSigPro In-house 
+ENSG00000010404	Brain	Human	2	MaSigPro In-house 
+ENSG00000029993	Brain	Human	2	MaSigPro In-house 
+ENSG00000048028	Brain	Human	2	MaSigPro In-house 
+ENSG00000049167	Brain	Human	2	MaSigPro In-house 
+ENSG00000060339	Brain	Human	2	MaSigPro In-house 
+ENSG00000064703	Brain	Human	2	MaSigPro In-house 
+ENSG00000072954	Brain	Human	2	MaSigPro In-house 
+ENSG00000083123	Brain	Human	2	MaSigPro In-house 
+ENSG00000084093	Brain	Human	2	MaSigPro In-house 
+ENSG00000087087	Brain	Human	2	MaSigPro In-house 
+ENSG00000088899	Brain	Human	2	MaSigPro In-house 
+ENSG00000089041	Brain	Human	2	MaSigPro In-house 
+ENSG00000090061	Brain	Human	2	MaSigPro In-house 
+ENSG00000099814	Brain	Human	2	MaSigPro In-house 
+ENSG00000100813	Brain	Human	2	MaSigPro In-house 
+ENSG00000101158	Brain	Human	2	MaSigPro In-house 
+ENSG00000101442	Brain	Human	2	MaSigPro In-house 
+ENSG00000102096	Brain	Human	2	MaSigPro In-house 
+ENSG00000102572	Brain	Human	2	MaSigPro In-house 
+ENSG00000103512	Brain	Human	2	MaSigPro In-house 
+ENSG00000103528	Brain	Human	2	MaSigPro In-house 
+ENSG00000107614	Brain	Human	2	MaSigPro In-house 
+ENSG00000108559	Brain	Human	2	MaSigPro In-house 
+ENSG00000111404	Brain	Human	2	MaSigPro In-house 
+ENSG00000115687	Brain	Human	2	MaSigPro In-house 
+ENSG00000116062	Brain	Human	2	MaSigPro In-house 
+ENSG00000117013	Brain	Human	2	MaSigPro In-house 
+ENSG00000119698	Brain	Human	2	MaSigPro In-house 
+ENSG00000120756	Brain	Human	2	MaSigPro In-house 
+ENSG00000122483	Brain	Human	2	MaSigPro In-house 
+ENSG00000124134	Brain	Human	2	MaSigPro In-house 
+ENSG00000126226	Brain	Human	2	MaSigPro In-house 
+ENSG00000128285	Brain	Human	2	MaSigPro In-house 
+ENSG00000128656	Brain	Human	2	MaSigPro In-house 
+ENSG00000129473	Brain	Human	2	MaSigPro In-house 
+ENSG00000129646	Brain	Human	2	MaSigPro In-house 
+ENSG00000130707	Brain	Human	2	MaSigPro In-house 
+ENSG00000130935	Brain	Human	2	MaSigPro In-house 
+ENSG00000131470	Brain	Human	2	MaSigPro In-house 
+ENSG00000132300	Brain	Human	2	MaSigPro In-house 
+ENSG00000132781	Brain	Human	2	MaSigPro In-house 
+ENSG00000133884	Brain	Human	2	MaSigPro In-house 
+ENSG00000134815	Brain	Human	2	MaSigPro In-house 
+ENSG00000134901	Brain	Human	2	MaSigPro In-house 
+ENSG00000134917	Brain	Human	2	MaSigPro In-house 
+ENSG00000140455	Brain	Human	2	MaSigPro In-house 
+ENSG00000140548	Brain	Human	2	MaSigPro In-house 
+ENSG00000141198	Brain	Human	2	MaSigPro In-house 
+ENSG00000143340	Brain	Human	2	MaSigPro In-house 
+ENSG00000143748	Brain	Human	2	MaSigPro In-house 
+ENSG00000143952	Brain	Human	2	MaSigPro In-house 
+ENSG00000145451	Brain	Human	2	MaSigPro In-house 
+ENSG00000147571	Brain	Human	2	MaSigPro In-house 
+ENSG00000153922	Brain	Human	2	MaSigPro In-house 
+ENSG00000154118	Brain	Human	2	MaSigPro In-house 
+ENSG00000154328	Brain	Human	2	MaSigPro In-house 
+ENSG00000157873	Brain	Human	2	MaSigPro In-house 
+ENSG00000160539	Brain	Human	2	MaSigPro In-house 
+ENSG00000162599	Brain	Human	2	MaSigPro In-house 
+ENSG00000163704	Brain	Human	2	MaSigPro In-house 
+ENSG00000163785	Brain	Human	2	MaSigPro In-house 
+ENSG00000164080	Brain	Human	2	MaSigPro In-house 
+ENSG00000164830	Brain	Human	2	MaSigPro In-house 
+ENSG00000165914	Brain	Human	2	MaSigPro In-house 
+ENSG00000166526	Brain	Human	2	MaSigPro In-house 
+ENSG00000166788	Brain	Human	2	MaSigPro In-house 
+ENSG00000168887	Brain	Human	2	MaSigPro In-house 
+ENSG00000169085	Brain	Human	2	MaSigPro In-house 
+ENSG00000169813	Brain	Human	2	MaSigPro In-house 
+ENSG00000171798	Brain	Human	2	MaSigPro In-house 
+ENSG00000171956	Brain	Human	2	MaSigPro In-house 
+ENSG00000173705	Brain	Human	2	MaSigPro In-house 
+ENSG00000174348	Brain	Human	2	MaSigPro In-house 
+ENSG00000175352	Brain	Human	2	MaSigPro In-house 
+ENSG00000175766	Brain	Human	2	MaSigPro In-house 
+ENSG00000176142	Brain	Human	2	MaSigPro In-house 
+ENSG00000178752	Brain	Human	2	MaSigPro In-house 
+ENSG00000180385	Brain	Human	2	MaSigPro In-house 
+ENSG00000182534	Brain	Human	2	MaSigPro In-house 
+ENSG00000182973	Brain	Human	2	MaSigPro In-house 
+ENSG00000184465	Brain	Human	2	MaSigPro In-house 
+ENSG00000184731	Brain	Human	2	MaSigPro In-house 
+ENSG00000184949	Brain	Human	2	MaSigPro In-house 
+ENSG00000186094	Brain	Human	2	MaSigPro In-house 
+ENSG00000188133	Brain	Human	2	MaSigPro In-house 
+ENSG00000196208	Brain	Human	2	MaSigPro In-house 
+ENSG00000198604	Brain	Human	2	MaSigPro In-house 
+ENSG00000198892	Brain	Human	2	MaSigPro In-house 
+ENSG00000198944	Brain	Human	2	MaSigPro In-house 
+ENSG00000205279	Brain	Human	2	MaSigPro In-house 
+ENSG00000235531	Brain	Human	2	MaSigPro In-house 
+ENSG00000237077	Brain	Human	2	MaSigPro In-house 
+ENSG00000256087	Brain	Human	2	MaSigPro In-house 
+ENSG00000187166	Brain	Human	2	splineR In-house 
+ENSG00000174015	Brain	Human	2	splineR In-house 
+ENSG00000122304	Brain	Human	2	splineR In-house 
+ENSG00000175646	Brain	Human	2	splineR In-house 
+ENSG00000163206	Brain	Human	2	splineR In-house 
+ENSG00000176256	Brain	Human	2	splineR In-house 
+ENSG00000183103	Brain	Human	2	splineR In-house 
+ENSG00000240021	Brain	Human	2	splineR In-house 
+ENSG00000141200	Brain	Human	2	splineR In-house 
+ENSG00000187003	Brain	Human	2	splineR In-house 
+ENSG00000118245	Brain	Human	2	splineR In-house 
+ENSG00000165120	Brain	Human	2	splineR In-house 
+ENSG00000203784	Brain	Human	2	splineR In-house 
+ENSG00000177143	Brain	Human	2	splineR In-house 
+ENSG00000254827	Brain	Human	2	splineR In-house 
+ENSG00000172673	Brain	Human	2	splineR In-house 
+ENSG00000239256	Brain	Human	2	splineR In-house 
+ENSG00000215063	Brain	Human	2	splineR In-house 
+ENSG00000163467	Brain	Human	2	splineR In-house 
+ENSG00000223774	Brain	Human	2	splineR In-house 
+ENSG00000257829	Brain	Human	2	splineR In-house 
+ENSG00000250562	Brain	Human	2	splineR In-house 
+ENSG00000242861	Brain	Human	2	splineR In-house 
+ENSG00000183935	Brain	Human	2	splineR In-house 
+ENSG00000228331	Brain	Human	2	splineR In-house 
+ENSG00000201098	Brain	Human	2	splineR In-house 
+ENSG00000241360	Brain	Human	2	splineR In-house 
+ENSG00000226490	Brain	Human	2	splineR In-house 
+ENSG00000227008	Brain	Human	2	splineR In-house 
+ENSG00000226519	Brain	Human	2	splineR In-house 
+ENSG00000224795	Brain	Human	2	splineR In-house 
+ENSG00000179564	Brain	Human	2	splineR In-house 
+ENSG00000268996	Brain	Human	2	splineR In-house 
+ENSG00000103089	Brain	Human	2	splineR In-house 
+ENSG00000126012	Brain	Human	2	splineR In-house 
+ENSG00000173253	Brain	Human	2	splineR In-house 
+ENSG00000126860	Brain	Human	2	splineR In-house 
+ENSG00000234354	Brain	Human	2	splineR In-house 
+ENSG00000240509	Brain	Human	2	splineR In-house 
+ENSG00000258240	Brain	Human	2	splineR In-house 
+ENSG00000244043	Brain	Human	2	splineR In-house 
+ENSG00000228075	Brain	Human	2	splineR In-house 
+ENSG00000235579	Brain	Human	2	splineR In-house 
+ENSG00000268681	Brain	Human	2	splineR In-house 
+ENSG00000103978	Brain	Human	2	splineR In-house 
+ENSG00000240674	Brain	Human	2	splineR In-house 
+ENSG00000204323	Brain	Human	2	splineR In-house 
+ENSG00000162444	Brain	Human	2	splineR In-house 
+ENSG00000230757	Brain	Human	2	splineR In-house 
+ENSG00000229972	Brain	Human	2	splineR In-house 
+ENSG00000223306	Brain	Human	2	splineR In-house 
+ENSG00000237264	Brain	Human	2	splineR In-house 
+ENSG00000260911	Brain	Human	2	splineR In-house 
+ENSG00000132693	Brain	Human	2	splineR In-house 
+ENSG00000230204	Brain	Human	2	splineR In-house 
+ENSG00000243023	Brain	Human	2	splineR In-house 
+ENSG00000219507	Brain	Human	2	splineR In-house 
+ENSG00000229659	Brain	Human	2	splineR In-house 
+ENSG00000237472	Brain	Human	2	splineR In-house 
+ENSG00000261827	Brain	Human	2	splineR In-house 
+ENSG00000235916	Brain	Human	2	splineR In-house 
+ENSG00000065809	Brain	Human	2	splineR In-house 
+ENSG00000229590	Brain	Human	2	splineR In-house 
+ENSG00000225569	Brain	Human	2	splineR In-house 
+ENSG00000213453	Brain	Human	2	splineR In-house 
+ENSG00000235174	Brain	Human	2	splineR In-house 
+ENSG00000199562	Brain	Human	2	splineR In-house 
+ENSG00000019144	Brain	Human	2	splineR In-house 
+ENSG00000117400	Brain	Human	2	splineR In-house 
+ENSG00000213452	Brain	Human	2	splineR In-house 
+ENSG00000234315	Brain	Human	2	splineR In-house 
+ENSG00000268568	Brain	Human	2	splineR In-house 
+ENSG00000233287	Brain	Human	2	splineR In-house 
+ENSG00000173020	Brain	Human	2	splineR In-house 
+ENSG00000259105	Brain	Human	2	splineR In-house 
+ENSG00000227358	Brain	Human	2	splineR In-house 
+ENSG00000243680	Brain	Human	2	splineR In-house 
+ENSG00000178826	Brain	Human	2	splineR In-house 
+ENSG00000244086	Brain	Human	2	splineR In-house 
+ENSG00000180172	Brain	Human	2	splineR In-house 
+ENSG00000224094	Brain	Human	2	splineR In-house 
+ENSG00000225471	Brain	Human	2	splineR In-house 
+ENSG00000132846	Brain	Human	2	splineR In-house 
+ENSG00000183729	Brain	Human	2	splineR In-house 
+ENSG00000147378	Brain	Human	2	splineR In-house 
+ENSG00000160223	Brain	Human	2	splineR In-house 
+ENSG00000231549	Brain	Human	2	splineR In-house 
+ENSG00000145321	Brain	Human	2	splineR In-house 
+ENSG00000226084	Brain	Human	2	splineR In-house 
+ENSG00000137441	Brain	Human	2	splineR In-house 
+ENSG00000166819	Brain	Human	2	splineR In-house 
+ENSG00000226221	Brain	Human	2	splineR In-house 
+ENSG00000244716	Brain	Human	2	splineR In-house 
+ENSG00000215301	Brain	Human	2	splineR In-house 
+ENSG00000236365	Brain	Human	2	splineR In-house 
+ENSG00000242163	Brain	Human	2	splineR In-house 
+ENSG00000243721	Brain	Human	2	splineR In-house 
+ENSG00000241990	Brain	Human	2	splineR In-house 
+ENSG00000227271	Brain	Human	2	splineR In-house 
+ENSG00000218208	Brain	Human	2	splineR In-house 
+ENSG00000241932	Brain	Human	2	splineR In-house 
+ENSG00000231866	Brain	Human	2	splineR In-house 
+ENSG00000259806	Brain	Human	2	splineR In-house 
+ENSG00000136867	Brain	Human	2	splineR In-house 
+ENSG00000219928	Brain	Human	2	splineR In-house 
+ENSG00000169247	Brain	Human	2	splineR In-house 
+ENSG00000175749	Brain	Human	2	splineR In-house 
+ENSG00000213178	Brain	Human	2	splineR In-house 
+ENSG00000130881	Brain	Human	2	splineR In-house 
+ENSG00000073417	Brain	Human	2	splineR In-house 
+ENSG00000229314	Brain	Human	2	splineR In-house 
+ENSG00000263781	Brain	Human	2	splineR In-house 
+ENSG00000234450	Brain	Human	2	splineR In-house 
+ENSG00000228278	Brain	Human	2	splineR In-house 
+ENSG00000130167	Brain	Human	2	splineR In-house 
+ENSG00000227173	Brain	Human	2	splineR In-house 
+ENSG00000242527	Brain	Human	2	splineR In-house 
+ENSG00000235071	Brain	Human	2	splineR In-house 
+ENSG00000119537	Brain	Human	2	splineR In-house 
+ENSG00000233971	Brain	Human	2	splineR In-house 
+ENSG00000229814	Brain	Human	2	splineR In-house 
+ENSG00000213209	Brain	Human	2	splineR In-house 
+ENSG00000244266	Brain	Human	2	splineR In-house 
+ENSG00000227304	Brain	Human	2	splineR In-house 
+ENSG00000213261	Brain	Human	2	splineR In-house 
+ENSG00000242640	Brain	Human	2	splineR In-house 
+ENSG00000234287	Brain	Human	2	splineR In-house 
+ENSG00000126803	Brain	Human	2	splineR In-house 
+ENSG00000244053	Brain	Human	2	splineR In-house 
+ENSG00000230807	Brain	Human	2	splineR In-house 
+ENSG00000237862	Brain	Human	2	splineR In-house 
+ENSG00000236281	Brain	Human	2	splineR In-house 
+ENSG00000238000	Brain	Human	2	splineR In-house 
+ENSG00000241494	Brain	Human	2	splineR In-house 
+ENSG00000231531	Brain	Human	2	splineR In-house 
+ENSG00000132671	Brain	Human	2	splineR In-house 
+ENSG00000134597	Brain	Human	2	splineR In-house 
+ENSG00000243955	Brain	Human	2	splineR In-house 
+ENSG00000227401	Brain	Human	2	splineR In-house 
+ENSG00000232059	Brain	Human	2	splineR In-house 
+ENSG00000175294	Brain	Human	2	splineR In-house 
+ENSG00000076043	Brain	Human	2	splineR In-house 
+ENSG00000244604	Brain	Human	2	splineR In-house 
+ENSG00000068878	Brain	Human	2	splineR In-house 
+ENSG00000186272	Brain	Human	2	splineR In-house 
+ENSG00000241464	Brain	Human	2	splineR In-house 
+ENSG00000223416	Brain	Human	2	splineR In-house 
+ENSG00000213700	Brain	Human	2	splineR In-house 
+ENSG00000231333	Brain	Human	2	splineR In-house 
+ENSG00000271029	Brain	Human	2	splineR In-house 
+ENSG00000231848	Brain	Human	2	splineR In-house 
+ENSG00000230082	Brain	Human	2	splineR In-house 
+ENSG00000242602	Brain	Human	2	splineR In-house 
+ENSG00000013375	Brain	Human	2	splineR In-house 
+ENSG00000112561	Brain	Human	2	splineR In-house 
+ENSG00000232858	Brain	Human	2	splineR In-house 
+ENSG00000161912	Brain	Human	2	splineR In-house 
+ENSG00000224291	Brain	Human	2	splineR In-house 
+ENSG00000236801	Brain	Human	2	splineR In-house 
+ENSG00000095383	Brain	Human	2	splineR In-house 
+ENSG00000172197	Brain	Human	2	splineR In-house 
+ENSG00000237668	Brain	Human	2	splineR In-house 
+ENSG00000224834	Brain	Human	2	splineR In-house 
+ENSG00000106683	Brain	Human	2	splineR In-house 
+ENSG00000237676	Brain	Human	2	splineR In-house 
+ENSG00000255909	Brain	Human	2	splineR In-house 
+ENSG00000202337	Brain	Human	2	splineR In-house 
+ENSG00000235449	Brain	Human	2	splineR In-house 
+ENSG00000233254	Brain	Human	2	splineR In-house 
+ENSG00000046651	Brain	Human	2	splineR In-house 
+ENSG00000232176	Brain	Human	2	splineR In-house 
+ENSG00000249774	Brain	Human	2	splineR In-house 
+ENSG00000234565	Brain	Human	2	splineR In-house 
+ENSG00000223640	Brain	Human	2	splineR In-house 
+ENSG00000234488	Brain	Human	2	splineR In-house 
+ENSG00000257545	Brain	Human	2	splineR In-house 
+ENSG00000214485	Brain	Human	2	splineR In-house 
+ENSG00000229645	Brain	Human	2	splineR In-house 
+ENSG00000167995	Brain	Human	2	splineR In-house 
+ENSG00000235225	Brain	Human	2	splineR In-house 
+ENSG00000236764	Brain	Human	2	splineR In-house 
+ENSG00000124226	Brain	Human	2	splineR In-house 
+ENSG00000225573	Brain	Human	2	splineR In-house 
+ENSG00000230629	Brain	Human	2	splineR In-house 
+ENSG00000185475	Brain	Human	2	splineR In-house 
+ENSG00000187239	Brain	Human	2	splineR In-house 
+ENSG00000057935	Brain	Human	2	splineR In-house 
+ENSG00000197892	Brain	Human	2	splineR In-house 
+ENSG00000244701	Brain	Human	2	splineR In-house 
+ENSG00000234093	Brain	Human	2	splineR In-house 
+ENSG00000198034	Brain	Human	2	splineR In-house 
+ENSG00000253651	Brain	Human	2	splineR In-house 
+ENSG00000214612	Brain	Human	2	splineR In-house 
+ENSG00000243988	Brain	Human	2	splineR In-house 
+ENSG00000234274	Brain	Human	2	splineR In-house 
+ENSG00000205664	Brain	Human	2	splineR In-house 
+ENSG00000186575	Brain	Human	2	splineR In-house 
+ENSG00000134716	Brain	Human	2	splineR In-house 
+ENSG00000213058	Brain	Human	2	splineR In-house 
+ENSG00000230291	Brain	Human	2	splineR In-house 
+ENSG00000253421	Brain	Human	2	splineR In-house 
+ENSG00000213598	Brain	Human	2	splineR In-house 
+ENSG00000230364	Brain	Human	2	splineR In-house 
+ENSG00000075891	Brain	Human	2	DESeq2 In-house 
+ENSG00000133048	Brain	Human	2	DESeq2 In-house 
+ENSG00000170561	Brain	Human	2	DESeq2 In-house 
+ENSG00000178974	Brain	Human	2	DESeq2 In-house 
+ENSG00000219146	Brain	Human	2	DESeq2 In-house 
+ENSG00000240583	Brain	Human	2	DESeq2 In-house 
+ENSG00000269028	Brain	Human	2	DESeq2 In-house 
+XLOC_053296	Brain	Human	2	DESeq2 In-house 
+ENSG00000012817	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000067048	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000067646	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000092377	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000099715	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000114374	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000129824	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000154620	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000165246	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000183878	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000198692	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000233864	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000260197	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+XLOC_054028	Brain	Human	4	DESeq2 splineR MaSigPro In-house 
+ENSG00000241439	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000065325	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000234975	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000244422	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000135678	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000196839	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000178522	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000149305	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000111142	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000108509	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000132475	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000115816	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000125648	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000152034	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000165792	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000107130	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000117360	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000130021	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000257511	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000165138	Brain	Human	3	splineR MaSigPro In-house 
+ENSG00000005889	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000101049	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000106397	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000124920	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000137221	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000138152	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000150656	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000179532	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000184895	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000188818	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000196187	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000213318	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000231878	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000234335	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000236882	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000241859	Brain	Human	3	DESeq2 splineR In-house 
+ENSG00000075651	Brain	Human	1	DESeq2 
+ENSG00000123560	Brain	Human	1	DESeq2 
+ENSG00000158715	Brain	Human	1	DESeq2 
+ENSG00000173110	Brain	Human	1	DESeq2 
+ENSG00000178343	Brain	Human	1	DESeq2 
+ENSG00000178401	Brain	Human	1	DESeq2 
+ENSG00000197971	Brain	Human	1	DESeq2 
+ENSG00000230707	Brain	Human	1	DESeq2 
+ENSG00000141316	Brain	Human	1	splineR 
+ENSG00000177673	Brain	Human	1	splineR 
+ENSG00000164500	Brain	Human	1	splineR 
+ENSG00000164299	Brain	Human	1	splineR 
+ENSG00000170967	Brain	Human	1	splineR 
+ENSG00000225683	Brain	Human	1	splineR 
+ENSG00000106304	Brain	Human	1	splineR 
+ENSG00000141371	Brain	Human	1	splineR 
+ENSG00000066322	Brain	Human	1	splineR 
+ENSG00000186143	Brain	Human	1	splineR 
+ENSG00000189280	Brain	Human	1	splineR 
+ENSG00000203942	Brain	Human	1	splineR 
+ENSG00000198033	Brain	Human	1	splineR 
+ENSG00000185264	Brain	Human	1	splineR 
+ENSG00000131059	Brain	Human	1	splineR 
+ENSG00000273214	Brain	Human	1	splineR 
+ENSG00000103023	Brain	Human	1	splineR 
+ENSG00000260318	Brain	Human	1	splineR 
+ENSG00000204296	Brain	Human	1	splineR 
+ENSG00000011590	Brain	Human	1	splineR 
+ENSG00000169717	Brain	Human	1	splineR 
+ENSG00000174038	Brain	Human	1	splineR 
+ENSG00000102934	Brain	Human	1	splineR 
+ENSG00000179407	Brain	Human	1	splineR 
+ENSG00000143418	Brain	Human	1	splineR 
+ENSG00000124449	Brain	Human	1	splineR 
+ENSG00000212122	Brain	Human	1	splineR 
+ENSG00000164113	Brain	Human	1	splineR 
+ENSG00000172799	Brain	Human	1	splineR 
+ENSG00000272555	Brain	Human	1	splineR 
+ENSG00000182035	Brain	Human	1	splineR 
+ENSG00000177202	Brain	Human	1	splineR 
+ENSG00000161973	Brain	Human	1	splineR 
+ENSG00000163705	Brain	Human	1	splineR 
+ENSG00000223942	Brain	Human	1	splineR 
+ENSG00000173093	Brain	Human	1	splineR 
+ENSG00000181786	Brain	Human	1	splineR 
+ENSG00000223874	Brain	Human	1	splineR 
+ENSG00000186075	Brain	Human	1	splineR 
+ENSG00000167139	Brain	Human	1	splineR 
+ENSG00000173401	Brain	Human	1	splineR 
+ENSG00000238194	Brain	Human	1	splineR 
+ENSG00000123171	Brain	Human	1	splineR 
+ENSG00000197768	Brain	Human	1	splineR 
+ENSG00000177938	Brain	Human	1	splineR 
+ENSG00000196475	Brain	Human	1	splineR 
+ENSG00000188800	Brain	Human	1	splineR 
+ENSG00000124251	Brain	Human	1	splineR 
+ENSG00000157060	Brain	Human	1	splineR 
+ENSG00000105549	Brain	Human	1	splineR 
+ENSG00000049245	Brain	Human	1	splineR 
+ENSG00000155875	Brain	Human	1	splineR 
+ENSG00000187516	Brain	Human	1	splineR 
+ENSG00000224237	Brain	Human	1	splineR 
+ENSG00000226920	Brain	Human	1	splineR 
+ENSG00000180739	Brain	Human	1	splineR 
+ENSG00000147533	Brain	Human	1	splineR 
+ENSG00000164645	Brain	Human	1	splineR 
+ENSG00000225224	Brain	Human	1	splineR 
+ENSG00000150676	Brain	Human	1	splineR 
+ENSG00000258244	Brain	Human	1	splineR 
+ENSG00000271631	Brain	Human	1	splineR 
+ENSG00000259120	Brain	Human	1	splineR 
+ENSG00000257181	Brain	Human	1	splineR 
+ENSG00000167755	Brain	Human	1	splineR 
+ENSG00000237701	Brain	Human	1	splineR 
+ENSG00000239899	Brain	Human	1	splineR 
+ENSG00000170516	Brain	Human	1	splineR 
+ENSG00000173432	Brain	Human	1	splineR 
+ENSG00000100565	Brain	Human	1	splineR 
+ENSG00000152086	Brain	Human	1	splineR 
+ENSG00000162600	Brain	Human	1	splineR 
+ENSG00000260418	Brain	Human	1	splineR 
+ENSG00000120697	Brain	Human	1	splineR 
+ENSG00000129562	Brain	Human	1	splineR 
+ENSG00000242405	Brain	Human	1	splineR 
+ENSG00000166091	Brain	Human	1	splineR 
+ENSG00000150201	Brain	Human	1	splineR 
+ENSG00000256280	Brain	Human	1	splineR 
+ENSG00000227505	Brain	Human	1	splineR 
+ENSG00000185689	Brain	Human	1	splineR 
+ENSG00000143450	Brain	Human	1	splineR 
+ENSG00000227868	Brain	Human	1	splineR 
+ENSG00000174607	Brain	Human	1	splineR 
+ENSG00000143006	Brain	Human	1	splineR 
+ENSG00000235529	Brain	Human	1	splineR 
+ENSG00000265168	Brain	Human	1	splineR 
+ENSG00000138483	Brain	Human	1	splineR 
+ENSG00000159723	Brain	Human	1	splineR 
+ENSG00000179577	Brain	Human	1	splineR 
+ENSG00000217767	Brain	Human	1	splineR 
+ENSG00000266251	Brain	Human	1	splineR 
+ENSG00000082996	Brain	Human	1	splineR 
+ENSG00000146083	Brain	Human	1	splineR 
+ENSG00000143515	Brain	Human	1	splineR 
+ENSG00000238008	Brain	Human	1	splineR 
+ENSG00000185594	Brain	Human	1	splineR 
+ENSG00000204278	Brain	Human	1	splineR 
+ENSG00000166220	Brain	Human	1	splineR 
+ENSG00000234156	Brain	Human	1	splineR 
+ENSG00000171747	Brain	Human	1	splineR 
+ENSG00000154007	Brain	Human	1	splineR 
+ENSG00000232777	Brain	Human	1	splineR 
+ENSG00000258907	Brain	Human	1	splineR 
+ENSG00000023572	Brain	Human	1	splineR 
+ENSG00000175877	Brain	Human	1	splineR 
+ENSG00000221792	Brain	Human	1	splineR 
+ENSG00000250461	Brain	Human	1	splineR 
+ENSG00000108381	Brain	Human	1	splineR 
+ENSG00000184343	Brain	Human	1	splineR 
+ENSG00000080822	Brain	Human	1	splineR 
+ENSG00000086288	Brain	Human	1	splineR 
+ENSG00000213995	Brain	Human	1	splineR 
+ENSG00000224219	Brain	Human	1	splineR 
+ENSG00000241641	Brain	Human	1	splineR 
+ENSG00000168454	Brain	Human	1	splineR 
+ENSG00000273455	Brain	Human	1	splineR 
+ENSG00000125207	Brain	Human	1	splineR 
+ENSG00000258118	Brain	Human	1	splineR 
+ENSG00000261679	Brain	Human	1	splineR 
+ENSG00000234152	Brain	Human	1	splineR 
+ENSG00000158315	Brain	Human	1	splineR 
+ENSG00000242960	Brain	Human	1	splineR 
+ENSG00000106013	Brain	Human	1	splineR 
+ENSG00000130948	Brain	Human	1	splineR 
+ENSG00000125245	Brain	Human	1	splineR 
+ENSG00000253805	Brain	Human	1	splineR 
+ENSG00000249467	Brain	Human	1	splineR 
+ENSG00000114316	Brain	Human	1	splineR 
+ENSG00000118434	Brain	Human	1	splineR 
+ENSG00000206203	Brain	Human	1	splineR 
+ENSG00000229547	Brain	Human	1	splineR 
+ENSG00000148826	Brain	Human	1	splineR 
+ENSG00000256050	Brain	Human	1	splineR 
+ENSG00000144962	Brain	Human	1	splineR 
+ENSG00000016602	Brain	Human	1	splineR 
+ENSG00000189252	Brain	Human	1	splineR 
+ENSG00000231715	Brain	Human	1	splineR 
+ENSG00000104755	Brain	Human	1	splineR 
+ENSG00000155833	Brain	Human	1	splineR 
+ENSG00000042813	Brain	Human	1	splineR 
+ENSG00000134757	Brain	Human	1	splineR 
+ENSG00000243806	Brain	Human	1	splineR 
+ENSG00000223921	Brain	Human	1	splineR 
+ENSG00000176083	Brain	Human	1	splineR 
+ENSG00000167194	Brain	Human	1	splineR 
+ENSG00000156467	Brain	Human	1	splineR 
+ENSG00000187658	Brain	Human	1	splineR 
+ENSG00000071991	Brain	Human	1	splineR 
+ENSG00000253991	Brain	Human	1	splineR 
+ENSG00000267432	Brain	Human	1	splineR 
+ENSG00000176988	Brain	Human	1	splineR 
+ENSG00000105679	Brain	Human	1	splineR 
+ENSG00000183035	Brain	Human	1	splineR 
+ENSG00000112273	Brain	Human	1	splineR 
+ENSG00000182768	Brain	Human	1	splineR 
+ENSG00000202354	Brain	Human	1	splineR 
+ENSG00000038358	Brain	Human	1	splineR 
+ENSG00000222020	Brain	Human	1	splineR 
+ENSG00000147081	Brain	Human	1	splineR 
+ENSG00000244062	Brain	Human	1	splineR 
+ENSG00000217094	Brain	Human	1	splineR 
+ENSG00000235631	Brain	Human	1	splineR 
+ENSG00000123594	Brain	Human	1	splineR 
+ENSG00000249920	Brain	Human	1	splineR 
+ENSG00000244582	Brain	Human	1	splineR 
+ENSG00000158865	Brain	Human	1	splineR 
+ENSG00000148156	Brain	Human	1	splineR 
+ENSG00000162592	Brain	Human	1	splineR 
+ENSG00000150867	Brain	Human	1	splineR 
+ENSG00000152430	Brain	Human	1	splineR 
+ENSG00000269961	Brain	Human	1	splineR 
+ENSG00000168314	Brain	Human	1	splineR 
+ENSG00000163440	Brain	Human	1	splineR 
+ENSG00000254343	Brain	Human	1	splineR 
+ENSG00000178279	Brain	Human	1	splineR 
+ENSG00000075886	Brain	Human	1	splineR 
+ENSG00000166086	Brain	Human	1	splineR 
+ENSG00000118298	Brain	Human	1	splineR 
+ENSG00000200120	Brain	Human	1	splineR 
+ENSG00000233778	Brain	Human	1	splineR 
+ENSG00000189326	Brain	Human	1	splineR 
+ENSG00000175787	Brain	Human	1	splineR 
+ENSG00000134490	Brain	Human	1	splineR 
+ENSG00000228053	Brain	Human	1	splineR 
+ENSG00000266959	Brain	Human	1	splineR 
+ENSG00000224245	Brain	Human	1	splineR 
+ENSG00000153363	Brain	Human	1	splineR 
+ENSG00000165629	Brain	Human	1	splineR 
+ENSG00000251433	Brain	Human	1	splineR 
+ENSG00000235110	Brain	Human	1	splineR 
+ENSG00000173699	Brain	Human	1	splineR 
+ENSG00000213630	Brain	Human	1	splineR 
+ENSG00000125337	Brain	Human	1	splineR 
+ENSG00000154493	Brain	Human	1	splineR 
+ENSG00000128040	Brain	Human	1	splineR 
+ENSG00000258111	Brain	Human	1	splineR 
+ENSG00000130382	Brain	Human	1	splineR 
+ENSG00000197430	Brain	Human	1	splineR 
+ENSG00000164161	Brain	Human	1	splineR 
+ENSG00000171840	Brain	Human	1	splineR 
+ENSG00000161681	Brain	Human	1	splineR 
+ENSG00000164638	Brain	Human	1	splineR 
+ENSG00000136848	Brain	Human	1	splineR 
+ENSG00000111843	Brain	Human	1	splineR 
+ENSG00000139433	Brain	Human	1	splineR 
+ENSG00000173786	Brain	Human	1	splineR 
+ENSG00000183401	Brain	Human	1	splineR 
+ENSG00000160094	Brain	Human	1	splineR 
+ENSG00000272774	Brain	Human	1	splineR 
+ENSG00000231911	Brain	Human	1	splineR 
+ENSG00000215915	Brain	Human	1	splineR 
+ENSG00000141258	Brain	Human	1	splineR 
+ENSG00000090565	Brain	Human	1	splineR 
+ENSG00000149930	Brain	Human	1	splineR 
+ENSG00000228218	Brain	Human	1	splineR 
+ENSG00000258090	Brain	Human	1	splineR 
+ENSG00000264965	Brain	Human	1	splineR 
+ENSG00000207206	Brain	Human	1	splineR 
+ENSG00000077800	Brain	Human	1	splineR 
+ENSG00000213959	Brain	Human	1	splineR 
+ENSG00000231344	Brain	Human	1	splineR 
+ENSG00000163541	Brain	Human	1	splineR 
+ENSG00000186417	Brain	Human	1	splineR 
+ENSG00000267544	Brain	Human	1	splineR 
+ENSG00000124172	Brain	Human	1	splineR 
+ENSG00000153485	Brain	Human	1	splineR 
+ENSG00000196085	Brain	Human	1	splineR 
+ENSG00000225704	Brain	Human	1	splineR 
+ENSG00000130758	Brain	Human	1	splineR 
+ENSG00000184361	Brain	Human	1	splineR 
+ENSG00000080845	Brain	Human	1	splineR 
+ENSG00000258668	Brain	Human	1	splineR 
+ENSG00000126767	Brain	Human	1	splineR 
+ENSG00000143452	Brain	Human	1	splineR 
+ENSG00000183324	Brain	Human	1	splineR 
+ENSG00000273030	Brain	Human	1	splineR 
+ENSG00000086205	Brain	Human	1	splineR 
+ENSG00000162771	Brain	Human	1	splineR 
+ENSG00000226564	Brain	Human	1	splineR 
+ENSG00000252519	Brain	Human	1	splineR 
+ENSG00000258736	Brain	Human	1	splineR 
+ENSG00000251583	Brain	Human	1	splineR 
+ENSG00000254373	Brain	Human	1	splineR 
+ENSG00000105063	Brain	Human	1	splineR 
+ENSG00000105695	Brain	Human	1	splineR 
+ENSG00000237133	Brain	Human	1	splineR 
+ENSG00000011426	Brain	Human	1	splineR 
+ENSG00000079313	Brain	Human	1	splineR 
+ENSG00000141255	Brain	Human	1	splineR 
+ENSG00000170748	Brain	Human	1	splineR 
+ENSG00000172508	Brain	Human	1	splineR 
+ENSG00000168522	Brain	Human	1	splineR 
+ENSG00000165802	Brain	Human	1	splineR 
+ENSG00000176485	Brain	Human	1	splineR 
+ENSG00000235513	Brain	Human	1	splineR 
+ENSG00000154479	Brain	Human	1	splineR 
+ENSG00000247970	Brain	Human	1	splineR 
+ENSG00000172005	Brain	Human	1	splineR 
+ENSG00000130177	Brain	Human	1	splineR 
+ENSG00000136541	Brain	Human	1	splineR 
+ENSG00000001036	Brain	Human	1	MaSigPro 
+ENSG00000004660	Brain	Human	1	MaSigPro 
+ENSG00000004864	Brain	Human	1	MaSigPro 
+ENSG00000005893	Brain	Human	1	MaSigPro 
+ENSG00000006740	Brain	Human	1	MaSigPro 
+ENSG00000007264	Brain	Human	1	MaSigPro 
+ENSG00000007341	Brain	Human	1	MaSigPro 
+ENSG00000008056	Brain	Human	1	MaSigPro 
+ENSG00000008256	Brain	Human	1	MaSigPro 
+ENSG00000008441	Brain	Human	1	MaSigPro 
+ENSG00000010278	Brain	Human	1	MaSigPro 
+ENSG00000019485	Brain	Human	1	MaSigPro 
+ENSG00000020129	Brain	Human	1	MaSigPro 
+ENSG00000023041	Brain	Human	1	MaSigPro 
+ENSG00000023171	Brain	Human	1	MaSigPro 
+ENSG00000025772	Brain	Human	1	MaSigPro 
+ENSG00000036530	Brain	Human	1	MaSigPro 
+ENSG00000042286	Brain	Human	1	MaSigPro 
+ENSG00000049192	Brain	Human	1	MaSigPro 
+ENSG00000059691	Brain	Human	1	MaSigPro 
+ENSG00000060140	Brain	Human	1	MaSigPro 
+ENSG00000062282	Brain	Human	1	MaSigPro 
+ENSG00000062524	Brain	Human	1	MaSigPro 
+ENSG00000063322	Brain	Human	1	MaSigPro 
+ENSG00000068305	Brain	Human	1	MaSigPro 
+ENSG00000070159	Brain	Human	1	MaSigPro 
+ENSG00000070495	Brain	Human	1	MaSigPro 
+ENSG00000070526	Brain	Human	1	MaSigPro 
+ENSG00000070808	Brain	Human	1	MaSigPro 
+ENSG00000071205	Brain	Human	1	MaSigPro 
+ENSG00000071894	Brain	Human	1	MaSigPro 
+ENSG00000072134	Brain	Human	1	MaSigPro 
+ENSG00000072201	Brain	Human	1	MaSigPro 
+ENSG00000073150	Brain	Human	1	MaSigPro 
+ENSG00000073584	Brain	Human	1	MaSigPro 
+ENSG00000074266	Brain	Human	1	MaSigPro 
+ENSG00000075785	Brain	Human	1	MaSigPro 
+ENSG00000079337	Brain	Human	1	MaSigPro 
+ENSG00000080503	Brain	Human	1	MaSigPro 
+ENSG00000082898	Brain	Human	1	MaSigPro 
+ENSG00000083720	Brain	Human	1	MaSigPro 
+ENSG00000084070	Brain	Human	1	MaSigPro 
+ENSG00000084444	Brain	Human	1	MaSigPro 
+ENSG00000085563	Brain	Human	1	MaSigPro 
+ENSG00000085982	Brain	Human	1	MaSigPro 
+ENSG00000086589	Brain	Human	1	MaSigPro 
+ENSG00000087206	Brain	Human	1	MaSigPro 
+ENSG00000088451	Brain	Human	1	MaSigPro 
+ENSG00000089876	Brain	Human	1	MaSigPro 
+ENSG00000090020	Brain	Human	1	MaSigPro 
+ENSG00000090975	Brain	Human	1	MaSigPro 
+ENSG00000091622	Brain	Human	1	MaSigPro 
+ENSG00000094631	Brain	Human	1	MaSigPro 
+ENSG00000094914	Brain	Human	1	MaSigPro 
+ENSG00000099822	Brain	Human	1	MaSigPro 
+ENSG00000099992	Brain	Human	1	MaSigPro 
+ENSG00000100146	Brain	Human	1	MaSigPro 
+ENSG00000100307	Brain	Human	1	MaSigPro 
+ENSG00000100321	Brain	Human	1	MaSigPro 
+ENSG00000100425	Brain	Human	1	MaSigPro 
+ENSG00000100796	Brain	Human	1	MaSigPro 
+ENSG00000100884	Brain	Human	1	MaSigPro 
+ENSG00000100941	Brain	Human	1	MaSigPro 
+ENSG00000101079	Brain	Human	1	MaSigPro 
+ENSG00000101203	Brain	Human	1	MaSigPro 
+ENSG00000101493	Brain	Human	1	MaSigPro 
+ENSG00000102760	Brain	Human	1	MaSigPro 
+ENSG00000103264	Brain	Human	1	MaSigPro 
+ENSG00000103671	Brain	Human	1	MaSigPro 
+ENSG00000104408	Brain	Human	1	MaSigPro 
+ENSG00000104412	Brain	Human	1	MaSigPro 
+ENSG00000104833	Brain	Human	1	MaSigPro 
+ENSG00000105270	Brain	Human	1	MaSigPro 
+ENSG00000105376	Brain	Human	1	MaSigPro 
+ENSG00000105643	Brain	Human	1	MaSigPro 
+ENSG00000105696	Brain	Human	1	MaSigPro 
+ENSG00000105963	Brain	Human	1	MaSigPro 
+ENSG00000106415	Brain	Human	1	MaSigPro 
+ENSG00000106484	Brain	Human	1	MaSigPro 
+ENSG00000107937	Brain	Human	1	MaSigPro 
+ENSG00000107949	Brain	Human	1	MaSigPro 
+ENSG00000108262	Brain	Human	1	MaSigPro 
+ENSG00000108352	Brain	Human	1	MaSigPro 
+ENSG00000108439	Brain	Human	1	MaSigPro 
+ENSG00000108819	Brain	Human	1	MaSigPro 
+ENSG00000108924	Brain	Human	1	MaSigPro 
+ENSG00000109099	Brain	Human	1	MaSigPro 
+ENSG00000109452	Brain	Human	1	MaSigPro 
+ENSG00000109794	Brain	Human	1	MaSigPro 
+ENSG00000109846	Brain	Human	1	MaSigPro 
+ENSG00000110328	Brain	Human	1	MaSigPro 
+ENSG00000111218	Brain	Human	1	MaSigPro 
+ENSG00000111252	Brain	Human	1	MaSigPro 
+ENSG00000112079	Brain	Human	1	MaSigPro 
+ENSG00000112146	Brain	Human	1	MaSigPro 
+ENSG00000112592	Brain	Human	1	MaSigPro 
+ENSG00000113319	Brain	Human	1	MaSigPro 
+ENSG00000113578	Brain	Human	1	MaSigPro 
+ENSG00000114853	Brain	Human	1	MaSigPro 
+ENSG00000114859	Brain	Human	1	MaSigPro 
+ENSG00000114923	Brain	Human	1	MaSigPro 
+ENSG00000115761	Brain	Human	1	MaSigPro 
+ENSG00000116016	Brain	Human	1	MaSigPro 
+ENSG00000116337	Brain	Human	1	MaSigPro 
+ENSG00000116489	Brain	Human	1	MaSigPro 
+ENSG00000116604	Brain	Human	1	MaSigPro 
+ENSG00000116793	Brain	Human	1	MaSigPro 
+ENSG00000117115	Brain	Human	1	MaSigPro 
+ENSG00000117411	Brain	Human	1	MaSigPro 
+ENSG00000117461	Brain	Human	1	MaSigPro 
+ENSG00000117600	Brain	Human	1	MaSigPro 
+ENSG00000117643	Brain	Human	1	MaSigPro 
+ENSG00000117899	Brain	Human	1	MaSigPro 
+ENSG00000118276	Brain	Human	1	MaSigPro 
+ENSG00000118308	Brain	Human	1	MaSigPro 
+ENSG00000118523	Brain	Human	1	MaSigPro 
+ENSG00000119041	Brain	Human	1	MaSigPro 
+ENSG00000119125	Brain	Human	1	MaSigPro 
+ENSG00000119326	Brain	Human	1	MaSigPro 
+ENSG00000119383	Brain	Human	1	MaSigPro 
+ENSG00000119397	Brain	Human	1	MaSigPro 
+ENSG00000119638	Brain	Human	1	MaSigPro 
+ENSG00000119772	Brain	Human	1	MaSigPro 
+ENSG00000119900	Brain	Human	1	MaSigPro 
+ENSG00000120049	Brain	Human	1	MaSigPro 
+ENSG00000120899	Brain	Human	1	MaSigPro 
+ENSG00000120948	Brain	Human	1	MaSigPro 
+ENSG00000121764	Brain	Human	1	MaSigPro 
+ENSG00000122566	Brain	Human	1	MaSigPro 
+ENSG00000122679	Brain	Human	1	MaSigPro 
+ENSG00000122733	Brain	Human	1	MaSigPro 
+ENSG00000123146	Brain	Human	1	MaSigPro 
+ENSG00000123975	Brain	Human	1	MaSigPro 
+ENSG00000124313	Brain	Human	1	MaSigPro 
+ENSG00000124507	Brain	Human	1	MaSigPro 
+ENSG00000124788	Brain	Human	1	MaSigPro 
+ENSG00000125675	Brain	Human	1	MaSigPro 
+ENSG00000125841	Brain	Human	1	MaSigPro 
+ENSG00000126351	Brain	Human	1	MaSigPro 
+ENSG00000126524	Brain	Human	1	MaSigPro 
+ENSG00000126583	Brain	Human	1	MaSigPro 
+ENSG00000127337	Brain	Human	1	MaSigPro 
+ENSG00000127616	Brain	Human	1	MaSigPro 
+ENSG00000128245	Brain	Human	1	MaSigPro 
+ENSG00000128284	Brain	Human	1	MaSigPro 
+ENSG00000128534	Brain	Human	1	MaSigPro 
+ENSG00000128708	Brain	Human	1	MaSigPro 
+ENSG00000129515	Brain	Human	1	MaSigPro 
+ENSG00000130396	Brain	Human	1	MaSigPro 
+ENSG00000130413	Brain	Human	1	MaSigPro 
+ENSG00000130477	Brain	Human	1	MaSigPro 
+ENSG00000130775	Brain	Human	1	MaSigPro 
+ENSG00000130816	Brain	Human	1	MaSigPro 
+ENSG00000130958	Brain	Human	1	MaSigPro 
+ENSG00000131051	Brain	Human	1	MaSigPro 
+ENSG00000131795	Brain	Human	1	MaSigPro 
+ENSG00000131899	Brain	Human	1	MaSigPro 
+ENSG00000132359	Brain	Human	1	MaSigPro 
+ENSG00000132780	Brain	Human	1	MaSigPro 
+ENSG00000133104	Brain	Human	1	MaSigPro 
+ENSG00000133640	Brain	Human	1	MaSigPro 
+ENSG00000133805	Brain	Human	1	MaSigPro 
+ENSG00000133863	Brain	Human	1	MaSigPro 
+ENSG00000133943	Brain	Human	1	MaSigPro 
+ENSG00000134287	Brain	Human	1	MaSigPro 
+ENSG00000134343	Brain	Human	1	MaSigPro 
+ENSG00000134627	Brain	Human	1	MaSigPro 
+ENSG00000134697	Brain	Human	1	MaSigPro 
+ENSG00000135148	Brain	Human	1	MaSigPro 
+ENSG00000135439	Brain	Human	1	MaSigPro 
+ENSG00000135486	Brain	Human	1	MaSigPro 
+ENSG00000135926	Brain	Human	1	MaSigPro 
+ENSG00000135929	Brain	Human	1	MaSigPro 
+ENSG00000136156	Brain	Human	1	MaSigPro 
+ENSG00000136159	Brain	Human	1	MaSigPro 
+ENSG00000136267	Brain	Human	1	MaSigPro 
+ENSG00000136451	Brain	Human	1	MaSigPro 
+ENSG00000136518	Brain	Human	1	MaSigPro 
+ENSG00000136527	Brain	Human	1	MaSigPro 
+ENSG00000136699	Brain	Human	1	MaSigPro 
+ENSG00000136811	Brain	Human	1	MaSigPro 
+ENSG00000136854	Brain	Human	1	MaSigPro 
+ENSG00000136928	Brain	Human	1	MaSigPro 
+ENSG00000136960	Brain	Human	1	MaSigPro 
+ENSG00000137409	Brain	Human	1	MaSigPro 
+ENSG00000138031	Brain	Human	1	MaSigPro 
+ENSG00000138376	Brain	Human	1	MaSigPro 
+ENSG00000138587	Brain	Human	1	MaSigPro 
+ENSG00000138653	Brain	Human	1	MaSigPro 
+ENSG00000138722	Brain	Human	1	MaSigPro 
+ENSG00000138750	Brain	Human	1	MaSigPro 
+ENSG00000139597	Brain	Human	1	MaSigPro 
+ENSG00000139726	Brain	Human	1	MaSigPro 
+ENSG00000139800	Brain	Human	1	MaSigPro 
+ENSG00000139880	Brain	Human	1	MaSigPro 
+ENSG00000140612	Brain	Human	1	MaSigPro 
+ENSG00000140807	Brain	Human	1	MaSigPro 
+ENSG00000141127	Brain	Human	1	MaSigPro 
+ENSG00000141380	Brain	Human	1	MaSigPro 
+ENSG00000141447	Brain	Human	1	MaSigPro 
+ENSG00000141744	Brain	Human	1	MaSigPro 
+ENSG00000141854	Brain	Human	1	MaSigPro 
+ENSG00000142453	Brain	Human	1	MaSigPro 
+ENSG00000142549	Brain	Human	1	MaSigPro 
+ENSG00000142686	Brain	Human	1	MaSigPro 
+ENSG00000143153	Brain	Human	1	MaSigPro 
+ENSG00000143164	Brain	Human	1	MaSigPro 
+ENSG00000143248	Brain	Human	1	MaSigPro 
+ENSG00000143870	Brain	Human	1	MaSigPro 
+ENSG00000143924	Brain	Human	1	MaSigPro 
+ENSG00000144959	Brain	Human	1	MaSigPro 
+ENSG00000145824	Brain	Human	1	MaSigPro 
+ENSG00000146425	Brain	Human	1	MaSigPro 
+ENSG00000146469	Brain	Human	1	MaSigPro 
+ENSG00000149091	Brain	Human	1	MaSigPro 
+ENSG00000149480	Brain	Human	1	MaSigPro 
+ENSG00000149483	Brain	Human	1	MaSigPro 
+ENSG00000149489	Brain	Human	1	MaSigPro 
+ENSG00000149575	Brain	Human	1	MaSigPro 
+ENSG00000149970	Brain	Human	1	MaSigPro 
+ENSG00000150433	Brain	Human	1	MaSigPro 
+ENSG00000150594	Brain	Human	1	MaSigPro 
+ENSG00000151468	Brain	Human	1	MaSigPro 
+ENSG00000151576	Brain	Human	1	MaSigPro 
+ENSG00000151689	Brain	Human	1	MaSigPro 
+ENSG00000151849	Brain	Human	1	MaSigPro 
+ENSG00000151948	Brain	Human	1	MaSigPro 
+ENSG00000152359	Brain	Human	1	MaSigPro 
+ENSG00000154144	Brain	Human	1	MaSigPro 
+ENSG00000154229	Brain	Human	1	MaSigPro 
+ENSG00000154767	Brain	Human	1	MaSigPro 
+ENSG00000155324	Brain	Human	1	MaSigPro 
+ENSG00000156304	Brain	Human	1	MaSigPro 
+ENSG00000156509	Brain	Human	1	MaSigPro 
+ENSG00000156642	Brain	Human	1	MaSigPro 
+ENSG00000156831	Brain	Human	1	MaSigPro 
+ENSG00000156925	Brain	Human	1	MaSigPro 
+ENSG00000157036	Brain	Human	1	MaSigPro 
+ENSG00000157045	Brain	Human	1	MaSigPro 
+ENSG00000157087	Brain	Human	1	MaSigPro 
+ENSG00000157219	Brain	Human	1	MaSigPro 
+ENSG00000158545	Brain	Human	1	MaSigPro 
+ENSG00000159593	Brain	Human	1	MaSigPro 
+ENSG00000159899	Brain	Human	1	MaSigPro 
+ENSG00000160014	Brain	Human	1	MaSigPro 
+ENSG00000160209	Brain	Human	1	MaSigPro 
+ENSG00000160216	Brain	Human	1	MaSigPro 
+ENSG00000160408	Brain	Human	1	MaSigPro 
+ENSG00000160685	Brain	Human	1	MaSigPro 
+ENSG00000160877	Brain	Human	1	MaSigPro 
+ENSG00000161714	Brain	Human	1	MaSigPro 
+ENSG00000162188	Brain	Human	1	MaSigPro 
+ENSG00000162302	Brain	Human	1	MaSigPro 
+ENSG00000162694	Brain	Human	1	MaSigPro 
+ENSG00000162738	Brain	Human	1	MaSigPro 
+ENSG00000162817	Brain	Human	1	MaSigPro 
+ENSG00000162913	Brain	Human	1	MaSigPro 
+ENSG00000162931	Brain	Human	1	MaSigPro 
+ENSG00000163013	Brain	Human	1	MaSigPro 
+ENSG00000163166	Brain	Human	1	MaSigPro 
+ENSG00000163399	Brain	Human	1	MaSigPro 
+ENSG00000163608	Brain	Human	1	MaSigPro 
+ENSG00000163818	Brain	Human	1	MaSigPro 
+ENSG00000163879	Brain	Human	1	MaSigPro 
+ENSG00000163918	Brain	Human	1	MaSigPro 
+ENSG00000163932	Brain	Human	1	MaSigPro 
+ENSG00000163935	Brain	Human	1	MaSigPro 
+ENSG00000163947	Brain	Human	1	MaSigPro 
+ENSG00000164362	Brain	Human	1	MaSigPro 
+ENSG00000164715	Brain	Human	1	MaSigPro 
+ENSG00000164941	Brain	Human	1	MaSigPro 
+ENSG00000165359	Brain	Human	1	MaSigPro 
+ENSG00000165512	Brain	Human	1	MaSigPro 
+ENSG00000165588	Brain	Human	1	MaSigPro 
+ENSG00000165609	Brain	Human	1	MaSigPro 
+ENSG00000165661	Brain	Human	1	MaSigPro 
+ENSG00000165678	Brain	Human	1	MaSigPro 
+ENSG00000165801	Brain	Human	1	MaSigPro 
+ENSG00000165949	Brain	Human	1	MaSigPro 
+ENSG00000165995	Brain	Human	1	MaSigPro 
+ENSG00000166035	Brain	Human	1	MaSigPro 
+ENSG00000166448	Brain	Human	1	MaSigPro 
+ENSG00000166579	Brain	Human	1	MaSigPro 
+ENSG00000166863	Brain	Human	1	MaSigPro 
+ENSG00000166963	Brain	Human	1	MaSigPro 
+ENSG00000166987	Brain	Human	1	MaSigPro 
+ENSG00000167191	Brain	Human	1	MaSigPro 
+ENSG00000167323	Brain	Human	1	MaSigPro 
+ENSG00000167470	Brain	Human	1	MaSigPro 
+ENSG00000167491	Brain	Human	1	MaSigPro 
+ENSG00000167588	Brain	Human	1	MaSigPro 
+ENSG00000167778	Brain	Human	1	MaSigPro 
+ENSG00000167842	Brain	Human	1	MaSigPro 
+ENSG00000167920	Brain	Human	1	MaSigPro 
+ENSG00000168004	Brain	Human	1	MaSigPro 
+ENSG00000168453	Brain	Human	1	MaSigPro 
+ENSG00000168539	Brain	Human	1	MaSigPro 
+ENSG00000169032	Brain	Human	1	MaSigPro 
+ENSG00000169045	Brain	Human	1	MaSigPro 
+ENSG00000169122	Brain	Human	1	MaSigPro 
+ENSG00000169126	Brain	Human	1	MaSigPro 
+ENSG00000169218	Brain	Human	1	MaSigPro 
+ENSG00000169271	Brain	Human	1	MaSigPro 
+ENSG00000169884	Brain	Human	1	MaSigPro 
+ENSG00000169900	Brain	Human	1	MaSigPro 
+ENSG00000170322	Brain	Human	1	MaSigPro 
+ENSG00000170485	Brain	Human	1	MaSigPro 
+ENSG00000170579	Brain	Human	1	MaSigPro 
+ENSG00000171291	Brain	Human	1	MaSigPro 
+ENSG00000171368	Brain	Human	1	MaSigPro 
+ENSG00000171603	Brain	Human	1	MaSigPro 
+ENSG00000171992	Brain	Human	1	MaSigPro 
+ENSG00000172375	Brain	Human	1	MaSigPro 
+ENSG00000172766	Brain	Human	1	MaSigPro 
+ENSG00000172794	Brain	Human	1	MaSigPro 
+ENSG00000172985	Brain	Human	1	MaSigPro 
+ENSG00000172995	Brain	Human	1	MaSigPro 
+ENSG00000174326	Brain	Human	1	MaSigPro 
+ENSG00000174514	Brain	Human	1	MaSigPro 
+ENSG00000175874	Brain	Human	1	MaSigPro 
+ENSG00000176399	Brain	Human	1	MaSigPro 
+ENSG00000176444	Brain	Human	1	MaSigPro 
+ENSG00000176783	Brain	Human	1	MaSigPro 
+ENSG00000176871	Brain	Human	1	MaSigPro 
+ENSG00000176953	Brain	Human	1	MaSigPro 
+ENSG00000177082	Brain	Human	1	MaSigPro 
+ENSG00000177551	Brain	Human	1	MaSigPro 
+ENSG00000177628	Brain	Human	1	MaSigPro 
+ENSG00000178965	Brain	Human	1	MaSigPro 
+ENSG00000179388	Brain	Human	1	MaSigPro 
+ENSG00000179818	Brain	Human	1	MaSigPro 
+ENSG00000179841	Brain	Human	1	MaSigPro 
+ENSG00000181163	Brain	Human	1	MaSigPro 
+ENSG00000181418	Brain	Human	1	MaSigPro 
+ENSG00000181458	Brain	Human	1	MaSigPro 
+ENSG00000181588	Brain	Human	1	MaSigPro 
+ENSG00000181690	Brain	Human	1	MaSigPro 
+ENSG00000181804	Brain	Human	1	MaSigPro 
+ENSG00000182149	Brain	Human	1	MaSigPro 
+ENSG00000182218	Brain	Human	1	MaSigPro 
+ENSG00000182263	Brain	Human	1	MaSigPro 
+ENSG00000182575	Brain	Human	1	MaSigPro 
+ENSG00000182621	Brain	Human	1	MaSigPro 
+ENSG00000182873	Brain	Human	1	MaSigPro 
+ENSG00000183049	Brain	Human	1	MaSigPro 
+ENSG00000183087	Brain	Human	1	MaSigPro 
+ENSG00000183454	Brain	Human	1	MaSigPro 
+ENSG00000183723	Brain	Human	1	MaSigPro 
+ENSG00000184185	Brain	Human	1	MaSigPro 
+ENSG00000184385	Brain	Human	1	MaSigPro 
+ENSG00000184702	Brain	Human	1	MaSigPro 
+ENSG00000184792	Brain	Human	1	MaSigPro 
+ENSG00000185340	Brain	Human	1	MaSigPro 
+ENSG00000185345	Brain	Human	1	MaSigPro 
+ENSG00000186212	Brain	Human	1	MaSigPro 
+ENSG00000186297	Brain	Human	1	MaSigPro 
+ENSG00000186298	Brain	Human	1	MaSigPro 
+ENSG00000186479	Brain	Human	1	MaSigPro 
+ENSG00000187446	Brain	Human	1	MaSigPro 
+ENSG00000188191	Brain	Human	1	MaSigPro 
+ENSG00000188529	Brain	Human	1	MaSigPro 
+ENSG00000188729	Brain	Human	1	MaSigPro 
+ENSG00000196236	Brain	Human	1	MaSigPro 
+ENSG00000196352	Brain	Human	1	MaSigPro 
+ENSG00000196576	Brain	Human	1	MaSigPro 
+ENSG00000196872	Brain	Human	1	MaSigPro 
+ENSG00000196990	Brain	Human	1	MaSigPro 
+ENSG00000197063	Brain	Human	1	MaSigPro 
+ENSG00000197859	Brain	Human	1	MaSigPro 
+ENSG00000197860	Brain	Human	1	MaSigPro 
+ENSG00000197956	Brain	Human	1	MaSigPro 
+ENSG00000198053	Brain	Human	1	MaSigPro 
+ENSG00000198668	Brain	Human	1	MaSigPro 
+ENSG00000198719	Brain	Human	1	MaSigPro 
+ENSG00000198856	Brain	Human	1	MaSigPro 
+ENSG00000203685	Brain	Human	1	MaSigPro 
+ENSG00000203772	Brain	Human	1	MaSigPro 
+ENSG00000204138	Brain	Human	1	MaSigPro 
+ENSG00000204314	Brain	Human	1	MaSigPro 
+ENSG00000204381	Brain	Human	1	MaSigPro 
+ENSG00000205106	Brain	Human	1	MaSigPro 
+ENSG00000205659	Brain	Human	1	MaSigPro 
+ENSG00000206190	Brain	Human	1	MaSigPro 
+ENSG00000213760	Brain	Human	1	MaSigPro 
+ENSG00000215452	Brain	Human	1	MaSigPro 
+ENSG00000215712	Brain	Human	1	MaSigPro 
+ENSG00000220205	Brain	Human	1	MaSigPro 
+ENSG00000221890	Brain	Human	1	MaSigPro 
+ENSG00000226415	Brain	Human	1	MaSigPro 
+ENSG00000230124	Brain	Human	1	MaSigPro 
+ENSG00000231025	Brain	Human	1	MaSigPro 
+ENSG00000231312	Brain	Human	1	MaSigPro 
+ENSG00000231925	Brain	Human	1	MaSigPro 
+ENSG00000234145	Brain	Human	1	MaSigPro 
+ENSG00000238243	Brain	Human	1	MaSigPro 
+ENSG00000239305	Brain	Human	1	MaSigPro 
+ENSG00000239306	Brain	Human	1	MaSigPro 
+ENSG00000239697	Brain	Human	1	MaSigPro 
+ENSG00000248641	Brain	Human	1	MaSigPro 
+ENSG00000250510	Brain	Human	1	MaSigPro 
+ENSG00000269935	Brain	Human	1	MaSigPro 
+ENSG00000272505	Brain	Human	1	MaSigPro 
+ENSG00000272686	Brain	Human	1	MaSigPro 
+ENSG00000273487	Brain	Human	1	MaSigPro 
+ENSG00000004455	Brain	Human	1	In-house 
+ENSG00000005961	Brain	Human	1	In-house 
+ENSG00000006016	Brain	Human	1	In-house 
+ENSG00000006047	Brain	Human	1	In-house 
+ENSG00000006757	Brain	Human	1	In-house 
+ENSG00000011347	Brain	Human	1	In-house 
+ENSG00000012983	Brain	Human	1	In-house 
+ENSG00000028116	Brain	Human	1	In-house 
+ENSG00000030066	Brain	Human	1	In-house 
+ENSG00000034053	Brain	Human	1	In-house 
+ENSG00000035664	Brain	Human	1	In-house 
+ENSG00000038427	Brain	Human	1	In-house 
+ENSG00000039319	Brain	Human	1	In-house 
+ENSG00000039560	Brain	Human	1	In-house 
+ENSG00000044446	Brain	Human	1	In-house 
+ENSG00000049769	Brain	Human	1	In-house 
+ENSG00000054803	Brain	Human	1	In-house 
+ENSG00000055044	Brain	Human	1	In-house 
+ENSG00000055483	Brain	Human	1	In-house 
+ENSG00000058673	Brain	Human	1	In-house 
+ENSG00000060303	Brain	Human	1	In-house 
+ENSG00000061936	Brain	Human	1	In-house 
+ENSG00000064102	Brain	Human	1	In-house 
+ENSG00000064309	Brain	Human	1	In-house 
+ENSG00000064886	Brain	Human	1	In-house 
+ENSG00000068650	Brain	Human	1	In-house 
+ENSG00000069020	Brain	Human	1	In-house 
+ENSG00000071082	Brain	Human	1	In-house 
+ENSG00000072062	Brain	Human	1	In-house 
+ENSG00000072121	Brain	Human	1	In-house 
+ENSG00000072182	Brain	Human	1	In-house 
+ENSG00000073331	Brain	Human	1	In-house 
+ENSG00000078053	Brain	Human	1	In-house 
+ENSG00000080007	Brain	Human	1	In-house 
+ENSG00000080644	Brain	Human	1	In-house 
+ENSG00000082213	Brain	Human	1	In-house 
+ENSG00000084734	Brain	Human	1	In-house 
+ENSG00000086712	Brain	Human	1	In-house 
+ENSG00000087269	Brain	Human	1	In-house 
+ENSG00000089063	Brain	Human	1	In-house 
+ENSG00000090382	Brain	Human	1	In-house 
+ENSG00000090924	Brain	Human	1	In-house 
+ENSG00000091583	Brain	Human	1	In-house 
+ENSG00000092758	Brain	Human	1	In-house 
+ENSG00000092871	Brain	Human	1	In-house 
+ENSG00000095370	Brain	Human	1	In-house 
+ENSG00000095564	Brain	Human	1	In-house 
+ENSG00000099256	Brain	Human	1	In-house 
+ENSG00000099331	Brain	Human	1	In-house 
+ENSG00000099625	Brain	Human	1	In-house 
+ENSG00000100197	Brain	Human	1	In-house 
+ENSG00000100201	Brain	Human	1	In-house 
+ENSG00000100288	Brain	Human	1	In-house 
+ENSG00000100325	Brain	Human	1	In-house 
+ENSG00000100842	Brain	Human	1	In-house 
+ENSG00000101180	Brain	Human	1	In-house 
+ENSG00000101333	Brain	Human	1	In-house 
+ENSG00000101871	Brain	Human	1	In-house 
+ENSG00000102007	Brain	Human	1	In-house 
+ENSG00000102882	Brain	Human	1	In-house 
+ENSG00000102935	Brain	Human	1	In-house 
+ENSG00000103091	Brain	Human	1	In-house 
+ENSG00000103154	Brain	Human	1	In-house 
+ENSG00000103241	Brain	Human	1	In-house 
+ENSG00000103591	Brain	Human	1	In-house 
+ENSG00000104356	Brain	Human	1	In-house 
+ENSG00000104365	Brain	Human	1	In-house 
+ENSG00000104626	Brain	Human	1	In-house 
+ENSG00000104728	Brain	Human	1	In-house 
+ENSG00000104859	Brain	Human	1	In-house 
+ENSG00000104883	Brain	Human	1	In-house 
+ENSG00000104885	Brain	Human	1	In-house 
+ENSG00000105193	Brain	Human	1	In-house 
+ENSG00000105202	Brain	Human	1	In-house 
+ENSG00000105223	Brain	Human	1	In-house 
+ENSG00000105976	Brain	Human	1	In-house 
+ENSG00000106018	Brain	Human	1	In-house 
+ENSG00000106144	Brain	Human	1	In-house 
+ENSG00000106344	Brain	Human	1	In-house 
+ENSG00000106462	Brain	Human	1	In-house 
+ENSG00000106633	Brain	Human	1	In-house 
+ENSG00000107338	Brain	Human	1	In-house 
+ENSG00000107623	Brain	Human	1	In-house 
+ENSG00000107815	Brain	Human	1	In-house 
+ENSG00000107938	Brain	Human	1	In-house 
+ENSG00000108001	Brain	Human	1	In-house 
+ENSG00000108379	Brain	Human	1	In-house 
+ENSG00000108592	Brain	Human	1	In-house 
+ENSG00000108654	Brain	Human	1	In-house 
+ENSG00000108960	Brain	Human	1	In-house 
+ENSG00000109189	Brain	Human	1	In-house 
+ENSG00000109762	Brain	Human	1	In-house 
+ENSG00000109787	Brain	Human	1	In-house 
+ENSG00000109851	Brain	Human	1	In-house 
+ENSG00000109920	Brain	Human	1	In-house 
+ENSG00000110245	Brain	Human	1	In-house 
+ENSG00000110811	Brain	Human	1	In-house 
+ENSG00000110931	Brain	Human	1	In-house 
+ENSG00000111432	Brain	Human	1	In-house 
+ENSG00000111641	Brain	Human	1	In-house 
+ENSG00000111859	Brain	Human	1	In-house 
+ENSG00000112619	Brain	Human	1	In-house 
+ENSG00000112655	Brain	Human	1	In-house 
+ENSG00000112782	Brain	Human	1	In-house 
+ENSG00000112796	Brain	Human	1	In-house 
+ENSG00000113296	Brain	Human	1	In-house 
+ENSG00000113732	Brain	Human	1	In-house 
+ENSG00000113966	Brain	Human	1	In-house 
+ENSG00000114423	Brain	Human	1	In-house 
+ENSG00000114487	Brain	Human	1	In-house 
+ENSG00000114541	Brain	Human	1	In-house 
+ENSG00000114654	Brain	Human	1	In-house 
+ENSG00000115138	Brain	Human	1	In-house 
+ENSG00000115170	Brain	Human	1	In-house 
+ENSG00000115211	Brain	Human	1	In-house 
+ENSG00000115368	Brain	Human	1	In-house 
+ENSG00000115486	Brain	Human	1	In-house 
+ENSG00000115561	Brain	Human	1	In-house 
+ENSG00000115756	Brain	Human	1	In-house 
+ENSG00000116213	Brain	Human	1	In-house 
+ENSG00000116544	Brain	Human	1	In-house 
+ENSG00000116649	Brain	Human	1	In-house 
+ENSG00000116679	Brain	Human	1	In-house 
+ENSG00000116871	Brain	Human	1	In-house 
+ENSG00000117245	Brain	Human	1	In-house 
+ENSG00000117266	Brain	Human	1	In-house 
+ENSG00000117601	Brain	Human	1	In-house 
+ENSG00000118156	Brain	Human	1	In-house 
+ENSG00000118181	Brain	Human	1	In-house 
+ENSG00000119408	Brain	Human	1	In-house 
+ENSG00000119943	Brain	Human	1	In-house 
+ENSG00000120616	Brain	Human	1	In-house 
+ENSG00000120903	Brain	Human	1	In-house 
+ENSG00000121089	Brain	Human	1	In-house 
+ENSG00000121281	Brain	Human	1	In-house 
+ENSG00000121410	Brain	Human	1	In-house 
+ENSG00000122644	Brain	Human	1	In-house 
+ENSG00000122779	Brain	Human	1	In-house 
+ENSG00000123427	Brain	Human	1	In-house 
+ENSG00000123454	Brain	Human	1	In-house 
+ENSG00000123901	Brain	Human	1	In-house 
+ENSG00000123992	Brain	Human	1	In-house 
+ENSG00000124203	Brain	Human	1	In-house 
+ENSG00000124228	Brain	Human	1	In-house 
+ENSG00000124664	Brain	Human	1	In-house 
+ENSG00000125122	Brain	Human	1	In-house 
+ENSG00000125148	Brain	Human	1	In-house 
+ENSG00000125266	Brain	Human	1	In-house 
+ENSG00000125450	Brain	Human	1	In-house 
+ENSG00000125462	Brain	Human	1	In-house 
+ENSG00000125538	Brain	Human	1	In-house 
+ENSG00000125676	Brain	Human	1	In-house 
+ENSG00000125691	Brain	Human	1	In-house 
+ENSG00000125814	Brain	Human	1	In-house 
+ENSG00000125864	Brain	Human	1	In-house 
+ENSG00000125967	Brain	Human	1	In-house 
+ENSG00000126003	Brain	Human	1	In-house 
+ENSG00000126070	Brain	Human	1	In-house 
+ENSG00000126091	Brain	Human	1	In-house 
+ENSG00000127152	Brain	Human	1	In-house 
+ENSG00000127585	Brain	Human	1	In-house 
+ENSG00000128165	Brain	Human	1	In-house 
+ENSG00000129007	Brain	Human	1	In-house 
+ENSG00000129187	Brain	Human	1	In-house 
+ENSG00000129277	Brain	Human	1	In-house 
+ENSG00000129347	Brain	Human	1	In-house 
+ENSG00000129514	Brain	Human	1	In-house 
+ENSG00000129682	Brain	Human	1	In-house 
+ENSG00000129933	Brain	Human	1	In-house 
+ENSG00000130255	Brain	Human	1	In-house 
+ENSG00000130508	Brain	Human	1	In-house 
+ENSG00000130513	Brain	Human	1	In-house 
+ENSG00000130584	Brain	Human	1	In-house 
+ENSG00000130755	Brain	Human	1	In-house 
+ENSG00000130822	Brain	Human	1	In-house 
+ENSG00000131037	Brain	Human	1	In-house 
+ENSG00000131127	Brain	Human	1	In-house 
+ENSG00000131269	Brain	Human	1	In-house 
+ENSG00000131469	Brain	Human	1	In-house 
+ENSG00000131943	Brain	Human	1	In-house 
+ENSG00000132429	Brain	Human	1	In-house 
+ENSG00000132522	Brain	Human	1	In-house 
+ENSG00000132640	Brain	Human	1	In-house 
+ENSG00000132821	Brain	Human	1	In-house 
+ENSG00000132837	Brain	Human	1	In-house 
+ENSG00000132872	Brain	Human	1	In-house 
+ENSG00000132938	Brain	Human	1	In-house 
+ENSG00000132952	Brain	Human	1	In-house 
+ENSG00000133121	Brain	Human	1	In-house 
+ENSG00000133136	Brain	Human	1	In-house 
+ENSG00000133316	Brain	Human	1	In-house 
+ENSG00000133466	Brain	Human	1	In-house 
+ENSG00000134115	Brain	Human	1	In-house 
+ENSG00000134247	Brain	Human	1	In-house 
+ENSG00000134256	Brain	Human	1	In-house 
+ENSG00000134294	Brain	Human	1	In-house 
+ENSG00000134443	Brain	Human	1	In-house 
+ENSG00000134574	Brain	Human	1	In-house 
+ENSG00000135046	Brain	Human	1	In-house 
+ENSG00000135114	Brain	Human	1	In-house 
+ENSG00000135164	Brain	Human	1	In-house 
+ENSG00000135299	Brain	Human	1	In-house 
+ENSG00000135473	Brain	Human	1	In-house 
+ENSG00000135638	Brain	Human	1	In-house 
+ENSG00000135679	Brain	Human	1	In-house 
+ENSG00000135697	Brain	Human	1	In-house 
+ENSG00000135763	Brain	Human	1	In-house 
+ENSG00000135801	Brain	Human	1	In-house 
+ENSG00000135912	Brain	Human	1	In-house 
+ENSG00000136068	Brain	Human	1	In-house 
+ENSG00000136098	Brain	Human	1	In-house 
+ENSG00000136099	Brain	Human	1	In-house 
+ENSG00000136449	Brain	Human	1	In-house 
+ENSG00000136488	Brain	Human	1	In-house 
+ENSG00000136535	Brain	Human	1	In-house 
+ENSG00000136872	Brain	Human	1	In-house 
+ENSG00000136925	Brain	Human	1	In-house 
+ENSG00000137070	Brain	Human	1	In-house 
+ENSG00000137145	Brain	Human	1	In-house 
+ENSG00000137269	Brain	Human	1	In-house 
+ENSG00000137338	Brain	Human	1	In-house 
+ENSG00000137496	Brain	Human	1	In-house 
+ENSG00000137513	Brain	Human	1	In-house 
+ENSG00000137834	Brain	Human	1	In-house 
+ENSG00000137868	Brain	Human	1	In-house 
+ENSG00000137965	Brain	Human	1	In-house 
+ENSG00000137970	Brain	Human	1	In-house 
+ENSG00000138002	Brain	Human	1	In-house 
+ENSG00000138190	Brain	Human	1	In-house 
+ENSG00000138326	Brain	Human	1	In-house 
+ENSG00000138615	Brain	Human	1	In-house 
+ENSG00000138669	Brain	Human	1	In-house 
+ENSG00000138792	Brain	Human	1	In-house 
+ENSG00000139117	Brain	Human	1	In-house 
+ENSG00000139239	Brain	Human	1	In-house 
+ENSG00000139631	Brain	Human	1	In-house 
+ENSG00000139737	Brain	Human	1	In-house 
+ENSG00000139946	Brain	Human	1	In-house 
+ENSG00000140379	Brain	Human	1	In-house 
+ENSG00000140450	Brain	Human	1	In-house 
+ENSG00000140575	Brain	Human	1	In-house 
+ENSG00000140853	Brain	Human	1	In-house 
+ENSG00000141140	Brain	Human	1	In-house 
+ENSG00000141433	Brain	Human	1	In-house 
+ENSG00000141449	Brain	Human	1	In-house 
+ENSG00000141458	Brain	Human	1	In-house 
+ENSG00000141569	Brain	Human	1	In-house 
+ENSG00000141576	Brain	Human	1	In-house 
+ENSG00000141668	Brain	Human	1	In-house 
+ENSG00000142178	Brain	Human	1	In-house 
+ENSG00000142279	Brain	Human	1	In-house 
+ENSG00000142396	Brain	Human	1	In-house 
+ENSG00000142534	Brain	Human	1	In-house 
+ENSG00000142794	Brain	Human	1	In-house 
+ENSG00000143355	Brain	Human	1	In-house 
+ENSG00000143384	Brain	Human	1	In-house 
+ENSG00000143458	Brain	Human	1	In-house 
+ENSG00000143466	Brain	Human	1	In-house 
+ENSG00000143537	Brain	Human	1	In-house 
+ENSG00000143622	Brain	Human	1	In-house 
+ENSG00000143850	Brain	Human	1	In-house 
+ENSG00000144152	Brain	Human	1	In-house 
+ENSG00000144655	Brain	Human	1	In-house 
+ENSG00000144713	Brain	Human	1	In-house 
+ENSG00000145536	Brain	Human	1	In-house 
+ENSG00000145592	Brain	Human	1	In-house 
+ENSG00000146555	Brain	Human	1	In-house 
+ENSG00000146677	Brain	Human	1	In-house 
+ENSG00000146833	Brain	Human	1	In-house 
+ENSG00000146859	Brain	Human	1	In-house 
+ENSG00000147050	Brain	Human	1	In-house 
+ENSG00000147465	Brain	Human	1	In-house 
+ENSG00000147604	Brain	Human	1	In-house 
+ENSG00000147854	Brain	Human	1	In-house 
+ENSG00000147862	Brain	Human	1	In-house 
+ENSG00000148399	Brain	Human	1	In-house 
+ENSG00000148840	Brain	Human	1	In-house 
+ENSG00000148925	Brain	Human	1	In-house 
+ENSG00000149527	Brain	Human	1	In-house 
+ENSG00000149531	Brain	Human	1	In-house 
+ENSG00000149654	Brain	Human	1	In-house 
+ENSG00000151006	Brain	Human	1	In-house 
+ENSG00000151923	Brain	Human	1	In-house 
+ENSG00000152192	Brain	Human	1	In-house 
+ENSG00000152382	Brain	Human	1	In-house 
+ENSG00000152404	Brain	Human	1	In-house 
+ENSG00000152433	Brain	Human	1	In-house 
+ENSG00000152454	Brain	Human	1	In-house 
+ENSG00000152527	Brain	Human	1	In-house 
+ENSG00000152578	Brain	Human	1	In-house 
+ENSG00000153266	Brain	Human	1	In-house 
+ENSG00000153404	Brain	Human	1	In-house 
+ENSG00000153822	Brain	Human	1	In-house 
+ENSG00000154124	Brain	Human	1	In-house 
+ENSG00000154589	Brain	Human	1	In-house 
+ENSG00000154914	Brain	Human	1	In-house 
+ENSG00000154975	Brain	Human	1	In-house 
+ENSG00000155275	Brain	Human	1	In-house 
+ENSG00000155287	Brain	Human	1	In-house 
+ENSG00000155886	Brain	Human	1	In-house 
+ENSG00000156127	Brain	Human	1	In-house 
+ENSG00000156253	Brain	Human	1	In-house 
+ENSG00000156482	Brain	Human	1	In-house 
+ENSG00000156885	Brain	Human	1	In-house 
+ENSG00000156983	Brain	Human	1	In-house 
+ENSG00000157191	Brain	Human	1	In-house 
+ENSG00000157426	Brain	Human	1	In-house 
+ENSG00000157429	Brain	Human	1	In-house 
+ENSG00000157483	Brain	Human	1	In-house 
+ENSG00000157542	Brain	Human	1	In-house 
+ENSG00000157741	Brain	Human	1	In-house 
+ENSG00000157870	Brain	Human	1	In-house 
+ENSG00000158109	Brain	Human	1	In-house 
+ENSG00000158156	Brain	Human	1	In-house 
+ENSG00000158161	Brain	Human	1	In-house 
+ENSG00000158296	Brain	Human	1	In-house 
+ENSG00000158711	Brain	Human	1	In-house 
+ENSG00000158805	Brain	Human	1	In-house 
+ENSG00000159086	Brain	Human	1	In-house 
+ENSG00000160113	Brain	Human	1	In-house 
+ENSG00000160191	Brain	Human	1	In-house 
+ENSG00000160193	Brain	Human	1	In-house 
+ENSG00000160201	Brain	Human	1	In-house 
+ENSG00000160305	Brain	Human	1	In-house 
+ENSG00000160326	Brain	Human	1	In-house 
+ENSG00000160469	Brain	Human	1	In-house 
+ENSG00000160613	Brain	Human	1	In-house 
+ENSG00000160741	Brain	Human	1	In-house 
+ENSG00000161544	Brain	Human	1	In-house 
+ENSG00000161551	Brain	Human	1	In-house 
+ENSG00000162086	Brain	Human	1	In-house 
+ENSG00000162298	Brain	Human	1	In-house 
+ENSG00000162413	Brain	Human	1	In-house 
+ENSG00000162631	Brain	Human	1	In-house 
+ENSG00000162755	Brain	Human	1	In-house 
+ENSG00000162775	Brain	Human	1	In-house 
+ENSG00000162836	Brain	Human	1	In-house 
+ENSG00000162840	Brain	Human	1	In-house 
+ENSG00000163016	Brain	Human	1	In-house 
+ENSG00000163377	Brain	Human	1	In-house 
+ENSG00000163389	Brain	Human	1	In-house 
+ENSG00000163395	Brain	Human	1	In-house 
+ENSG00000163449	Brain	Human	1	In-house 
+ENSG00000163602	Brain	Human	1	In-house 
+ENSG00000163623	Brain	Human	1	In-house 
+ENSG00000163631	Brain	Human	1	In-house 
+ENSG00000163660	Brain	Human	1	In-house 
+ENSG00000163888	Brain	Human	1	In-house 
+ENSG00000163945	Brain	Human	1	In-house 
+ENSG00000164404	Brain	Human	1	In-house 
+ENSG00000164663	Brain	Human	1	In-house 
+ENSG00000164934	Brain	Human	1	In-house 
+ENSG00000165152	Brain	Human	1	In-house 
+ENSG00000165275	Brain	Human	1	In-house 
+ENSG00000165494	Brain	Human	1	In-house 
+ENSG00000165502	Brain	Human	1	In-house 
+ENSG00000165509	Brain	Human	1	In-house 
+ENSG00000165621	Brain	Human	1	In-house 
+ENSG00000165752	Brain	Human	1	In-house 
+ENSG00000165832	Brain	Human	1	In-house 
+ENSG00000165868	Brain	Human	1	In-house 
+ENSG00000165959	Brain	Human	1	In-house 
+ENSG00000165985	Brain	Human	1	In-house 
+ENSG00000166128	Brain	Human	1	In-house 
+ENSG00000166261	Brain	Human	1	In-house 
+ENSG00000166348	Brain	Human	1	In-house 
+ENSG00000166546	Brain	Human	1	In-house 
+ENSG00000166558	Brain	Human	1	In-house 
+ENSG00000166603	Brain	Human	1	In-house 
+ENSG00000167604	Brain	Human	1	In-house 
+ENSG00000167635	Brain	Human	1	In-house 
+ENSG00000167680	Brain	Human	1	In-house 
+ENSG00000167766	Brain	Human	1	In-house 
+ENSG00000167770	Brain	Human	1	In-house 
+ENSG00000167971	Brain	Human	1	In-house 
+ENSG00000168243	Brain	Human	1	In-house 
+ENSG00000168614	Brain	Human	1	In-house 
+ENSG00000168779	Brain	Human	1	In-house 
+ENSG00000168884	Brain	Human	1	In-house 
+ENSG00000168906	Brain	Human	1	In-house 
+ENSG00000168952	Brain	Human	1	In-house 
+ENSG00000169093	Brain	Human	1	In-house 
+ENSG00000169239	Brain	Human	1	In-house 
+ENSG00000169242	Brain	Human	1	In-house 
+ENSG00000169249	Brain	Human	1	In-house 
+ENSG00000169253	Brain	Human	1	In-house 
+ENSG00000169598	Brain	Human	1	In-house 
+ENSG00000169599	Brain	Human	1	In-house 
+ENSG00000169692	Brain	Human	1	In-house 
+ENSG00000169919	Brain	Human	1	In-house 
+ENSG00000170049	Brain	Human	1	In-house 
+ENSG00000170242	Brain	Human	1	In-house 
+ENSG00000170439	Brain	Human	1	In-house 
+ENSG00000170498	Brain	Human	1	In-house 
+ENSG00000170549	Brain	Human	1	In-house 
+ENSG00000170571	Brain	Human	1	In-house 
+ENSG00000170581	Brain	Human	1	In-house 
+ENSG00000170743	Brain	Human	1	In-house 
+ENSG00000171163	Brain	Human	1	In-house 
+ENSG00000171206	Brain	Human	1	In-house 
+ENSG00000171224	Brain	Human	1	In-house 
+ENSG00000171314	Brain	Human	1	In-house 
+ENSG00000171560	Brain	Human	1	In-house 
+ENSG00000171564	Brain	Human	1	In-house 
+ENSG00000171763	Brain	Human	1	In-house 
+ENSG00000171813	Brain	Human	1	In-house 
+ENSG00000171858	Brain	Human	1	In-house 
+ENSG00000172361	Brain	Human	1	In-house 
+ENSG00000172466	Brain	Human	1	In-house 
+ENSG00000172717	Brain	Human	1	In-house 
+ENSG00000172782	Brain	Human	1	In-house 
+ENSG00000172809	Brain	Human	1	In-house 
+ENSG00000172890	Brain	Human	1	In-house 
+ENSG00000173039	Brain	Human	1	In-house 
+ENSG00000173209	Brain	Human	1	In-house 
+ENSG00000173267	Brain	Human	1	In-house 
+ENSG00000173480	Brain	Human	1	In-house 
+ENSG00000174145	Brain	Human	1	In-house 
+ENSG00000174227	Brain	Human	1	In-house 
+ENSG00000174473	Brain	Human	1	In-house 
+ENSG00000174684	Brain	Human	1	In-house 
+ENSG00000174891	Brain	Human	1	In-house 
+ENSG00000174951	Brain	Human	1	In-house 
+ENSG00000175318	Brain	Human	1	In-house 
+ENSG00000175582	Brain	Human	1	In-house 
+ENSG00000175727	Brain	Human	1	In-house 
+ENSG00000175906	Brain	Human	1	In-house 
+ENSG00000176124	Brain	Human	1	In-house 
+ENSG00000176165	Brain	Human	1	In-house 
+ENSG00000176274	Brain	Human	1	In-house 
+ENSG00000176387	Brain	Human	1	In-house 
+ENSG00000176842	Brain	Human	1	In-house 
+ENSG00000176998	Brain	Human	1	In-house 
+ENSG00000177103	Brain	Human	1	In-house 
+ENSG00000177105	Brain	Human	1	In-house 
+ENSG00000177350	Brain	Human	1	In-house 
+ENSG00000177432	Brain	Human	1	In-house 
+ENSG00000177508	Brain	Human	1	In-house 
+ENSG00000177855	Brain	Human	1	In-house 
+ENSG00000177954	Brain	Human	1	In-house 
+ENSG00000178035	Brain	Human	1	In-house 
+ENSG00000178229	Brain	Human	1	In-house 
+ENSG00000178715	Brain	Human	1	In-house 
+ENSG00000178904	Brain	Human	1	In-house 
+ENSG00000178997	Brain	Human	1	In-house 
+ENSG00000179131	Brain	Human	1	In-house 
+ENSG00000179168	Brain	Human	1	In-house 
+ENSG00000179172	Brain	Human	1	In-house 
+ENSG00000180071	Brain	Human	1	In-house 
+ENSG00000180211	Brain	Human	1	In-house 
+ENSG00000180574	Brain	Human	1	In-house 
+ENSG00000180730	Brain	Human	1	In-house 
+ENSG00000180777	Brain	Human	1	In-house 
+ENSG00000181031	Brain	Human	1	In-house 
+ENSG00000181472	Brain	Human	1	In-house 
+ENSG00000181524	Brain	Human	1	In-house 
+ENSG00000181541	Brain	Human	1	In-house 
+ENSG00000182173	Brain	Human	1	In-house 
+ENSG00000182247	Brain	Human	1	In-house 
+ENSG00000182287	Brain	Human	1	In-house 
+ENSG00000182372	Brain	Human	1	In-house 
+ENSG00000182698	Brain	Human	1	In-house 
+ENSG00000183090	Brain	Human	1	In-house 
+ENSG00000183186	Brain	Human	1	In-house 
+ENSG00000183346	Brain	Human	1	In-house 
+ENSG00000183405	Brain	Human	1	In-house 
+ENSG00000183586	Brain	Human	1	In-house 
+ENSG00000184304	Brain	Human	1	In-house 
+ENSG00000184388	Brain	Human	1	In-house 
+ENSG00000184408	Brain	Human	1	In-house 
+ENSG00000185305	Brain	Human	1	In-house 
+ENSG00000185442	Brain	Human	1	In-house 
+ENSG00000185515	Brain	Human	1	In-house 
+ENSG00000185664	Brain	Human	1	In-house 
+ENSG00000185955	Brain	Human	1	In-house 
+ENSG00000186001	Brain	Human	1	In-house 
+ENSG00000186188	Brain	Human	1	In-house 
+ENSG00000186275	Brain	Human	1	In-house 
+ENSG00000186493	Brain	Human	1	In-house 
+ENSG00000186654	Brain	Human	1	In-house 
+ENSG00000186812	Brain	Human	1	In-house 
+ENSG00000186960	Brain	Human	1	In-house 
+ENSG00000187094	Brain	Human	1	In-house 
+ENSG00000187244	Brain	Human	1	In-house 
+ENSG00000187695	Brain	Human	1	In-house 
+ENSG00000187699	Brain	Human	1	In-house 
+ENSG00000187764	Brain	Human	1	In-house 
+ENSG00000188488	Brain	Human	1	In-house 
+ENSG00000188873	Brain	Human	1	In-house 
+ENSG00000189157	Brain	Human	1	In-house 
+ENSG00000189190	Brain	Human	1	In-house 
+ENSG00000196092	Brain	Human	1	In-house 
+ENSG00000196205	Brain	Human	1	In-house 
+ENSG00000196214	Brain	Human	1	In-house 
+ENSG00000196754	Brain	Human	1	In-house 
+ENSG00000196821	Brain	Human	1	In-house 
+ENSG00000196890	Brain	Human	1	In-house 
+ENSG00000196933	Brain	Human	1	In-house 
+ENSG00000197006	Brain	Human	1	In-house 
+ENSG00000197217	Brain	Human	1	In-house 
+ENSG00000197322	Brain	Human	1	In-house 
+ENSG00000197375	Brain	Human	1	In-house 
+ENSG00000197406	Brain	Human	1	In-house 
+ENSG00000197457	Brain	Human	1	In-house 
+ENSG00000197584	Brain	Human	1	In-house 
+ENSG00000197608	Brain	Human	1	In-house 
+ENSG00000197635	Brain	Human	1	In-house 
+ENSG00000197701	Brain	Human	1	In-house 
+ENSG00000197769	Brain	Human	1	In-house 
+ENSG00000197948	Brain	Human	1	In-house 
+ENSG00000198099	Brain	Human	1	In-house 
+ENSG00000198373	Brain	Human	1	In-house 
+ENSG00000198478	Brain	Human	1	In-house 
+ENSG00000198625	Brain	Human	1	In-house 
+ENSG00000198673	Brain	Human	1	In-house 
+ENSG00000198799	Brain	Human	1	In-house 
+ENSG00000198887	Brain	Human	1	In-house 
+ENSG00000198890	Brain	Human	1	In-house 
+ENSG00000204084	Brain	Human	1	In-house 
+ENSG00000204219	Brain	Human	1	In-house 
+ENSG00000204252	Brain	Human	1	In-house 
+ENSG00000204377	Brain	Human	1	In-house 
+ENSG00000204632	Brain	Human	1	In-house 
+ENSG00000205363	Brain	Human	1	In-house 
+ENSG00000205476	Brain	Human	1	In-house 
+ENSG00000205579	Brain	Human	1	In-house 
+ENSG00000205835	Brain	Human	1	In-house 
+ENSG00000205922	Brain	Human	1	In-house 
+ENSG00000206432	Brain	Human	1	In-house 
+ENSG00000206532	Brain	Human	1	In-house 
+ENSG00000206535	Brain	Human	1	In-house 
+ENSG00000212664	Brain	Human	1	In-house 
+ENSG00000213174	Brain	Human	1	In-house 
+ENSG00000213212	Brain	Human	1	In-house 
+ENSG00000213269	Brain	Human	1	In-house 
+ENSG00000213307	Brain	Human	1	In-house 
+ENSG00000213326	Brain	Human	1	In-house 
+ENSG00000213361	Brain	Human	1	In-house 
+ENSG00000213383	Brain	Human	1	In-house 
+ENSG00000213399	Brain	Human	1	In-house 
+ENSG00000213442	Brain	Human	1	In-house 
+ENSG00000213448	Brain	Human	1	In-house 
+ENSG00000213613	Brain	Human	1	In-house 
+ENSG00000213621	Brain	Human	1	In-house 
+ENSG00000213741	Brain	Human	1	In-house 
+ENSG00000213862	Brain	Human	1	In-house 
+ENSG00000213867	Brain	Human	1	In-house 
+ENSG00000213885	Brain	Human	1	In-house 
+ENSG00000213935	Brain	Human	1	In-house 
+ENSG00000213939	Brain	Human	1	In-house 
+ENSG00000214016	Brain	Human	1	In-house 
+ENSG00000214018	Brain	Human	1	In-house 
+ENSG00000214019	Brain	Human	1	In-house 
+ENSG00000214121	Brain	Human	1	In-house 
+ENSG00000214203	Brain	Human	1	In-house 
+ENSG00000214298	Brain	Human	1	In-house 
+ENSG00000214535	Brain	Human	1	In-house 
+ENSG00000214593	Brain	Human	1	In-house 
+ENSG00000214784	Brain	Human	1	In-house 
+ENSG00000215006	Brain	Human	1	In-house 
+ENSG00000215016	Brain	Human	1	In-house 
+ENSG00000215086	Brain	Human	1	In-house 
+ENSG00000215221	Brain	Human	1	In-house 
+ENSG00000215414	Brain	Human	1	In-house 
+ENSG00000215467	Brain	Human	1	In-house 
+ENSG00000215835	Brain	Human	1	In-house 
+ENSG00000216412	Brain	Human	1	In-house 
+ENSG00000216439	Brain	Human	1	In-house 
+ENSG00000216657	Brain	Human	1	In-house 
+ENSG00000217239	Brain	Human	1	In-house 
+ENSG00000217416	Brain	Human	1	In-house 
+ENSG00000217716	Brain	Human	1	In-house 
+ENSG00000218175	Brain	Human	1	In-house 
+ENSG00000218227	Brain	Human	1	In-house 
+ENSG00000218537	Brain	Human	1	In-house 
+ENSG00000218748	Brain	Human	1	In-house 
+ENSG00000218823	Brain	Human	1	In-house 
+ENSG00000219023	Brain	Human	1	In-house 
+ENSG00000219438	Brain	Human	1	In-house 
+ENSG00000219481	Brain	Human	1	In-house 
+ENSG00000219747	Brain	Human	1	In-house 
+ENSG00000219986	Brain	Human	1	In-house 
+ENSG00000220472	Brain	Human	1	In-house 
+ENSG00000220749	Brain	Human	1	In-house 
+ENSG00000223540	Brain	Human	1	In-house 
+ENSG00000223877	Brain	Human	1	In-house 
+ENSG00000223984	Brain	Human	1	In-house 
+ENSG00000224097	Brain	Human	1	In-house 
+ENSG00000224114	Brain	Human	1	In-house 
+ENSG00000224415	Brain	Human	1	In-house 
+ENSG00000224792	Brain	Human	1	In-house 
+ENSG00000224837	Brain	Human	1	In-house 
+ENSG00000224856	Brain	Human	1	In-house 
+ENSG00000224911	Brain	Human	1	In-house 
+ENSG00000224975	Brain	Human	1	In-house 
+ENSG00000225022	Brain	Human	1	In-house 
+ENSG00000225032	Brain	Human	1	In-house 
+ENSG00000225259	Brain	Human	1	In-house 
+ENSG00000225487	Brain	Human	1	In-house 
+ENSG00000225496	Brain	Human	1	In-house 
+ENSG00000225616	Brain	Human	1	In-house 
+ENSG00000225715	Brain	Human	1	In-house 
+ENSG00000225770	Brain	Human	1	In-house 
+ENSG00000225774	Brain	Human	1	In-house 
+ENSG00000225880	Brain	Human	1	In-house 
+ENSG00000225912	Brain	Human	1	In-house 
+ENSG00000226098	Brain	Human	1	In-house 
+ENSG00000226138	Brain	Human	1	In-house 
+ENSG00000226243	Brain	Human	1	In-house 
+ENSG00000226396	Brain	Human	1	In-house 
+ENSG00000226439	Brain	Human	1	In-house 
+ENSG00000226525	Brain	Human	1	In-house 
+ENSG00000226781	Brain	Human	1	In-house 
+ENSG00000226979	Brain	Human	1	In-house 
+ENSG00000227034	Brain	Human	1	In-house 
+ENSG00000227081	Brain	Human	1	In-house 
+ENSG00000227205	Brain	Human	1	In-house 
+ENSG00000227207	Brain	Human	1	In-house 
+ENSG00000227256	Brain	Human	1	In-house 
+ENSG00000227376	Brain	Human	1	In-house 
+ENSG00000227437	Brain	Human	1	In-house 
+ENSG00000227525	Brain	Human	1	In-house 
+ENSG00000227615	Brain	Human	1	In-house 
+ENSG00000227694	Brain	Human	1	In-house 
+ENSG00000227799	Brain	Human	1	In-house 
+ENSG00000227890	Brain	Human	1	In-house 
+ENSG00000227973	Brain	Human	1	In-house 
+ENSG00000228002	Brain	Human	1	In-house 
+ENSG00000228007	Brain	Human	1	In-house 
+ENSG00000228071	Brain	Human	1	In-house 
+ENSG00000228158	Brain	Human	1	In-house 
+ENSG00000228205	Brain	Human	1	In-house 
+ENSG00000228399	Brain	Human	1	In-house 
+ENSG00000228589	Brain	Human	1	In-house 
+ENSG00000228929	Brain	Human	1	In-house 
+ENSG00000229117	Brain	Human	1	In-house 
+ENSG00000229132	Brain	Human	1	In-house 
+ENSG00000229204	Brain	Human	1	In-house 
+ENSG00000229399	Brain	Human	1	In-house 
+ENSG00000229994	Brain	Human	1	In-house 
+ENSG00000230202	Brain	Human	1	In-house 
+ENSG00000230311	Brain	Human	1	In-house 
+ENSG00000230415	Brain	Human	1	In-house 
+ENSG00000230580	Brain	Human	1	In-house 
+ENSG00000230673	Brain	Human	1	In-house 
+ENSG00000230777	Brain	Human	1	In-house 
+ENSG00000230837	Brain	Human	1	In-house 
+ENSG00000230897	Brain	Human	1	In-house 
+ENSG00000230992	Brain	Human	1	In-house 
+ENSG00000231259	Brain	Human	1	In-house 
+ENSG00000231302	Brain	Human	1	In-house 
+ENSG00000231369	Brain	Human	1	In-house 
+ENSG00000231416	Brain	Human	1	In-house 
+ENSG00000231500	Brain	Human	1	In-house 
+ENSG00000231587	Brain	Human	1	In-house 
+ENSG00000231684	Brain	Human	1	In-house 
+ENSG00000231841	Brain	Human	1	In-house 
+ENSG00000231991	Brain	Human	1	In-house 
+ENSG00000232018	Brain	Human	1	In-house 
+ENSG00000232172	Brain	Human	1	In-house 
+ENSG00000232341	Brain	Human	1	In-house 
+ENSG00000232346	Brain	Human	1	In-house 
+ENSG00000232368	Brain	Human	1	In-house 
+ENSG00000232434	Brain	Human	1	In-house 
+ENSG00000232472	Brain	Human	1	In-house 
+ENSG00000232482	Brain	Human	1	In-house 
+ENSG00000232710	Brain	Human	1	In-house 
+ENSG00000232864	Brain	Human	1	In-house 
+ENSG00000232888	Brain	Human	1	In-house 
+ENSG00000232917	Brain	Human	1	In-house 
+ENSG00000233158	Brain	Human	1	In-house 
+ENSG00000233190	Brain	Human	1	In-house 
+ENSG00000233270	Brain	Human	1	In-house 
+ENSG00000233459	Brain	Human	1	In-house 
+ENSG00000233558	Brain	Human	1	In-house 
+ENSG00000234009	Brain	Human	1	In-house 
+ENSG00000234106	Brain	Human	1	In-house 
+ENSG00000234160	Brain	Human	1	In-house 
+ENSG00000234518	Brain	Human	1	In-house 
+ENSG00000234797	Brain	Human	1	In-house 
+ENSG00000234851	Brain	Human	1	In-house 
+ENSG00000235001	Brain	Human	1	In-house 
+ENSG00000235285	Brain	Human	1	In-house 
+ENSG00000235332	Brain	Human	1	In-house 
+ENSG00000235354	Brain	Human	1	In-house 
+ENSG00000235552	Brain	Human	1	In-house 
+ENSG00000235554	Brain	Human	1	In-house 
+ENSG00000235605	Brain	Human	1	In-house 
+ENSG00000235776	Brain	Human	1	In-house 
+ENSG00000236035	Brain	Human	1	In-house 
+ENSG00000236116	Brain	Human	1	In-house 
+ENSG00000236279	Brain	Human	1	In-house 
+ENSG00000236312	Brain	Human	1	In-house 
+ENSG00000236330	Brain	Human	1	In-house 
+ENSG00000236565	Brain	Human	1	In-house 
+ENSG00000236723	Brain	Human	1	In-house 
+ENSG00000236735	Brain	Human	1	In-house 
+ENSG00000236768	Brain	Human	1	In-house 
+ENSG00000236905	Brain	Human	1	In-house 
+ENSG00000237683	Brain	Human	1	In-house 
+ENSG00000237749	Brain	Human	1	In-house 
+ENSG00000237991	Brain	Human	1	In-house 
+ENSG00000238082	Brain	Human	1	In-house 
+ENSG00000238103	Brain	Human	1	In-house 
+ENSG00000239198	Brain	Human	1	In-house 
+ENSG00000239246	Brain	Human	1	In-house 
+ENSG00000239528	Brain	Human	1	In-house 
+ENSG00000239559	Brain	Human	1	In-house 
+ENSG00000239653	Brain	Human	1	In-house 
+ENSG00000239719	Brain	Human	1	In-house 
+ENSG00000239809	Brain	Human	1	In-house 
+ENSG00000239872	Brain	Human	1	In-house 
+ENSG00000240065	Brain	Human	1	In-house 
+ENSG00000240087	Brain	Human	1	In-house 
+ENSG00000240231	Brain	Human	1	In-house 
+ENSG00000240371	Brain	Human	1	In-house 
+ENSG00000240376	Brain	Human	1	In-house 
+ENSG00000240759	Brain	Human	1	In-house 
+ENSG00000240808	Brain	Human	1	In-house 
+ENSG00000241282	Brain	Human	1	In-house 
+ENSG00000241352	Brain	Human	1	In-house 
+ENSG00000241458	Brain	Human	1	In-house 
+ENSG00000241556	Brain	Human	1	In-house 
+ENSG00000241680	Brain	Human	1	In-house 
+ENSG00000241741	Brain	Human	1	In-house 
+ENSG00000241746	Brain	Human	1	In-house 
+ENSG00000242083	Brain	Human	1	In-house 
+ENSG00000242137	Brain	Human	1	In-house 
+ENSG00000242208	Brain	Human	1	In-house 
+ENSG00000242242	Brain	Human	1	In-house 
+ENSG00000242299	Brain	Human	1	In-house 
+ENSG00000242358	Brain	Human	1	In-house 
+ENSG00000242445	Brain	Human	1	In-house 
+ENSG00000242477	Brain	Human	1	In-house 
+ENSG00000242634	Brain	Human	1	In-house 
+ENSG00000242748	Brain	Human	1	In-house 
+ENSG00000243404	Brain	Human	1	In-house 
+ENSG00000243498	Brain	Human	1	In-house 
+ENSG00000243504	Brain	Human	1	In-house 
+ENSG00000243663	Brain	Human	1	In-house 
+ENSG00000243708	Brain	Human	1	In-house 
+ENSG00000243725	Brain	Human	1	In-house 
+ENSG00000243859	Brain	Human	1	In-house 
+ENSG00000243964	Brain	Human	1	In-house 
+ENSG00000244055	Brain	Human	1	In-house 
+ENSG00000244073	Brain	Human	1	In-house 
+ENSG00000244097	Brain	Human	1	In-house 
+ENSG00000244165	Brain	Human	1	In-house 
+ENSG00000244192	Brain	Human	1	In-house 
+ENSG00000244363	Brain	Human	1	In-house 
+ENSG00000244398	Brain	Human	1	In-house 
+ENSG00000244538	Brain	Human	1	In-house 
+ENSG00000244560	Brain	Human	1	In-house 
+ENSG00000248015	Brain	Human	1	In-house 
+ENSG00000249109	Brain	Human	1	In-house 
+ENSG00000249222	Brain	Human	1	In-house 
+ENSG00000249353	Brain	Human	1	In-house 
+ENSG00000249921	Brain	Human	1	In-house 
+ENSG00000250588	Brain	Human	1	In-house 
+ENSG00000250982	Brain	Human	1	In-house 
+ENSG00000251400	Brain	Human	1	In-house 
+ENSG00000253173	Brain	Human	1	In-house 
+ENSG00000253320	Brain	Human	1	In-house 
+ENSG00000253570	Brain	Human	1	In-house 
+ENSG00000253641	Brain	Human	1	In-house 
+ENSG00000254614	Brain	Human	1	In-house 
+ENSG00000254935	Brain	Human	1	In-house 
+ENSG00000255098	Brain	Human	1	In-house 
+ENSG00000255397	Brain	Human	1	In-house 
+ENSG00000255581	Brain	Human	1	In-house 
+ENSG00000256338	Brain	Human	1	In-house 
+ENSG00000256356	Brain	Human	1	In-house 
+ENSG00000256885	Brain	Human	1	In-house 
+ENSG00000256968	Brain	Human	1	In-house 
+ENSG00000257017	Brain	Human	1	In-house 
+ENSG00000257074	Brain	Human	1	In-house 
+ENSG00000257195	Brain	Human	1	In-house 
+ENSG00000258373	Brain	Human	1	In-house 
+ENSG00000258484	Brain	Human	1	In-house 
+ENSG00000258501	Brain	Human	1	In-house 
+ENSG00000258613	Brain	Human	1	In-house 
+ENSG00000258708	Brain	Human	1	In-house 
+ENSG00000258890	Brain	Human	1	In-house 
+ENSG00000258981	Brain	Human	1	In-house 
+ENSG00000259051	Brain	Human	1	In-house 
+ENSG00000259079	Brain	Human	1	In-house 
+ENSG00000259275	Brain	Human	1	In-house 
+ENSG00000259516	Brain	Human	1	In-house 
+ENSG00000259706	Brain	Human	1	In-house 
+ENSG00000259746	Brain	Human	1	In-house 
+ENSG00000259869	Brain	Human	1	In-house 
+ENSG00000260326	Brain	Human	1	In-house 
+ENSG00000260509	Brain	Human	1	In-house 
+ENSG00000260917	Brain	Human	1	In-house 
+ENSG00000261037	Brain	Human	1	In-house 
+ENSG00000261278	Brain	Human	1	In-house 
+ENSG00000261373	Brain	Human	1	In-house 
+ENSG00000261395	Brain	Human	1	In-house 
+ENSG00000261556	Brain	Human	1	In-house 
+ENSG00000261572	Brain	Human	1	In-house 
+ENSG00000261701	Brain	Human	1	In-house 
+ENSG00000261788	Brain	Human	1	In-house 
+ENSG00000261884	Brain	Human	1	In-house 
+ENSG00000261889	Brain	Human	1	In-house 
+ENSG00000264350	Brain	Human	1	In-house 
+ENSG00000265242	Brain	Human	1	In-house 
+ENSG00000265681	Brain	Human	1	In-house 
+ENSG00000266563	Brain	Human	1	In-house 
+ENSG00000266714	Brain	Human	1	In-house 
+ENSG00000266777	Brain	Human	1	In-house 
+ENSG00000267519	Brain	Human	1	In-house 
+ENSG00000268279	Brain	Human	1	In-house 
+ENSG00000269378	Brain	Human	1	In-house 
+ENSG00000269576	Brain	Human	1	In-house 
+ENSG00000270067	Brain	Human	1	In-house 
+ENSG00000270163	Brain	Human	1	In-house 
+ENSG00000270953	Brain	Human	1	In-house 
+ENSG00000271417	Brain	Human	1	In-house 
+ENSG00000271738	Brain	Human	1	In-house 
+ENSG00000271975	Brain	Human	1	In-house 
+ENSG00000272072	Brain	Human	1	In-house 
+ENSG00000272079	Brain	Human	1	In-house 
+ENSG00000272121	Brain	Human	1	In-house 
+ENSG00000272342	Brain	Human	1	In-house 
+ENSG00000272501	Brain	Human	1	In-house 
+ENSG00000273141	Brain	Human	1	In-house 
+ENSG00000273237	Brain	Human	1	In-house 
+ENSG00000273477	Brain	Human	1	In-house 
